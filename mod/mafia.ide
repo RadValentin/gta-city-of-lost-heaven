@@ -1,0 +1,87 @@
+objs
+5000, gmaf_bit01, gmaf_land, 1, 200, 1
+5001, gmaf_bit02, gmaf_land, 1, 200, 1
+5002, gmaf_bit03, gmaf_land, 1, 200, 1
+5003, gmaf_bit04, gmaf_land, 1, 200, 1
+5004, gmaf_bit11, gmaf_land, 1, 200, 1
+5005, gmaf_bit12, gmaf_land, 1, 200, 1
+5006, gmaf_bit13, gmaf_land, 1, 200, 1
+5007, gmaf_bit14, gmaf_land, 1, 200, 1
+5008, gmaf_bit21, gmaf_land, 1, 200, 1
+5009, gmaf_bit22, gmaf_land, 1, 200, 1
+5010, gmaf_bit23, gmaf_land, 1, 200, 1
+5011, gmaf_bit24, gmaf_land, 1, 200, 1
+5012, gmaf_bit31, gmaf_land, 1, 200, 1
+5013, gmaf_bit32, gmaf_land, 1, 200, 1
+5014, gmaf_bit33, gmaf_land, 1, 200, 1
+5015, gmaf_bit34, gmaf_land, 1, 200, 1
+5016, gmaf_bit41, gmaf_land, 1, 200, 1
+5017, gmaf_bit42, gmaf_land, 1, 200, 1
+5018, gmaf_bit43, gmaf_land, 1, 200, 1
+5019, gmaf_bit44, gmaf_land, 1, 200, 1
+5020, gmaf_bit51, gmaf_land, 1, 200, 1
+5021, gmaf_bit52, gmaf_land, 1, 200, 1
+5022, gmaf_bit53, gmaf_land, 1, 200, 1
+5023, gmaf_bit54, gmaf_land, 1, 200, 1
+5024, gmaf_bit61, gmaf_land, 1, 200, 1
+5025, gmaf_bit62, gmaf_land, 1, 200, 1
+5026, gmaf_bit63, gmaf_land, 1, 200, 1
+5027, gmaf_bit64, gmaf_land, 1, 200, 1
+5028, gmaf_bit71, gmaf_land, 1, 200, 1
+5029, gmaf_bit72, gmaf_land, 1, 200, 1
+5030, gmaf_bit73, gmaf_land, 1, 200, 1
+5031, gmaf_bit74, gmaf_land, 1, 200, 1
+
+5032, gmaf_telefon, gmaf_stuff, 1, 200, 132
+5050, gmaf_most, gmaf_most, 1, 150, 0
+
+5060, gmaf_build3, gmaf_builds, 1, 299, 0
+5061, gmaf_build4, gmaf_builds, 1, 299, 0
+5062, gmaf_build5, gmaf_builds, 1, 299, 0
+5063, gmaf_build6, gmaf_builds, 1, 299, 0
+
+5250, LODf_most, gmaf_most, 1, 400, 0
+5200, LODf_bit01, gmaf_landlod, 1, 1200, 0
+5201, LODf_bit02, gmaf_landlod, 1, 1200, 0
+5202, LODf_bit03, gmaf_landlod, 1, 1200, 0
+5203, LODf_bit04, gmaf_landlod, 1, 1200, 0
+5204, LODf_bit11, gmaf_landlod, 1, 1200, 0
+5205, LODf_bit12, gmaf_landlod, 1, 1200, 0
+5206, LODf_bit13, gmaf_landlod, 1, 1200, 0
+5207, LODf_bit14, gmaf_landlod, 1, 1200, 0
+5208, LODf_bit21, gmaf_landlod, 1, 1200, 0
+5209, LODf_bit22, gmaf_landlod, 1, 1200, 0
+5210, LODf_bit23, gmaf_landlod, 1, 1200, 0
+5211, LODf_bit24, gmaf_landlod, 1, 1200, 0
+5212, LODf_bit31, gmaf_landlod, 1, 1200, 0
+5213, LODf_bit32, gmaf_landlod, 1, 1200, 0
+5214, LODf_bit33, gmaf_landlod, 1, 1200, 0
+5215, LODf_bit34, gmaf_landlod, 1, 1200, 0
+5216, LODf_bit41, gmaf_landlod, 1, 1200, 0
+5217, LODf_bit42, gmaf_landlod, 1, 1200, 0
+5218, LODf_bit43, gmaf_landlod, 1, 1200, 0
+5219, LODf_bit44, gmaf_landlod, 1, 1200, 0
+5220, LODf_bit51, gmaf_landlod, 1, 1200, 0
+5221, LODf_bit52, gmaf_landlod, 1, 1200, 0
+5222, LODf_bit53, gmaf_landlod, 1, 1200, 0
+5223, LODf_bit54, gmaf_landlod, 1, 1200, 0
+5224, LODf_bit61, gmaf_landlod, 1, 1200, 0
+5225, LODf_bit62, gmaf_landlod, 1, 1200, 0
+5226, LODf_bit63, gmaf_landlod, 1, 1200, 0
+5227, LODf_bit64, gmaf_landlod, 1, 1200, 0
+5228, LODf_bit71, gmaf_landlod, 1, 1200, 0
+5229, LODf_bit72, gmaf_landlod, 1, 1200, 0
+5230, LODf_bit73, gmaf_landlod, 1, 1200, 0
+5231, LODf_bit74, gmaf_landlod, 1, 1200, 0
+
+5260, LODf_build3, gmaf_builod, 1, 850, 0
+5261, LODf_build4, gmaf_builod, 1, 850, 0
+5262, LODf_build5, gmaf_builod, 1, 850, 0
+5263, LODf_build6, gmaf_builod, 1, 850, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
