@@ -1,0 +1,56 @@
+BJM2_1	~g~g  amyh «  gayhtayhe  oop c om keccg.
+BJM2_11	~r~ mept!
+BJM2_12	~r~ogh ª ctpeko mept!
+BJM2_14	~g~gac¬  cegy«§y« oact¨!
+BJM2_15	c¥et:
+BJM2_17	~g~g  oop c om.
+BJM2_18	c¥et:
+BJM2_19	~g~opaª kak moho o¨¦e  ee ªa ªto pem¬!
+BJM2_2	~g~g¬ ©xoga ª payhga m ~h~~k~~PED_JUMPING~ ~g~.
+BJM2_20	~g~koga t© yeae¦¨ ~w~pemeh ~g~ ~w~amyh « ~g~payhg koe¥tc¬!
+BJM2_22	~r~© octa paccto¬he ctpe¨©!
+BJM2_23	~g~ec © tep¬ete paccto¬he ctpe¨© o pem¬ ypaheh¬, © poate mcc«.
+BJM2_24	~g~a¦a¬  e¨ ctot ogho o¥ko.
+BJM2_25	~g~cpegh¬¬  e¨ - 2 o¥ka.
+BJM2_26	~g~ga¨h¬¬  e¨ - 3 o¥ka.
+BJM2_27	~g~ce  e  ªtom payhge - 1 o¥ko.
+BJM2_28	c¥et payhga tp: ~1~
+BJM2_2A	©  keccg?
+BJM2_2B	kak?
+BJM2_2C	mhe hyeh myk, cocoh© gepat¨ py¨e. ot ªtoo, ¬ he yegeh.
+BJM2_2D	coh, ¬ xo¥y ykoht¨c¬ ha 80 yto.
+BJM2_2E	cep¨eªho?
+BJM2_2F	ga. ¬ y¥  apm.
+BJM2_2G	ctpe¨a c©coka oy¬pha  apm? pag, ¥to he a¥y takcy.
+BJM2_2H	t© ©tae¦¨c¬ ©t¨ cme¦h©m?
+BJM2_2I	xa-xa-xa-xa-xa!
+BJM2_2J	ctpe¬.
+BJM2_3	opaehe: ~1~%
+BJM2_4	c¥et payhg 1: ~1~
+BJM2_6	c¥et payhg 2: ~1~
+BJM2_7	o§ c¥et ctpe¨©: ~1~
+BJM2_9	~g~oy¥te ga ctapto©x o¥ka.
+BJM2_A	ham hyeh ©ga«§c¬ myk. ªhae¦¨ eo?
+BJM2_B	xª, tomm, tomm, tomm,ªta tkah¨ gept te¬ kpeko.
+BJM2_C	ayyyyyyyy!
+BJM2_D	¬ mo © ©t¨ ©ga«§mc¬ mykom! opat¨ x!
+BJM2_E	t© he pate¨, t© got.
+BJM2_F	teep¨ oe  ªatkhc¨.
+BJM2_G	ª, otog! ga ga ga - o-o-o!
+BJM2_H	kªm, ¥to t© gymae¦¨?
+BJM2_I	y¥¦eo ctpeka  opoge ªoyt keccg.
+BJM2_J	ªto tak?
+BJM2_K	ga, ehh©,  gymaet tak.
+BJM2_L	¬ comhea«c¨, ¥to oh ©  apm, oh ªhaet, kak gepat¨ py¨e.
+BJM2_M	oh moet ogctpet¨ ªgaeka.
+BJM2_N	otg©x
+BNK2_1	amyh ¬
+BNK2_2	c¥et 3-2-1 ooh¨!
+BNK2_3	ycto!
+BNK2_4	yyyyx!
+BNK2_5	he moy opaªt¨ gep¨ amapa!
+BNK2_7	 t© xo¥e¦¨ yogt¨ mhe,  omo¥¨ mhe ot mecte ha paoty?
+BNK2_8	c©hok, oce tako ctpe¨© ¬ oto ©t ªa te¬ ªamy.
+BNK2_9A	c©hok, t© y¥¦e cp¬¥¨ co hacme¦k  ymh©e m©c  oka, ¥to ymee¦¨. t© e h o ¥to he oagae¦¨!
+BNK2_9B	t© h o ¥to he oagae¦¨.
+RANGE_1	c¥et ctpe¨©: ~1~

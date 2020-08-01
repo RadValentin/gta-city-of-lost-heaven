@@ -1,0 +1,46 @@
+POR3_01	~g~cegyte ªa ~h~ kehg ~g~.
+POR3_02	~r~© y kohpeccmeha! teep¨ eo heoªmoho ¦ahtapoat¨.
+POR3_03	~r~© oecoko oxpahy kohpeccmeha, oha eo hemegehho ªapaet.
+POR3_04	kehg, t© he moa © haª©at¨ meh¬ mapto?
+POR3_05	aekc - to ect¨, mapta. kak ckae¦¨...
+POR3_06	mapta, kto-to ha«gaet.. ctpahho.
+POR3_07	t©! ga mhe kamepy!
+POR3_08	pmte ka¦y~h~ ~k~~PED_LOCK_TARGET~ ~w~¥to© ~h~p et¨c¬~w~ kamepo.
+POR3_09	pmte ka¦y~h~ ~k~~PED_LOCK_TARGET~ ~w~¥to© ~h~p et¨c¬ ~w~kamepo.
+POR3_10	ham ha~h~ ~k~~PED_SNIPER_ZOOM_IN~ ~w~¥to© ~h~pªt¨ ~w~kamepy  ~h~ ~k~~PED_SNIPER_ZOOM_OUT~ ~w~¥to© ~h~otgat¨ ~w~ee.
+POR3_11	ham ha~h~ ~k~~PED_SNIPER_ZOOM_IN~ ~w~¥to© ~h~pªt¨ ~w~kamepy  ~h~ ~k~~PED_SNIPER_ZOOM_OUT~ ~w~¥to© ~h~otgat¨ ~w~ee.
+POR3_12	ham ha~h~ ~k~~PED_FIREWEAPON~ ~w~¥to© cgeat¨ chmok.
+POR3_13	ham ha~h~ ~k~~PED_FIREWEAPON~ ~w~¥to© cgeat¨ chmok.
+POR3_14	ham ha~h~ ~k~~PED_FIREWEAPON~ ~w~¥to© cgeat¨ chmok.
+POR3_15	~r~© he ªach¬ poyky c kehg!
+POR3_16	~g~am hyh© tp xopo¦e ophopa¥ecke otopa aekca ¦paa c kehg.
+POR3_17	~g~ephtec¨ ha opho ctyg« c ehko.
+POR3_19	~r~koh¥ac¨ ehka!
+POR3_20	~g~ec hyeh tpahcopt, o¨ªytec¨ ~h~opo¨em~g~.
+POR3_21	~g~© poyct kehg!
+POR3_22	~g~ote¨ koech a c ªtoo mecta geh, kak ha agoh.
+POR3_23	~g~ªgec¨ ect¨ okoa¬ gep¨, ¥to© xogt¨  ote¨.
+POR3_24	ch¬to:
+POR3_A	hy,   ¥em teep¨ poema?
+POR3_B	tccc!
+POR3_C	hy, oce tako heocpegctehho ctpe¥ c hmam,
+POR3_D	ha¦ epo he moet teep¨ gymat¨ h o ¥em kpome eo o¨¦o a¥ecko op©-
+POR3_E	a teep¨ ¬ xo¥y cgeat¨ c ehy c  ctepho to¥eho kapto¦k, a otom m©, ªªª -
+POR3_F	¬ o ªtom he ohy«c¨!
+POR3_G	pocto pogoate, pogoate!
+POR3_H	ª tomm...
+POR3_I	t© ckaªa ¥to-to o poemax c paocygem o teeohy?
+POR3_J	ga, kohpeccmeh aekc ¦pa ha¥a peg©ophy« ohky, oh opetc¬ ªa ooca yptah.
+POR3_K	xog¬t cyx o tom, ¥to oh copaetc¬ phmat¨ mep© o opah¥eh«,
+POR3_L	ceo teechoo apcehaa ha¦e opomho kho hgyctp.
+POR3_M	ªgopoo.
+POR3_N	kehg! t© ªhae¦¨ ¦paa,
+POR3_O	© ¥to, ªate¬ ¥to-to paªpathoe?
+POR3_P	o, ga, o, ga, o, ga! ga, ga, ga, gaaa!
+POR3_Q	oaycta, cka mhe, ¥to ªto y te¬ ect¨.
+POR3_R	ªto ©a po¨  oha co mho paªoapaa..?
+POR3_S	ª, hkoga he ªha. agho...
+POR3_T	t© y¥¦, kto ee chma,
+POR3_U	ocmotpm, peget  oha hac k hoomy heªg©¦ky.
+POR3_V	y te¬ ect¨ kamepa?
+POR3_X	ga, ga emy aapat.

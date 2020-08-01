@@ -1,0 +1,47 @@
+MERC_39	ygmc¬ oªe, o¨¦o ma¨¥k.
+MOB_07A	ª apeh¨, ham hyha komah¬, ohmae¦¨...
+MOB_07B	¬ ªha« to¨ko oghy gey¦ky.
+RBM1_1	~g~eg¨  ©ta§ mepcegec ª goma.
+RBM1_10	~r~t© got! t© yh¥to ec¨ toap!
+RBM1_12	~g~g  coep hpegeht© '«ohoo hatka' y topo a.
+RBM1_13	~g~oª¨m '«oh© hatok'  mepcegec oka oh e§e hyh© ahgtam.
+RBM1_14	~g~tee hyha  ma¦ha  moto k!
+RBM1_15	~r~t© otep¬ topo a, geh¨  hapkotk!
+RBM1_17	~g~ye topo a  ªaep hapkotk!
+RBM1_7	~r~t© he yce opem¬ goctat¨ hatok!
+RBM1_8	~r~mepcegec mepta!
+RBM1_9	~g~g  g¬ ha¥aa goctah¨ y topo a hatok «!
+RBM1_A	xoppo¦ooo!
+RBM1_B	gaaa! ot¥ho, ¥epppt oª¨m!
+RBM1_C	ª, tomm! pag, ¥to y te¬ ©¦o.
+RBM1_D	ª, t© e§e he ctpe¥ac¬ c «oh©m kyakom?
+RBM1_E	het, hkoga, ho mhe cega hpaac¨ to¬ myª©ka.
+RBM1_F	oªo¨ mhe pegctat¨ mo« pyy.
+RBM1_G	ªto epc, gk  , a pah¨¦e ªa y¨tom © geªª,
+RBM1_H	pe¬ta, ¬ xo¥y ooopt¨ co com ctap©m p¬teem.
+RBM1_I	ªto tomm. m© e§e ephemc¬.
+RBM1_J	agho, apeh¨.
+RBM1_K	 ªªª, kak te¬ ªoyt, e§e paª?
+RBM1_L	he ªa©a, geªª, omh -
+RBM1_M	he hyho co mho ytk ¦ytt¨, apeh¨,
+RBM1_N	¬ xtp©  koaph©, coh©¦ko!
+RBM1_O	ohmae¦¨ , tom, mom aph¬m hyeh omo§hk.
+RBM1_P	oh ªgec¨ he o¥eh¨ ag¬t, y hx hety oh¬t ta 'kak oaet to ctapk?'
+RBM1_Q	ham hyh© hapkotk!
+RBM1_R	moho goctat¨  «ohom kyake, ohmae¦¨?!
+RBM1_S	hy, ªto e ac ct.  ¥em ega?
+RBM1_T	ham hyeh «oh© hatok, ohmae¦¨?
+RBM1_U	 hatok «!
+RBM1_V	hatok «?
+RBM1_W	ga, ª gyx ¥acte, 1 cto, 5 ¦¬§x om  ogh tp ehªha.
+RBM1_X	moe¦¨ hac ©py¥t¨, apeh¨?
+RBM1_Y	o, ªto gectte¨ho g¬ hx mhoo ªha¥t.
+RBM1_Z	t© eg¨ moe¦¨ ªto yctpot¨?
+ROK1_1A	§e¦¨ ¥to-to ocoehhoe? moy tee ªto yctpot¨!
+ROK1_2	o¨¦e he hyho
+ROK1_3	o¨¦e he hyho
+ROK1_5	ª, mepcegec!
+ROK1_6	pet, tomm. kak gea?
+ROK1_7	pocto pekpacho. y te¬ ¥acom het «ohoo kyaka?
+ROK1_8	o, ho ¬ ªa ªto opo¦y oghy ycyy..
+ROK1_9	caco ªa geh¨, gypa¥ok!

@@ -1,0 +1,58 @@
+RBM3_1	~g~oteª a cta ha mepop¬te.
+RBM3_2	koga omy pkpe¬t,  t© o©tae¦¨c¬ ©t, oha ªopetc¬...
+RBM3_3	koga ªp©ho ctepeh¨ ªaget  omy, to oha ªopetc¬.
+RBM3_4	~r~t© y a cta!
+RBM3_6	getoha ¬:
+RBM3_7	~g~oma pacaac¨!
+RBM3_8	¥em ©ctpee ege¦¨, tem he oyckaetc¬ ªp©ho ctepeh¨.
+RBM3_9	ec octahot¨c¬  exat¨ megehho, to ªp©ho ctepeh¨ ©xogt.
+RBM3_A	tomm, tomm! tomm, gpy§e, cx ephyc¬!
+RBM3_B	¥to pocxogt?
+RBM3_C	ªtot cx he octat a cta  okoe!
+RBM3_D	t© he y eo, gpy§e. kak e oh ephyc¬.
+RBM3_E	ga, ga, ga, a geo  tom, ¥to...
+RBM3_F	geo  tom, ¥to kto-to goeh ect ha¦ mo, komy m© epm,
+RBM3_G	otomy ¥to ªtot cx ham ypoaet!
+RBM3_H	¬ - yoe gep¨mo. mhe e§e hyha ma ma!
+RBM3_I	m© ce koemc¬, gpy§e.
+RBM3_J	oka, aph, ycokotec¨, ¬ ªto yay.
+RBM3_K	o©¥ho, ¬ he cta © ce¬ ytpygat¨, eg¬ ma¦hy  okpyeh ¨¬h©x ¦otahgckx cekcyao,
+RBM3_L	ho g¬ ac ¬ cgea« ck«¥ehe.
+ROK3_1	a teep¨, pem¬ ©t¨ ªapaotahhy« ctoky. mepop¬te - ceo ¦¨ cto ¬pgo o gopoe.
+ROK3_10	ª, yt©ka ogk pet mhe kp©¦y! ªto he ogka, ªto - ym¦ah!
+ROK3_11	aaaaaxxxxx!!!!  ªto ogcoegheho g¬ ªp©a!! aaaaaxxxxx!!!! 
+ROK3_12	oh cega pegypega, ¥to ¨¬hcto oyt meh¬. ¬ ªto ge o teeky. t© ot¬he¦¨ ogh ª poogo. kako poog? ¬ he ªha«, gpy§e.
+ROK3_13	y meh¬ het cekpeta. , cka ¥to-hyg¨. ¬ ygy pat¨ ha ac  agy.
+ROK3_14	tomm, gpy§e, eg¨ ©ctpee, apeh¨. ce goh© ¥to-to geat¨. ª, ymhk!
+ROK3_15	"ce goh© ¥to-to geat¨", ¥to ªto ªa peg, ¬ ge kacch©x geo¥ek. oka, kpyto, gea ¥to-to.
+ROK3_16	ocy¦a, ¬ pa« ha myª©ka¨hom hctpymehte. ¬ h¥eo he ªha« o ome.  moet to¨ko t¬hyt¨ ym¦ah ¥epeª coomhky.
+ROK3_17	ga, ¬ c©xa, ¥to t© peyce  ªtom gee. ª, ¬ h¥eo he coopaa to ho¥¨«, t© e ªhae¦¨!
+ROK3_18	epega  coomhky. coomhky?!?! ªto - typct¥eck atoyc a cta!
+ROK3_19	tak ge mhe ª¬t¨ coomhky, ªhae¦¨, o ¥em ¬? kako poog, tomm? ªeeh©. tyt het ªeehoo.
+ROK3_2	y¥¦e cgea eo oto§e  cegy«§ paª. tomm, omeh¬ toha¨hoct¨.
+ROK3_20	, ªtot ªeeh©. t© g¦¨ ªgec¨ ªeeh© poog?
+ROK3_21	het, hety. o kapte agaet cmept¨! ce ©¬g¬t ªeeh©m! mhe hago ©o ªapyat¨ te¬ oo¨¦e  y¥¦e pemeha.
+ROK3_22	pocaehh© ckate¨. katact. ¬ te¬ ©gepa goo. ªatkhc¨. t©, gep¨mo.
+ROK3_23	o¨¦a¬ kapªha¬ geo¥ka. ga. ªatkhc¨  t¬h poog. kako poog? ot ªtot..
+ROK3_24	het! apeh¨, m©  op¬gke. m© he ogopac¨, gpy§e.
+ROK3_25	tomm, gpy, kacch©. pok-h-po. het  y hac ta¥k tyga oexat¨?
+ROK3_26	pªket? copa§ehe okohh ? a ct!
+ROK3_27	t© go ty yt©ky?
+ROK3_3	¬ h¥eo he ohma«, ec mo¬ ooa he og kaom. o, ¥to ªto? ª tomm, octa¨ ªty kaccety.
+ROK3_4	a ct. toe pem¬ ªap¬ªheh¬ ªpa po¦o. ¬ gam tee ¦ahc, ¥to© ctat¨ gpyª¨¬m.
+ROK3_5	a ce¥ac ¬ ga« tee ¦ahc, ¥to© ymepet¨. chª¨ ckopoct¨  to myªh ªopetc¬, mecte c toe o¨¦o oocato ªagh e!
+ROK3_6	tomm, gpy, t© cac ahgy! ¬ ycta ot ªtoo. gep hoy ha ega!!
+ROK3_62	m© gyma okaªat¨ tee ha¦ xpam poka -
+ROK3_63	po¥ycty hectocto a cta!
+ROK3_64	ocy¦a ce¬, gpy§e. ªta kacceta ª a¨e-ma¦e  op©.
+ROK3_65	ª, pe¬ta, ªto - xpam, a m© - pe ©!
+ROK3_66	ª, xopo¦o, ec pe¬ta «¬t cox pe o opeªahh©m  yxm,
+ROK3_67	to ¬ he cop«?
+ROK3_68	ot, ¥ept, ehty o¬t¨ ªaeao.
+ROK3_69	o ªto  ehe m© he cmoem pat¨  y«.
+ROK3_7	ham hago hat omy! m©, ¥to, ygem eªgt¨ ec¨ geh¨? ª, y hac tyt oho ©k..
+ROK3_70	gep¨mo! mo k¦k...
+ROK3_71	m© yagm c ªtm - caco choa, tomm, ªhae¦¨, o ¥em ¬, kpaca¥k, oka!
+ROK3_73	geªª octa ªac¨,
+ROK3_8	a oma he moet ©t¨  motope? ham hago octahot¨c¬, ¥to© hat ee. m© ce ohem! ¬ ha¨«c¨!
+ROK3_9	ª, gpy, ªgec¨ o¥epeg¨.  hom ¬§ke het oteta! ypac¬!

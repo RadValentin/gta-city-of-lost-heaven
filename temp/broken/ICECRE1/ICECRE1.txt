@@ -1,0 +1,21 @@
+ICC1_1	~g~o¨ªy¬c¨ com atomoem c mopoehh©m, pacpoctpahte hapkotk.
+ICC1_10	~g~© ªak«¥ ~1~ cgeok!
+ICC1_11	~g~© ªak«¥ ~1~ cgeky!
+ICC1_12	popeteh!
+ICC1_13	~r~© he ªak«¥ h ogho cgek!
+ICC1_14	ce mopoehhoe pogaho
+ICC1_15	~g~teep¨ apka mopoehhoo yget ©paat©at¨ p©¨  $~1~. he ªa©ate pey¬pho oce§at¨ ee.
+ICC1_16	~g~co¨ªyte ma¦hy mp. y ¥to© epeoªt¨ ¦he©e khok o opogy.
+ICC1_17	mcc¬ paªoªa ªakoh¥eha
+ICC1_18	o§e poga mopoehhoo: $~1~
+ICC1_19	ceo cgeok ªak«¥eho: ~1~
+ICC1_2	~g~papky ma¦hy  ham ha ~h~~k~~VEHICLE_HORN~~w~ ¥to© ªoht¨  kakcoh  pegypegt¨ kehto o oto¬§ec¬ cgeke.
+ICC1_3	~g~© oy¥aete geh¨ ªa kagy« cgeky, ho ¥em o¨¦e cgeok coep¦aete, tem o¨¦e opa§aete hmahe o .
+ICC1_4	~g~ªgec¨ het oo§e kehto, otpa¬tec¨  gpyoe mecto.
+ICC1_5	cgeok:
+ICC1_6	~g~ co¨ªyte ma¦hy mp. y ¥to© epeoªt¨ ¦he©e khok o opogy.
+ICC1_7	~g~© oy¥aete geh¨ ªa kagy« cgeky, ho ¥em o¨¦e cgeok coep¦aete, tem o¨¦e opa§aete hmahe o .
+ICC1_8	~g~¥to© coep¦t¨ cgeky, ~h~papkyte ma¦hy ~g~ hamte ha ~h~~k~~VEHICLE_HORN~ ~g~¥to© pe¥¨ kehto.
+ICC1_9	~g~mecth©e ahgt© cocem he ygyt pag© a¦emy peªgy, tak ¥to yg¨te octopoh©.
+ICE_AT1	geo apk mopoehhoo ªaep¦eho
+ICE_AT2	~g~teep¨ apka ¦he©x khook yget phoct¨ p©¨ go $~1~. he ªayg¨te opem¬ ee copat¨.

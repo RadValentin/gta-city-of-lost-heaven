@@ -1,0 +1,32 @@
+POR4_01	~g~g  ~y~ ehtp~g~  ©ep ygohoe mecto g¬ c¨emok.
+POR4_02	~g~hyeh yget ©ctp© moto k, ¥to© p©at¨ c kp©¦ ha kp©¦y. oxpaha o©¥ho eªgt ha ~y~PCJ 600~g~...
+POR4_03	~g~am hyho yget oact¨ ha kp©¦ ªgah. tam goeh ©t¨ t  epxhe oc©...
+POR4_05	~g~ªt ecth © egyt okpy hheo oca.
+POR4_06	~g~ephtec¨  hh oc, ec hyho yget ogh¬t¨c¬ haepx.
+POR4_07	~g~am hyeh yget moto k, ¥to© p©at¨ c ogho kp©¦ ha gpyy«.
+POR4_08	~g~poetec¨ ¥epeª okho g¬ ha¥aa. y ac pemeh go 07:00 otom ctahet c¦kom ceto.
+POR4_09	~g~ka© ygyt okaª©at¨ am, ha kaky« kp©¦y p©at¨ ga¨¦e.
+POR4_10	~r~teep¨ ªgec¨ ctao c¦kom ceto.
+POR4_11	~g~ephtec¨ ha ecth y, ¥to© gopat¨c¬ go epxhx ªtae.
+POR4_A	poct, ho ¬ pocto he moy ce¥ac ªto otat¨.
+POR4_B	o, hy gaa e, getka!
+POR4_C	ymo¬« te¬, oh ªac, kak koh¥a«§ kt,
+POR4_D	paªe t© he ¥yctye¦¨ co« po¨?!
+POR4_E	ho, ct...
+POR4_F	kak mo ªeªgh© peccep?
+POR4_G	o, oe. ta megy aptct¥ecko  eocthoct¨« 
+POR4_H	ptm¥eckm geh¬m he ocaeaet.
+POR4_I	 oka t© he cpoc, ga, ce ¥et©pe ¨ma ygyt ©y§eh©...
+POR4_J	ma¬, gep, oaycta, ahakohgy  kagpe,
+POR4_K	oha ctot o¨¦e, ¥em t©!
+POR4_L	ox, poct, ct.
+POR4_M	¬ gyma, ¥to ham hyeh hacto¬§ kackagep, ¥to© pekampoat¨ c¨emk.
+POR4_N	¥to-to, ¥to gectte¨ho poªeget e¥atehe - ect¨ ge?
+POR4_O	hy,  gpehe pemeha, yctpaa aa-koh ept©,
+POR4_P	ªeªg©, myªh©, ho¥hoe heo  poektopax...
+POR4_Q	poektopa! y meh¬ o¬ac¨ ge¬...
+POR4_R	...ga, ga, ga. hemhoo kpaca   myªho, pem¨epa
+POR4_S	o, ga, kohe¥ho, magam,
+POR4_T	a e§e pecca  oho ceta...
+POR_AS1	mcc¬ c ¨mom ªaep¦eha
+POR_AS2	~g~htep oa mc teep¨ yget phoct¨  p©¨ go $~1~. he ªayg¨te opem¬ ee copat¨.

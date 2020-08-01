@@ -1,0 +1,19 @@
+TEX2_A	tomm, ªto - goha¨g a. goha¨g, ªto - tomm, ep¥ett,
+TEX2_B	ocegh cmaª¥k opy¬, kotopoo t© g¦¨.
+TEX2_C	ga, xo-xo...
+TEX2_D	goha¨g, ªatkhc¨  cy¦a, moet, ¥emy  hay¥¦¨c¬.
+TEX2_E	ce¥ac, h¥eo tak he ªactat yact¨  eh© ha hegmoct¨, kak gopa¬ ahctepcka¬ oha -
+TEX2_F	ga, moet, ªto  ega, kak ecka¬ ¥yma  ¥to-to poge,
+TEX2_G	ho  ªtom cy¥ae ªto moet ªat c¦kom gaeko.
+TEX2_H	t© ªaomh ªto, t© - ¥et©pexaª© koªe?
+TEX2_I	hegaho ymep at¬hck opg ahctepo. ckopee, ªto cgea kyh ©, ho hkto he yepeh.
+TEX2_J	gaa yegm x  ªtom! t© pegcta¦¨ ce¬ kak kyhckoo xompa,
+TEX2_K	 hapa¦¨c¬ paªpomt¨ ªt oxopoh©. cme¦ac¬ c too  g cegom. 
+TEX2_L	t© ªaomh ªto, goha¨g?
+TEX2_M	ga ªto ce paho, ¥to yctt¨ koota  kyp¬thk, a?
+TEX2_N	a m© ygem cget¨ cªag  cmotpet¨, kak cka¥yt  eh©.
+TEXEXIT	~g~gaa ypat¨c¬ ª tt at!
+TEX_2A	~g~ot¥ho! oh te¬ ©ceg!
+TEX_2B	~r~gypak! «g goh© ogtepgt¨, ¥to kyhe  geaet xt!
+TEX_2C	~g~g  hag cee kyhcke ahgtcke  eta  tt aaha!
+TEX_2D	~g~oª¨m at¬hckoo ahgtckoo opga  oxopohh© ªa pomepo!

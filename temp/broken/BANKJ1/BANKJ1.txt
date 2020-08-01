@@ -1,0 +1,27 @@
+BJM1_1	~g~ocoog kªma gohca ot o eckx!
+BJM1_2	~r~t© goeh © ot¨ kªma, a he yat¨ eo!
+BJM1_20	yep opye, a to ctokhe¦¨c¬ c poemam!
+BJM1_21	~g~k«¥ k komhate moet ©t¨ ga¨¦e ha ctah .
+BJM1_22	~g~othec kªma  eo gom!
+BJM1_23	~g~tee hago hat k«¥ ep©m!
+BJM1_3	~g~t© hage¦¨ ¥to-to oeªhoe  komhate xpaheh¬.
+BJM1_4	oh oopyeh! ye eo!
+BJM1_5	to¨ko ooªhahh©e ¥hoct pogyt ga¨¦e!
+BJM1_A	tomm! ª, tomm, cmotp, ªto ekoeho! ¬ cmo otkp©t¨ ªtot otcek!
+BJM1_B	y hac  e© otcek hªy, keh.
+BJM1_C	ga, ga. Well, ¬ gocta gocky, ¥to t© poc.
+BJM1_D	ax, ot ©oga «pg¥eckoo opaªoah¬: oªmohoct¨ cegoat¨ hctpyk ¬m.
+BJM1_E	ce¥ac mhe hyeh oxpahhk.
+BJM1_F	ox, ga mhe ogymat¨...ªa§ta, ªa§ta - pgyma! ªtot apeh¨ cgyet te¬ otc«ga!
+BJM1_G	 ox, ax. oh hytp.
+BJM1_H	ge hytp?
+BJM1_I	 o eckom y¥actke ogaet poopa.
+BJM1_J	gyma«, emy gagyt ycohoe....
+BNK1_10	ga, ªto ¬..
+BNK1_11	¥to © t© h ckaªa!
+BNK1_12	ya¨ ¬poct¨  omo mhe gopat¨c¬ go mecta!
+BNK1_13	¬ goeh ©oht¨ paoty,  t© mo ©ªote¨.
+BNK1_14	oh otep¬ mo« ªagh y tam!
+BNK1_7	kªm gohc?
+BNK1_8	¬ omoy ceat¨!
+WANTED1	~g~ctp¬xh koo  otep¬ hyh© ypoeh¨!

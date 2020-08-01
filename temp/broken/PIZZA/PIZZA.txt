@@ -1,0 +1,32 @@
+PIZ1_01	~g~g  gocta¨   y, t© goeh ogpac©at¨   y kehtam. poeªa mmo  poca ee.
+PIZ1_02	~g~© paªpoca c«   y, ephtec¨ ªa goako.
+PIZ1_05	~g~y ac ¬t¨ mhyt ha goctaky, pege ¥em keht© ha¥hyt ªoht¨  gpye  ep.
+PIZ1_06	ham ha~h~ ~k~~TOGGLE_SUBMISSIONS~~w~ ¥to© otmeht¨ mcc«.
+PIZ1_07	~r~t© y kehta! t© yoeh.
+PIZ1_08	~r~y te¬ ©¦o pem¬. t© yoeh.
+PIZ1_09	~r~t© paª moto k! t© yoeh.
+PIZ1_11	ª! cagc¨ ha moto k!
+PIZ1_12	  © octaoc¨:
+PIZ1_13	gocta¨te x  e©m  op¬¥m.
+PIZ1_14	  a ªa g¬ ac.
+PIZ1_15	ª, mctep, ©ctpo paªeª   y.
+PIZ1_16	¥eo t© ge¦¨, mctep? y te¬ oho   ©.
+PIZ1_17	¬ ªha«, ¥to t© he xo¥e¦¨ paªhoct¨   y, ho mhe eat¨.
+PIZ1_18	gocta¨ ot ªto.
+PIZ1_19	ªto hyho goctat¨.
+PIZ1_20	gaa, mctep, paªoª   y  te¬ yo¬t.
+PIZ1_21	y hac «g ye ªagac¨.
+PIZ1_22	hy ¥eo t© tam koo¦¦¨c¬? hyho ªto goctat¨!
+PIZ1_23	mctep, paªoª ¥eptoy   y.
+PIZ1_24	ªto hyho goctat¨.
+PIZ1_25	myk, oª¨me¦¨ ªto?
+PIZ1_26	mctep, ©ctpo gocta¨ ot ªto.
+PIZ1_27	©ctpee, m© ce¦m, gocta¨ ot ªto.
+PIZ1_28	choa t©? ©ctpo paªeª ªto.
+PIZ1_29	ha ªtot paª pemeh he tep¬.
+PIZ1_30	gaa e, eh© y«gok, gocta¨ opem¬ .
+PIZ1_31	hkoga he oy¥¦¨ o©¦eh¬, ec yge¦¨ tak paotat¨.
+PIZ1_32	~r~  a c¦kom op¬¥a?
+PIZ1_33	~g~oªpa§ac¬  pectopah ªa gpym ªakaªam.
+PIZ1_34	~g~  a goctaeha, ot a¦ geh¨.
+PIZ_WON	mcc¬ okoh¥eha. a¦e makcma¨hoe ªgopo¨e oªpoco go 150.

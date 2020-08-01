@@ -1,0 +1,22 @@
+KPM1_1	~g~ahca gepat ha cake, otpa¬c¬  ©ta§ eo!
+KPM1_2	~r~t© goeh © ©ta§t¨ ahca ©m!
+KPM1_3	ªgopo¨e ahca:
+KPM1_4	~g~oteª ahca  octa¨!
+KPM1_5	~g~ªa too oh¬tc¬ «g gaca! oteª ahca  octa¨.
+KPM1_A	agho, ag, ¬ cacy to« epy.
+KPM1_B	t© o ¥em ªto oop¦¨?
+KPM1_C	omh¦¨ ªtoo ohahcta gaca, oxothka.
+KPM1_D	y heo to ma¨¥k, ahc. oop¬t, ¥to to gpy ©tac¬ eo...
+KPM1_E	ho y heo he oy¥oc¨, ec t© meh¬ ohmae¦¨.
+KPM1_F	kyga oh eo yeª? o-ahck, oaycta
+KPM1_G	©ta§ cto! oh eo yeª ha opogcky« caky.
+KPM1_H	¥ept oª¨m...t© cx!
+M_PASSN	mcc¬ pogeha!
+RESC_1	t© moe¦¨ ctpe¬t¨?
+RESC_2	kohe¥ho...gyma«...xopo¦o te¬ choa yget¨.
+RESC_3	gaa otc«ga ypat¨c¬.
+RESC_4	 tak ec¨ mo ah hakp©c¬, aogap¬ tee. t© ce tak copt, ahc!
+RESC_5	oh y moeo pata. ¥to t© gymae¦¨ ¬ ygy geat¨, ctp¥¨ eo aªoh©?
+RESC_6	pgetc¬ yt¨ ªtoo gaca, oka oh he y hac.
+RESC_7	gaa akyc¬  ctpetmc¬ ha mocty k ªeªghomy octpoy, ok?
+RESC_8	agho, oh¬.

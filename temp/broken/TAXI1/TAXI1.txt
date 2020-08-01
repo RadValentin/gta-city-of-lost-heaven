@@ -1,0 +1,40 @@
+FARE1	~g~ e¨ ~w~'ky o«choo pacooeh¬' ~g~ha epey okeaha.
+FARE10	~g~ e¨ ~w~'¬' ~g~ ac oht.
+FARE11	~g~ e¨ ~w~'o¨h a' ~g~ha epey okeaha.
+FARE12	~g~ e¨ ~w~'o¨h a' ~g~ ac oht.
+FARE13	~g~ e¨ ~w~'o eck y¥actok' ~g~ha ¬e a¦htoh.
+FARE14	~g~ e¨ ~w~'o eck y¥actok' ~g~ ac oht.
+FARE15	~g~ e¨ ~w~'  a pectopah' ~g~ ac oht.
+FARE2	~g~ e¨ ~w~'ky may' ~g~ ac oht.
+FARE3	~g~ e¨ ~w~'mapha' ~g~ha epey okeaha.
+FARE4	~g~ e¨ ~w~'ammy-ha ¬' ~g~ha epey okeaha.
+FARE5	~g~ e¨ ~w~'maaªh texhk' ~g~ha ¬e a¦htoh.
+FARE6	~g~ e¨ ~w~'hopc oht meamapket' ~g~ ac oht.
+FARE7	~g~ e¨ ~w~'«eph© gom' ~g~ ac oht.
+FARE8	~g~ e¨ ~w~'¬' ~g~ha epey okeaha.
+FARE9	~g~ e¨ ~w~'¬' ~g~ha ¬e a¦htoh.
+FARES	ata:
+IN_ROW	~1~ p¬gom ohyc! $~1~
+MFARE1	~g~ e¨ ~w~'ammy-ha ¬' ~g~  ehtpe opoga.
+MFARE2	~g~ e¨ ~w~'tepmha' ~g~ megyhapoghom aªpoopty ªckoap.
+TAXI1	~g~§ oaty.
+TAXI3	~r~to accap yete  yace!
+TAXI4	ata okoh¥eha!
+TAXI5	ohyc ªa ckopoct¨!!
+TAXI6	ogehe okoh¥eho
+TAXI7	~r~to¬ ma¦ha opegeha, otga  pemoht.
+TAXIH1	octahoc¨ y ©geehhoo epexoga, ogep accapo  oteª x k yhkty haªha¥eh¬ go too, kak ©get pem¬.
+TSCORE2	$~1~
+WFARE10	~g~ e¨ ~w~'o¨h a' ~g~ tt aaha.
+WFARE11	~g~ e¨ ~w~'ctagoh' ~g~  ehtpe opoga.
+WFARE12	~g~ e¨ ~w~'  a pectopah' ~g~ tt at.
+WFARE13	~g~ e¨ ~w~'  a pectopah' ~g~  ehtpe opoga.
+WFARE14	~g~ e¨ ~w~'ep¨' ~g~ acopte.
+WFARE15	~g~ e¨ ~w~'ateka' ~g~ tt at.
+WFARE3	~g~ e¨ ~w~'cah¦ah ato' ~g~ tt aaha.
+WFARE4	~g~ e¨ ~w~'kaymah kªc' ~g~ tt at.
+WFARE5	~g~ e¨ ~w~'maaªh texhk' ~g~ tt aaha.
+WFARE6	~g~ e¨ ~w~'xayh tc akc topo©  ehtp ' ~g~  ehtpe opoga.
+WFARE7	~g~ e¨ ~w~'o eck y¥actok' ~g~ tt aaha.
+WFARE8	~g~ e¨ ~w~'o eck y¥actok' ~g~  ehtpe opoga.
+WFARE9	~g~ e¨ ~w~'o¨h a' ~g~  ehtpe opoga.

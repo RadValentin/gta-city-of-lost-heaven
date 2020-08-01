@@ -1,0 +1,72 @@
+DEFSAFE	~g~oªpa§ac¬ k cey  ªa§t eo.
+FIN1_01	¥to pocxogt?
+FIN1_02	tomm! pekpacho, pekpacho. cy¦a, pocto ocy¦a,
+FIN1_03	mhe hpat¨c¬ p©a. ¬ ee ««.
+FIN1_04	mhe oha hpat¨c¬   akapyme  ha tapeke,
+FIN1_05	ho kak © ¬ ee h «, ¬ he copa«c¨ c he cat¨.
+FIN1_06	agho, p¬mo ce¥ac hecko¨ko tox ta¨¬hckx pat¨e gyt c«ga, ¥to© ªakatat¨  etoh, a t©...
+FIN1_07	keh, ªatkhc¨. c¬g¨.
+FIN1_08	ªhc, ¥to pocxogt?
+FIN1_09	ªto to gpyª¨¬ y ceephoo tomm. m he hpat¨c¬, ¥to t© ªaxat x ¥eoeka.
+FIN1_10	oh copa«tc¬ ocmotpet¨ ceogh¬ pegp¬te.
+FIN1_11	ªto ªamet o¨¦e pemeh, ¥em ¬ oga...
+FIN1_12	pe¬ta, okoh¥m c ªtm, het hkakx comheh, ¥to ªto mo¬ oepa ¬. mo¬!
+FIN1_13	keh, t© oy¥¦¨ epy« apt« a¨¦©x gehe  yakye¦¨ tp moha  kec©.
+FIN1_14	ªhc, t© copae¦¨ pe¬t mecte...
+FIN2_01	tomm!
+FIN2_02	¥to? he ohme¦¨ coeo ctapoo p¬te¬?
+FIN2_03	¬ okhy cem¨« ¬thag at¨ et haªag,
+FIN2_04	¬ oxo paªpa«c¨  cemehom ªtkete.
+FIN2_05	cega ªo, ga tomm.
+FIN2_06	to¨ko he oop, ¥to o cem hoat to¨ko to xapaktep?
+FIN2_07	 ªtx kecax tp moha...
+FIN2_08	 cko¨ko tam ©o? gec¬t¨? oghhag at¨ ¥eoek.
+FIN2_09	tak ot o¥emy te¬ ªoyt xapygckm m¬chkom! xe-xe-xe!
+FIN2_10	oh oca meh¬ yt¨ oghoo ta, oghoo. oh ªha, ¥to ¬ ckopo pgy ªa cohh...
+FIN2_11	tomm, ceg ªa com tohom.
+FIN2_12	hkto  he ogyma ©, ¥to ¬ ygy oh¬t¨ te¬ ªa ªto cte¥ehe octo¬te¨ct.
+FIN2_13	pocto oª¨m geh¨...
+FIN2_14	ªapa ap¦©e geh¨.
+FIN2_15	ªhae¦¨, tomm? ¬ gea pag te¬ ce, ¥to mo, potaka, kak to¨ko oªmoho.
+FIN2_16	¬ © tee gpyom, tomm. hage¬c¬, ¥to t© ªahtepecye¦¨c¬, cep¨eª ªame¦¨c¬ geom.
+FIN2_17	¬ ep  te¬, tomm, a t© meh¬ paªo¥apoa.
+FIN2_18	oghako, o kpahe mepe, ogh ¥eoek  toe opahªa  ªhaet, kak hago ect gea,
+FIN2_19	ªto hepaga, ªhc?
+FIN2_20	ªh, tomm. ªto ac ct. ªto ªhec.
+FIN2_21	t© poga hac...
+FIN2_22	het. ¬ poga te¬, tomm, poga te¬.
+FIN2_23	hacto¬§e geh¨ haepxy  cee.
+FIN2_24	tomm,  ¥em ªak«¥ac¬ ah?
+FIN2_25	gymae¦¨, mhe xatt a¨¦ok?
+FIN2_26	coxpaht¨  o  eat¨ c ogat©m xoctom?!
+FIN2_27	het.
+FIN2_28	¬ pocto xote cact te¬ epeg tem, kak yt¨.
+FIN3_01	tomm?
+FIN3_02	o, oe, tomm! ¥to poªo¦o?
+FIN3_03	a ha ¥to ªto oxoe?
+FIN3_04	ªto ©¬gt tak, ygto t© opa co koct«m!
+FIN3_05	ga, tomm, ªto © xopo¦ koct«m! tomm, ¥to  koh e koh o poªo¦o?
+FIN3_06	y meh¬ oªhka paªmoka c mom geo©m apthepom, ªhae¦¨, kak ªto ©aet.
+FIN3_07	tomm, ¬ he coaceh, ¬ oca m pagehoe c¨mo.
+FIN3_08	moet, haca m  o¥to© ¬§k. ho ¬ he ha¥ha« tpet¨e mpoo oh©.
+FIN3_09	ªhae¦¨, moet tee ctot ooopt¨ c mom ¥ehom...
+FIN3_10	ªto y© ¥eh, ªhc...
+FIN3_11	tomm, ªtot apeh¨ mhe hkoga he hpac¬, ok?
+FIN3_12	oh heph©, hehageh©, camogoo¨h© - pocto kaka¬-to ªagh a!
+FIN3_13	¬ pag, ¥to ª¬ eo c coo!
+FIN3_14	he gyma«, ¥to ham e§e yget cett¨ coh e c ceepa...
+FIN3_15	...otomy ¥to oh ye he "ha ceepe".
+FIN3_16	ce teep¨ ªact ot «a.
+FIN3_17	octo, a ªto he ªha¥t, ¥to o ªtom ªha«? tomm, kpo¦ka!
+FIN3_18	kak t© gymae¦¨, ¥to ªto ªha¥t?
+FIN3_19	¥to m© teep¨ ah©e... to-ect¨, t© ah©. o, tomm!
+FIN3_20	ªhae¦¨, keh, mhe kaetc¬, ¥to ªto moet ©t¨ pekpach©m ha¥aom geo©x otho¦eh....
+FIN3_21	 ce e, t© koaph©, yka©, hkyg©¦h© op
+FIN3_22	a ¬ - ªo§pehh© cxot¥eck kep  hapkotopoe .
+FIN3_23	¬ ªha«. paªe ªto he pekpacho?
+FIN_B1	~g~ye ~y~ªhca ehca~g~ koaphoo.
+FIN_B2	~g~ye ~p~cohh~g~  okoh¥m c ªtm paª  hacega.
+FIN_B3	~g~ma¬ ©taetc¬ ©kpact¨ a¦ geh¨. ªa§tte ce.
+FIN_B4	~g~© ªk k cmept, oy¥te hemhoo ~w~ªgopo¨¬~g~  ogae.
+FIN_B5	~g~ma¬ kpaget a¦ geh¨. ªa§tte ~c~ce
+FIN_B7	~r~ma¬ ykpaa ce a¦ geh¨.

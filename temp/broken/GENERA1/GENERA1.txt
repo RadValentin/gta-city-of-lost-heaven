@@ -1,0 +1,31 @@
+GEN1_01	p ctp¬xah hamte  ygepate~h~ ~k~~PED_FIREWEAPON~ ~w~khoky g¬ too, ¥to© gt pykoa¦hy«.
+GEN1_02	p ctp¬xah hamte  ygepate~h~ ~k~~PED_FIREWEAPON~ ~w~khoky g¬ too, ¥to© gt pykoa¦hy«.
+GEN1_03	p ctp¬xah hamte  ygepate~h~ ~k~~PED_FIREWEAPON~ ~w~khoky g¬ too, ¥to© gt pykoa¦hy«.
+GEN1_05	~g~yete ohcaeca!
+GEN1_06	ª! y heo ho!
+GEN1_07	otog ot meh¬, t©, p¬ªh© y«gok!
+GEN1_08	o, ocog, ha ¥to ¬ otpat ªh¨  kpacoty!
+GEN1_09	a¥y gohe, tomm, gohe!
+GEN1_10	¬ copa«c¨ ªakp©t¨ to« act¨!
+GEN1_11	pekpat epekat©at¨ co p¬ªh©e ¦apk!
+GEN1_12	cto cokoho,  ce poget heªametho!
+GEN1_13	pekpat ªat¨, ªto hkoo he ohyet, atco!
+GEN1_14	otyct~h~ ~k~~PED_FIREWEAPON~ ~w~khoky g¬ too, ¥to© ha¥at¨ ataky.
+GEN1_15	otyct~h~ ~k~~PED_FIREWEAPON~ ~w~khoky g¬ too, ¥to© ha¥at¨ ataky.
+GEN1_16	otyct~h~ ~k~~PED_FIREWEAPON~ ~w~khoky g¬ too, ¥to© ha¥at¨ ataky.
+GEN1_18	~r~ohcaec ykp©c¬  o eckom y¥actke!
+GEN1_19	~g~o ¬ ac ct §et te¬!
+GEN1_20	~g~ªapac¬  ma¦hy.
+GEN1_21	~g~eg¨ k~h~ att¨ '' p©ªat¨~g~ ~h~ ac oht~g~.
+GEN1_22	eªa ha ma¦he  maaªh cpee g¬ too, ¥to© ªamect ceg© ~h~go opegeehhoo ypoh¬, ~h~o¥h  ~h~epekpac¨ co« ma¦hy. ctomoct¨ - ~h~$100. oghako ha ªtot paª - ecatho.
+GEN1_23	~g~oªpa§atec¨ ¥epeª gep g¬ too, ¥to© oact¨ ha 1 ªta.
+GEN1_A	-h ep¥ett!
+GEN1_B	okohk.
+GEN1_C	caco ªa to, ¥to © p¦. pcaatec¨. octep?
+GEN1_D	het, caco.
+GEN1_E	mhe ct©gho ªto pªhaat¨, oghako ogho ª p¥h ha¦x o§x heyga¥ cta ot© ¬ª©k ¥eoeka, kotopomy ¬ p©k goep¬t¨.
+GEN1_F	¬ oeka ohcaeca mhoo et, oghako ce¥ac eo hekometehthoct¨ gocta ho©x ©cot!
+GEN1_G	¬ oggepa« a¦e pe¦ehe yt¨ ohcaeca...
+GEN1_H	heye oh cgea ªto? eghctehhoe, ¥to meh¬ htepecyet - geh¨.
+GEN1_I	ªa a¦y «eªhoct¨ ac ogaet hapaga, a ªatem m© mecte hagem a¦ geh¨.
+GEN1_J	oh yget  coem ehtxayªe, oy¨¬h©. oco¨ªytec¨ ªtm...

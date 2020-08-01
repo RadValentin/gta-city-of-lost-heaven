@@ -1,0 +1,8 @@
+CLEVEL	mcc¬ gahte ypoeh¨ ~1~
+COPCART	~g~y te¬ ~1~ oªpatt¨ o  tpahcopt epeg okoh¥ahem mcc.
+C_BREIF	~g~ogoªpeaetc¬ ocegh  ~a~ ªohe.
+C_CANC	~r~mcc¬ gahte copaha!
+C_COMP1	ypoeh¨ 12 mcc gahte pogeh: a¦e hate¨hoe opye oªpoco go 150
+C_PASS	ypoªa yctpaheha: $ ~1~
+C_TIME	~r~a¦e pem¬ ªakohhka po¦o!
+KILLS	yto:

@@ -1,0 +1,64 @@
+GEN3_1	pat¨c¬ ce pem¬, oh¬tho...
+GEN3_10	tomm.
+GEN3_11	go ckopo ctpe¥, amo, hage«c¨!
+GEN3_12	h. ge ªtot ªhc?
+GEN3_14	tomm! mhe hyha omo§¨!
+GEN3_15	he ecokoc¬, ¬ te¬ pkp©a«!
+GEN3_16	¥co «ge gaca cokpa§aetc¬!
+GEN3_18	~g~c«ga gyt kyh ©, gepc¨ gaca. ceg ªa tem, ¥to© cgeka megy ªhcom  gacom cocto¬ac¨.
+GEN3_19	~g~at¬he! oh copyt cgeky! ªa§tte gaca!
+GEN3_2	heye tee he xo¥etc¬ ªah¬t¨c¬ ¥em-to gpym, ommo moeo pkp©t¬? o¥emy © tee h pogot¨  he okaªat¨, ha ¥to t© cocoeh.
+GEN3_20	~g~okohk poto tee heo¨¦y« ohey« oggepky  mhooypoheom apkhe.
+GEN3_22	ªgopo¨e gaca:
+GEN3_23	~g~t© poc ªhca! hag eo!
+GEN3_25	~r~ªhc o!
+GEN3_28	~g~ephte kec gacy.
+GEN3_29	~g~coepte kec  ephte eo gacy.
+GEN3_3	¬ mo © ªto cgeat¨. eo m¬ - ªhc, megy po¥m.
+GEN3_30	~r~oh yeaet c geh¨am! gac co¨ªyet g¬ ªtoo to ¦apk!
+GEN3_33	~r~poep¨ co ooh¨!! pegoaaetc¬, ¥to t© yge¦¨ cegt¨ ªa gacom  eo «g¨m, he ctpe¬¬!
+GEN3_34	~r~cgeka he coctotc¬, ec © ªactpete kyh e!
+GEN3_35	~g~oh ykpa geh¨ gaca!
+GEN3_36	~g~xata moto k, gooh eo  eph geh¨ gaca!
+GEN3_37	~g~c«ga gyt kyh ©. poceg ªa tem, ¥to© cgeka megy gacom  ªhcom cocto¬ac¨.
+GEN3_38	~r~gaª mept! © he cmo ªa§tt¨ eo!
+GEN3_39	~g~ªam ©oghy« oª « haepxy.
+GEN3_40	¥to© ~h~©ctpet¨ epeg ~w~c ~h~moto ka ~w~ham ~h~~k~~PED_FIREWEAPON~ ~w~khoky.
+GEN3_41	¥to© ~h~©ctpet¨ epeg ~w~c ~h~moto ka ~w~ham ~h~~k~~PED_FIREWEAPON~ ~w~khoky.
+GEN3_44	~g~otpa¬c¬ c ªhcom go mecta ctpe¥  poceg ªa gacom.
+GEN3_45	oh moyt ©t¨ ªgec¨  «o momeht, ham y¥¦e ªah¬t¨ oª « o©oghe.
+GEN3_46	geep¨mo!
+GEN3_47	tomm!
+GEN3_48	h!
+GEN3_49	ªgopo¨e ªhca:
+GEN3_5	t© goeh ©t¨ ho©m opyem kopteca.
+GEN3_50	~r~© otep¬ geh¨ gaca!  cegy«§ paª octapatec¨ he yh¥toat¨ geh¨!
+GEN3_51	e§e o¨¦e goah©x at¬h e  pyªoke!
+GEN3_52	 ªt at¬h © gyma«t, ¥to cmoyt cpat¨c¬ c pkapgo gacom!?!
+GEN3_53	mo geh¨!
+GEN3_54	hy ©, gooe©, he ctote ªgec¨, goohte ªtx at¬hckx mygako!
+GEN3_55	tomm! ¬ octahyc¨ ªgec¨  pcmotp« ªa gacom!
+GEN3_56	~r~gac o, oa  ªacagy!  cegy«§ paª ceg ªa hm!
+GEN3_57	kp«ep - ªto ¦typmoa¬ htoka, kotopa¬ oªo¬et py¥hy«  et¨c¬  1 ¥eoeka.
+GEN3_58	hamte  ygepate~h~ ~k~~PED_LOCK_TARGET~~w~ khoky g¬ too, ¥to© ~h~ et¨c¬~w~ ª htok.
+GEN3_59	hamte  ygepate~h~ ~k~~PED_LOCK_TARGET~~w~ khoky g¬ too, ¥to© ~h~ et¨c¬~w~ ª htok.
+GEN3_6	go tex op, oka he o¬¬tc¬ ©ogh©e pegoeh¬.
+GEN3_60	hamte ~h~~k~~PED_FIREWEAPON~~w~ khoky g¬ too, ¥to© ~h~ctpe¬t¨~w~ ª htok. 
+GEN3_61	hamte ~h~~k~~PED_FIREWEAPON~~w~ khoky g¬ too, ¥to© ~h~ctpe¬t¨~w~ ª htok. 
+GEN3_62	hamte ~h~~k~~PED_FIREWEAPON~~w~ khoky g¬ too, ¥to© ~h~ctpe¬t¨~w~ ª htok. 
+GEN3_63	o pem¬ eªg© ha ~h~ moto ke ~w~© take moete ~h~ctpe¬t¨ epeg~w~.
+GEN3_64	g¬ too, ¥to© ctpe¬t¨ c moto ka, hamte ~h~~k~~PED_FIREWEAPON~~w~ khoky.
+GEN3_65	g¬ too, ¥to© ctpe¬t¨ c moto ka, hamte ~h~~k~~PED_FIREWEAPON~~w~ khoky.
+GEN3_66	g¬ too, ¥to© ctpe¬t¨ c moto ka, hamte ~h~~k~~PED_FIREWEAPON~~w~ khoky.
+GEN3_67	y ac goeh ©t¨ atomat g¬ ctpe¨© c moto ka.
+GEN3_7	oh moyt ©t¨ ªgec¨  «o momeht - ham cegyet hat ©oghy« oª «...
+GEN3_8	ok! ¬ epy akoh, a t© - kp©¦y hapot.
+GEN3_9	¬ ! pgypk!  ªto ce, ¥to © moete cgeat¨! kak te¬ ªoyt?
+GEN3_A	tomac, ¬ pag, ¥to t© p¦e.
+GEN3_B	poct, meh¬ ªa to, ¥to cpaªy epexoy k gey.
+GEN3_C	gaª poc meh¬ epecmotpet¨ heo¨¦oe geooe coa¦ehe.
+GEN3_D	ygem hage¬t¨c¬ ha to, ¥to ce poget y¥¦e, ¥em  po¦© paª?
+GEN3_E	ot oªtomy ¬ o tee  ogyma, mo gpy.
+GEN3_F	¬ poc hekotopy« ªa§ty ha mhooªtah© atoapk.
+GEN3_G	oghm ªto, a ªatem otpa¬c¬ ocmotpet¨ ha «ge gaca y mecta copa.
+GEN3_H	pa ac, amo.

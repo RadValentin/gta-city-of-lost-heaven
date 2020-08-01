@@ -1,0 +1,27 @@
+TAXC_A	t© ªhae¦¨, t© - ho© agee .
+TAXC_A1	ep takc ª apaa, ec xo¥e¦¨ ªa ªto ª¬t¨c¬.
+TAXC_B	t©, ¥to - chgkat? kapte¨? a he ©¬g¦¨ mekckah em...
+TAXC_C	kak © tam h ©o, ¬ gyma«, tee y¥¦e yagt¨ ckahga c 'gea ªgec¨ omeh¬«tc¬',
+TAXC_D	moet, pyhyt¨ oghoo ª og -
+TAXC_E	g p¬mo ha tega oh tam, emy to¨ko ¥to yga p©y.
+TAXC_F	tak, xo-xo. gea ªgec¨ omeh¬«tc¬, eg.
+TAXC_G	o, yoct, c©hok. moe¦¨ ªto toe octat¨ mhe -
+TAXC_H	¬ ªahmac¬ ªtm ªgaha.
+TAXC_I	a teep¨ ocy¦a.
+TAXC_J	y hac teep¨ hooe pykoogcto  gea ªgec¨ omeh¬«tc¬ o¬t¨.
+TAXC_K	ha¦e hooe pykoogcto,
+TAXC_L	¥¨¬ © ahga?
+TAXC_M	ga ¬, oo§e, he ª ahg©.
+TAXC_N	kak toe ¥eptoo m¬, apeh¨?
+TAXC_O	ep¥ett, tomm ep¥ett.
+TAXC_P	ha¦e hooe pykoogcto, ahga ep¥ett,
+TAXC_Q	oªaott¨c¬ o ha¦x poemax.
+TAXC_R	ka¦e? oh!
+TAXC_S	tee hpatc¬ "ka¦e"? mhe hpatc¬ 'ka¦e'.
+TAXC_T	ot tak ªto cpaat©ao  po¦om,
+TAXC_U	m© ypa¬em pmo, kak o©¥ho.
+TAXC_V	ec y hac ygyt poem© ª-ªa coephko, to t© ©¨e¦¨ ª hx gyp¨.
+TAXC_W	toga oh ©¨«t gyp¨ ª hac,
+TAXC_X	to t© ©¨e¦¨ ª hx gyp¨,
+TAXC_Y	 t.g.,  t.g. oh¬?
+TAXC_Z	a, ga, kaetc¬...

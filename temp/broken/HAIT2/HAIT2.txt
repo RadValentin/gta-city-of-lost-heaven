@@ -1,0 +1,21 @@
+HAT2_1	o, poctte, mhe kaetc¬ ga he tot agpec...
+HAT2_10	mo em¬hhk poca ªaate¨h©e om©, ¥to© ©typt¨ x.
+HAT2_11	ªp©a ogk ha gock.
+HAT2_12	caco ªa ¥a.
+HAT2_2	ga, kaetc¬, am ctot ªat  ©t¨ ¥a«,  otgoxhyt¨ maoct¨.
+HAT2_3	tam g¬ meh¬ ¥to-to ect¨, tomm?
+HAT2_4	ga...
+HAT2_5	ªto mecto mhe kaetc¬ ªhakom©m, ªtot ªaax ª getcta -  deja vu...
+HAT2_6	a teep¨, tomm ¬ tee ha y¦ko gam ogho ªagahe. t© meh¬ xopo¦o c©¦¦¨?
+HAT2_7	t© oxo ha koo-to, koo ¬ ...
+HAT2_8	kyh © o¨ªy«tc¬ o¥eh¨ ©ctp©m ogkam, ¥to© epepa¬t¨ hapkotk.
+HAT2_9	oh ªtm ªapaat©a«t ha ªh¨.
+HAT2_B1	~g~g k ma¦he,  kotopo eat metate¨h©e pahat©.
+HAT2_B2	ye kyh e...
+HAT2_B3	ham ha ~h~~k~~PED_FIREWEAPON~ ~w~¥to© poct¨ omy. ham ha ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~¥to© otmeht¨.
+HAT2_B4	... yh¥to¨ x ogk!
+HAT2_B5	~g~kyh ©, kaetc¬, ygpa«t. he ga m yt!
+HAT2_B6	~r~camoet ©¦e ª ªoh© goc¬aemoct!
+HAT2_B7	~g~ogh ª kyh e cacaetc¬ ha ma¦he. he octa¨ h oghoo cgete¬!
+HAT2_B8	~r~o¨¦e het ecoth©x camoeto!
+HAT2_B9	 camoet©:

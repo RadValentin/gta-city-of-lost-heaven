@@ -1,0 +1,34 @@
+CM1_1	~g~gte k ¥aptep epth ogke  goke.
+CM1_2	~g~y o epa ect¨ hopma ¬, ¥to tpeyetc¬.
+CM1_2A	ocmotp ha ty y!
+CM1_2B	ge¥ohka, ªto to¬ otep¬hha¬ ¥act¨!
+CM1_2C	co mho ce oke, a kak to ge¦k?
+CM1_2D	¥to t© ªhae¦¨ o oggeke?
+CM1_2E	¬  op¬gke, o, a kak t©?
+CM1_2F	g c«ga!
+CM1_2G	xopo¦o! xopo¦o! t© o¥eh¨ ªah¬t© ¥eoek.
+CM1_2H	ce, ¥to ªha« o xtp©x pe¬tax  - tpaga c actham.
+CM1_2I	y hx cygoctpote¨ha¬ komah¬ he o peke,
+CM1_2J	occ goeh © ªhat¨, koga choa pgyt acth©!
+CM1_2K	caco, o.
+CM1_2L	ga ¥to c too, mah¨¬k!
+CM1_2M	ga mhe e§e ©k, ©ctpo!
+CM1_3	~g~te¬ yªha!
+CM1_5	~g~g  ctpet¨ kehta oa  kye may!
+CM1_6	~g~oy¥ hy haªag  pht opkc!
+CM1_A	ep¥ett? © ky ctapy« e¥athy« paoty?
+CM1_B	ga, mo paothk paotaet tam.
+CM1_C	¬ © c hm  eo topoe, ho...y meh¬ mhoo ªhe.
+CM1_D	© xote pogat¨ ctapoe oopygoahe, paªpy¦ eo?
+CM1_E	¬ gyma«, hago ¥to-to e¥atat¨ - aªety, ypha...
+CM1_F	ox, cohh, ¬ epea«. ¬ p©k e¥atat¨ geh¨. ªto he coho.
+CM1_G	t© ªhae¦¨, ¬ gea ªto ogam.
+CM1_H	paga?
+CM1_I	ga. ho ham hyho teep¨ e§e hooo matepaa.
+CM1_J	kohe¥ho! chgkat oggeok haxogtc¬  opge.
+CM1_K	chgkat?
+CM1_L	ga. o cyxam ªto ce, ¥to ¬ c©¦a.
+CM1_M	y meh¬ ect¨ myk, ¥to  mhoo ªhaet...
+CM1_N	¬ otpa¥y e¥ep c hm, ©¥§a¬ mexahªm©...
+CNT1_1	kto t©? yyx! a! he   o! he o  o!
+CNT1_2	Ok, ¬ ckay! ckay!

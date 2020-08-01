@@ -1,0 +1,33 @@
+HELP23	cegyte ªa ~h~mootkom~w~ ha pagape, ec xotte kyt¨ xooghoe opye.
+HELP40	moho kpy¦t¨ ma¦h© p omo§ mootka  ¥eo-to ot¬eee.
+HELP41	a e§e moho tapaht¨ x ma¦ho
+LAW3_1	gopgo oc©aet pet.
+LAW3_16	ty a ª opg©.
+LAW3_17	ypac¬ c gopo!
+LAW3_2	ªaomh, oh pe¦eh, tak matephoe coo.
+LAW3_20	~g~paªe ma¦hy pc¬hoo!
+LAW3_21	he ep«, ¥to ªto pocxogt!
+LAW3_22	heepo¬tho!
+LAW3_23	agho! y meh¬ coo§ehe!
+LAW3_24	~g~ªtot mootok moet pogt¨c¬.
+LAW3_3	hehoeh, oka ¬ he ckay ha¥e.
+LAW3_4	© ªhaete, ¥to oh hehoeh.
+LAW3_5	omhte gopgo? omhte, oh hehoeh.
+LAW3_6	he hoeh, ¬cho? xopo¦o.
+LAW3_7	~g~pyhte gyx pc¬h©x, ho he yate x!
+LAW3_8	~r~© y pc¬hoo!
+LAW3_9	~g~paªete ma¦hy pc¬hoo  ©ta§te eo!
+LAW3_A	aaa! o, kto © tako! oe mo - mhe hyh© ho©e tpyc©!
+LAW3_B	ª, ªt cx c ceepa - oh gaho © ha opªohte  teep¨ egyt c«ga.
+LAW3_C	oop, ge ªt ¥epto© geh¨?!
+LAW3_D	ycokoc¬. m© e§e he ha to ctag.
+LAW3_E	ooo... ¬ gyma, ¥to t© o ªtom oªaot¦¨c¬, cep¨eªho!
+LAW3_F	a teep¨ ªt patk oop¬t, ¥to m© m ¥to-to goh©.
+LAW3_G	to ect¨, ¬ goeh m okaªat¨ ycyy.
+LAW3_H	o, kohe¥ho, mehho ªto ¬  xote ckaªat¨. he oxoe, ¥to© ¬ mo ªayat¨ pc¬hoo.
+LAW3_I	¬ he mo © hayat¨  peehka - oep¨te mhe, ¬ ©tac¬.
+LAW3_J	cy¦a.  ªto,  em¬hhk ope, gopgo, oy¥t ¬t¨ et ªa mo¦ehh¥ecto.
+LAW3_K	hyho ©ect ªtx aphe!
+LAW3_L	¬ oh¬. omo¥¨ m omeh¬t¨ ª¬g©. he ecokoc¬.
+LAW3_M	het het het het het - het! ¬ pooa. c pc¬h©m he ©¦o,
+LAW3_N	tak ¥to ªacta¨ x epegymat¨.

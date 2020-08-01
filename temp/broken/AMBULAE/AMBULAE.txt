@@ -1,0 +1,12 @@
+ALEVEL	mcc¬ megka ypoeh¨ ~1~
+ATUTOR2	~g~epeoªte a ehto  octa¨ octopoho. «o to¥ok ymeh¨¦aet x ¦ahc© ©t¨.
+A_CANC	~r~mcc¬ megka copaha!
+A_COMP1	mcc¬ megka ªaep¦eha: $~1~
+A_COMP2	t© hkoga he yctahe¦¨!
+A_COMP3	mcc¬ megka ©oheha! t© he yctae¦¨ o pem¬ hee!
+A_FAIL1	mcc¬ megka ªakoh¥eha.
+A_FAIL2	~r~a¦  maa¬ hacto¥oct¨ ata¨ho g¬ a ehta!
+A_FAIL3	~r~a eht mept!!
+A_FULL	~r~ckopa¬ otoa!!
+A_PASS	caceh!
+A_SAVES	«g cac: ~1~

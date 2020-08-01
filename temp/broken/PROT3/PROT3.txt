@@ -1,0 +1,52 @@
+PRO3_01	agho, ahc, pe¥em hmahe koo!
+PRO3_02	~g~ oª¨mte o ecky« ma¦hy  yctahote omy  kae tapy¦.
+PRO3_03	~g~ © octa ahca, oeªate ªa hm.
+PRO3_04	~g~ oexa.
+PRO3_05	~r~t© y ahca!
+PRO3_07	~g~ © ogopa pkp©te. oce¦te yctahot¨ omy!
+PRO3_08	~g~ oªpa§atec¨  ~h~omect¨e ep ett~g~ ha ~h~ªeªghom octpoe~g~.
+PRO3_09	c¬  ªatkh m pot!
+PRO3_10	o. top¥t peocxogho!
+PRO3_11	hemhoo ectkoato, ho oget...
+PRO3_12	o, ga , ga,  meh¬ toe hemhoo.
+PRO3_13	oe¥e, patok! ko© og¬t y¥¦e!
+PRO3_14	omh - y©ac¬ gpym koam
+PRO3_15	ª, o ep. kpac© y ac ªha¥ok.
+PRO3_16	mo, ahc.
+PRO3_17	ce, tamep© yctahoeh©, 5 cekyhg.
+PRO3_18	5 cekyhg?!! hyho otc«ga ©metat¨c¬!
+PRO3_19	teep¨ ªto x paªoªt.
+PRO3_20	~g~ yct¨ ga koa ooh¬tc¬ c too go apaa.
+PRO3_21	~g~goepc¨ go hyhoo ªtaa, ¥to© ko© © y te¬ ha xocte.
+PRO3_22	~g~gep¨ ªaokpoaha! tee hyha ¥cta¬ gep¨, ¥to© ªakp©t¨.
+PRO3_23	~g~og  ooªha¥ehhoe mecto, ¥to© yctahot¨ omy.
+PRO3_24	~g~o¥ct kae!
+PRO3_A	t© got! t© ¥to cee gymae¦¨?!
+PRO3_A1	agho.
+PRO3_B	t© ohmae¦¨, ¥to ªto takoe?!
+PRO3_C	m© mo ce otohyt¨!
+PRO3_D	haephoe, tamep ªaeo.
+PRO3_E	ªto mecto oho poogo, kak ªaog o poªogcty eepepko.
+PRO3_F	otom kto-to pacckaªa o ªtom koam...
+PRO3_G	 ¥em geo, pe¬ta?
+PRO3_H	mak goeh ©  oghom mecte hageat¨ ¦ymy,
+PRO3_I	ho epeyta pok  teep¨ tam oc«gy ko©.
+PRO3_J	hyho  copat¨ e§¥k  cmat©at¨c¬ otc«ga!
+PRO3_K	ycokotec¨ oa, gate mhe ogymat¨ hemhoo!
+PRO3_L	tomm ep ett he yeaet.
+PRO3_M	ko© pogytc¬ o ªtomy ªgah« xopo¦m pee¦kom?
+PRO3_N	ho ªto tpeyet pemeh.
+PRO3_O	hyho exat¨  ce ªae¥¨ camm.
+PRO3_P	ga, ho...
+PRO3_Q	hkto, kpome koa tyga  ªa m« he ogepetc¬!
+PRO3_R	tak ¥to m© ygem koam.
+PRO3_S	hyho goctat¨ opmy -  hyha¬ atpy¨ha¬ ma¦ha.
+PRO3_T	ce aogap¬ tee, mak.
+PRO3_U	poctte.
+PRO3_V	¬ ªha«.
+PRO3_W	ce ¥to, hyho, ªto omaht¨ koo a¨¥kom,
+PRO3_X	ªamaht¨ x  oy¦ky
+PRO3_Y	 ªaepet¨.
+PRO3_Z	xopo¦ ah. oexa!
+PRO_AS1	ªa§thoe ªagahe ©oheho
+PRO_AS2	~g~teep¨ omect¨e ep ett yget phoct¨ goxog go $~1~. he ªayg¨te opem¬ eo copat¨.

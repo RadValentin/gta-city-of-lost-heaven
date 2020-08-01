@@ -1,0 +1,90 @@
+HELP20	cegyte ªa ~h~yko t~w~ ha pagape, ¥to© hat paaª¬.
+LAW1_10	e§e ygmc¬, kpaca¥k!
+LAW1_11	¬  ªtom he comhea«c¨.
+LAW1_12	xmm...xopo¦ moto k.
+LAW1_13	het! mo moto k!
+LAW1_14	yx t©, ¬ «« o¨¦e moto k©.
+LAW1_15	ga, kpo¦ka, to¨ko ¥to ª¬ eo y kp¥a§eo ta
+LAW1_2	~g~goeptec¨ go ogk okohka.
+LAW1_3	~g~goeªte go¥¨ okohka go kya o oª .
+LAW1_4	~r~© y go¥¨ okohka!
+LAW1_5	t© yge¦¨ paotat¨ ha moeo ot a?
+LAW1_6	moet ©t¨.
+LAW1_7	h¥eo, ec ¬ ooy tee pyky ha koeho?
+LAW1_8	oªmoho...
+LAW1_9	tak t¬eo ©t¨ go¥ep¨« oatoo  ¬te¨hoo ot a. ¥ept.
+LAW1_A	g  oc, oopt oh -
+LAW1_B	- ¬ cge c« ho¥¨  ªtom kpece eª ceta   koe!
+LAW1_C	ªto pocto hec¥act¨e. m© poa!
+LAW1_D	ªt op©, cy¦a meh¬, oh meh¬ hagyt  otopyt mhe ooy. ªto pocto cme¦ho!
+LAW1_E	¬  yhepctete he g¬ ªtoo y¥c¬! agho, tak kakoo ¥epta m© ygem geat¨?
+LAW1_F	ªatkhc¨, c¬g¨  pacca¨c¬. ¬ tee ckay, ¥to m© ygem geat¨.
+LAW1_G	t© ©¬ch¦¨, kto ª¬ ha¦ kokah - a otom ¬ x y¨«.
+LAW1_H	ªto xopo¦a¬ m©c¨. ªto pekpacha¬ m©c¨. ga mhe ogymat¨, ga mhe ogymat¨, ga mhe ogymat¨.
+LAW1_I	- o! ªtot okohk  otctake, okohk ah apc¬ koptec.
+LAW1_J	oh ogh ª tex «ge, kotop©e omo mhe yctpot¨ cgeky
+LAW1_K	oga¨¦e ot ahgto ac ct. xopo¦o?
+LAW1_L	teep¨ cy¦a. oh gept c« apt« ha coe gopoo ¬xte  ªae
+LAW1_M	 ce o¨¦e «g ac ct  ygyt tam. oh¬tho?
+LAW1_N	y meh¬ ect¨ pa¦ehe, kohe¥ho, ot pa¦ehe,
+LAW1_O	ho ¬ h ªa ¥to tyga he ogy, he ©cyhy gae ooy ªa gep¨ - h ªa ¥to! ªtoo he yget.
+LAW1_P	¬ e tee ckaªa, ªatkhc¨! ¬ cam oegy...
+LAW1_Q	yx - o, o! mhe toe hpatc¬ 1978 ho ¬ ªha«, ¥to tam he yget h a, h ctptªa.
+LAW1_R	¬ h¥eo he me« pot ac, ho, mhe kaetc¬, am ctot eat¨ kyga aªa ag¬t.
+LAW1_S	a ¥to takoe, ¬ he tak oget?
+LAW1_T	agho, cy¦a c«ga. octahoc¨ y paaª¬  cka, ¥to ¬ te¬ oca. oh cgeaet tee p¥h© g.
+LAW1_U	agho, epeg...
+LAWP_1	gopo ho¥.
+LAWP_10	ho ha takoe tohkoe geo yget yma pemeh.
+LAWP_11	moet ©t¨, m© e§e ooopm.
+LAWP_12	a oka ¥to, oªo¨te oªhakomt¨ ac c moe go¥ep¨«,
+LAWP_13	mepcegec!
+LAWP_14	kapam¬, © he mo © oka paªe¥¨ ha¦eo oct¬, oka ¬ oty¥yc¨ o geam?
+LAWP_15	kohe¥ho, aa.
+LAWP_16	oaycta, poctte meh¬.
+LAWP_17	mepcegec!?
+LAWP_18	ga, pxogtc¬ c ªtm t¨.
+LAWP_19	agho. xo¥e¦¨ okay tee ha¦x cam©x otpatte¨h©x octe...
+LAWP_2	¬ ohma«, ¥to © ªgec¨ pegcta¬ete htepec© mp. poªehepa,
+LAWP_20	ªto ha¦ kohpeccmeh aekc ¦pa c ocxog¬§e ckohoo ªeªgo kehg cakc...
+LAWP_21	a © he ªhakom© c moe eho aypo? het?
+LAWP_22	hy, ªªª, k coaeh«, oha  aaame. a ªto kehg.
+LAWP_23	 ha take cy¥a y hac cega ect¨ y¥¦a¬ pyg¨ ac ct -
+LAWP_24	cega o¥apoate¨ha.
+LAWP_25	¬ eo okpoa  ªatem ycag  ªto kpeco ha koeckax!
+LAWP_26	xa-xa, ªaaho!
+LAWP_27	ga, a teep¨ ¬ §y cooghy« hegmoct¨.
+LAWP_28	a oh ta am¬ oªe acceha ªto geªª toppeht,
+LAWP_29	ep© ee  c «oh©m kyakom.
+LAWP_3	¬ hage«c¨, eo hegahe poem© he o¬ ha eo ªgopo¨e,
+LAWP_30	moho tee pacckaªat¨ - t© ªhae¦¨, kak  taahge pa«t  h-oh?
+LAWP_31	a teep¨ pacckay,
+LAWP_32	 hem het paketk, ec t© ohmae¦¨, o ¥em ¬!
+LAWP_33	moteht.
+LAWP_34	 ota¬ tpo a.
+LAWP_35	ªtot oth© coh¬ paa¬ pyka moeo ao¥k, xpomo ohcaec
+LAWP_36	a octa¨h©e - actop p¥apgc
+LAWP_37	 cego hteektya, kho peccep, ct ckott.
+LAWP_38	...ooaet aa«§x getok,
+LAWP_39	a otom p©aet ahtcka¬ akya
+LAWP_4	 ymctehhoe aooy¥e, mp...a?
+LAWP_40	pocto otkyc©aet m ¥eh©!
+LAWP_41	xa, t© takoo eg¨ hkoga  ªh he ge, paga?
+LAWP_42	okohk!
+LAWP_43	a¦ e¥ephk, kak cega, otp¬ch©, xa-xa!
+LAWP_44	¬ moy to¨ko ªht¨c¬ ªa coe ooªgahe.
+LAWP_45	aa, mo gopoo gpy. kak ac hat?
+LAWP_46	ha¦ ªhec o¥eh¨ coh© - apap© ha pah ax.
+LAWP_47	pem¬ aogapt¨ gpyªe  kgpoat¨ ha¦x paom, toap§.
+LAWP_48	kto tak pomko oopt?
+LAWP_49	pkapgo gac, mp. koka.
+LAWP_5	ep ett. oh to¨ko ¥to ctokhyc¬ c o¬ªh¨« otkp©too poctpahcta.
+LAWP_50	mepcegec!
+LAWP_51	o, ¬ pocto eª coeo gpya opatho  opog.
+LAWP_52	 gpyo paª, pkapgo!
+LAWP_53	gaa otc«ga ypat¨c¬.
+LAWP_54	oo§e-to, oteª meh¬  ky o oª .
+LAWP_6	ot¥ho, ot¥ho. a ©?
+LAWP_7	mhe pocto hyeh mo toap.
+LAWP_8	ax. ªto pocto oop¥te¨hoe cte¥ehe octo¬te¨ct.
+LAWP_9	kohe¥ho e, ¬ cam hae koe-kake cpak,

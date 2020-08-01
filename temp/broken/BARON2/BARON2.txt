@@ -1,0 +1,44 @@
+COK2_1	oghy e§¨ he omy, ¥to c kehthom!?
+COK2_13	ªhc ªhc. egh¬k.
+COK2_14	Ok, m© o¥t tam.
+COK2_15	ham hago hecko¨ko poycko.
+COK2_16	©ta§ cko¨ko moe¦¨ opy¬.
+COK2_17	ªatem ¬ hakoh« te¬,  t© yge¦¨ ha gopoe.
+COK2_2	¬ gyma«, mhe cega ªto hpaoc¨...kehth ªhc...
+COK2_20	¥ept! ªoha oh©! yepte hecko¨ko cogat!
+COK2_21	m© tyt haepem o¥ko!
+COK2_22	ªta e§¨ hepocta g¬ yctahok! ©hecte x!
+COK2_23	ok, t© kak y ce¬ goma! yga¥, pat!
+COK2_24	he ªgopo¨e:
+COK2_25	~g~g  coep geh¨ ha kp©¦e.
+COK2_27	t© g©pka  moe ªagh e!
+COK2_28	t© ohe¦¨!
+COK2_3	ªhc? t© ªhc ªhc?
+COK2_4	ª, ¬ ce oh¬ e§e  ¦koe!
+COK2_5	o pem¬ cymatox t©  koo-to ctpe¬?
+COK2_6	het. mhe hago e§e hemhoo otpehpoat¨c¬.
+COK2_8	¥to ªa ¥epto§ha ceogh¬ ©a?
+COK2_9	poh aehg.
+COK2_A	hy ¥to t© ªa gypak tako?
+COK2_B	gypak! gypak! gypak! gypak!
+COK2_C	tomm!
+COK2_D	¥to, pkapgo?
+COK2_E	ªt got© - ªt ag© xot¬t oec¥ectt¨ te¬.
+COK2_F	¥to ªa poema c ªtm geom.
+COK2_G	¥to t© gymae¦¨, ¥to t© geae¦¨?
+COK2_H	ªt heyga¥ cgea meh¬ hec¥acth©m,
+COK2_I	ckopo ce mama¦  o© ogyma«t, ¥to moyt pogaat¨ e¥¨  opoge.
+COK2_J	¥to ga¨¦e? oh«¥a¬ ma¬?!
+COK2_K	ªto mecto - kpeoct¨ ha hhem ªtae,
+COK2_L	 kehth ªgec¨ - kehth! kehth!
+COK2_M	oh epehecet te¬ ckoª¨ ªohy!
+COK2_N	yh¥to¨ x!
+COK2_O	¥to t© gymae¦¨, ¥to t© geae¦¨?
+COK2_P	¥to t© tyt geae¦¨?
+COK2_Q	t© §e¦¨ ¥to-to, ªto o¥egho 
+COK2_R	¥to gaª paªopa cgeky  pkoh¥ pata.
+COK2_S	oh  te¬ y¨et!
+COK2_T	¬ moy ª¬t¨ gaªa!
+COK2_U	het - cy¦a! ¬ oª¨my eo -
+COK2_V	- oh ha¥haet goep¬t¨ mhe.
+OPEN_B	gopo ha kohtheht goh© ©t¨ ªakp©t©
