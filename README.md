@@ -2,8 +2,9 @@
 
 ## Development
 
-1. Use [GXT Extractor](https://github.com/CookiePLMonster/GXT-Extractor) to get the original VC English translations extracted to text files by running `python gxt-extract.py TEXT/american.gxt` inside the Vice City installation directory.
-1. Do the same for the translations for "City of Lost Heaven", compare the differences and translate them back to English.
+1. Use [GXT Extractor](https://github.com/CookiePLMonster/GXT-Extractor) to unpack the mod's transation files by running  `python gxt-extract.py mod/american.gxt`.
+1. Notice that the extracted files don't have the proper encoding so many non-latin characters are not showing properly.
+1. Get an upacked Russing translation from [Vice-City-Russian-1C-GXT](https://github.com/DelmorS/Vice-City-Russian-1C-GXT) and spend hours comparing lines of text, replacing broken characters for words that look to match between the two transaltions.
 
 ## Notes
 
