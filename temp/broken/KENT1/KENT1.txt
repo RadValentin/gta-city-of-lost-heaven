@@ -1,22 +1,22 @@
-KPM1_1	~g~ahca gepat ha cake, otpa¬c¬  ©ta§ eo!
-KPM1_2	~r~t© goeh © ©ta§t¨ ahca ©m!
-KPM1_3	ªgopo¨e ahca:
-KPM1_4	~g~oteª ahca  octa¨!
-KPM1_5	~g~ªa too oh¬tc¬ «g gaca! oteª ahca  octa¨.
-KPM1_A	agho, ag, ¬ cacy to« epy.
-KPM1_B	t© o ¥em ªto oop¦¨?
-KPM1_C	omh¦¨ ªtoo ohahcta gaca, oxothka.
-KPM1_D	y heo to ma¨¥k, ahc. oop¬t, ¥to to gpy ©tac¬ eo...
-KPM1_E	ho y heo he oy¥oc¨, ec t© meh¬ ohmae¦¨.
-KPM1_F	kyga oh eo yeª? o-ahck, oaycta
-KPM1_G	©ta§ cto! oh eo yeª ha opogcky« caky.
-KPM1_H	¥ept oª¨m...t© cx!
-M_PASSN	mcc¬ pogeha!
-RESC_1	t© moe¦¨ ctpe¬t¨?
-RESC_2	kohe¥ho...gyma«...xopo¦o te¬ choa yget¨.
-RESC_3	gaa otc«ga ypat¨c¬.
-RESC_4	 tak ec¨ mo ah hakp©c¬, aogap¬ tee. t© ce tak copt, ahc!
-RESC_5	oh y moeo pata. ¥to t© gymae¦¨ ¬ ygy geat¨, ctp¥¨ eo aªoh©?
-RESC_6	pgetc¬ yt¨ ªtoo gaca, oka oh he y hac.
-RESC_7	gaa akyc¬  ctpetmc¬ ha mocty k ªeªghomy octpoy, ok?
-RESC_8	agho, oh¬.
+KPM1_1	~Д~лaнca Дepжaт нa cВaлke, oтпpaВлЯиcЯ и ВЫтaщи eгo!
+KPM1_2	~r~тЫ Дoлжeн БЫл ВЫтaщить лaнca жиВЫм!
+KPM1_3	зДopoВьe лaнca:
+KPM1_4	~Д~oтВeзи лaнca В гocпитaль!
+KPM1_5	~Д~зa тoБoи гoнЯтcЯ лЮДи Диaca! oтВeзи лaнca В гocпитaль.
+KPM1_A	лaДнo, гaД, Я cпacy тВoЮ Вepy.
+KPM1_B	тЫ o Чeм зтo гoВopишь?
+KPM1_C	пoмнишь зтoгo oнaниcтa Диaca, oxoтниka.
+KPM1_D	y нeгo тВoи мaльЧиk, лaнc. гoВopЯт, Чтo тВoи Дpyг пЫтaлcЯ eгo...
+KPM1_E	нo y нeгo нe пoлyЧилocь, ecли тЫ мeнЯ пoнимaeшь.
+KPM1_F	kyДa oн eгo yВeз? пo-aнглииckи, пoжaлyиcтa
+KPM1_G	ВЫтaщи cтВoл! oни eгo yВeзли нa гopoДckyЮ cВaлky.
+KPM1_H	Чepт Вoзьми...тЫ пcиx!
+M_PASSN	миccиЯ пpoиДeнa!
+RESC_1	тЫ мoжeшь cтpeлЯть?
+RESC_2	koнeЧнo...ДyмaЮ...xopoшo тeБЯ cнoВa yВиДeть.
+RESC_3	ДaВaи oтcЮДa yБиpaтьcЯ.
+RESC_4	и тak Вecь мoи плaн нakpЫлcЯ, БлaгoДapЯ тeБe. тЫ Вce тak иcпopтил, лaнc!
+RESC_5	oн yБил мoeгo Бpaтa. Чтo тЫ Дyмaeшь Я БyДy Дeлaть, cтpиЧь eгo гaзoнЫ?
+RESC_6	пpиДeтcЯ yБить зтoгo Диaca, пoka oн нe yБил нac.
+RESC_7	ДaВaи пakyиcЯ и ВcтpeтимcЯ нa мocтy k зВeзДнoмy ocтpoВy, ok?
+RESC_8	лaДнo, пoнЯл.

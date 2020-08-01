@@ -1,27 +1,27 @@
-PSYCH_1	¬ y, kak opt a ct!
-PSYCH_2	a ct paªpy¦ mhe ªh¨!
-RBM2_1	~g~oeg¨ ha myªhe ha mepop¬te ogcah¬  ©ta§ ottyga cxa.
-RBM2_2	~r~t© paª ma¦hy ahg©!
-RBM2_3	~g~eg¨ ha ogcahe!
-RBM2_4	~g~ªaep cxa! he ga emy yt!
-RBM2_5	~r~t© eo otep¬, got!
-RBM2_7	~r~ha aho haa, cx he o¬c¬!
-RBM2_8	~r~ha oxpahy haa, cx he o¬c¬!
-RBM2_A	tomm, gpy. pag te¬ get¨!
-RBM2_B	¥to pocxogt?
-RBM2_C	oxe paoh©, tomm....
-RBM2_D	ª, ¬ he ¦y¥y, ªto t¬eo, gpy, ªhae¦¨, t¬eo?
-RBM2_E	ªtot ªhatok gaªa, m© eo ega ªhaem, ho oh hac ªhaet.
-RBM2_F	hpatc¬ mhe gaªct. oh ªhaet o hac ce.
-RBM2_G	ªhaet, ¥to  «t e¨e cox ogpyek, ªx!
-RBM2_H	 ¥to epc hpatc¬ g«pah g«pah!
-RBM2_I	gypak, ªatkhc¨. otomy ¥to geªª tpaxaet oe .
-RBM2_J	ªhae¦¨, ªto kaccha¬ peaktha¬ e§¨?
-RBM2_K	ga, kaccha¬ peaktha¬ e§¨, paga. ho, ªtot ªhatok...
-RBM2_L	ga, ga, apeh¨, oh xo¥et, ¥to© a ct ymep.
-RBM2_M	egh© tomm.
-RBM2_N	a ct ymep. ªhae¦¨, oop¬t, ¥to y¥¦e ymepet¨ moog©m.
-RBM2_O	ho, tomm, t© goeh cact a cta!
-RBM2_P	y hac ogcahe ¥epeª ga ¥aca  ¬ gyma«...
-RBM2_Q	a pe¬ta gyma«t, ¥to ctakep ha¥haet ªgec¨ gyphy« paoty.
-RBM2_R	o, ªatkhc¨!
+PSYCH_1	Я Вйжy, kak гopйт лaВ фйcт!
+PSYCH_2	лaВ фйcт paзpyшйл мнe жйзнь!
+RBM2_1	~Д~пoeДь нa лймyзйнe нa мepoпpйЯтйe пoДпйcaнйЯ й ВЫтaщй oттyДa пcйxa.
+RBM2_2	~r~тЫ paзБйл мaшйнy БaнДЫ!
+RBM2_3	~Д~eДь нa пoДпйcaнйe!
+RBM2_4	~Д~зaБepй пcйxa! нe Дaй eмy yйтй!
+RBM2_5	~r~тЫ eгo пoтepЯл, йДйoт!
+RBM2_7	~r~нa фaнoВ нaпaлй, пcйx нe пoЯВйлcЯ!
+RBM2_8	~r~нa oxpaнy нaпaлй, пcйx нe пoЯВйлcЯ!
+RBM2_A	тoммй, Дpyг. paД тeБЯ ВйДeть!
+RBM2_B	Чтo пpoйcxoДйт?
+RBM2_C	плoxйe ВйБpaфoнЫ, тoммй....
+RBM2_D	зй, Я нe шyЧy, зтo тЯжeлo, Дpyг, знaeшь, тЯжeлo?
+RBM2_E	зтoт знaтok Джaзa, мЫ eгo eДВa знaeм, нo oн нac знaeт.
+RBM2_F	нpaВйтcЯ мнe Джaзйcт. oн знaeт o нac Вce.
+RBM2_G	знaeт, Чтo Вйллй лЮБйт Бeльe cВoйx пoДpyжek, зx!
+RBM2_H	йлй Чтo пepcй нpaВйтcЯ ДЮpaн ДЮpaн!
+RBM2_I	Дypak, зaтkнйcь. пoтoмy Чтo Джeзз тpaxaeт oВe .
+RBM2_J	знaeшь, зтo kлaccнaЯ peakтйВнaЯ Вeщь?
+RBM2_K	Дa, kлaccнaЯ peakтйВнaЯ Вeщь, пpaВДa. нo, зтoт знaтok...
+RBM2_L	Дa, Дa, пapeнь, oн xoЧeт, ЧтoБЫ лaВ фйcт yмep.
+RBM2_M	БeДнЫй тoммй.
+RBM2_N	лaВ фйcт yмep. знaeшь, гoВopЯт, Чтo лyЧшe yмepeть мoлoДЫм.
+RBM2_O	нo, тoммй, тЫ Дoлжeн cпacтй лaВ фйcтa!
+RBM2_P	y нac пoДпйcaнйe Чepeз ДВa Чaca й Я ДyмaЮ...
+RBM2_Q	a peБЯтa ДyмaЮт, Чтo cтaлkep нaЧйнaeт зДecь ДypнyЮ paБoтy.
+RBM2_R	oй, зaтkнйcь!

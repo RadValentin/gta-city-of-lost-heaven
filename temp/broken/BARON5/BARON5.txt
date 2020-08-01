@@ -1,25 +1,25 @@
-ASS1_1	ªto mecto haoheho pgypkam...octopohee...
-ASS1_13	gaª?! ¬ p¦e ªapat¨ to ªhec!
-ASS1_14	tomm! t© pega meh¬, got! ¬ ckopo te¬ y¨«..
-ASS1_15	~g~¦tymy ªgahe  ye gaªa !
-ASS1_16	~g~ye gaªa!
-ASS1_17	~g~mhoo yte  ocoh¬k.
-ASS1_18	~g~gep¨ ªaepta, opoy e§e.
-ASS1_19	ªtot yt¨!
-ASS1_2	tomm, ¬ pkpo« te¬.
-ASS1_20	tomm, y meh¬ poema c kehthom!
-ASS1_A	¬ gocta ham apy ctoo.
-ASS1_B	¥ept! ge t© ªto ª¬?
-ASS1_C	coxpah ªto.
-ASS1_D	gymae¦¨?
-ASS1_E	ga.
-ASS1_F	tyo gypak...
-ASS1_G	mo xopo¦ gom 
-ASS1_H	cmotp, ¥to cgea g¬ ªtoo!
-ASS1_I	ªto ªa moeo pata!
-ASS1_J	ep« tee, tomm.
-ASS1_K	¬ gyma, t©...
-ASS1_L	cokoho ho¥, mp. gaª.
-BUD1	ªgopo¨e ªhca:
-COK4_30	~r~ªhc mept!
-PROP_A	popeteh!
+ASS1_1	зтo мecтo нaпoлнeнo пpиДypkaми...ocтopoжнee...
+ASS1_13	Диaз?! Я пpишeл зaБpaть тВoи Бизнec!
+ASS1_14	тoмми! тЫ пpeДaл мeнЯ, иДиoт! Я ckopo тeБЯ yБьЮ..
+ASS1_15	~Д~штyпмyи зДaниe и yБeи Диaзa !
+ASS1_16	~Д~yБeи Диaзa!
+ASS1_17	~Д~мнoгo пyтeи В ocoБнЯk.
+ASS1_18	~Д~ДВepь зaпepтa, пoпpoБyи eщe.
+ASS1_19	зтoт пyть!
+ASS1_2	тoмми, Я пpиkpoЮ тeБЯ.
+ASS1_20	тoмми, y мeнЯ пpoБлeмa c kВeнтинoм!
+ASS1_A	Я Дocтaл нaм пapy cтВoлoВ.
+ASS1_B	Чepт! гДe тЫ зтo ВзЯл?
+ASS1_C	coxpaни зтo.
+ASS1_D	Дyмaeшь?
+ASS1_E	Дa.
+ASS1_F	тyпoи Дypak...
+ASS1_G	мoи xopoшии Дoм 
+ASS1_H	cмoтpи, Чтo cДeлaл ДлЯ зтoгo!
+ASS1_I	зтo зa мoeгo Бpaтa!
+ASS1_J	ВepЮ тeБe, тoмми.
+ASS1_K	Я Дyмaл, тЫ...
+ASS1_L	cпokoинoи нoЧи, мp. Диaз.
+BUD1	зДopoВьe лзнca:
+COK4_30	~r~лзнc мepтВ!
+PROP_A	пpиoБpeтeн!

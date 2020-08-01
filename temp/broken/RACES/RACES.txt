@@ -1,24 +1,24 @@
-RACEHLP	~w~ham ha~h~ ~k~~PED_SPRINT~ ~w~¥to© ha¥at¨ ©pahhy« ohky. ham ha~h~ ~k~~VEHICLE_ENTER_EXIT~ ~w~¥to© ©t.
-RACES00	ohka ~1~:
-RACES01	kohe¥ha¬ ckopoct¨
-RACES02	oy¦h gpa
-RACES03	eªga o opg«py
-RACES04	ah© kpyª
-RACES05	typ!
-RACES06	©ahe
-RACES07	xogha¬ ata: $~1~
-RACES08	y¥¦ee pem¬: ~1~:~1~
-RACES09	y¥¦ peªy¨tat: 1
-RACES10	y¥¦ peªy¨tat: 2
-RACES11	y¥¦ peªy¨tat: 3
-RACES12	y¥¦ peªy¨tat: 4-
-RACES13	gha tpacc©: ~1~.~1~ km
-RACES15	y¥¦ee pem¬: het
-RACES16	y¥¦ peªy¨tat: het
-RACES19	t© he moe¦¨ oªot¨ cee ªty ohky.
-RACES22	y¥¦ee pem¬: ~1~:0~1~
-RACES23	gha tpacc©: ~1~.~1~ m¨
-RACES_1	~g~goctah¨ ©ctpy« ta¥ky  eªa ha ctapt.
-RACES_2	~g~hyha ma¦ha, ªto he e¦exoghoe coct¬ªahe!
-RACES_3	3..2..1.. epeg!
-RACES_8	~r~© popa ohky!
+RACEHLP	~w~нaжми нa~н~ ~k~~PED_SPRINT~ ~w~ЧтoБЫ нaЧaть ВЫБpaннyЮ гoнky. нaжми нa~н~ ~k~~VEHICLE_ENTER_EXIT~ ~w~ЧтoБЫ ВЫити.
+RACES00	гoнka ~1~:
+RACES01	koнeЧнaЯ ckopocть
+RACES02	oyшн ДpaиВ
+RACES03	eзДa пo БopДЮpy
+RACES04	глaВнЫи kpyиз
+RACES05	тyp!
+RACES06	ВЫжиВaниe
+RACES07	ВxoДнaЯ плaтa: $~1~
+RACES08	лyЧшee ВpeмЯ: ~1~:~1~
+RACES09	лyЧшии peзyльтaт: 1
+RACES10	лyЧшии peзyльтaт: 2
+RACES11	лyЧшии peзyльтaт: 3
+RACES12	лyЧшии peзyльтaт: 4-и
+RACES13	Длинa тpaccЫ: ~1~.~1~ kм
+RACES15	лyЧшee ВpeмЯ: нeт
+RACES16	лyЧшии peзyльтaт: нeт
+RACES19	тЫ нe мoжeшь пoзВoлить ceБe зтy гoнky.
+RACES22	лyЧшee ВpeмЯ: ~1~:0~1~
+RACES23	Длинa тpaccЫ: ~1~.~1~ миль
+RACES_1	~Д~Дocтaнь БЫcтpyЮ тaЧky и eзжaи нa cтapт.
+RACES_2	~Д~нyжнa мaшинa, зтo нe пeшexoДнoe cocтЯзaниe!
+RACES_3	3..2..1.. ВпepeД!
+RACES_8	~r~ВЫ пpoигpaли гoнky!

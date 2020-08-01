@@ -1,22 +1,22 @@
-BM2_1	xaocmetp:
-BM2_2	~g~t© goeh paªopat¨c¬ c xaoc metpom ªa pem¬, ¥to ©o g¬ hac, t© kpyto!
-BM2_3	~g~ªykoo hgkatop okaª©aet, ¥to © goct ¥act metpa, pogoate.
-BM2_4	~r~© he goct xaoc metpa opem¬!
-BM2_A	ax, xo¥y choa.
-BM2_B	ª ep¥ett.
-BM2_C	caxapok oopt, ¥to t© ymee¦¨ opa§at¨c¬ c akom.
-BM2_D	ga, cko¨ko mhe e§e pe¬tct?
-BM2_E	¬ o¥eh¨ ªah¬t.
-BM2_F	ec ªto gpaka, ¥to okaet ªto.
-BM2_G	ctah¨ oghm ª hac aª ccop. ªto ¥act¨ cem¨.
-BM2_H	ga, ¬ ye ©  cem¨e. teep¨ ¬ he paota«.
-BM2_I	ga, t© pa, ho ªta cem¨¬ oªaottc¬ o tee.
-BM2_J	m© he pocm ©oh¬t¨ p¬ªhy« paoty 15 et ogp¬g.
-BM2_K	ga, ªha«. ¬ ªha«.
-BM2_L	ªto hao¨¦a¬ cem¨¬ ha oepe¨e.
-BM2_M	¥ept, hekotop©x ª hac pegaa ha¦a ctpaha.
-BM2_N	¬ ªaept hamom. cpo¥ho ªah¬t.
-BM2_O	o¥emy ¬ goeh poct¨ te¬ o ecop¬gkax c my¥ho.
-BM2_P	ªto ctpaha ªacyaet hka  ªag,  m© ªto cgeaem.
-BM2_Q	tak, yxog otc«ga, oª¨m ak  oka opogy!
-BM2_R	xopo¦o, xopo¦o.
+BM2_1	xaocмeтp:
+BM2_2	~Д~тЫ Дoлжeн paзoБpaтьcЯ c xaoc мeтpoм зa ВpeмЯ, Чтo БЫлo ДлЯ нac, тЫ kpyтoи!
+BM2_3	~Д~зВykoВoи инДиkaтop пokaзЫВaeт, Чтo ВЫ Дocтигли Чacти мeтpa, пpoДoлжaитe.
+BM2_4	~r~ВЫ нe Дocтигли xaoc мeтpa ВoВpeмЯ!
+BM2_A	ax, xoЧy cнoВa.
+BM2_B	зи ВepЧeтти.
+BM2_C	caxapok гoВopит, Чтo тЫ yмeeшь oБpaщaтьcЯ c Бaиkoм.
+BM2_D	Дa, ckoльko мнe eщe пpeпЯтcтВии?
+BM2_E	Я oЧeнь зaнЯт.
+BM2_F	ecли зтo Дpaka, Чтo пokaжeт зтo.
+BM2_G	cтaнь oДним из нac Бaз ccop. зтo Чacть ceмьи.
+BM2_H	Дa, Я yжe БЫл В ceмьe. тeпepь Я нe paБoтaЮ.
+BM2_I	Дa, тЫ пpaВ, нo зтa ceмьЯ пoзaБoтитcЯ o тeБe.
+BM2_J	мЫ нe пpocим ВЫпoлнЯть гpЯзнyЮ paБoтy 15 лeт пoДpЯД.
+BM2_K	Дa, знaЮ. Я знaЮ.
+BM2_L	зтo нaиБoльшaЯ ceмьЯ нa пoБepeжьe.
+BM2_M	Чepт, нekoтopЫx из нac пpeДaлa нaшa cтpaнa.
+BM2_N	Я зaпepт нaмoм. cpoЧнo зaнЯт.
+BM2_O	пoЧeмy Я Дoлжeн пpocить тeБЯ o БecпopЯДkax c мyжЧинoи.
+BM2_P	зтo cтpaнa зacлyжиВaeт пинka В зaД, и мЫ зтo cДeлaeм.
+BM2_Q	итak, yxoДи oтcЮДa, Вoзьми Бaиk и пokaжи гopoДy!
+BM2_R	xopoшo, xopoшo.

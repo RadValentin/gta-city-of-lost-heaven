@@ -1,52 +1,52 @@
-CUB4_02	~g~om© ygyt yctahoeh© c 45-cekyhgh©m tamepom.
-CUB4_03	~g~octaatec¨  ma¦he go tex op, oka ac he papky«t  ªgah.
-CUB4_04	~r~© ogh¬ ahky ha aªe, ham he octaetc¬ h¥eo gpyoo, kpome kak me¦at¨c¬!
-CUB4_06	~r~© hegoctato¥ho gaeko ot¨exa ot aª©,  ham pgetc¬ pekpatt¨ ogp©hy« oepa «!
-CUB4_07	o, pactopte¨ oªag, amo.
-CUB4_08	pet, amoc.
-CUB4_09	yªho. at¬hh ytac. mept.
-CUB4_10	amoc.
-CUB4_11	gectte¨ho amoc.
-CUB4_12	ª, ham hyha ma¦ha at¬hcko ahg©!
-CUB4_13	gaa-ka hagem ha¦x my¥a¥oc!
-CUB4_14	cegy ªa mom kompagec.
-CUB4_15	ok, ¬ gy...
-CUB4_16	copa«c¨ yctahot¨ omy, pkpo meh¬!
-CUB4_17	e!!
-CUB4_18	cmat¥h© paoh¥k, ¥e...
-CUB4_19	ªto pocto mycophk, ¥e.
-CUB4_20	y meh¬ ©a pekpacha¬ eh§ha... a o cocegcty.
-CUB4_21	ªhae¦¨, oh oto¬t ªgec¨ kacchy«   y.
-CUB4_22	ay, apeh¨. t© og¦¨ pocto kak pahehha¬ cyka!
-CUB4_23	otep¬c¬, apehek?
-CUB4_24	t© ªa© ee, g  ªaep eo.
-CUB4_26	~g~ªaep ee, otpa¬c¬ ha ceep k maeh¨komy at  ykpag ygy-ato.
-CUB4_27	~g~ctpet¨c¬ c pko  gpym kyh am.
-CUB4_28	~g~pcoeghc¨ k gpym kyh am  at¬hcko hapkoaopatop.
-CUB4_29	~g~o©a o cex mectax c metkam  yctaho tam om©.
-CUB4_30	~g~oce too, kak ygyt yctahoeh© tp om©, ypac¬ ª aopatop go ªp©a.
-CUB4_31	~g~ypac¬ ª aopatop!!
-CUB4_32	~g~papky ma¦hy ha mecte  ypac¬ oh.
-CUB4_A	gamo¥k, ªhaete, ¥to ¬ copa«c¨ cgeat¨?
-CUB4_B	copa«c¨ pctpet¨  cee at¬hha. a ªatem?
-CUB4_C	a ªatem o-¥eoe¥eck ªah¬t¨c¬ «o¨«.
-CUB4_D	ªhae¦¨ ªto, ¥ka. ¥to-to poge ªtoo.
-CUB4_E	heyga¥hk!
-CUB4_F	¥eh.
-CUB4_G	ª, apeh¨, he ygy tpoat¨ te¬ gec¬tyto©m ¦ectom!
-CUB4_H	ymepto poha, emy hpa¬tc¬ eh§h©! a he koªe  «ke!
-CUB4_I	tomm!! tomm, ¬ «« te¬, ««! o¦!
-CUB4_J	kyga o¦? moho ¬ cha¥aa ©¨« koe?
-CUB4_K	het pemeh! kpome too, ¬ ye eo .
-CUB4_L	m© copaemc¬ ª¬t¨ c coo at¬h.
-CUB4_M	tomm, kak t© oª¨me¦¨ c coo ªme«?
-CUB4_N	ykyc¦¨ ee ªa ªagh y! xaxaxa!
-CUB4_O	ota, ota, ymepto.
-CUB4_P	tomm, g  goctah¨ ham maeh¨ky« at¬hcky« ma¦hy.
-CUB4_Q	oce too, kak goctahe¦¨ ee, oªpa§ac¬  ªaep moeo aph¬.
-CUB4_R	ee,  ªaep eo k at¬ham.
-CUB4_S	a ªatem, eg¨ k at¬hckomy epepaat©a«§emy ªaogy  co¨ªy pactopte¨  ka¥ecte ªp©¥atk.
-CUB4_T	ym! oka-oka!
-CUB4_U	ymepto, a ¥to hac¥et te¬?
-CUB4_V	yyy... ¬ copa«c¨ octat¨c¬ ªgec¨  pcmotpet¨ ªa kae mecte c oa.
-CUB4_W	oh he ¥yctyet otmªma. ohmae¦¨?
+CUB4_02	~Д~БoмБЫ БyДyт ycтaнoВлeнЫ c 45-cekyнДнЫм тaимepoм.
+CUB4_03	~Д~ocтaВaитecь В мaшинe Дo тex пop, пoka Вac нe пpипapkyЮт В зДaнии.
+CUB4_04	~r~ВЫ пoДнЯли пaниky нa Бaзe, нaм нe ocтaeтcЯ ниЧeгo Дpyгoгo, kpoмe kak ВмeшaтьcЯ!
+CUB4_06	~r~ВЫ нeДocтaтoЧнo Дaлeko oтьexaли oт БaзЫ, и нaм пpиДeтcЯ пpekpaтить пoДpЫВнyЮ oпepa иЮ!
+CUB4_07	oи, pacтВopитeль пoзaДи, aмигo.
+CUB4_08	пpиВeт, aмигoc.
+CUB4_09	Бyзнo. гaитЯнин пyтac. мepтВ.
+CUB4_10	Вaмoc.
+CUB4_11	ДeиcтВитeльнo Вaмoc.
+CUB4_12	зи, нaм нyжнa мaшинa гaитЯнckoи БaнДЫ!
+CUB4_13	ДaВaи-ka нaиДeм нaшиx мyЧaЧoc!
+CUB4_14	cлeДyи зa мoими koмпpaДec.
+CUB4_15	ok, Я иДy...
+CUB4_16	coБиpaЮcь ycтaнoВить БoмБy, пpиkpoи мeнЯ!
+CUB4_17	Бeги!!
+CUB4_18	cимпaтиЧнЫи paиoнЧиk, Чeл...
+CUB4_19	зтo пpocтo мycopниk, Чeл.
+CUB4_20	y мeнЯ БЫлa пpekpacнaЯ жeнщинa... жилa пo coceДcтВy.
+CUB4_21	знaeшь, oни гoтoВЯт зДecь kлaccнyЮ пи  y.
+CUB4_22	Вay, пapeнь. тЫ ВoДишь пpocтo kak paнeннaЯ cyka!
+CUB4_23	пoтepЯлcЯ, пapeнek?
+CUB4_24	тЫ зaБЫл пeпe, иДи и зaБepи eгo.
+CUB4_26	~Д~зaБepи пeпe, oтпpaВлЯиcЯ нa ceВep k мaлeньkoмy гaити и ykpaДи ВyДy-aВтo.
+CUB4_27	~Д~ВcтpeтьcЯ c pиko и Дpyгими kyБин aми.
+CUB4_28	~Д~пpиcoeДиниcь k Дpyгим kyБин aм В гaитЯнckoи нapkoлaБopaтopии.
+CUB4_29	~Д~пoБЫВaи Вo Вcex мecтax c мeтkaми и ycтaнoВи тaм БoмБЫ.
+CUB4_30	~Д~пocлe тoгo, kak БyДyт ycтaнoВлeнЫ тpи БoмБЫ, yБиpaиcЯ из лaБopaтopии Дo ВзpЫВa.
+CUB4_31	~Д~yБиpaиcЯ из лaБopaтopии!!
+CUB4_32	~Д~пpипapkyи мaшинy нa мecтe и yБиpaиcЯ Вoн.
+CUB4_A	ДaмoЧkи, знaeтe, Чтo Я coБиpaЮcь cДeлaть?
+CUB4_B	coБиpaЮcь пpиcтpeлить В ceБe гaитЯнинa. a зaтeм?
+CUB4_C	a зaтeм пo-ЧeлoВeЧeckи зaнЯтьcЯ лЮБoВьЮ.
+CUB4_D	знaeшь зтo, Чиka. Чтo-тo ВpoДe зтoгo.
+CUB4_E	нeyДaЧниk!
+CUB4_F	Члeн.
+CUB4_G	зи, пapeнь, нe БyДy тpoгaть тeБЯ ДecЯтифyтoВЫм шecтoм!
+CUB4_H	yмБepтo poБинa, eмy нpaВЯтcЯ жeнщинЫ! a нe koзeл В ЮБke!
+CUB4_I	тoмми!! тoмми, Я лЮБлЮ тeБЯ, лЮБлЮ! пoшли!
+CUB4_J	kyДa пoшли? мoжнo Я cнaЧaлa ВЫпьЮ koфe?
+CUB4_K	нeт Вpeмeни! kpoмe тoгo, Я yжe eгo пил.
+CUB4_L	мЫ coБиpaeмcЯ ВзЯть c coБoи гaитЯн.
+CUB4_M	тoмми, kak тЫ Вoзьмeшь c coБoи змeЮ?
+CUB4_N	ykycишь ee зa зaДни y! xaxaxa!
+CUB4_O	Бoлтaи, Бoлтaи, yмБepтo.
+CUB4_P	тoмми, иДи и Дocтaнь нaм мaлeньkyЮ гaитЯнckyЮ мaшинy.
+CUB4_Q	пocлe тoгo, kak Дocтaнeшь ee, ВoзВpaщaиcЯ и зaБepи мoeгo пapнЯ.
+CUB4_R	пeпe, и зaБepи eгo k гaитЯнaм.
+CUB4_S	a зaтeм, eДь k гaитЯнckoмy пepepaБaтЫВaЮщeмy зaВoДy и иcпoльзyи pacтВopитeль В kaЧecтВe ВзpЫВЧaтkи.
+CUB4_T	Бyм! пoka-пoka!
+CUB4_U	yмБepтo, a Чтo нacЧeт тeБЯ?
+CUB4_V	yyy... Я coБиpaЮcь ocтaтьcЯ зДecь и пpиcмoтpeть зa kaфe Вмecтe c пoппa.
+CUB4_W	oн нe ЧyВcтВyeт oптимизмa. пoнимaeшь?

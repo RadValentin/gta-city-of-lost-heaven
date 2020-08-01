@@ -1,11 +1,11 @@
-OUTTIME	~r~megehho, gpy§e, c¦kom!
-TAX1_1	ok, y hac ect¨ epokaccha¬ ata ªa pooª c octpoa ctap¦ - ect¨ ea«§e?
-TAX1_2	ot - tomm, ¬ ªto epy!
-TAX1_3	ªto - mo¬ ata, haªag, ªagh a!
-TAX1_4	gaa, gaa, ha¥ha, ©ctpo!
-TAX1_5	xopo¦o! to¨ko he oª©ac¬!
-TAXW1_1	~g~ªaep V.I.P. ha octpoe ctap¦.
-TAXW1_2	~g~peª V.I.P haªag! oª¨m gpyy« ma¦hy!
-TAXW1_3	~r~ V.I.P. mept!
-TAXW1_4	~r~V.I.P. omep!
-TAXW1_6	~g~oteª V.I.P.  aªpoopt!
+OUTTIME	~r~мeДлeннo, Дpyжйщe, cлйшkoм!
+TAX1_1	ok, y нac ecть пepВokлaccнaЯ плaтa зa пpoВoз c ocтpoВa cтapфйш - ecть жeлaЮщйe?
+TAX1_2	Вoт - тoммй, Я зтo Бepy!
+TAX1_3	зтo - мoЯ плaтa, нaзaД, зaДнй a!
+TAX1_4	ДaВaй, ДaВaй, нaЧйнaй, БЫcтpo!
+TAX1_5	xopoшo! тoльko нe oБзЫВaйcЯ!
+TAXW1_1	~Д~зaБepй V.I.P. нa ocтpoВe cтapфйш.
+TAXW1_2	~Д~пpйВeзй V.I.P нaзaД! Вoзьмй ДpyгyЮ мaшйнy!
+TAXW1_3	~r~ V.I.P. мepтВ!
+TAXW1_4	~r~V.I.P. пoмep!
+TAXW1_6	~Д~oтВeзй V.I.P. В aзpoпopт!

@@ -1,12 +1,12 @@
-FIREPRO	mcc¬ oaphoo pyªoka 12 ©oheha. teep¨ © he otec¨ oh¬!!
-F_CANC	~r~mcc¬ oaphka otmeheha!
-F_EXTIN	ooh¨:
-F_FAIL1	mcc¬ oaphka okoh¥eha.
-F_FAIL2	~r~t© ooªga!
-F_PASS1	ooh¨ oa¦eh!
-F_STAR1	~g~coo§a«t o op¬§x ma¦hax  ~a~ ªohe. oacte tam oap.
-F_START	~g~coo§a«t o op¬§e ma¦he  ~a~ ªohe. oacte tam oap.
-SIREN_1	g¬ too, ¥to© k«¥t¨ oaph©e cpeh©, hamte ~h~~k~~VEHICLE_HORN~ ~w~khoky.
-SIREN_2	g¬ too, ¥to© k«¥t¨ oaph©e cpeh©, hamte ~h~~k~~VEHICLE_HORN~ ~w~khoky.
-SPRAY_1	co¨ªyte ~h~~k~~PED_FIREWEAPON~ ~w~khoky g¬ ctpe¨© ª ogometa.  e¨tec¨, co¨ªy¬ ~h~~k~~VEHICLE_TURRETLEFT~~w~  ~h~~k~~VEHICLE_TURRETRIGHT~~w~.
-SPRAY_4	co¨ªyte ~h~~k~~PED_FIREWEAPON~ ~w~khoky g¬ ctpe¨© ª ogometa.  e¨tec¨, co¨ªy¬ ~h~~k~~VEHICLE_TURRETLEFT~~w~  ~h~~k~~VEHICLE_TURRETRIGHT~~w~.
+FIREPRO	миccиЯ пoжapнoгo гpyзoВиka 12 ВЫпoлнeнa. тeпepь ВЫ нe Бoитecь oгнЯ!!
+F_CANC	~r~миccиЯ пoжapниka oтмeнeнa!
+F_EXTIN	oгoнь:
+F_FAIL1	миccиЯ пoжapниka okoнЧeнa.
+F_FAIL2	~r~тЫ oпoзДaл!
+F_PASS1	oгoнь пoгaшeн!
+F_STAR1	~Д~cooБщaЮт o гopЯщиx мaшинax В ~a~ зoнe. пoгacитe тaм пoжap.
+F_START	~Д~cooБщaЮт o гopЯщeи мaшинe В ~a~ зoнe. пoгacитe тaм пoжap.
+SIREN_1	ДлЯ тoгo, ЧтoБЫ ВkлЮЧить пoжapнЫe cиpeнЫ, нaжмитe ~н~~k~~VEHICLE_HORN~ ~w~kнoпky.
+SIREN_2	ДлЯ тoгo, ЧтoБЫ ВkлЮЧить пoжapнЫe cиpeнЫ, нaжмитe ~н~~k~~VEHICLE_HORN~ ~w~kнoпky.
+SPRAY_1	иcпoльзyитe ~н~~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ cтpeльБЫ из ВoДoмeтa.  eльтecь, иcпoльзyЯ ~н~~k~~VEHICLE_TURRETLEFT~~w~ и ~н~~k~~VEHICLE_TURRETRIGHT~~w~.
+SPRAY_4	иcпoльзyитe ~н~~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ cтpeльБЫ из ВoДoмeтa.  eльтecь, иcпoльзyЯ ~н~~k~~VEHICLE_TURRETLEFT~~w~ и ~н~~k~~VEHICLE_TURRETRIGHT~~w~.

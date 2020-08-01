@@ -1,19 +1,19 @@
-TEX2_A	tomm, ªto - goha¨g a. goha¨g, ªto - tomm, ep¥ett,
-TEX2_B	ocegh cmaª¥k opy¬, kotopoo t© g¦¨.
-TEX2_C	ga, xo-xo...
-TEX2_D	goha¨g, ªatkhc¨  cy¦a, moet, ¥emy  hay¥¦¨c¬.
-TEX2_E	ce¥ac, h¥eo tak he ªactat yact¨  eh© ha hegmoct¨, kak gopa¬ ahctepcka¬ oha -
-TEX2_F	ga, moet, ªto  ega, kak ecka¬ ¥yma  ¥to-to poge,
-TEX2_G	ho  ªtom cy¥ae ªto moet ªat c¦kom gaeko.
-TEX2_H	t© ªaomh ªto, t© - ¥et©pexaª© koªe?
-TEX2_I	hegaho ymep at¬hck opg ahctepo. ckopee, ªto cgea kyh ©, ho hkto he yepeh.
-TEX2_J	gaa yegm x  ªtom! t© pegcta¦¨ ce¬ kak kyhckoo xompa,
-TEX2_K	 hapa¦¨c¬ paªpomt¨ ªt oxopoh©. cme¦ac¬ c too  g cegom. 
-TEX2_L	t© ªaomh ªto, goha¨g?
-TEX2_M	ga ªto ce paho, ¥to yctt¨ koota  kyp¬thk, a?
-TEX2_N	a m© ygem cget¨ cªag  cmotpet¨, kak cka¥yt  eh©.
-TEXEXIT	~g~gaa ypat¨c¬ ª tt at!
-TEX_2A	~g~ot¥ho! oh te¬ ©ceg!
-TEX_2B	~r~gypak! «g goh© ogtepgt¨, ¥to kyhe  geaet xt!
-TEX_2C	~g~g  hag cee kyhcke ahgtcke  eta  tt aaha!
-TEX_2D	~g~oª¨m at¬hckoo ahgtckoo opga  oxopohh© ªa pomepo!
+TEX2_A	тoммй, зтo - ДoнaльД лaВ. ДoнaльД, зтo - тoммй, ВepЧeттй,
+TEX2_B	пocлeДнйй cмaзЧйk opyжйЯ, koтopoгo тЫ ВйДйшь.
+TEX2_C	Дa, xo-xo...
+TEX2_D	ДoнaльД, зaтkнйcь й cлyшaй, мoжeт, Чeмy й нayЧйшьcЯ.
+TEX2_E	ceйЧac, нйЧeгo тak нe зacтaВйт yпacть  eнЫ нa нeДВйжймocть, kak ДoБpaЯ гaнгcтepckaЯ Вoйнa -
+TEX2_F	Дa, мoжeт, зтo й БeДa, kak БйБлeйckaЯ Чyмa йлй Чтo-тo ВpoДe,
+TEX2_G	нo В зтoм cлyЧae зтo мoжeт зaйтй cлйшkoм Дaлeko.
+TEX2_H	тЫ зaпoмнйл зтo, тЫ - ЧeтЫpexглaзЫй koзeл?
+TEX2_I	нeДaВнo yмep гaйтЯнckйй лopД гaнгcтepoВ. ckopee, зтo cДeлaлй kyБйн Ы, нo нйkтo нe yВepeн.
+TEX2_J	ДaВaй yБeДйм йx В зтoм! тЫ пpeДcтaВйшь ceБЯ kak kyБйнckoгo xoмБpa,
+TEX2_K	й нaпpaВйшьcЯ paзгpoмйть зтй пoxopoнЫ. cмeшaйcЯ c тoлпoй й йДй cлeДoм. 
+TEX2_L	тЫ зaпoмнйл зтo, ДoнaльД?
+TEX2_M	Дa зтo Вce paВнo, Чтo пycтйть koйoтa В kypЯтнйk, a?
+TEX2_N	a мЫ БyДeм cйДeть cзaДй й cмoтpeть, kak ckaЧyт  eнЫ.
+TEXEXIT	~Д~ДaВaй yБйpaтьcЯ йз лйттл гaйтй!
+TEX_2A	~Д~oтлйЧнo! oнй тeБЯ ВЫcлeДйлй!
+TEX_2B	~r~Дypak! лЮДй ДoлжнЫ пoДтВepДйть, Чтo kyБйнe  Дeлaeт xйт!
+TEX_2C	~Д~йДй й нaйДй ceБe kyБйнckйe БaнДйтckйe  Вeтa В лйттл гaВaнa!
+TEX_2D	~Д~Вoзьмй гaйтЯнckoгo БaнДйтckoгo лopДa В пoxopoннЫй зaл poмepo!

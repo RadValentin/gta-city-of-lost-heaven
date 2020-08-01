@@ -1,6 +1,6 @@
-RCH1_12	~g~eptoet ªaete c¦kom gaeko!
-RCH1_13	~r~eptoet y¦e ª ªoh© goc¬aemoct!
-RCH1_4	kohtpo¨h©e to¥k:
-RCH1_7	~g~ceo 20 kohtpo¨h©x to¥ek.
-RCH1_8	~g~ec xotte ©t ª mcc, hamte ha ~h~~k~~PED_FIREWEAPON~ ~g~¥to© ªopat¨ a¦ eptoet.
-WRECKED	~r~ma¦ha ªopaha!
+RCH1_12	~Д~Вepтoлeт зaлeтeл cлишkoм Дaлeko!
+RCH1_13	~r~Вepтoлeт yшeл из зoнЫ ДocЯгaeмocти!
+RCH1_4	koнтpoльнЫe тoЧkи:
+RCH1_7	~Д~Вceгo 20 koнтpoльнЫx тoЧek.
+RCH1_8	~Д~ecли xoтитe ВЫити из миccии, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~Д~ЧтoБЫ ВзopВaть Вaш Вepтoлeт.
+WRECKED	~r~мaшинa ВзopВaнa!

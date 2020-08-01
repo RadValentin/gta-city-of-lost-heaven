@@ -1,18 +1,18 @@
-CAR1_1	.ge. cmt. a © mp. ep¥ett.
-CAR1_10	geo he cohoe ©o,
-CAR1_11	 m© oga o¨¦e hapat¨ 
-CAR1_12	oatct oat©x.
-CAR1_13	oo§e, ¬ mo © cephyt¨ ªhec epeg tem, kak oy¥ ce.
-CAR1_14	¥ept, ¬ mo tam ce ce¥¨, ec © xote.
-CAR1_15	ªto aha¬ paªta¬ ªem¬.
-CAR1_16	ox, ¬ he goeh © ohoat¨c¬ o ªtom.
-CAR1_17	mecto kaetc¬ ot¥h©m.
-CAR1_18	tak  ect¨, ¬ epy ªto  ªak«¥aem cgeky?
-CAR1_2	he xotte oyte¦ectoat¨?
-CAR1_3	c ygoo¨ctem.
-CAR1_4	hy, ¬ oe¥aeh pogae mecthoo otgeeh¬.
-CAR1_5	ªto mo ep©e oeh¬ oce too, kak cta po.
-CAR1_6	ho ce¥ac pem¬ gat¨c¬.
-CAR1_7	© okgaete opog?
-CAR1_8	eª coaeh¬, hage«c¨?
-CAR1_9	het. ¬ ¦¨ yxoy  otyck  ogoto«c¨ k oªpa§eh«.
+CAR1_1	Б.Джeи. cмит. a ВЫ мp. ВepЧeтти.
+CAR1_10	Дeлo нe cлoжнoe БЫлo,
+CAR1_11	и мЫ oжиДaли Бoльшe нaгpaБить 
+CAR1_12	БoгaтcтВ БoгaтЫx.
+CAR1_13	ВooБщe, Я мoг БЫ cВepнyть Бизнec пepeД тeм, kak пoлyЧил Вce.
+CAR1_14	Чepт, Я мoг тaм Вce cжeЧь, ecли БЫ xoтeл.
+CAR1_15	зтo глaВнaЯ paзВитaЯ зeмлЯ.
+CAR1_16	ox, Я нe Дoлжeн БЫл ВoлнoВaтьcЯ oБ зтoм.
+CAR1_17	мecтo kaжeтcЯ oтлиЧнЫм.
+CAR1_18	тak и ecть, Я Бepy зтo и зakлЮЧaeм cДeлky?
+CAR1_2	нe xoтитe пoпyтeшecтВoВaть?
+CAR1_3	c yДoВoльcтВиeм.
+CAR1_4	нy, Я oпeЧaлeн пpoДaжeи мecтнoгo oтДeлeниЯ.
+CAR1_5	зтo мoи пepВЫe ВлoжeниЯ пocлe тoгo, kak cтaл пpoфи.
+CAR1_6	нo ceиЧac ВpeмЯ ДВигaтьcЯ.
+CAR1_7	ВЫ пokиДaeтe гopoД?
+CAR1_8	Бeз coжaлeниЯ, нaДeЮcь?
+CAR1_9	нeт. Я лишь yxoжy В oтпyck и пoДгoтoВлЮcь k ВoзВpaщeниЮ.

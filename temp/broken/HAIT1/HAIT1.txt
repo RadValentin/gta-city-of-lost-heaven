@@ -1,30 +1,30 @@
-HAM1_1	~g~ko© ye ogpa«tc¬ k ham. ©ctpo, © goh© x epet¨!
-HAM1_2	~r~ko© gopac¨ go ykp©t¬ ep©m!
-HAM1_3	~g~ephte ªt ¦tyk haªag  ykp©te!
-HAM1_4	~g~xopo¦o! a teep¨ cegy«§!
-HAM1_6	~r~ye§e yh¥toeho, t© pgypok!
-HAM1_7	~g~ko© gopac¨ go ykp©t¬! yete x, oka oh he yea!
-HAM1_8	~g~ko© gopac¨ go ªaaco, gac¬!
-HAM1_A	pet? pet?
-HAM1_B	ªaxog, gopoo  ycoko meh¬.
-HAM1_C	t©, goho ©t¨, tot o¨¦o oxo myk, po kotopoo pacckaª©a aa.
-HAM1_D	oh mhe pacckaª©a po te¬, ªhae¦¨, koga pxog,
-HAM1_E	 o gpyx, ¥to gyt te¬.
-HAM1_F	teep¨ m© ce ympem hagoo, ho t©,
-HAM1_G	tee ¬ he o¥eh¨ ªagy«, xa-xa-xa-xa!
-HAM1_H	¬ oy¥ pkaª pt c«ga.
-HAM1_I	t© x c©¦¦¨?
-HAM1_J	oh poªhoc¬t toe m¬, apeh¨, gat¨ o¥eh¨ xot¬t c too oªgopoat¨c¬?
-HAM1_K	kak oaet to¬ ctapa¬ tety¦ka oet, moet oha tee omoet.
-HAM1_L	moet oha gact tee hemhoo yy, oce ceo ªtoo.
-HAM1_M	gat¨ tee ma, ¥to© agokat© ªatkhyc¨, xmm?
-HAM1_N	cy¦a, ªto ce o¥eh¨, mmm...gat¨ mhe ¥to?
-HAM1_O	¬, mhe kaetc¬, ¬ ª¬ he tot agpec...
-HAM1_P	cgea ªto g¬ meh¬, tomm......
-HAM1_Q	kyh ©, p¬ªh©e oh«¥e pogox, mmm,
-HAM1_R	y meh¬ © kpaceh¨k ma¨¥k c at, ooopeª.
-HAM1_S	teep¨ oh pacckaªa o , ge ¬ xpah« co opo¦k.
-HAM1_T	oh gyma«t, ¥to ªto hapkotk, gypak.
-HAM1_U	teep¨ yg¨ xopo¦m ma¨¥kom, tomm, goctah¨ tete oet opo¦ok.
-HAM1_V	ga, ga, kohe¥ho, kohe¥ho.
-HAT_1A	~g~he gac¬, ag!
+HAM1_1	~Д~koпЫ yжe пoДБиpaЮтcЯ k нaм. БЫcтpo, ВЫ ДoлжнЫ иx пepeБить!
+HAM1_2	~r~koпЫ ДoБpaлиcь Дo ykpЫтиЯ пepВЫми!
+HAM1_3	~Д~Вepнитe зти штykи нaзaД В ykpЫтиe!
+HAM1_4	~Д~xopoшo! a тeпepь cлeДyЮщии!
+HAM1_6	~r~yБeжищe yниЧтoжeнo, тЫ пpиДypok!
+HAM1_7	~Д~koпЫ ДoБpaлиcь Дo ykpЫтиЯ! yБeитe иx, пoka oни нe yБeжaли!
+HAM1_8	~Д~koпЫ ДoБpaлиcь Дo зaпacoВ, ДВигaиcЯ!
+HAM1_A	пpиВeт? пpиВeт?
+HAM1_B	зaxoДи, Дopoгoи и ycпokoи мeнЯ.
+HAM1_C	тЫ, Дoлжнo БЫть, тoт Бoльшoи плoxoи мyжиk, пpo koтopoгo pacckaзЫВaл пaпa.
+HAM1_D	oн мнe pacckaзЫВaл пpo тeБЯ, знaeшь, koгДa пpиxoДил,
+HAM1_E	и o Дpyгиx, Чтo жДyт тeБЯ.
+HAM1_F	тeпepь мЫ Вce yмpeм нaДoлгo, нo тЫ,
+HAM1_G	тeБe Я нe oЧeнь зaВиДyЮ, xa-xa-xa-xa!
+HAM1_H	Я пoлyЧил пpиkaз пpиити cЮДa.
+HAM1_I	тЫ иx cлЫшишь?
+HAM1_J	oни пpoизнocЯт тВoe имЯ, пapeнь, ВиДaть oЧeнь xoтЯт c тoБoи пoзДopoВaтьcЯ?
+HAM1_K	kak пoжиВaeт тВoЯ cтapaЯ тeтyшka пoлeт, мoжeт oнa тeБe пoмoжeт.
+HAM1_L	мoжeт oнa Дacт тeБe нeмнoгo жyжy, пocлe Вceгo зтoгo.
+HAM1_M	Дaть тeБe мaгии, ЧтoБЫ aДВokaтЫ зaтkнyлиcь, xмм?
+HAM1_N	cлyшaи, зтo Вce oЧeнь, ммм...Дaть мнe Чтo?
+HAM1_O	Я, мнe kaжeтcЯ, Я ВзЯл нe тoт aДpec...
+HAM1_P	cДeлaи зтo ДлЯ мeнЯ, тoмми......
+HAM1_Q	kyБин Ы, гpЯзнЫe ВoнЮЧиe пpoиДoxи, ммм,
+HAM1_R	y мeнЯ БЫл kpacиВeньkии мaльЧиk c гaити, гoлoВopeз.
+HAM1_S	тeпepь oни pacckaзaли пoли ии, гДe Я xpaнЮ cВoи пopoшkи.
+HAM1_T	oни ДyмaЮт, Чтo зтo нapkoтиkи, Дypakи.
+HAM1_U	тeпepь БyДь xopoшим мaльЧиkoм, тoмми, Дocтaнь тeтe пoлeт пopoшok.
+HAM1_V	Дa, Дa, koнeЧнo, koнeЧнo.
+HAT_1A	~Д~нe ДВигaиcЯ, гaД!

@@ -1,20 +1,20 @@
-BIKE1_1	pa¨ho. ocmotpm, ¥to moho cgeat¨.
-BM1_1	~g~oy¥ pª  ahea  g  ha¥a¨hy« to¥ky.
-BM1_2	~g~hago pe  ahea g¬ ªaep¦eh¬!
-BM1_3	~r~oh§k atakoah©!
-BM1_A	ge ªkep?
-BM1_B	mhe hago ekepa...
-BM1_C	koo-koo?
-BM1_D	tomm ep¥ett.
-BM1_E	ep¥ett
-BM1_F	t© he oxo ha koa, ªto ªamet mhytky.
-BM1_G	©ctpee oop.
-BM1_H	keht o oop, ¥to © goh© oece¥t¨ eªoachoct¨ tpahcopty eo copk.
-BM1_I	keht o? he me¥ta o ªtom.
-BM1_J	po¦© paª, koga oh © ªgec¨, oh ©¦e ¥epeª okho  paªgh¥hom koct«me.
-BM1_K	tee htepecho  het?
-BM1_L	m© ¦¨ xote omo¥¨.
-BM1_M	ge eo yget¨?
-BM1_N	ªto he ky, c©hok. y te¬ ect¨ moto k?
-BM1_O	c¬g¨ ha taypetky  ©e?
-BM1_P	ªeeh, ocmotp, kak ge a ogt moto k...
+BIKE1_1	пpaВильнo. пocмoтpим, Чтo мoжнo cДeлaть.
+BM1_1	~Д~пoлyЧи фpиВзи или aнгeлa и иДи В нaЧaльнyЮ тoЧky.
+BM1_2	~Д~нaДo фpиВeи или aнгeлa ДлЯ зaВepшeниЯ!
+BM1_3	~r~гoнщиkи aтakoВaнЫ!
+BM1_A	гДe Бзиkep?
+BM1_B	мнe нaДo Бeиkepa...
+BM1_C	koгo-koгo?
+BM1_D	тoмми ВepЧeтти.
+BM1_E	ВepЧeтти
+BM1_F	тЫ нe пoxoж нa koпa, зтo зaимeт минyтky.
+BM1_G	БЫcтpee гoВopи.
+BM1_H	keнт пoл гoВopил, Чтo ВЫ ДoлжнЫ oБecпeЧить Бeзoпacнocть тpaнcпopтy eгo cБopkи.
+BM1_I	keнт пoл? нe мeЧтaи oБ зтoм.
+BM1_J	пpoшлЫи paз, koгДa oн БЫл зДecь, oн ВЫшeл Чepeз okнo В пpaзДниЧнoм kocтЮмe.
+BM1_K	тeБe интepecнo или нeт?
+BM1_L	мЫ лишь xoтeли пoмoЧь.
+BM1_M	гДe eгo yВиДeть?
+BM1_N	зтo нe kлyБ, cЫнok. y тeБЯ ecть мoтo иkл?
+BM1_O	cЯДь нa тaБypeтky и ВЫпeи?
+BM1_P	зeппeлин, пocмoтpи, kak ДeВи a ВoДит мoтo иkл...

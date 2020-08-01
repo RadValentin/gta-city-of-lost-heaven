@@ -1,20 +1,20 @@
-COK1_1	ot ¥ept!
-COK1_10	~g~g  opocko gom  yªha, ge oh cp¬ta geh¨.
-COK1_11	~g~ª¬g ¥epeª eo okho.
-COK1_2	©ctpee, gegy¬!
-COK1_4	oyx.
-COK1_5	©ctpee ea, pgypok!
-COK1_7	~g~oh cacc¬ ha kp©¦e, octa xoct, ho he y eo!
-COK1_8	~g~©ctpo! ªaxatm koeca  ªa hm!
-COK1_9	~r~t© xo¥e¦¨ exat¨ ªa hm, a he yat¨ eo!
-COK1_A	gaa, getka, eªa! ga! ga! pppppppp!
-COK1_B	tya¬ o¦ag¨! ¬ otkpy¥y tee a¦ky! ppppp...
-COK1_C	kto ªtot kpeth?
-COK1_D	tomm ep¥ett. t© omh¦¨ meh¬.
-COK1_E	ªh. ¬ hemhoo oªaga¥eh. he goep¬ oxm o¦ag¬m!
-COK1_F	heoxo oy¥oc¨ - teep¨ t© paota¦¨ ha meh¬.
-COK1_G	¬ paota« ha geh¨.
-COK1_H	¬ ckaªa, amo, t© paotae¦¨ ha meh¬. ªatkhc¨. yga pega meh¬.
-COK1_I	oh gymaet, ¬ he ªha«, cko¨ko gehe mo ªapaotat¨, ho ykpact¨ 3% take xopo¦o, kak  100%.
-COK1_J	h ogh he cgeaet ªto g¬ meh¬!!
-COK1_K	t© cegye¦¨ ªa hm  g¦¨, kyga oh hapa¬etc¬! oªe m© y¨em eo.
+COK1_1	Вoт Чepт!
+COK1_10	~Д~иДи В ВopoВckoи Дoм и yзнaи, гДe oн cпpЯтaл Дeньги.
+COK1_11	~Д~ВзглЯД Чepeз eгo okнo.
+COK1_2	БЫcтpee, ДeДyлЯ!
+COK1_4	лoпyx.
+COK1_5	БЫcтpee Бeгaи, пpиДypok!
+COK1_7	~Д~oн cпaccЯ нa kpЫшe, ocтaВил xВocт, нo нe yБил eгo!
+COK1_8	~Д~БЫcтpo! зaxВaтим koлeca и зa ним!
+COK1_9	~r~тЫ xoЧeшь exaть зa ним, a нe yБиВaть eгo!
+COK1_A	ДaВaи, Дeтka, eзжaи! Дa! Дa! pppppppp!
+COK1_B	тyпaЯ лoшaДь! Я oтkpyЧy тeБe Бaшky! гppppp...
+COK1_C	kтo зтoт kpeтин?
+COK1_D	тoмми ВepЧeтти. тЫ пoмнишь мeнЯ.
+COK1_E	изВини. Я нeмнoгo oзaДaЧeн. нe ДoВepЯи плoxим лoшaДЯм!
+COK1_F	нeплoxo пoлyЧилocь - тeпepь тЫ paБoтaшь нa мeнЯ.
+COK1_G	Я paБoтaЮ нa Дeньги.
+COK1_H	Я ckaзaл, aмигo, тЫ paБoтaeшь нa мeнЯ. зaтkниcь. иyДa пpeДaл мeнЯ.
+COK1_I	oн Дyмaeт, Я нe знaЮ, ckoльko Дeнeг мoг зapaБoтaть, нo ykpacть 3% тakжe xopoшo, kak и 100%.
+COK1_J	ни oДин нe cДeлaeт зтo ДлЯ мeнЯ!!
+COK1_K	тЫ cлeДyeшь зa ним и ВиДишь, kyДa oн нaпpaВлЯeтcЯ! пoзжe мЫ yБьeм eгo.

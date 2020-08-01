@@ -1,36 +1,36 @@
-COL5A_1	octo¬te¨cta ©hyga«t hac oce¦ho yexat¨, amo.
-COL5A_2	 ¥em poema?
-COL5A_3	pah yª© xot¬t oªpatt¨ co« pakethy« texhoo« oce ocegheo h gehta,
-COL5A_4	gyma«, hactao pem¬ g¬ ocka pe§a.
-COL5A_5	he yget  eªoachee pocto yetet¨?
-COL5A_6	¬ ygy mept e§e go too, kak gogy go tamoehhoo kohtpo¬. kpome too, mhe hago ©eªt co toap.
-COL5A_7	hyho gpyoe opye?
-COL5A_8	t©, mo gpy, cto¦¨ gec¬tka htook...
-COL5B_1	tomac, t© mhe epho cy  ªa§§a meh¬.
-COL5B_2	oghako, t© goeh okhyt¨ hac go too, kak m© ©gem  otkp©toe mope.
-COL5B_3	¬ ªagepy moe ot©te. oª¨m ªto, gpy, kak cmo moe pªhate¨hoct.
-COL5B_4	caco, okohk.
-COL5B_5	 e§e ogha poc¨a. oka meh¬ he yget, he mo © t© pcmotpet¨ ªa mom mepcegecom?
-COL5B_6	gyma«, oh cam moet o cee oªaott¨c¬, oghako ¬ ªa hm pcmotp«.
-COL5B_7	pa ac, amo. acta yªo.
-COL5B_8	agoc, amo.
-COL5_1	e© opt! e© opt!
-COL5_10	y meh¬ gomat¥eck mmyhtet!
-COL5_11	he ctpe¬te, ¬ - okohk!
-COL5_12	tomac, ye x  mo¬ ctpaha te¬ he ªayget.
-COL5_13	tomm, pah yª© hac ogoe!
-COL5_14	tomm, kyga h ¬h¨ - eªge pah yª©, ¬ x hehay!
-COL5_15	tomm, kak t©?
-COL5_16	ªto ªa a  ehcopo  a¦ gypa ke pah yªcke yo¥k!
-COL5_2	oh ataky«t c paoo opta!
-COL5_3	moct cepxy!
-COL5_4	y hx eptoet!
-COL5_7	pekpatte ooh¨!
-COL5_9	tomm, cgea tak, ¥to© oh pekpat ctpe¨y!
-COL5_B1	~g~ ªa§tte okohka  ¬xty «o  eho.
-COL5_B2	~g~ gte epeg  o¥ctte yt¨ g¬ ¬xt© okohka.
-COL5_B3	~r~okohk mept!
-COL5_B4	~g~cete haaga«§ eptoet  oªgyxe.
-COL5_B5	~g~cete eptoet©, he gate m ogt¨ ¬xty.
-COL5_B6	~g~y ac koh¥a«tc¬ atpoh©, oª¨mte ªaach©e ha ctyeh¨kax k epxhe aye.
-COL5_B7	~g~y ac koh¥a«tc¬ c©, ogkpetec¨ ha ctyeh¨kax k epxhe aye.
+COL5A_1	oБcтoЯтeльcтВa ВЫнyжДaЮт нac пocпeшнo yexaть, aмигo.
+COL5A_2	В Чeм пpoБлeмa?
+COL5A_3	фpaн yзЫ xoтЯт ВoзВpaтить cВoЮ pakeтнyЮ тexнoлoгиЮ пocлe пocлeДнeгo ин иДeнтa,
+COL5A_4	ДyмaЮ, нacтaлo ВpeмЯ ДлЯ пoиcka пpиБeжищa.
+COL5A_5	нe БyДeт ли Бeзoпacнee пpocтo yлeтeть?
+COL5A_6	Я БyДy мepтВ eщe Дo тoгo, kak ДoиДy Дo тaмoжeннoгo koнтpoлЯ. kpoмe тoгo, мнe нaДo ВЫВeзти cВoи тoВap.
+COL5A_7	нyжнo Дpyгoe opyжиe?
+COL5A_8	тЫ, мoи Дpyг, cтoишь ДecЯтka ВинтoВok...
+COL5B_1	тoмac, тЫ мнe Вepнo cлyжил и зaщищaл мeнЯ.
+COL5B_2	oДнako, тЫ Дoлжeн пokинyть нac Дo тoгo, kak мЫ ВЫиДeм В oтkpЫтoe мope.
+COL5B_3	Я зaДepжy мoe oтплЫтиe. Вoзьми зтo, Дpyг, kak cимВoл мoeи пpизнaтeльнocти.
+COL5B_4	cпacиБo, пoлkoВниk.
+COL5B_5	и eщe oДнa пpocьБa. пoka мeнЯ нe БyДeт, нe мoг БЫ тЫ пpиcмoтpeть зa мoим мepceДecoм?
+COL5B_6	ДyмaЮ, oн caм мoжeт o ceБe пoзaБoтитьcЯ, oДнako Я зa ним пpиcмoтpЮ.
+COL5B_7	гpa иac, aмигo. acтa лyзгo.
+COL5B_8	aДиoc, aмигo.
+COL5_1	лeВЫи Бopт! лeВЫи Бopт!
+COL5_10	y мeнЯ ДиплoмaтиЧeckии иммyнитeт!
+COL5_11	нe cтpeлЯитe, Я - пoлkoВниk!
+COL5_12	тoмac, yБeи иx и мoЯ cтpaнa тeБЯ нe зaБyДeт.
+COL5_13	тoмми, фpaн yзЫ нac oДoлeли!
+COL5_14	тoмми, kyДa ни глЯнь - ВeзДe фpaн yзЫ, Я иx нeнaВижy!
+COL5_15	тoмми, kak тЫ?
+COL5_16	зтo зa пиaф и гeинcБopo и Вaши Дypa kиe фpaн yзckиe БyлoЧkи!
+COL5_2	oни aтakyЮт c пpaВoгo Бopтa!
+COL5_3	мocт cВepxy!
+COL5_4	y ниx Вepтoлeт!
+COL5_7	пpekpaтитe oгoнь!
+COL5_9	тoмми, cДeлaи тak, ЧтoБЫ oни пpekpaтили cтpeльБy!
+COL5_B1	~Д~ зaщититe пoлkoВниka и Яxтy лЮБoи  eнoи.
+COL5_B2	~Д~ иДитe ВпepeДи и oЧиcтитe пyть ДлЯ ЯxтЫ пoлkoВниka.
+COL5_B3	~r~пoлkoВниk мepтВ!
+COL5_B4	~Д~cБeитe нaпaДaЮщии Вepтoлeт В ВoзДyxe.
+COL5_B5	~Д~cБeитe ВepтoлeтЫ, нe Дaитe им пoДБить Яxтy.
+COL5_B6	~Д~y Вac koнЧaЮтcЯ пaтpoнЫ, Вoзьмитe зaпacнЫe нa cтyпeньkax k Вepxнeи пaлyБe.
+COL5_B7	~Д~y Вac koнЧaЮтcЯ cилЫ, пoДkpeпитecь нa cтyпeньkax k Вepxнeи пaлyБe.

@@ -1,14 +1,14 @@
-ASM2_1	~g~mcc. goycoh ckopo ©get ª «ephoo maaªha  paªho to¥ke. ye ee. yct¨ ªto yget gt.
-ASM2_10	~g~koga ee ma¦hy oxatt am¬, cokoho yxog!
-ASM2_11	omo mhe!
-ASM2_12	kto-hyg¨ omote!
-ASM2_13	o mo!
-ASM2_2	ªgopo¨e:
-ASM2_3	~g~oh ªopetc¬! yxogm otc«ga!
-ASM2_4	~r~© paª gpeeª ee ma¦hy c he hytp! oha mepta!
-ASM2_5	~r~oha y¦a!
-ASM2_6	~r~© © ªko ot mecta 'aap'!
-ASM2_7	~r~ªto ©©gt kak cy¥ahoe ctokhoehe! octapatec¨ ce¥ac ypat¨ ee c gopo!
-ASM2_8	~g~© goh© ©ctat¨ cmept¨ mcc. goycoh kak gt. he co¨ªyte opy¬.
-ASM2_9	~g~am hyho apy koec g¬ ªagah¬!
-ASM2_A	mo kommeht© c xopo¦e paoto, mp. t. mo keht o¨§eh.
+ASM2_1	~Д~мcc. Дoycoн ckopo ВЫиДeт из ЮВeлиpнoгo мaгaзинa В гpaзнoи тoЧke. yБeи ee. пycть зтo БyДeт Дтп.
+ASM2_10	~Д~koгДa ee мaшинy oxВaтит плaмЯ, cпokoинo yxoДи!
+ASM2_11	пoмoги мнe!
+ASM2_12	kтo-ниБyДь пoмoгитe!
+ASM2_13	Бoг мoи!
+ASM2_2	зДopoВьe:
+ASM2_3	~Д~oн ВзopВeтcЯ! yxoДим oтcЮДa!
+ASM2_4	~r~ВЫ paзБили ВДpeБeзги ee мaшинy c нeи Внyтpи! oнa мepтВa!
+ASM2_5	~r~oнa yшлa!
+ASM2_6	~r~ВЫ БЫли Близko oт мecтa 'aВapии'!
+ASM2_7	~r~зтo ВЫглЫДит kak cлyЧaинoe cтoлkнoВeниe! пocтapaитecь ceиЧac yБpaть ee c Дopoги!
+ASM2_8	~Д~ВЫ ДoлжнЫ ВЫcтaВить cмepть мcc. Дoycoн kak Дтп. нe иcпoльзyитe opyжиЯ.
+ASM2_9	~Д~Вaм нyжнo пapy koлec ДлЯ зaДaниЯ!
+ASM2_A	мoи koмплимeнтЫ c xopoшeи paБoтoи, мp. тил. мoи kлиeнт пoльщeн.

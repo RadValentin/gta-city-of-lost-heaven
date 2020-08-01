@@ -1,9 +1,9 @@
-TAX3_1	ma¦ha 13, y hac mcc koptec, poct mehho ac.
-TAX3_2	ok, ot tak. ma¦h© 13 het!
-TAX3_3	xm-m, he gho mepcegec...
-TAX3_4	a teep¨ p¦a o¥epeg¨ ahey-ctpay kaymah kec ect¨ kp©o!
-TAX3_5	p¬te¨, ¬ paªo¨« toe ooo!
-TAXW3_2	~g~, oka gyt ¥ac©.
-TAXW3_3	~g~©ect egy§y« ma¦hy!
-TAX_AS1	my§ecto pm© ooheho
-TAX_AS2	~g~teep¨ goxog© kaymah kec goct makcmyma $~1~. yegc¨, ¥to x pey¬pho copa«t.
+TAX3_1	мaшйнa 13, y нac мйcc kopтec, пpocйт ймeннo Вac.
+TAX3_2	ok, Вoт тak. мaшйнЫ 13 нeт!
+TAX3_3	xм-м, нe ВйДнo мepceДec...
+TAX3_4	a тeпepь пpйшлa oЧepeДь aнгeлy-cтpaжy kayфмaн keБc ecть kpЫлo!
+TAX3_5	пpйЯтeль, Я paзoБьЮ тВoe лoгoВo!
+TAXW3_2	~Д~жйВй, пoka йДyт ЧacЫ.
+TAXW3_3	~Д~ВЫВecтй ВeДyщyЮ мaшйнy!
+TAX_AS1	ймyщecтВo фйpмЫ пoпoлнeнo
+TAX_AS2	~Д~тeпepь ДoxoДЫ kayфмaн keБc Дocтйглй мakcймyмa $~1~. yБeДйcь, Чтo йx peгyлЯpнo coБйpaЮт.

@@ -1,6 +1,6 @@
-ASM5_1	~g~Enter ªagte  ªgahe komah mopoehoo ¥epp oep. cgeka coctotc¬ ha kp©¦e.
-ASM5_2	~g~oª¨mte toap©  othecte ha ocago¥hy« oocy  aªpoopty!
-ASM5_3	~g~epehecte toap© ha oocy g¬ eptoeto!
-ASM5_A	 ehh© omeh pocxogt ha kp©¦e komah mopoehoo ¥epp oep.
-ASM5_B	yete cex, ªaxatte toap©  epehecte ha oocy eptoeto  aªpoopty.
-ASM5_C	ot opota g¬ a¦eo otxoga, ¥to haxog¬tc¬ oªagy apk.
+ASM5_1	~Д~Enтer зaиДитe В зДaниe koмпaнии мopoжeнoгo Чeppи пoппep. cДeлka cocтoитcЯ нa kpЫшe.
+ASM5_2	~Д~Вoзьмитe тoВapЫ и oтнecитe нa пocaДoЧнyЮ пoлocy В aзpoпopтy!
+ASM5_3	~Д~пepeнecитe тoВapЫ нa пoлocy ДлЯ ВepтoлeтoВ!
+ASM5_A	 eннЫи oБмeн пpoиcxoДит нa kpЫшe koмпaнии мopoжeнoгo Чeppи пoппep.
+ASM5_B	yБeитe Вcex, зaxВaтитe тoВapЫ и пepeнecитe нa пoлocy ВepтoлeтoВ В aзpoпopтy.
+ASM5_C	Вoт Вopoтa ДлЯ Вaшeгo oтxoДa, Чтo нaxoДЯтcЯ пoзaДy фaБpиkи.

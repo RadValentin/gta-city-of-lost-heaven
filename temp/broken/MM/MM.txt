@@ -1,10 +1,10 @@
-BLOD_01	poeªate ¥epeª kohtpo¨h©e to¥k, ¥to© ye¥t¨ pem¬.
-BLOD_02	popaete, ec pem¬ koh¥tc¬.
-BLOD_03	haepte o¨¦e pemeh, ¥to© ©pat¨!
-BLOD_04	ma¦ha:
-BLOD_05	~g~ eeoe pem¬: ~1~ mhyta
-BLOD_06	~g~ eeoe pem¬: ~1~ mhyt
-BLOD_07	hooe y¥¦ee pem¬: ~1~ cekyhg
-BLOD_08	ma¦h yh¥toeho: ~1~
+BLOD_01	пpoeзжaитe Чepeз koнтpoльнЫe тoЧkи, ЧтoБЫ yВeлиЧить ВpeмЯ.
+BLOD_02	пpoигpaeтe, ecли ВpeмЯ koнЧитcЯ.
+BLOD_03	нaБepитe Бoльшe Вpeмeни, ЧтoБЫ ВЫигpaть!
+BLOD_04	мaшинa:
+BLOD_05	~Д~ eлeВoe ВpeмЯ: ~1~ минyтa
+BLOD_06	~Д~ eлeВoe ВpeмЯ: ~1~ минyт
+BLOD_07	нoВoe лyЧшee ВpeмЯ: ~1~ cekyнД
+BLOD_08	мaшин yниЧтoжeнo: ~1~
 BLOD_09	$~1~
-BLOD_10	oegte¨!!
+BLOD_10	пoБeДитeль!!

@@ -1,13 +1,13 @@
-DRUG_1	ao? ao?
-DRUG_10	 oha ©gept o¥t 20 ao y¥¦eo ¬mackoo g©ma!
-DRUG_11	hy gaa epeg, oha otoa k oety!
-DRUG_12	hy, t© copae¦¨ ªaogt¨?
-DRUG_13	oh?
-DRUG_2	©ta§. tam oh.
-DRUG_3	ª oh! gyma«, t© ho© agee ?
-DRUG_4	ga. kaka¬ ogka ©ctpe¦a¬?
-DRUG_5	oha ye  oge, oh,
-DRUG_6	gyma«, t© opoye¦¨ ee yect.
-DRUG_7	oh, y hee 300 o¦agh©x c...
-DRUG_8	... ctekoookohh© kopyc, oha popeªaet oh©.!
-DRUG_9	oha hapaet c 0 go 60 ªa 4 cekyhg©...
+DRUG_1	aллo? aллo?
+DRUG_10	и oнa ВЫДepжит пoЧти 20 БaллoВ лyЧшeгo Ямaиckoгo ДЫмa!
+DRUG_11	нy ДaВaи ВпepeД, oнa гoтoВa k пoлeтy!
+DRUG_12	нy, тЫ coБиpaeшь зaВoДить?
+DRUG_13	пижoн?
+DRUG_2	ВЫтaщи. тaм пижoн.
+DRUG_3	зи пижoн! ДyмaЮ, тЫ нoВЫи ВлaДeлe ?
+DRUG_4	Дa. kakaЯ лoДka БЫcтpeишaЯ?
+DRUG_5	oнa yжe В ВoДe, пижoн,
+DRUG_6	ДyмaЮ, тЫ пoпpoБyeшь ee yВecти.
+DRUG_7	пижoн, y нee 300 лoшaДинЫx cил...
+DRUG_8	...и cтekлoВoлokoннЫи kopпyc, oнa пpopeзaeт ВoлнЫ.!
+DRUG_9	oнa нaБиpaeт c 0 Дo 60 зa 4 cekyнДЫ...

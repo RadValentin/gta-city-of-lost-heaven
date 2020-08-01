@@ -1,26 +1,26 @@
-CUB3_01	ª, pko. kaccha¬ ogka, t© oto?
-CUB3_02	~g~yt¨ cex at¬h  ogkax!!
-CUB3_03	~g~copat¨ ce gomat© c hapkotkam  geh¨am.
-CUB3_04	~g~goctat¨ hapkotk  geh¨ opatho ymepto.
-CUB3_05	c, tomm. t© geat¨ xopo¦ ©ctpe ceogh¬,
-CUB3_06	mo¬ ogka, oha oxa¬ c g©pkam, t© oh¬?
-CUB3_07	~g~ ctpet¨te pko. oh oteªet ac ha mecto ctpe¥.
-CUB3_08	y, o.. hecko¨ko kyh e. hac ataky«t!
-CUB3_A	a¨epto. yha kae, ceh¨op.
-CUB3_B	oa, he ocya ªty ªme«  coome.
-CUB3_C	tomm, ga t© gy¥eh!
-CUB3_D	kpo¦ka, t© o gy¥eh, o pocto ªahyga!
-CUB3_E	at¬he, apeh¨. oh pocto cme«tc¬ hago mho!
-CUB3_F	oe¥e, oe¥e.  ¥em poema?
-CUB3_G	oh cme«tc¬ hago mho, tomm. hago mho!
-CUB3_H	ymepto poha! oh top¬t ¥to xot¬t!
-CUB3_I	oh oth«g¨ he top¬t to, ¥to xot¬t, ymepto, a ªahma«tc¬ tem, ¥to t© oªo.
-CUB3_J	¥to?
-CUB3_K	t© xo¥e¦¨, ¥to© o kom-to oªaotc¨?
-CUB3_L	¬ moy paªopat¨c¬, ho ªto ett  koee¥ky.
-CUB3_M	¬ ªha«, ¥to m© pat¨¬  ce takoe, ho ªhec ect¨ ªhec.
-CUB3_N	tomm. t© hacto¬§ ¥eoek. ªhecmeh, geht¨meh.
-CUB3_O	ªt at¬he. y hx ect¨ apt¬ kohtpaahghoo toapa, heoxe e§.
-CUB3_P	m© epem  okoh¥m c ªtm.
-CUB3_Q	© epete ªto, a ¬ ªa am pcmotp«. o-patck. kak c©h.
-CUB3_R	¬ pego¥ta« ha¥ky g¬ too, ¥to© he ytpatt¨ ephoct¨ tee, amo.
+CUB3_01	зи, pиko. kлaccнaЯ лoДka, тЫ гoтoВ?
+CUB3_02	~Д~yБить Вcex гaитЯн В лoДkax!!
+CUB3_03	~Д~coБpaть Вce ДиплoмaтЫ c нapkoтиkaми и Дeньгaми.
+CUB3_04	~Д~ДocтaВить нapkoтиkи и Дeньги oБpaтнo yмБepтo.
+CUB3_05	cи, тoмми. тЫ Дeлaть xopoшии ВЫcтpeл ceгoДнЯ,
+CUB3_06	мoЯ лoДka, oнa плoxaЯ c ДЫpkaми, тЫ пoнЯл?
+CUB3_07	~Д~ Вcтpeтьтe pиko. oн oтВeзeт Вac нa мecтo ВcтpeЧи.
+CUB3_08	y, o.. нeckoльko kyБин eВ. нac aтakyЮт!
+CUB3_A	aльБepтo. yнa kaфe, ceньop.
+CUB3_B	пoпa, нe oБcлyжиВaи зтy змeЮ В coлoмe.
+CUB3_C	тoмми, Дa тЫ ДВyлиЧeн!
+CUB3_D	kpoшka, тЫ лиБo ДВyлиЧeн, лиБo пpocтo зaнyДa!
+CUB3_E	гaитЯнe, пapeнь. oни пpocтo cмeЮтcЯ нaДo мнoи!
+CUB3_F	пoлeгЧe, пoлeгЧe. В Чeм пpoБлeмa?
+CUB3_G	oни cмeЮтcЯ нaДo мнoи, тoмми. нaДo мнoи!
+CUB3_H	yмБepтo poБинa! oни тВopЯт Чтo xoтЯт!
+CUB3_I	oни oтнЮДь нe тВopЯт тo, Чтo xoтЯт, yмБepтo, a зaнимaЮтcЯ тeм, Чтo тЫ пoзВoлил.
+CUB3_J	Чтo?
+CUB3_K	тЫ xoЧeшь, ЧтoБЫ o koм-тo пoзaБoтилиcь?
+CUB3_L	Я мoгy paзoБpaтьcЯ, нo зтo Влeтит В koпeeЧky.
+CUB3_M	Я знaЮ, Чтo мЫ БpaтьЯ и Вce тakoe, нo Бизнec ecть Бизнec.
+CUB3_N	тoмми. тЫ нacтoЯщии ЧeлoВek. Бизнecмeн, Джeнтльмeн.
+CUB3_O	зти гaитЯнe. y ниx ecть пapтиЯ koнтpaБaнДнoгo тoВapa, нeплoxиe Вeщи.
+CUB3_P	мЫ Бepeм и пokoнЧим c зтим.
+CUB3_Q	ВЫ Бepeтe зтo, a Я зa Вaми пpиcмoтpЮ. пo-Бpaтckи. kak cЫн.
+CUB3_R	Я пpeДпoЧитaЮ нaлиЧky ДлЯ тoгo, ЧтoБЫ нe yтpaтить Вepнocть тeБe, aмигo.

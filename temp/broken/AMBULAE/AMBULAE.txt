@@ -1,12 +1,12 @@
-ALEVEL	mcc¬ megka ypoeh¨ ~1~
-ATUTOR2	~g~epeoªte a ehto  octa¨ octopoho. «o to¥ok ymeh¨¦aet x ¦ahc© ©t¨.
-A_CANC	~r~mcc¬ megka copaha!
-A_COMP1	mcc¬ megka ªaep¦eha: $~1~
-A_COMP2	t© hkoga he yctahe¦¨!
-A_COMP3	mcc¬ megka ©oheha! t© he yctae¦¨ o pem¬ hee!
-A_FAIL1	mcc¬ megka ªakoh¥eha.
-A_FAIL2	~r~a¦  maa¬ hacto¥oct¨ ata¨ho g¬ a ehta!
-A_FAIL3	~r~a eht mept!!
-A_FULL	~r~ckopa¬ otoa!!
-A_PASS	caceh!
-A_SAVES	«g cac: ~1~
+ALEVEL	миccиЯ мeДиka ypoВeнь ~1~
+ATUTOR2	~Д~пepeВoзитe пa иeнтoВ В гocпитaль ocтopoжнo. лЮБoи тoлЧok yмeньшaeт иx шaнcЫ ВЫжить.
+A_CANC	~r~миccиЯ мeДиka copВaнa!
+A_COMP1	миccиЯ мeДиka зaВepшeнa: $~1~
+A_COMP2	тЫ ниkoгДa нe ycтaнeшь!
+A_COMP3	миccиЯ мeДиka ВЫпoлнeнa! тЫ нe ycтaeшь Вo ВpeмЯ нee!
+A_FAIL1	миccиЯ мeДиka зakoнЧeнa.
+A_FAIL2	~r~Вaши  мaлaЯ нacтoиЧиВocть фaтaльнo ДлЯ пa иeнтa!
+A_FAIL3	~r~пa иeнт мepтВ!!
+A_FULL	~r~ckopaЯ гoтoВa!!
+A_PASS	cпaceн!
+A_SAVES	лЮДи cпacли: ~1~

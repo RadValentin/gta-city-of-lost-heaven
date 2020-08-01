@@ -1,44 +1,44 @@
-CAP1B10	t© ªaxat koektop. e§e ect¨ ha x yt.
-CAP1_10	¬ y¨« te¬, ep¥ett.
-CAP1_11	t© cega © ty e.
-CAP1_12	t© ympe¦¨, ep¥ett.
-CAP1_2	t© ªhae¦¨ paa, ep¥ett!
-CAP1_3	mp. ope otpa eo hapag©!
-CAP1_4	ªto xapyg at¥ep!
-CAP1_5	cka cohh - gepc¨ ga¨¦e!
-CAP1_6	 e ct mo, a he to.
-CAP1_7	gymae¦¨, cmoe¦¨ meh¬ ªaat¨, ep¥ett?
-CAP1_8	m© pgem, koga t© ympe¦¨, ep¥ett.
-CAP1_9	t© hegoctoh ¦ahca, cxoat.
-CAP1_B0	~g~ma¬ ªaxat khoctyg«!
-CAP1_B1	~g~ ma¬ ªaxata to ªhec. hag  ye x.
-CAP1_B2	~g~ma¬ ªaxata pctah¨!
-CAP1_B3	~g~ma¬ ªaxata apky mopoehoo!
-CAP1_B4	~g~ma¬ ªaxat atocaoh!
-CAP1_B5	~g~ ma¬ ªaxata komah« takc!
-CAP1_B6	~g~t© ha¦e koektopa, ye eo.
-CAP1_B7	~g~t© otep¬ koektopa.
-CAP1_B8	~r~koektop ªaxat ec¨ to ªhec.
-CAP1_B9	~g~ ma¬ ªaxata may!
-CAP1_C0	~g~ma¬ p©a ha khoctyg«!
-CAP1_C2	~g~ ma¬ p©a ha pctah¨!
-CAP1_C3	~g~ma¬ p©a ha apky mopoehoo!
-CAP1_C4	~g~ ma¬ p©a ha atocaoh!
-CAP1_C5	~g~ma¬ p©a ha komah« takc!
-CAP1_C9	~g~ ma¬ p©a  may!
-CAP1_D0	~g~ma¬ okhya khoctyg«!
-CAP1_D2	~g~ ma¬ okhya pctah¨!
-CAP1_D3	~g~ ma¬ okhya apky mopoehoo!
-CAP1_D4	~g~ ma¬ okhya atocaoh!
-CAP1_D5	~g~ ma¬ okhya komah« takc!
-CAP1_D9	~g~ ma¬ okhya may!
-CAP_01	ok, ¥to ªa tpeoa?
-CAP_02	kto?
-CAP_03	tomm...¥¨¬-to toa ...oopt, ¥to p¦a otopat¨ coe...
-CAP_04	...oopt, ªto geh¨ mp. opeo...mhe xpehoo.
-CAP_05	ope? cohh ope?
-CAP_06	ga, ªto oh...gyma«...oh © hacto¥©...
-CAP_07	he oc¬, o, ¬ he ªo ha te¬.
-CAP_08	otpa¨ eo  octa¨.
-CAP_09	tomm...ope¨ ªtoo ªacpah a g¬ meh¬...
-CAP_10	¬ gag© opey eo!
+CAP1B10	тЫ зaxВaтил koллekтop. eщe ecть нa иx пyти.
+CAP1_10	Я yБьЮ тeБЯ, ВepЧeтти.
+CAP1_11	тЫ ВceгДa БЫл тyпи eи.
+CAP1_12	тЫ yмpeшь, ВepЧeтти.
+CAP1_2	тЫ знaeшь пpaВилa, ВepЧeтти!
+CAP1_3	мp. фopeлли oтпpaВил eгo нaгpaДЫ!
+CAP1_4	зтo xapВyД БaтЧep!
+CAP1_5	ckaжи coнни - Дepжиcь Дaльшe!
+CAP1_6	Ви e cити мoи, a нe тВoи.
+CAP1_7	Дyмaeшь, cмoжeшь мeнЯ зaВaлить, ВepЧeтти?
+CAP1_8	мЫ пpиДeм, koгДa тЫ yмpeшь, ВepЧeтти.
+CAP1_9	тЫ нeДocтoин шaнca, пcиxoпaт.
+CAP1_B0	~Д~мaфиЯ зaxВaтили kинocтyДиЮ!
+CAP1_B1	~Д~ мaфиЯ зaxВaтилa тВoи Бизнec. нaиДи и yБeи иx.
+CAP1_B2	~Д~мaфиЯ зaxВaтилa пpиcтaнь!
+CAP1_B3	~Д~мaфиЯ зaxВaтилa фaБpиky мopoжeнoгo!
+CAP1_B4	~Д~мaфиЯ зaxВaтили aВтocaлoн!
+CAP1_B5	~Д~ мaфиЯ зaxВaтилa koмпaниЮ тakcи!
+CAP1_B6	~Д~тЫ нaшeл koллekтopa, yБeи eгo.
+CAP1_B7	~Д~тЫ пoтepЯл koллekтopa.
+CAP1_B8	~r~koллekтop зaxВaтил Вecь тВoи Бизнec.
+CAP1_B9	~Д~ мaфиЯ зaxВaтилa мaлиБy!
+CAP1_C0	~Д~мaфиЯ пpиБЫлa нa kинocтyДиЮ!
+CAP1_C2	~Д~ мaфиЯ пpиБЫлa нa пpиcтaнь!
+CAP1_C3	~Д~мaфиЯ пpиБЫлa нa фaБpиky мopoжeнoгo!
+CAP1_C4	~Д~ мaфиЯ пpиБЫлa нa aВтocaлoн!
+CAP1_C5	~Д~мaфиЯ пpиБЫлa нa koмпaниЮ тakcи!
+CAP1_C9	~Д~ мaфиЯ пpиБЫлa В мaлиБy!
+CAP1_D0	~Д~мaфиЯ пokинyлa kинocтyДиЮ!
+CAP1_D2	~Д~ мaфиЯ пokинyлa пpиcтaнь!
+CAP1_D3	~Д~ мaфиЯ пokинyлa фaБpиky мopoжeнoгo!
+CAP1_D4	~Д~ мaфиЯ пokинyлa aВтocaлoн!
+CAP1_D5	~Д~ мaфиЯ пokинyлa koмпaниЮ тakcи!
+CAP1_D9	~Д~ мaфиЯ пokинyлa мaлиБy!
+CAP_01	ok, Чтo зa тpeВoгa?
+CAP_02	kтo?
+CAP_03	тoмми...ЧьЯ-тo тoлпa ...гoВopит, Чтo пpишлa oтoБpaть cВoe...
+CAP_04	...гoВopит, зтo Дeньги мp. фopeллo...мнe xpeнoВo.
+CAP_05	фopeлли? coнни фopeлли?
+CAP_06	Дa, зтo oн...ДyмaЮ...oни БЫли нacтoиЧиВЫ...
+CAP_07	нe БoиcЯ, пoп, Я нe зoл нa тeБЯ.
+CAP_08	oтпpaВь eгo В гocпитaль.
+CAP_09	тoмми...пopeжь зтoгo зacpaн a ДлЯ мeнЯ...
+CAP_10	Я ДВaжДЫ пopeжy eгo!

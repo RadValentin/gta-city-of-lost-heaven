@@ -1,72 +1,72 @@
-DEFSAFE	~g~oªpa§ac¬ k cey  ªa§t eo.
-FIN1_01	¥to pocxogt?
-FIN1_02	tomm! pekpacho, pekpacho. cy¦a, pocto ocy¦a,
-FIN1_03	mhe hpat¨c¬ p©a. ¬ ee ««.
-FIN1_04	mhe oha hpat¨c¬   akapyme  ha tapeke,
-FIN1_05	ho kak © ¬ ee h «, ¬ he copa«c¨ c he cat¨.
-FIN1_06	agho, p¬mo ce¥ac hecko¨ko tox ta¨¬hckx pat¨e gyt c«ga, ¥to© ªakatat¨  etoh, a t©...
-FIN1_07	keh, ªatkhc¨. c¬g¨.
-FIN1_08	ªhc, ¥to pocxogt?
-FIN1_09	ªto to gpyª¨¬ y ceephoo tomm. m he hpat¨c¬, ¥to t© ªaxat x ¥eoeka.
-FIN1_10	oh copa«tc¬ ocmotpet¨ ceogh¬ pegp¬te.
-FIN1_11	ªto ªamet o¨¦e pemeh, ¥em ¬ oga...
-FIN1_12	pe¬ta, okoh¥m c ªtm, het hkakx comheh, ¥to ªto mo¬ oepa ¬. mo¬!
-FIN1_13	keh, t© oy¥¦¨ epy« apt« a¨¦©x gehe  yakye¦¨ tp moha  kec©.
-FIN1_14	ªhc, t© copae¦¨ pe¬t mecte...
-FIN2_01	tomm!
-FIN2_02	¥to? he ohme¦¨ coeo ctapoo p¬te¬?
-FIN2_03	¬ okhy cem¨« ¬thag at¨ et haªag,
-FIN2_04	¬ oxo paªpa«c¨  cemehom ªtkete.
-FIN2_05	cega ªo, ga tomm.
-FIN2_06	to¨ko he oop, ¥to o cem hoat to¨ko to xapaktep?
-FIN2_07	 ªtx kecax tp moha...
-FIN2_08	 cko¨ko tam ©o? gec¬t¨? oghhag at¨ ¥eoek.
-FIN2_09	tak ot o¥emy te¬ ªoyt xapygckm m¬chkom! xe-xe-xe!
-FIN2_10	oh oca meh¬ yt¨ oghoo ta, oghoo. oh ªha, ¥to ¬ ckopo pgy ªa cohh...
-FIN2_11	tomm, ceg ªa com tohom.
-FIN2_12	hkto  he ogyma ©, ¥to ¬ ygy oh¬t¨ te¬ ªa ªto cte¥ehe octo¬te¨ct.
-FIN2_13	pocto oª¨m geh¨...
-FIN2_14	ªapa ap¦©e geh¨.
-FIN2_15	ªhae¦¨, tomm? ¬ gea pag te¬ ce, ¥to mo, potaka, kak to¨ko oªmoho.
-FIN2_16	¬ © tee gpyom, tomm. hage¬c¬, ¥to t© ªahtepecye¦¨c¬, cep¨eª ªame¦¨c¬ geom.
-FIN2_17	¬ ep  te¬, tomm, a t© meh¬ paªo¥apoa.
-FIN2_18	oghako, o kpahe mepe, ogh ¥eoek  toe opahªa  ªhaet, kak hago ect gea,
-FIN2_19	ªto hepaga, ªhc?
-FIN2_20	ªh, tomm. ªto ac ct. ªto ªhec.
-FIN2_21	t© poga hac...
-FIN2_22	het. ¬ poga te¬, tomm, poga te¬.
-FIN2_23	hacto¬§e geh¨ haepxy  cee.
-FIN2_24	tomm,  ¥em ªak«¥ac¬ ah?
-FIN2_25	gymae¦¨, mhe xatt a¨¦ok?
-FIN2_26	coxpaht¨  o  eat¨ c ogat©m xoctom?!
-FIN2_27	het.
-FIN2_28	¬ pocto xote cact te¬ epeg tem, kak yt¨.
-FIN3_01	tomm?
-FIN3_02	o, oe, tomm! ¥to poªo¦o?
-FIN3_03	a ha ¥to ªto oxoe?
-FIN3_04	ªto ©¬gt tak, ygto t© opa co koct«m!
-FIN3_05	ga, tomm, ªto © xopo¦ koct«m! tomm, ¥to  koh e koh o poªo¦o?
-FIN3_06	y meh¬ oªhka paªmoka c mom geo©m apthepom, ªhae¦¨, kak ªto ©aet.
-FIN3_07	tomm, ¬ he coaceh, ¬ oca m pagehoe c¨mo.
-FIN3_08	moet, haca m  o¥to© ¬§k. ho ¬ he ha¥ha« tpet¨e mpoo oh©.
-FIN3_09	ªhae¦¨, moet tee ctot ooopt¨ c mom ¥ehom...
-FIN3_10	ªto y© ¥eh, ªhc...
-FIN3_11	tomm, ªtot apeh¨ mhe hkoga he hpac¬, ok?
-FIN3_12	oh heph©, hehageh©, camogoo¨h© - pocto kaka¬-to ªagh a!
-FIN3_13	¬ pag, ¥to ª¬ eo c coo!
-FIN3_14	he gyma«, ¥to ham e§e yget cett¨ coh e c ceepa...
-FIN3_15	...otomy ¥to oh ye he "ha ceepe".
-FIN3_16	ce teep¨ ªact ot «a.
-FIN3_17	octo, a ªto he ªha¥t, ¥to o ªtom ªha«? tomm, kpo¦ka!
-FIN3_18	kak t© gymae¦¨, ¥to ªto ªha¥t?
-FIN3_19	¥to m© teep¨ ah©e... to-ect¨, t© ah©. o, tomm!
-FIN3_20	ªhae¦¨, keh, mhe kaetc¬, ¥to ªto moet ©t¨ pekpach©m ha¥aom geo©x otho¦eh....
-FIN3_21	 ce e, t© koaph©, yka©, hkyg©¦h© op
-FIN3_22	a ¬ - ªo§pehh© cxot¥eck kep  hapkotopoe .
-FIN3_23	¬ ªha«. paªe ªto he pekpacho?
-FIN_B1	~g~ye ~y~ªhca ehca~g~ koaphoo.
-FIN_B2	~g~ye ~p~cohh~g~  okoh¥m c ªtm paª  hacega.
-FIN_B3	~g~ma¬ ©taetc¬ ©kpact¨ a¦ geh¨. ªa§tte ce.
-FIN_B4	~g~© ªk k cmept, oy¥te hemhoo ~w~ªgopo¨¬~g~  ogae.
-FIN_B5	~g~ma¬ kpaget a¦ geh¨. ªa§tte ~c~ce
-FIN_B7	~r~ma¬ ykpaa ce a¦ geh¨.
+DEFSAFE	~Д~ВoзВpaщaиcЯ k ceифy и зaщити eгo.
+FIN1_01	Чтo пpoиcxoДит?
+FIN1_02	тoмми! пpekpacнo, пpekpacнo. cлyшaи, пpocтo пocлyшaи,
+FIN1_03	мнe нpaВитьcЯ pЫБa. Я ee лЮБлЮ.
+FIN1_04	мнe oнa нpaВитьcЯ и В akВapиyмe и нa тapeлke,
+FIN1_05	нo kak БЫ Я ee ни лЮБил, Я нe coБиpaЮcь c нeи cпaть.
+FIN1_06	лaДнo, пpЯмo ceиЧac нeckoльko тВoиx итaльЯнckиx БpaтьeВ иДyт cЮДa, ЧтoБЫ зakaтaть В Бeтoн, a тЫ...
+FIN1_07	keн, зaтkниcь. cЯДь.
+FIN1_08	лзнc, Чтo пpoиcxoДит?
+FIN1_09	зтo тВoи ДpyзьЯ y ceВepнoгo тoмми. им нe нpaВитьcЯ, Чтo тЫ зaxВaтил иx ЧeлoВeka.
+FIN1_10	oни coБиpaЮтcЯ ocмoтpeть ceгoДнЯ пpeДпpиЯтиe.
+FIN1_11	зтo зaимeт Бoльшe Вpeмeни, Чeм Я oжиДaл...
+FIN1_12	peБЯтa, пokoнЧим c зтим, нeт ниkakиx coмнeнии, Чтo зтo мoЯ oпepa иЯ. мoЯ!
+FIN1_13	keн, тЫ пoлyЧишь пepВyЮ пapтиЮ фaльшиВЫx Дeнeг и yпakyeшь тpи миллиoнa В keиcЫ.
+FIN1_14	лзнc, тЫ coБиpaeшь peБЯт Вмecтe...
+FIN2_01	тoмми!
+FIN2_02	Чтo? нe oБнимeшь cВoeгo cтapoгo пpиЯтeлЯ?
+FIN2_03	Я пokинyл ceмьЮ пЯтнaД aть лeт нaзaД,
+FIN2_04	Я плoxo paзБиpaЮcь В ceмeинoм зтиkeтe.
+FIN2_05	ВceгДa зoл, Дa тoмми.
+FIN2_06	тoльko нe гoВopи, Чтo Вo Вceм ВинoВaт тoльko тВoи xapakтep?
+FIN2_07	В зтиx keиcax тpи миллиoнa...
+FIN2_08	и ckoльko тaм БЫлo? ДecЯть? oДиннaД aть ЧeлoВek.
+FIN2_09	тak Вoт пoЧeмy тeБЯ зoВyт xapВyДckим мЯcниkoм! xe-xe-xe!
+FIN2_10	oни пocлaли мeнЯ yБить oДнoгo типa, oДнoгo. oни знaли, Чтo Я ckopo пpиДy зa coнни...
+FIN2_11	тoмми, cлeДи зa cВoим тoнoм.
+FIN2_12	ниkтo и нe пoДyмaл БЫ, Чтo Я БyДy oБВинЯть тeБЯ зa зтo cтeЧeниe oБcтoЯтeльcтВ.
+FIN2_13	пpocтo Вoзьми Дeньги...
+FIN2_14	зaБиpaи пapшиВЫe Дeньги.
+FIN2_15	знaeшь, тoмми? Я Дeлaл paДи тeБЯ Вce, Чтo мoг, пpoтaлkиВaл, kak тoльko Вoзмoжнo.
+FIN2_16	Я БЫл тeБe Дpyгoм, тoмми. нaДeЯлcЯ, Чтo тЫ зaинтepecyeшьcЯ, Вcepьeз зaимeшьcЯ Дeлoм.
+FIN2_17	Я Вepил В тeБЯ, тoмми, a тЫ мeнЯ paзoЧapoВaл.
+FIN2_18	oДнako, пo kpaинeи мepe, oДин ЧeлoВek В тВoeи opгaнизa ии знaeт, kak нaДo Вecти Дeлa,
+FIN2_19	зтo нeпpaВДa, лзнc?
+FIN2_20	изВини, тoмми. зтo Вaиc cити. зтo Бизнec.
+FIN2_21	тЫ пpoДaл нac...
+FIN2_22	нeт. Я пpoДaл тeБЯ, тoмми, пpoДaл тeБЯ.
+FIN2_23	нacтoЯщиe Дeньги нaВepxy В ceифe.
+FIN2_24	тoмми, В Чeм зakлЮЧaлcЯ плaн?
+FIN2_25	Дyмaeшь, мнe xВaтит фaльшиВok?
+FIN2_26	coxpaнить ли o и Бeжaть c пoДжaтЫм xВocтoм?!
+FIN2_27	нeт.
+FIN2_28	Я пpocтo xoтeл cпacти тeБЯ пepeД тeм, kak yБить.
+FIN3_01	тoмми?
+FIN3_02	o, Бoжe, тoмми! Чтo пpoизoшлo?
+FIN3_03	a нa Чтo зтo пoxoжe?
+FIN3_04	зтo ВЫглЯДит тak, БyДтo тЫ пopВaл cВoи kocтЮм!
+FIN3_05	Дa, тoмми, зтo БЫл xopoшии kocтЮм! тoмми, Чтo В koн e koн oВ пpoизoшлo?
+FIN3_06	y мeнЯ Вoзниkлa paзмoлВka c мoим ДeлoВЫм пapтнepoм, знaeшь, kak зтo БЫВaeт.
+FIN3_07	тoмми, Я нe coглaceн, Я пocлaл им ВpaжДeБнoe пиcьмo.
+FIN3_08	мoжeт, нaпиcaл им В пoЧтoВЫи Ящиk. нo Я нe нaЧинaЮ тpeтьeи миpoВoи ВoинЫ.
+FIN3_09	знaeшь, мoжeт тeБe cтoит пoгoВopить c мoим Члeнoм...
+FIN3_10	зтo глyпЫи Члeн, лзнc...
+FIN3_11	тoмми, зтoт пapeнь мнe ниkoгДa нe нpaВилcЯ, ok?
+FIN3_12	oн нepВнЫи, нeнaДeжнЫи, caмoДoВoльнЫи - пpocтo kakaЯ-тo зaДни a!
+FIN3_13	Я paД, Чтo ВзЯл eгo c coБoи!
+FIN3_14	нe ДyмaЮ, Чтo нaм eщe БyДeт cВeтить coлн e c ceВepa...
+FIN3_15	...пoтoмy Чтo oни yжe нe "нa ceВepe".
+FIN3_16	Вce тeпepь зaВиcит oт Югa.
+FIN3_17	пocтoи, a зтo нe знaЧит, Чтo oБ зтoм знaЮ? тoмми, kpoшka!
+FIN3_18	kak тЫ Дyмaeшь, Чтo зтo знaЧит?
+FIN3_19	Чтo мЫ тeпepь глaВнЫe... тo-ecть, тЫ глaВнЫи. o, тoмми!
+FIN3_20	знaeшь, keн, мнe kaжeтcЯ, Чтo зтo мoжeт БЫть пpekpacнЫм нaЧaлoм ДeлoВЫx oтнoшeнии....
+FIN3_21	и Вce жe, тЫ koВapнЫи, лykaВЫи, ниkyДЫшнЫи Вop
+FIN3_22	a Я - изoщpeннЫи пcиxoтиЧeckии kиллep и нapkoтopгoВe .
+FIN3_23	Я знaЮ. paзВe зтo нe пpekpacнo?
+FIN_B1	~Д~yБeи ~y~лзнca Вeнca~Д~ koВapнoгo.
+FIN_B2	~Д~yБeи ~p~coнни~Д~ и пokoнЧим c зтим paз и нaВceгДa.
+FIN_B3	~Д~мaфиЯ пЫтaeтcЯ ВЫkpacть Вaши Дeньги. зaщититe ceиф.
+FIN_B4	~Д~ВЫ Близkи k cмepти, пoлyЧитe нeмнoгo ~w~зДopoВьЯ~Д~ В пoДВaлe.
+FIN_B5	~Д~мaфиЯ kpaДeт Вaши Дeньги. зaщититe ~c~ceиф
+FIN_B7	~r~мaфиЯ ykpaлa Вce Вaши Дeньги.

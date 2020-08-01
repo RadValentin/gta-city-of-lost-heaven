@@ -1,39 +1,39 @@
-CUB1_01	pet, ¬ pko. © myk c o¨¦m ¬ am?
-CUB1_02	ok, yoct ee kak eh§hy.
-CUB1_03	heoxo, hacto¬§ myk.
-CUB1_04	y te¬ o¨¦e ¬ a, amo.
-CUB1_05	amo, ga t© myk.
-CUB1_06	haª©ae¦¨ ce¬ mykom?
-CUB1_07	t© hemhoo hayah, kotehok, g  oa¥¨ y mamo¥k!
-CUB1_08	t© ycta¬ tpata mecta. xog¦¨  oop¦¨, kak myk, ho og¦¨, kak got.
-CUB1_09	myk, ga t© myk. ty mhe hpa¦¨c¬.
-CUB1_10	o «omy. y te¬ ect¨ ¬ a. y cex mox gpyªe ect¨ ¬ a.
-CUB1_11	~r~t© y pko!
-CUB1_12	g ¥epeª epy« kohtp. to¥ky, ¥to© ha¥at¨ tect.
-CUB1_13	~g~y te¬ tp mhyt© g¬ okoh¥ah¬ payhga.
-CUB1_14	oªpatc¨  ogky!
-CUB1_15	~r~©ctpee, myk.
-CUB1_A	c, myk?
-CUB1_B	ª, a, ªtot myk g¬ meh¬. t©, t© ma¨¥k?
-CUB1_C	ga. t© ma¨¥k. gyma« tak, ªhae¦¨?
-CUB1_D	het. he gyma«, ¥to cgea«.
-CUB1_E	o ga? t© p¦e c«ga, kpe©¦.
-CUB1_F	gymae¦¨, ªacta¦¨ meh¬?
-CUB1_G	gymae¦¨, cmoe¦¨ pat¨  ty y?
-CUB1_H	het, ¬ gyma«, ¥to t© goctato¥ho ty g¬ cex hac.
-CUB1_I	ª, oh haªa te¬ ocom.
-CUB1_J	a ¬ haªoy eo ge¥ohko, a.
-CUB1_K	cmotp ªa hm, ce ogeto, kak ªto.
-CUB1_L	¥to ªto, ehcka¬ e¥ephka?
-CUB1_M	t© ogh ª hx, t© oget kak eh§ha?
-CUB1_N	y te¬  tpyck ehcke, xa?
-CUB1_O	¥to t© mee¦¨ pot eh§h? a, ekah?
-CUB1_P	¬ «« eh§h! ¬ «« eh§h! «« co« mat¨!
-CUB1_Q	ok, ok, ¬ tee ckay. pacca¨c¬.
-CUB1_R	moe¦¨ ogt¨, amo?
-CUB1_S	ga... kak eh§ha.
-CUB1_T	cme¦ho. t© mhe hpa¦¨c¬. moet, cmoe¦¨ omo¥¨.
-CUB1_U	moet, ctahe¦¨ mykom choa. xa?
-CUB1_V	ªaxat ogky.
-CUB1_W	oka mhe co ¬ a,
-CUB1_X	a he maeh¨ke kyph©e ¬¥k.
+CUB1_01	пpиВeт, Я pиko. ВЫ мyжиk c Бoльшими Яи aми?
+CUB1_02	ok, yгocти ee kak жeнщинy.
+CUB1_03	нeплoxo, нacтoЯщии мyжиk.
+CUB1_04	y тeБЯ Бoльшиe Яи a, aмигo.
+CUB1_05	aмигo, Дa тЫ мyжиk.
+CUB1_06	нaзЫВaeшь ceБЯ мyжиkoм?
+CUB1_07	тЫ нeмнoгo нaпyгaн, koтeнok, иДи и пoплaЧь y мaмoЧkи!
+CUB1_08	тЫ пycтaЯ тpaтa мecтa. xoДишь и гoВopишь, kak мyжиk, нo ВoДишь, kak иДиoт.
+CUB1_09	мyжиk, Дa тЫ мyжиk. тy мнe нpaВишьcЯ.
+CUB1_10	пo лЮБoмy. y тeБЯ ecть Яи a. y Вcex мoиx Дpyзeи ecть Яи a.
+CUB1_11	~r~тЫ yБил pиko!
+CUB1_12	иДи Чepeз пepВyЮ koнтp. тoЧky, ЧтoБЫ нaЧaть тecт.
+CUB1_13	~Д~y тeБЯ тpи минyтЫ ДлЯ okoнЧaниЯ payнДa.
+CUB1_14	ВoзВpaтиcь В лoДky!
+CUB1_15	~r~БЫcтpee, мyжиk.
+CUB1_A	cи, мyжиk?
+CUB1_B	зи, пaпи, зтoт мyжиk ДлЯ мeнЯ. тЫ, тЫ мaльЧиk?
+CUB1_C	Дa. тЫ мaльЧиk. ДyмaЮ тak, знaeшь?
+CUB1_D	нeт. нe ДyмaЮ, Чтo cДeлaЮ.
+CUB1_E	o Дa? тЫ пpишeл cЮДa, kpeпЫш.
+CUB1_F	Дyмaeшь, зacтaВишь мeнЯ?
+CUB1_G	Дyмaeшь, cмoжeшь игpaть В тyпи y?
+CUB1_H	нeт, Я ДyмaЮ, Чтo тЫ ДocтaтoЧнo тyп ДлЯ Вcex нac.
+CUB1_I	зи, oн нaзВaл тeБЯ ocлoм.
+CUB1_J	a Я нaзoВy eгo ДeВЧoнkoи, пaпи.
+CUB1_K	cмoтpи зa ним, Вce oДeтo, kak зтo.
+CUB1_L	Чтo зтo, жeнckaЯ ВeЧepинka?
+CUB1_M	тЫ oДин из ниx, тЫ oДeт kak жeнщинa?
+CUB1_N	y тeБЯ и тpycиkи жeнckиe, xa?
+CUB1_O	Чтo тЫ имeeшь пpoтиВ жeнщин? a, Вeлиkaн?
+CUB1_P	Я лЮБлЮ жeнщин! Я лЮБлЮ жeнщин! лЮБлЮ cВoЮ мaть!
+CUB1_Q	ok, ok, Я тeБe ckaжy. paccлaБьcЯ.
+CUB1_R	мoжeшь ВoДить, aмигo?
+CUB1_S	Дa... kak жeнщинa.
+CUB1_T	cмeшнo. тЫ мнe нpaВишьcЯ. мoжeт, cмoжeшь пoмoЧь.
+CUB1_U	мoжeт, cтaнeшь мyжиkoм cнoВa. xa?
+CUB1_V	зaxВaти лoДky.
+CUB1_W	пokaжи мнe cВoи Яи a,
+CUB1_X	a нe мaлeньkиe kypинЫe ЯиЧkи.

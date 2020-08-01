@@ -1,19 +1,19 @@
-ASM4_10	~g~kaetc¬, © he eghctehh©e c opteem! ©ctpo  amyh «!
-ASM4_12	gctah ¬:
-ASM4_15	~g~oy¥te chaepcky« htoky.
-ASM4_16	~g~cmotpte ªa eh§ho ha akohe, oha cycttc¬ o ªckaatopy  cpoct y koo-to pem¬.
-ASM4_17	~g~kak to¨ko x ecega ªakoh¥tc¬, ye ee coeceghka, a he ee.
-ASM4_18	~g~kak to¨ko  e¨ ohet, ªaepte ee opte¨  othecte  amyh «  gayhtayhe.
-ASM4_19	~g~geptec¨ ha paccto¬h ot  e! co¨ªyte ykaªate¨ gctah   paom epxhem yy ªkpaha.
-ASM4_20	~g~ec oh oheet, to oh ac ygt.
-ASM4_21	~g~goctah¨ ¥emogah!
-ASM4_22	~g~phec ¥emogah  amyh «  gayhtayhe.
-ASM4_23	~g~oh yge ac! pete eo  ªaepte opte¨!
-ASM4_25	~r~got, t© y eh§hy!
-ASM4_26	~r~ e¨ cea ha camoet!
-ASM4_27	~r~ e¨ ygea ac! © mo © ©t¨ oga¨¦e ot hee!
-ASM4_28	~r~ e¨ yc©¦aa ctpe¨y!
-ASM4_29	~r~ae  ¥e¦etc¬? © y eo c¦kom ©ctpo!
-ASM4_A	pem¬ ooxott¨c¬ okpyhee, mp. t.  cte cpaa ot ac htoka.
-ASM4_B	cegte ªa eh§ho ha akohe hag pectpa ohh©m ctoom. oha poget ckoª¨ toy  cpoct y koo-to pem¬.
-ASM4_C	© goh© yt¨ too ¥eoeka, ªapat¨ eo e§¨  pykax  othect o ykaªahhomy o teeohy mecty.
+ASM4_10	~Д~kaжeтcЯ, ВЫ нe eДинcтВeннЫe c пopтфeлeм! БЫcтpo В aмyни иЮ!
+ASM4_12	Диcтaн иЯ:
+ASM4_15	~Д~пoлyЧитe cнaипepckyЮ ВинтoВky.
+ASM4_16	~Д~cмoтpитe зa жeнщинoи нa Бaлkoнe, oнa cпycтитcЯ пo зckaлaтopy и cпpocит y koгo-тo ВpeмЯ.
+ASM4_17	~Д~kak тoльko иx БeceДa зakoнЧитcЯ, yБeи ee coБeceДниka, a нe ee.
+ASM4_18	~Д~kak тoльko  eль пoгиБнeт, зaБepитe ee пopтфeль и oтнecитe В aмyни иЮ В Дayнтayнe.
+ASM4_19	~Д~Дepжитecь нa paccтoЯнии oт  eли! иcпoльзyитe ykaзaтeль Диcтaн ии В пpaВoм Вepxнeм yглy зkpaнa.
+ASM4_20	~Д~ecли oн пoлнeeт, тo oн Вac yВиДит.
+ASM4_21	~Д~Дocтaнь ЧeмoДaн!
+ASM4_22	~Д~пpинecи ЧeмoДaн В aмyни иЮ В Дayнтayнe.
+ASM4_23	~Д~oн yВиДeл Вac! пpиБeитe eгo и зaБepитe пopтфeль!
+ASM4_25	~r~иДиoт, тЫ yБил жeнщинy!
+ASM4_26	~r~ eль ceлa нa caмoлeт!
+ASM4_27	~r~ eль yВиДeлa Вac! ВЫ мoгли БЫ БЫть пoДaльшe oт нee!
+ASM4_28	~r~ eль ycлЫшaлa cтpeльБy!
+ASM4_29	~r~пaлe  ЧeшeтcЯ? ВЫ yБили eгo cлишkoм БЫcтpo!
+ASM4_A	ВpeмЯ пooxoтитьcЯ пokpyпнee, мp. тил. В лиcтВe cпpaВa oт Вac ВинтoВka.
+ASM4_B	cлeДитe зa жeнщинoи нa Бaлkoнe нaД peгиcтpa иoннЫм cтoлoм. oнa пpoиДeт ckВoзь тoлпy и cпpocит y koгo-тo ВpeмЯ.
+ASM4_C	ВЫ ДoлжнЫ yБить тoгo ЧeлoВeka, зaБpaть eгo Вeщь В pykax и oтнecти пo ykaзaннoмy пo тeлeфoнy мecтy.

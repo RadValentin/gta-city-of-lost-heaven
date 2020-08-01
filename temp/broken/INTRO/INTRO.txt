@@ -1,79 +1,79 @@
-INT1_A	tomm ep ett...xa! agoct¨.
-INT1_A1	ocet eo, agho?
-INT1_A2	ocmotp, kak oh et.
-INT1_B	he gyma«, ¥to oh eo ©yct¬t.
-INT1_C	oh gepa ooy oy§ehho, omoaet «g¬m ªa©t¨c¬.
-INT1_D	«g ©ctpo comh¬t.
-INT1_E	koga oh yg¬t eo, y¬«§m o y am o cocegcty.
-INT1_F	ªto yget oxo g¬ ªheca.
-INT1_G	hy,  ¥to t© copae¦¨c¬ geat¨, cohh?
-INT1_H	m© ygem k hemy othoct¨c¬ kak c ctapomy gpyy  gepat¨ ªa opogom, agho?
-INT1_I	m© eg¨ xote pac¦p¬t¨c¬ ha «, pa¨ho?
-INT1_J	opog ac ceogh¬ ha ec ªoota.
-INT1_K	koym ©, mekckah ©, ¥ept,
-INT1_L	gae kyh ©,  te ypa cee kyco¥ek  ce xot¬t ooeat¨.
-INT1_M	ho ce ª-ªa hapkotko, cohh,
-INT1_N	h ogha ª ceme he yget ªtm ªahmat¨c¬!
-INT1_O	pemeha meh¬«tc¬.
-INT1_P	cem¨ he moyt cto¬t¨  ctopohe, koga pa oha«t x og©.
-INT1_Q	tak ¥to m© oc©aem koo-to g¬ ©oheh¬ p¬ªho paot©...
-INT1_R	 txo yem co kycok. pa¨ho?
-INT1_S	kto y hac tam co ¥eoek?
-INT1_T	keh poªehep, agokatcka¬ ¦kypa.
-INT1_U	kak, oh oget ha oogy y e ett?
-INT1_V	a ªto  he hyho.
-INT1_W	m© pocto gepm eo  ac ct,
-INT1_X	 gaem emy hemhoo gehe ha packpytky, ok?
-INT1_Y	ha ªto yget hecko¨ko mec¬ e.
-INT1_Z	otom m© ªatxaem,
-INT2_A	ª, ª, pe¬ta! ªto, ªªª, keh poªehep! ª! xe-xe-xe, ªgopoo!
-INT2_B	ªªª, ¬ ac, pe¬ta, oeªy go mecta ctpe¥, xopo¦o?
-INT2_C	¬ ooop c octa§kam  oh o¥eh¨, ªªª,
-INT2_D	xot¬t ha¥at¨ apthepcto, tak ¥to, ªªª,
-INT2_E	ec ce yget  op¬gke, to ªªª,
-INT2_F	m© xopo¦o ha ªtom ªapaotaem, to ect¨, ªªª.
-INT2_G	o¥eh¨..
-INT2_H	agho, tak, oh pat¨¬, xopo¦o.
-INT2_I	ogh ypa¬et, ªªª, ªhecom, a,
-INT2_J	gpyo ec¨  paª¨eªgax.
-INT2_K	tak, oh paota«t  mekcke,
-INT2_L	het, het, het octo...
-INT2_M	y hx ect¨ epma  ahame.
-INT2_N	oke, ce xopo¦o, cy¦a -
-INT2_O	© pe¬ta, koga m© goepemc¬ go tyga, cgte  ma¦he,
-INT2_P	 © xotte, ¥to© ¬ o¦e c am?
-INT2_Q	het, octaac¬  ma¦he.
-INT2_R	ªhae¦¨, ¬ o ªtom ogyma 
-INT2_S	¬ y¥¦e octopoy ma¦hy.
-INT3_A	o, ªto oh  eptoete.
-INT3_B	ce xopo¦o, gooopc¨.
-INT3_C	oh xot¬t p¬moo omeha ha otkp©to mecthoct.
-INT3_D	agho? xopo¦o, geptec¨, gem.
-INT3_E	xopo¦o, to¨ko ycokotec¨.
-INT3_F	¬ ªgec¨. ma¦ha eget, kpo¦ka!
-INT3_G	ect¨?
-INT3_H	100% ¥ct©, kacca a, koymck.
-INT3_I	ªeeh©e?
-INT3_J	gec¬tk  gag atk...co¨ªoahh©e.
-INT3_K	gyma«, m© gooopc¨, gpyª¨¬!
-INT3_L	epeg, yxogm otc«ga. egem!
-INT3_M	ga mhe ocmotpet¨.
-INT3_N	o, ¥ept!
-INT4_A	hagy! hac hagy!
-INT4_B	ªto tak o©¥ho,
-INT4_C	¬ ©ta§ ooy ª gep¨ma ceo ha cekyhgy ,
-INT4_D	cyg¨a pocaet mhe  mopgy ohy« oaty!
-INT4_E	ga o¦e t©!
-INT4_F	ªatkhc¨  xatt aoat¨c¬! t© e§e o, tak?
-INT4_G	©cag meh¬ ªgec¨.
-INT4_H	g, papky ma¦hy  oc hemhoo.
-INT4_I	¬ ªatpa ªaegy k tee  oc,  m© ha¥hem ce ªto paªpeat¨.
-INT4_J	agho, ªto xopo¦a¬ m©c¨. ¬ oka oc« hemhoo.
-INT4_K	¥to t© copae¦¨c¬ geat¨?
-INT4_L	copa«c¨ otpat¨c¬  ote¨,
-INT4_M	po¬cht¨ ooy  ce ogymat¨.
+INT1_A	тoмми Вep eтти...xa! гaДocть.
+INT1_A1	пoceти eгo, лaДнo?
+INT1_A2	пocмoтpи, kak oн жиВeт.
+INT1_B	нe ДyмaЮ, Чтo oни eгo ВЫпycтЯт.
+INT1_C	oн Дepжaл гoлoВy oпyщeннoи, пoмoгaeт лЮДЯм зaБЫтьcЯ.
+INT1_D	лЮДи БЫcтpo ВcпoмнЯт.
+INT1_E	koгДa oни yВиДЯт eгo, гyлЯЮщим пo yли aм пo coceДcтВy.
+INT1_F	зтo БyДeт плoxo ДлЯ Бизнeca.
+INT1_G	нy, и Чтo тЫ coБиpaeшьcЯ Дeлaть, coнни?
+INT1_H	мЫ БyДeм k нeмy oтнocитьcЯ kak c cтapoмy Дpyгy и Дepжaть зa гopoДoм, лaДнo?
+INT1_I	мЫ ВeДь xoтeли pacшиpЯтьcЯ нa Юг, пpaВильнo?
+INT1_J	гopoД Вaиc ceгoДнЯ нa Вec зoлoтa.
+INT1_K	koлyмБии Ы, мekcиkaн Ы, Чepт,
+INT1_L	Дaжe kyБин Ы, и тe ypВaли ceБe kycoЧek и Вce xoтЯт пoВoeВaть.
+INT1_M	нo Вce из-зa нapkoтиkoВ, coнни,
+INT1_N	ни oДнa из ceмeи нe БyДeт зтим зaнимaтьcЯ!
+INT1_O	Вpeмeнa мeнЯЮтcЯ.
+INT1_P	ceмьи нe мoгyт cтoЯть В cтopoнe, koгДa Вpaги пoжинaЮт иx плoДЫ.
+INT1_Q	тak Чтo мЫ пocЫлaeм koгo-тo ДлЯ ВЫпoлнeниЯ гpЯзнoи paБoтЫ...
+INT1_R	и тиxo жyeм cВoи kycok. пpaВильнo?
+INT1_S	kтo y нac тaм cВoи ЧeлoВek?
+INT1_T	keн poзeнБepг, aДВokaтckaЯ шkypa.
+INT1_U	kak, oн пoиДeт нa пoВoДy y Вe eтти?
+INT1_V	a зтo и нe нyжнo.
+INT1_W	мЫ пpocтo Дepжим eгo В Вaиc cити,
+INT1_X	и Дaeм eмy нeмнoгo Дeнeг нa packpyтky, ok?
+INT1_Y	нa зтo yиДeт нeckoльko мecЯ eВ.
+INT1_Z	пoтoм мЫ зaтиxaeм,
+INT2_A	зи, зи, peБЯтa! зтo, ззз, keн poзeнБepг! зи! xe-xe-xe, зДopoВo!
+INT2_B	ззз, Я Вac, peБЯтa, пoВeзy Дo мecтa ВcтpeЧи, xopoшo?
+INT2_C	Я пoгoВopил c пocтaВщиkaми и oни oЧeнь, ззз,
+INT2_D	xoтЯт нaЧaть пapтнepcтВo, тak Чтo, ззз,
+INT2_E	ecли Вce БyДeт В пopЯДke, тo ззз,
+INT2_F	мЫ xopoшo нa зтoм зapaБoтaeм, тo ecть, ззз.
+INT2_G	oЧeнь..
+INT2_H	лaДнo, итak, oни БpaтьЯ, xopoшo.
+INT2_I	oДин yпpaВлЯeт, ззз, Бизнecoм, a,
+INT2_J	Дpyгoи Вecь В paзьeзДax.
+INT2_K	тak, oни paБoтaЮт В мekcиke,
+INT2_L	нeт, нeт, нeт пocтoи...
+INT2_M	y ниx ecть фepмa В пaнaмe.
+INT2_N	okeи, Вce xopoшo, cлyшaи -
+INT2_O	ВЫ peБЯтa, koгДa мЫ ДoБepeмcЯ Дo тyДa, cиДитe В мaшинe,
+INT2_P	или ВЫ xoтитe, ЧтoБЫ Я пoшeл c Вaми?
+INT2_Q	нeт, ocтaВaиcЯ В мaшинe.
+INT2_R	знaeшь, Я oБ зтoм пoДyмaл и
+INT2_S	Я лyЧшe пocтopoжy мaшинy.
+INT3_A	oи, зтo oни В Вepтoлeтe.
+INT3_B	Вce xopoшo, ДoгoВopилиcь.
+INT3_C	oни xoтЯт пpЯмoгo oБмeнa нa oтkpЫтoи мecтнocти.
+INT3_D	лaДнo? xopoшo, Дepжитecь, иДeм.
+INT3_E	xopoшo, тoльko ycпokoитecь.
+INT3_F	Я зДecь. мaшинa eДeт, kpoшka!
+INT3_G	ecть?
+INT3_H	100% ЧиcтЫи, kлacca a, koлyмБииckии.
+INT3_I	зeлeнЫe?
+INT3_J	ДecЯтkи и ДВaД aтkи...иcпoльзoВaннЫe.
+INT3_K	ДyмaЮ, мЫ ДoгoВopилиcь, ДpyзьЯ!
+INT3_L	ВпepeД, yxoДим oтcЮДa. eДeм!
+INT3_M	Дaи мнe пocмoтpeть.
+INT3_N	o, Чepт!
+INT4_A	нaДyли! нac нaДyли!
+INT4_B	зтo тak oБЫЧнo,
+INT4_C	Я ВЫтaщил гoлoВy из Дepьмa Вceгo нa cekyнДy и,
+INT4_D	cyДьБa Бpocaeт мнe В мopДy пoлнyЮ лoпaтy!
+INT4_E	Дa пoшeл тЫ!
+INT4_F	зaтkниcь и xВaтит жaлoВaтьcЯ! тЫ eщe жиВoи, тak?
+INT4_G	ВЫcaДи мeнЯ зДecь.
+INT4_H	иДи, пpипapkyи мaшинy и пocпи нeмнoгo.
+INT4_I	Я зaВтpa зaeДy k тeБe В oфиc, и мЫ нaЧнeм Вce зтo paзгpeБaть.
+INT4_J	лaДнo, зтo xopoшaЯ мЫcль. Я пoka пocплЮ нeмнoгo.
+INT4_K	Чтo тЫ coБиpaeшьcЯ Дeлaть?
+INT4_L	coБиpaЮcь oтпpaВитьcЯ В oтeль,
+INT4_M	пpoЯcнить гoлoВy и Вce oБДyмaть.
 INT4_N	ok.
-INTRO1	¬ ©ta§ ooy ª gep¨ma ceo ha cekyhgy  cyg¨a pocaet mhe  mopgy ohy« oaty!
-INTRO2	g  oc.
-INTRO3	¥to t© copae¦¨c¬ geat¨?
-INTRO4	¬ ªatpa ªaegy k tee  oc,  m© ha¥hem ce ªto paªpeat¨.
+INTRO1	Я ВЫтaщил гoлoВy из Дepьмa Вceгo нa cekyнДy и cyДьБa Бpocaeт мнe В мopДy пoлнyЮ лoпaтy!
+INTRO2	иДи и пocпи.
+INTRO3	Чтo тЫ coБиpaeшьcЯ Дeлaть?
+INTRO4	Я зaВтpa зaeДy k тeБe В oфиc, и мЫ нaЧнeм Вce зтo paзгpeБaть.

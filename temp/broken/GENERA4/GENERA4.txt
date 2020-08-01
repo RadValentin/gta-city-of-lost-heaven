@@ -1,41 +1,41 @@
-COL410	y meh¬ ect¨ okyate¨ ha ¥act¨ oehhoo my§ecta, kotopoe haxogt¨c¬  opoge. phec eo mhe...
-COL411	a oce too, kak t© eo hage¦¨, ¬ xo¥y, ¥to© t© mhe hemegehho epeªoh, otom...
-COL4_01	gac © ygoetopeh  yget pag get¨ te¬ choa.
-COL4_02	ªto xopo¦o?
-COL4_03	kohe¥ho! xot¬ ¬  ha¥ha« ogoªpeat¨, ¥to mehho gac otetcteheh ªa ha¦ otep...
-COL4_04	¥to ªacta¬et te¬ oopt¨ o ªtom?
-COL4_05	hkto he ocmet¨c¬ oh¬t¨ takoo ¥eoeka, kak gac - ¬ ceo ¦¨ gyma« cyx...
-COL4_06	ªto h¥eo he ªha¥t. y meh¬ ect¨ g¬ te¬ ©oghoe pegoehe...
-COL4_07	kopteª, y meh¬ het pemeh g¬ ©oheh¬ ªagah.
-COL4_08	a ¬ gyma, ¥to ¥eoek c takm goam yget xatat¨c¬ ªa «y« oªmohoct¨. tomm, xot¬ © ©cy¦a meh¬.
-COL4_09	gaa...
-COL4_1	¥to poªo¦o co ctpekom? - he ªha«, cªp!
-COL4_11	yepte ªtx ¦tatckx c ha¦eo yt, cogat! - cªp, ect¨, cªp!
-COL4_12	pagahck  tahke! octahote eo!
-COL4_13	ªto oehh© koho, he pe¬tctyte ha¦emy pogeh«.
-COL4_14	poc¨te eo, cogat.
-COL4_15	ypat¨ pagahcky« ma¦hy c yt! - cªp! ga«c¨, cªp!
-COL4_17	ªog, pogoat¨ ga¨¦e!
-COL4_18	kto-to haxogt¨c¬  tahke!
-COL4_19	phecte hecko¨ko oh¥ko, cogat! - cªp, ect¨, cªp!
-COL4_20	 e¨ hageha, cªp
-COL4_21	chaep!
-COL4_22	¬ ©pa«c¨ otc«ga.
-COL4_23	ªagahe ©oheho! ªog - o¨ho! - c¨e¦¨te hemhoo oh¥ko.
-COL4_24	gectoat¨ o cekpethomy ahy ge¨ta hg¬ ªxo! ha¥at¨ po ecc camokga  ma¦h©!
-COL4_26	poto¨c¬ k cmept, kommyhct¥ecka¬ coo¥¨!
-COL4_3	koho xa¨t!
-COL4_4	otpa¬tec¨ haepx, cogat! - cªp, ect¨, cªp!
-COL4_6	m© og paeckm ohem!
-COL4_7	¦tatck, ypac¬ oh ª tahka!
-COL4_8	¬ ckaªa, ypac¬, hemegehho!
-COL4_9	ªah¬t¨ oopohte¨h©e oª !
-COL4_B1	~g~phec mhe ¥act¨ oehhoo my§ecta, kotopoe haxogt¨c¬  opoge.
-COL4_B2	~r~tahk p©  yhkt haªha¥eh¬!
-COL4_B3	~g~octa¨te tahk  kap epe okohka go too, kak oh camokgpyetc¬.
-COL4_B4	~g~tahk ªakp©t. opoy ©maht¨ ottyga okkyahto.
-COL4_B5	~r~tahk © yh¥toeh!
-COL4_B6	~g~hagte coco oxtt¨ tahk!
-COL4_B7	~g~pohte tahk  apa.
-COL4_B8	~g~©eªate ª tahka  ©xogte ª apaa.
-DETON	getoha ¬:
+COL410	y мeнЯ ecть пokyпaтeль нa Чacть Вoeннoгo имyщecтВa, koтopoe нaxoДитьcЯ В гopoДe. пpинecи eгo мнe...
+COL411	a пocлe тoгo, kak тЫ eгo нaиДeшь, Я xoЧy, ЧтoБЫ тЫ мнe нeмeДлeннo пepeзВoнил, пoтoм...
+COL4_01	Диac БЫл yДoВлeтВopeн и БyДeт paД ВиДeть тeБЯ cнoВa.
+COL4_02	зтo xopoшo?
+COL4_03	koнeЧнo! xoтЯ Я и нaЧинaЮ пoДoзpeВaть, Чтo имeннo Диac oтВeтcтВeнeн зa нaши пoтepи...
+COL4_04	Чтo зacтaВлЯeт тeБЯ гoВopить oБ зтoм?
+COL4_05	ниkтo нe ocмeлитьcЯ oБВинЯть тakoгo ЧeлoВeka, kak Диac - Я Вceгo лишь ДyмaЮ Вcлyx...
+COL4_06	зтo ниЧeгo нe знaЧит. y мeнЯ ecть ДлЯ тeБЯ ВЫгoДнoe пpeДлoжeниe...
+COL4_07	kopтeз, y мeнЯ нeт Вpeмeни ДлЯ ВЫпoлнeниЯ зaДaнии.
+COL4_08	a Я Дyмaл, Чтo ЧeлoВek c тakими Дoлгaми БyДeт xВaтaтьcЯ зa лЮБyЮ Вoзмoжнocть. тoмми, xoтЯ БЫ ВЫcлyшaи мeнЯ.
+COL4_09	ДaВaи...
+COL4_1	Чтo пpoизoшлo co cтpeлkoм? - нe знaЮ, cзp!
+COL4_11	yБepитe зтиx штaтckиx c нaшeгo пyти, coлДaт! - cзp, ecть, cзp!
+COL4_12	гpaжДaнckии В тaнke! ocтaнoВитe eгo!
+COL4_13	зтo ВoeннЫи koнВoи, нe пpeпЯтcтВyитe нaшeмy пpoДВижeниЮ.
+COL4_14	Бpocьтe eгo, coлДaт.
+COL4_15	yБpaть гpaжДaнckyЮ мaшинy c пyти! - cзp! ДВигaЮcь, cзp!
+COL4_17	ВзВoД, пpoДoлжaть Дaльшe!
+COL4_18	kтo-тo нaxoДитьcЯ В тaнke!
+COL4_19	пpинecитe нeckoльko пoнЧиkoВ, coлДaт! - cзp, ecть, cзp!
+COL4_20	 eль нaиДeнa, cзp
+COL4_21	cнaипep!
+COL4_22	Я ВЫБиpaЮcь oтcЮДa.
+COL4_23	зaДaниe ВЫпoлнeнo! ВзВoД - Вoльнo! - cьeшьтe нeмнoгo пoнЧиkoВ.
+COL4_24	ДeиcтВoВaть пo cekpeтнoмy плaнy Дeльтa инДиЯ зxo! нaЧaть пpo ecc caмoлиkВиДa ии мaшинЫ!
+COL4_26	пpигoтoВьcЯ k cмepти, koммyниcтиЧeckaЯ cВoлoЧь!
+COL4_3	koнВoи xaльт!
+COL4_4	oтпpaВлЯитecь нaВepx, coлДaт! - cзp, ecть, cзp!
+COL4_6	мЫ пoД Вpaжeckим oгнeм!
+COL4_7	штaтckии, yБиpaиcЯ Вoн из тaнka!
+COL4_8	Я ckaзaл, yБиpaиcЯ, нeмeДлeннo!
+COL4_9	зaнЯть oБopoнитeльнЫe пoзи ии!
+COL4_B1	~Д~пpинecи мнe Чacть Вoeннoгo имyщecтВa, koтopoe нaxoДитьcЯ В гopoДe.
+COL4_B2	~r~тaнk пpиБЫл В пyнkт нaзнaЧeниЯ!
+COL4_B3	~Д~ocтaВьтe тaнk В kap epe пoлkoВниka Дo тoгo, kak oн caмoлиkВиДиpyeтcЯ.
+COL4_B4	~Д~тaнk зakpЫт. пoпpoБyи ВЫмaнить oттyДa okkyпaнтoВ.
+COL4_B5	~r~тaнk БЫл yниЧтoжeн!
+COL4_B6	~Д~нaиДитe cпocoБ пoxитить тaнk!
+COL4_B7	~Д~пpигoнитe тaнk В гapaж.
+COL4_B8	~Д~ВЫлeзaитe из тaнka и ВЫxoДитe из гapaжa.
+DETON	Дeтoнa иЯ:

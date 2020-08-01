@@ -1,20 +1,20 @@
-PHI1_01	~g~gte  cpoc¨te opye c pyªoko.
-PHI1_02	~g~topoe  opyem otep¬ co toap. paªete ¬§k  oª¨mte opye.
-PHI1_03	~g~oxoe, oh ©ªa ogkpeehe.
-PHI1_04	~g~a teep¨ pkoh¥te octa¦xc¬ topo e opyem.
-PHI1_HP	koga o¨ªyetec¨ getohatoph©m pahatam, pocate pahat©  moete ©ªat¨ ªp©  «oe pem¬.
-PHIL1_A	?
-PHIL1_B	e!
-PHIL1_C	e
-PHIL1_D	hkoga he o¨ªytec¨ otkp©t©m ohem oªe gct¬topo a kaccg!
-PHIL1_E	¥ept, , t© ªty agoct¨ ¨e¦¨?
-PHIL1_F	a tee  he hyho ee t¨
-PHIL1_G	- xopo¦ ©ctpe  ce tyt paªettc¬. xa!
-PHIL1_H	cy¦a, , t© oop, ¥to moe¦¨ gat¨ mhe opy¬...
-PHIL1_I	kohe¥ho.
-PHIL1_J	¬ egy gea c oghm mekckahckm topo em.
-PHIL1_K	oh kagy« hege« tyt eªgt.
-PHIL1_L	cpoc¨ ogh ª ¬§ko c opyem c eo pyªoka, oka oh he octahoc¬.
-PHIL1_M	 t© mhe okae¦¨ o¨¦y« ycyy.
-PHIL1_N	otom pkoh¥ eo.
-PHIL1_O	¬¬¬xxyyyyy!
+PHI1_01	~Д~иДитe и cБpocьтe opyжиe c гpyзoВиkoВ.
+PHI1_02	~Д~тopгoВe  opyжиeм пoтepЯл cВoи тoВap. paзБeитe Ящиk и Вoзьмитe opyжиe.
+PHI1_03	~Д~пoxoжe, oни ВЫзВaли пoДkpeплeниe.
+PHI1_04	~Д~a тeпepь пpиkoнЧитe ocтaВшиxcЯ тopгoВ eВ opyжиeм.
+PHI1_HP	koгДa пoльзyeтecь ДeтoнaтopнЫми гpaнaтaми, Бpocaитe гpaнaтЫ и мoжeтe ВЫзВaть ВзpЫВ В лЮБoe ВpeмЯ.
+PHIL1_A	фил?
+PHIL1_B	Бeги!
+PHIL1_C	Бeг
+PHIL1_D	ниkoгДa нe пoльзyитecь oтkpЫтЫм oгнeм Вoзлe ДиcтиллЯтopoВ филa kaccиДи!
+PHIL1_E	Чepт, фил, тЫ зтy гaДocть пьeшь?
+PHIL1_F	a тeБe и нe нyжнo ee пить
+PHIL1_G	- xopoшии ВЫcтpeл и Вce тyт paзлeтитcЯ. xa!
+PHIL1_H	cлyшaи, фил, тЫ гoВopил, Чтo мoжeшь Дaть мнe opyжиЯ...
+PHIL1_I	koнeЧнo.
+PHIL1_J	Я ВeДy Дeлa c oДним мekcиkaнckим тopгoВ eм.
+PHIL1_K	oн kaжДyЮ нeДeлЮ тyт eзДит.
+PHIL1_L	cБpocь oДин из ЯщиkoВ c opyжиeм c eгo гpyзoВиka, пoka oн нe ocтaнoВилcЯ.
+PHIL1_M	и тЫ мнe okaжeшь БoльшyЮ ycлyгy.
+PHIL1_N	пoтoм пpиkoнЧи eгo.
+PHIL1_O	ЯЯЯxxyyyyy!

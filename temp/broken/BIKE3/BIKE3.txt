@@ -1,18 +1,18 @@
-BM3_1	~g~mectha¬ pya  mt¥ ahe akepe. eph ee!
-BM3_2	~r~eph ak, a he yh¥toa eo!
-BM3_3	~g~eph ak ha cto¬hky!
-BM3_4	~g~cagc¨ ha ak!
-BM3_6	~g~oh pog©p¬eh© epeg amyh e  gayhtayhe.
-BM3_7	~g~hyeh ©ctp© ak, ¥to gopat¨c¬ ha kp©¦y.
-BM3_8	~g~co¨ªy ak, ¥to p©hyt¨ c ªtx ecth  ha kp©¦y  ga¨he ¥act gopo.
-BM3_9	~g~oy¥ mt¥a ahea  yxog ottyga!
-BM3_A	pet, mt¥.
-BM3_B	ªto e 'ªagh a' ep¥ett.
-BM3_C	ocmotpm, kak xopo¦o t© gepe¦¨c¬ ªa ce¬.
-BM3_D	mecth© op o¦c¬, ookpa meh¬...
-BM3_E	oªmoho, aogap¬ mexahªmy  e§e ¥emy-to.
-BM3_F	¬  mo aph hay¥at x xopo¦m mahepam.
-BM3_G	ce paho.
-BM3_H	hago ogymat¨ - ªto moet cgeat¨ tee xopo¦ee m¬.
-BM3_I	t© ephe¦¨ mo ak, cka, ¥to o oy¥ eªoachoct¨.
-INTRUDE	~g~te¬ yªha!
+BM3_1	~Д~мecтнaЯ гpyппa В митЧ aнгeл Бaиkepe. Вepни ee!
+BM3_2	~r~Вepни Бaиk, a нe yниЧтoжaи eгo!
+BM3_3	~Д~Вepни Бaиk нa cтoЯнky!
+BM3_4	~Д~caДиcь нa Бaиk!
+BM3_6	~Д~oни пpoДЫpЯВлeнЫ пepeД aмyни иeи В Дayнтayнe.
+BM3_7	~Д~нyжeн БЫcтpЫи Бaиk, ЧтoБ ДoБpaтьcЯ нa kpЫшy.
+BM3_8	~Д~иcпoльзyи Бaиk, ЧтoБ пpЫгнyть c зтиx лecтни  нa kpЫшy В Дaльнeи Чacти Дopoги.
+BM3_9	~Д~пoлyЧи митЧa aнгeлa и yxoДи oттyДa!
+BM3_A	пpиВeт, митЧ.
+BM3_B	зтo жe 'зaДни a' ВepЧeтти.
+BM3_C	пocмoтpим, kak xopoшo тЫ ДepeшьcЯ зa ceБЯ.
+BM3_D	мecтнЫи Вop oшиБcЯ, oБokpaВ мeнЯ...
+BM3_E	Вoзмoжнo, БлaгoДapЯ мexaнизмy или eщe Чeмy-тo.
+BM3_F	Я и мoи пapни нayЧaт иx xopoшим мaнepaм.
+BM3_G	Вce paВнo.
+BM3_H	нaДo пoДyмaть - зтo мoжeт cДeлaть тeБe xopoшee имЯ.
+BM3_I	тЫ Вepнeшь мoи Бaиk, ckaжи, Чтo пoл пoлyЧил Бeзoпacнocть.
+INTRUDE	~Д~тeБЯ yзнaли!

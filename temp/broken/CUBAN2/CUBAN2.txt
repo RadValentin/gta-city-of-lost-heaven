@@ -1,36 +1,36 @@
-CUB2_01	he xataet mecta, hyha ma¦ha oo¨¦e.
-CUB2_02	ham hyh© oggek ª kae!
-CUB2_03	~g~oª¨m ta¥ky  coep kyh e ª kae poha.
-CUB2_04	~g~g  coep kah e g¬ gpak.
-CUB2_05	©hec ªtoo tpyca-chaepa!
-CUB2_07	oh gepytc¬ kak geo¥k! ykpoc¬!
-CUB2_09	chaep ha kp©¦e!
-CUB2_11	~r~gypak, ham ©a hyha ta ta¥ka.
-CUB2_12	ª amo! pag get¨, ¥to ªto moe¦¨!
-CUB2_13	oh«¥e at¬h ©, hago yt¨ x cex!
-CUB2_14	ªªaaap¬¬gg!
-CUB2_15	tak, pat¨¬, ªap¬a!!
-CUB2_16	tomm, m© okaªa co« kpytªhy!
-CUB2_17	gaa ykpagem ypoh c hapkotkam  cacemc¬!
-CUB2_18	~g~oª¨m ta¥ky  coep kyh e 
-CUB2_19	ygem gpat¨c¬ kak myk!
-CUB2_21	kak myk c o¨¦m ¬ am!
-CUB2_22	~g~ pkoh¥ octa¨h©x at¬h, ce¥ac pgyt kyh ©.
-CUB2_23	~g~at¬h © o¥eh¨ «¬t gpat¨c¬ c kyh am. cmotp haªag.
-CUB2_24	~g~oªpatc¨  kae poha c ypohom  papky eo ha ªaghem gope.
-CUB2_25	ye cex at¬h!!
-CUB2_A	yh kaecto, op aop, aepto..
-CUB2_B	a! yha pahge poema!
-CUB2_C	at¬h ©! hehay x!
-CUB2_D	poem© co mho  ocegh paª!
-CUB2_E	ªt a - ªt at¬h ©! m© x p¨em!
-CUB2_F	ham hago hat ykp©te.
-CUB2_G	¬ p ap p e tyt ye.
-CUB2_H	amo, xopo¦o og¦¨!
-CUB2_I	g¬ eh§h©. epho?
-CUB2_J	het pemeh g¬ ¦ytok!
-CUB2_K	xog, oog g¬ meh¬ o¬t¨!
-CUB2_L	ªaep mox aphe tyga,  toga m© oom ªtx at¬h!
-CUB2_M	oh  poemax co mho, y hx poem© c pomagh©m aphem!
-CUB2_N	het poem, tomm.
-CUB2_O	ymepto, mo c©h, ¥to cy¥oc¨?
+CUB2_01	нe xВaтaeт мecтa, нyжнa мaшинa пoБoльшe.
+CUB2_02	нaм нyжнЫ пoДДeлkи из kaфe!
+CUB2_03	~Д~Вoзьми тaЧky и coБepи kyБин eВ из kaфe poБинa.
+CUB2_04	~Д~иДи и coБepи kaБин eВ ДлЯ Дpakи.
+CUB2_05	ВЫнecи зтoгo тpyca-cнaипepa!
+CUB2_07	oни ДepyтcЯ kak ДeВoЧkи! ykpoиcЯ!
+CUB2_09	cнaипep нa kpЫшe!
+CUB2_11	~r~Дypak, нaм БЫлa нyжнa тa тaЧka.
+CUB2_12	зи aмигo! paД ВиДeть, Чтo зтo мoжeшь!
+CUB2_13	ВoнЮЧиe гaитЯн Ы, нaДo yБить иx Вcex!
+CUB2_14	ззaaapЯЯДД!
+CUB2_15	итak, БpaтьЯ, зapЯжaи!!
+CUB2_16	тoмми, мЫ пokaзaли cВoЮ kpyтизнy!
+CUB2_17	ДaВaи ykpaДeм фypгoн c нapkoтиkaми и cпaceмcЯ!
+CUB2_18	~Д~Вoзьми тaЧky и coБepи kyБин eВ 
+CUB2_19	БyДeм ДpaтьcЯ kak мyжиkи!
+CUB2_21	kak мyжиkи c Бoльшими Яи aми!
+CUB2_22	~Д~ пpиkoнЧи ocтaльнЫx гaитЯн, ceиЧac пpиДyт kyБин Ы.
+CUB2_23	~Д~гaитЯн Ы oЧeнь лЮБЯт ДpaтьcЯ c kyБин aми. cмoтpи нaзaД.
+CUB2_24	~Д~ВoзВpaтиcь В kaфe poБинa c фypгoнoм и пpипapkyи eгo нa зaДнeм ДВope.
+CUB2_25	yБeи Вcex гaитЯн!!
+CUB2_A	yн kaфecитo, пop фaВop, aлБepтo..
+CUB2_B	пaпи! yнa гpaнДe пpoБлeмa!
+CUB2_C	гaитЯн Ы! нeнaВижy иx!
+CUB2_D	пpoБлeмЫ co мнoи В пocлeДнии paз!
+CUB2_E	зти гaи - зти гaитЯн Ы! мЫ иx пpиБьeм!
+CUB2_F	нaм нaДo нaити ykpЫтиe.
+CUB2_G	Я пpиБил пap фpи eВ тyт yжe.
+CUB2_H	aмигo, xopoшo ВoДишь!
+CUB2_I	ДлЯ жeнщинЫ. Вepнo?
+CUB2_J	нeт Вpeмeни ДлЯ шyтok!
+CUB2_K	ВxoДи, пoВoДи ДлЯ мeнЯ oпЯть!
+CUB2_L	зaБepи мoиx пapнeи тyДa, и тoгДa мЫ пoлoжим зтиx гaитЯн!
+CUB2_M	oни В пpoБлeмax co мнoи, y ниx пpoБлeмЫ c гpoмaДнЫм пapнeм!
+CUB2_N	нeт пpoБлeм, тoмми.
+CUB2_O	yмБepтo, мoи cЫн, Чтo cлyЧилocь?

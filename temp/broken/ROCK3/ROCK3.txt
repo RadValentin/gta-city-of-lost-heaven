@@ -1,58 +1,58 @@
-RBM3_1	~g~oteª a cta ha mepop¬te.
-RBM3_2	koga omy pkpe¬t,  t© o©tae¦¨c¬ ©t, oha ªopetc¬...
-RBM3_3	koga ªp©ho ctepeh¨ ªaget  omy, to oha ªopetc¬.
-RBM3_4	~r~t© y a cta!
-RBM3_6	getoha ¬:
-RBM3_7	~g~oma pacaac¨!
-RBM3_8	¥em ©ctpee ege¦¨, tem he oyckaetc¬ ªp©ho ctepeh¨.
-RBM3_9	ec octahot¨c¬  exat¨ megehho, to ªp©ho ctepeh¨ ©xogt.
-RBM3_A	tomm, tomm! tomm, gpy§e, cx ephyc¬!
-RBM3_B	¥to pocxogt?
-RBM3_C	ªtot cx he octat a cta  okoe!
-RBM3_D	t© he y eo, gpy§e. kak e oh ephyc¬.
-RBM3_E	ga, ga, ga, a geo  tom, ¥to...
-RBM3_F	geo  tom, ¥to kto-to goeh ect ha¦ mo, komy m© epm,
-RBM3_G	otomy ¥to ªtot cx ham ypoaet!
-RBM3_H	¬ - yoe gep¨mo. mhe e§e hyha ma ma!
-RBM3_I	m© ce koemc¬, gpy§e.
-RBM3_J	oka, aph, ycokotec¨, ¬ ªto yay.
-RBM3_K	o©¥ho, ¬ he cta © ce¬ ytpygat¨, eg¬ ma¦hy  okpyeh ¨¬h©x ¦otahgckx cekcyao,
-RBM3_L	ho g¬ ac ¬ cgea« ck«¥ehe.
-ROK3_1	a teep¨, pem¬ ©t¨ ªapaotahhy« ctoky. mepop¬te - ceo ¦¨ cto ¬pgo o gopoe.
-ROK3_10	ª, yt©ka ogk pet mhe kp©¦y! ªto he ogka, ªto - ym¦ah!
-ROK3_11	aaaaaxxxxx!!!!  ªto ogcoegheho g¬ ªp©a!! aaaaaxxxxx!!!! 
-ROK3_12	oh cega pegypega, ¥to ¨¬hcto oyt meh¬. ¬ ªto ge o teeky. t© ot¬he¦¨ ogh ª poogo. kako poog? ¬ he ªha«, gpy§e.
-ROK3_13	y meh¬ het cekpeta. , cka ¥to-hyg¨. ¬ ygy pat¨ ha ac  agy.
-ROK3_14	tomm, gpy§e, eg¨ ©ctpee, apeh¨. ce goh© ¥to-to geat¨. ª, ymhk!
-ROK3_15	"ce goh© ¥to-to geat¨", ¥to ªto ªa peg, ¬ ge kacch©x geo¥ek. oka, kpyto, gea ¥to-to.
-ROK3_16	ocy¦a, ¬ pa« ha myª©ka¨hom hctpymehte. ¬ h¥eo he ªha« o ome.  moet to¨ko t¬hyt¨ ym¦ah ¥epeª coomhky.
-ROK3_17	ga, ¬ c©xa, ¥to t© peyce  ªtom gee. ª, ¬ h¥eo he coopaa to ho¥¨«, t© e ªhae¦¨!
-ROK3_18	epega  coomhky. coomhky?!?! ªto - typct¥eck atoyc a cta!
-ROK3_19	tak ge mhe ª¬t¨ coomhky, ªhae¦¨, o ¥em ¬? kako poog, tomm? ªeeh©. tyt het ªeehoo.
-ROK3_2	y¥¦e cgea eo oto§e  cegy«§ paª. tomm, omeh¬ toha¨hoct¨.
-ROK3_20	, ªtot ªeeh©. t© g¦¨ ªgec¨ ªeeh© poog?
-ROK3_21	het, hety. o kapte agaet cmept¨! ce ©¬g¬t ªeeh©m! mhe hago ©o ªapyat¨ te¬ oo¨¦e  y¥¦e pemeha.
-ROK3_22	pocaehh© ckate¨. katact. ¬ te¬ ©gepa goo. ªatkhc¨. t©, gep¨mo.
-ROK3_23	o¨¦a¬ kapªha¬ geo¥ka. ga. ªatkhc¨  t¬h poog. kako poog? ot ªtot..
-ROK3_24	het! apeh¨, m©  op¬gke. m© he ogopac¨, gpy§e.
-ROK3_25	tomm, gpy, kacch©. pok-h-po. het  y hac ta¥k tyga oexat¨?
-ROK3_26	pªket? copa§ehe okohh ? a ct!
-ROK3_27	t© go ty yt©ky?
-ROK3_3	¬ h¥eo he ohma«, ec mo¬ ooa he og kaom. o, ¥to ªto? ª tomm, octa¨ ªty kaccety.
-ROK3_4	a ct. toe pem¬ ªap¬ªheh¬ ªpa po¦o. ¬ gam tee ¦ahc, ¥to© ctat¨ gpyª¨¬m.
-ROK3_5	a ce¥ac ¬ ga« tee ¦ahc, ¥to© ymepet¨. chª¨ ckopoct¨  to myªh ªopetc¬, mecte c toe o¨¦o oocato ªagh e!
-ROK3_6	tomm, gpy, t© cac ahgy! ¬ ycta ot ªtoo. gep hoy ha ega!!
-ROK3_62	m© gyma okaªat¨ tee ha¦ xpam poka -
-ROK3_63	po¥ycty hectocto a cta!
-ROK3_64	ocy¦a ce¬, gpy§e. ªta kacceta ª a¨e-ma¦e  op©.
-ROK3_65	ª, pe¬ta, ªto - xpam, a m© - pe ©!
-ROK3_66	ª, xopo¦o, ec pe¬ta «¬t cox pe o opeªahh©m  yxm,
-ROK3_67	to ¬ he cop«?
-ROK3_68	ot, ¥ept, ehty o¬t¨ ªaeao.
-ROK3_69	o ªto  ehe m© he cmoem pat¨  y«.
-ROK3_7	ham hago hat omy! m©, ¥to, ygem eªgt¨ ec¨ geh¨? ª, y hac tyt oho ©k..
-ROK3_70	gep¨mo! mo k¦k...
-ROK3_71	m© yagm c ªtm - caco choa, tomm, ªhae¦¨, o ¥em ¬, kpaca¥k, oka!
-ROK3_73	geªª octa ªac¨,
-ROK3_8	a oma he moet ©t¨  motope? ham hago octahot¨c¬, ¥to© hat ee. m© ce ohem! ¬ ha¨«c¨!
-ROK3_9	ª, gpy, ªgec¨ o¥epeg¨.  hom ¬§ke het oteta! ypac¬!
+RBM3_1	~Д~oтВeзй лaВ фйcтa нa мepoпpйЯтйe.
+RBM3_2	koгДa БoмБy пpйkpeпЯт, й тЫ пoпЫтaeшьcЯ ВЫйтй, oнa ВзopВeтcЯ...
+RBM3_3	koгДa ВзpЫВнoй cтepжeнь зaйДeт В БoмБy, тo oнa ВзopВeтcЯ.
+RBM3_4	~r~тЫ yБйл лaВ фйcтa!
+RBM3_6	Дeтoнa йЯ:
+RBM3_7	~Д~БoмБa pacплaВйлacь!
+RBM3_8	Чeм БЫcтpee eДeшь, тeм нйжe oпyckaeтcЯ ВзpЫВнoй cтepжeнь.
+RBM3_9	ecлй ocтaнoВйтьcЯ йлй exaть мeДлeннo, тo ВзpЫВнoй cтepжeнь ВЫxoДйт.
+RBM3_A	тoммй, тoммй! тoммй, Дpyжйщe, пcйx ВepнyлcЯ!
+RBM3_B	Чтo пpoйcxoДйт?
+RBM3_C	зтoт пcйx нe ocтaВйт лaВ фйcтa В пokoe!
+RBM3_D	тЫ нe yБйл eгo, Дpyжйщe. kak жe oн ВepнyлcЯ.
+RBM3_E	Дa, Дa, Дa, a Дeлo В тoм, Чтo...
+RBM3_F	Дeлo В тoм, Чтo kтo-тo Дoлжeн Вecтй нaш лймo, koмy мЫ Вepйм,
+RBM3_G	пoтoмy Чтo зтoт пcйx нaм yгpoжaeт!
+RBM3_H	Я - глyпoe Дepьмo. мнe eщe нyжнa мa мa!
+RBM3_I	мЫ Вce koлeмcЯ, Дpyжйщe.
+RBM3_J	okaй, пapнй, ycпokoйтecь, Я зтo yлaжy.
+RBM3_K	oБЫЧнo, Я нe cтaл БЫ ceБЯ yтpyжДaть, ВeДЯ мaшйнy В okpyжeнйй пьЯнЫx шoтлaнДckйx БйcekcyaлoВ,
+RBM3_L	нo ДлЯ Вac Я cДeлaЮ йckлЮЧeнйe.
+ROK3_1	a тeпepь, ВpeмЯ ВЫпйть зapaБoтaннyЮ cтoпky. мepoпpйЯтйe - Вceгo лйшь cтo ЯpДoВ пo Дopoгe.
+ROK3_10	зй, БyтЫлka ВoДkй pВeт мнe kpЫшy! зтo нe ВoДka, зтo - Бyмшaйн!
+ROK3_11	ВВaaaaaxxxxx!!!! й зтo пoДcoeДйнeнo ДлЯ ВзpЫВa!! ВВaaaaaxxxxx!!!! 
+ROK3_12	oнй ВceгДa пpeДyпpeжДaлй, Чтo пьЯнcтВo пoгyБйт мeнЯ. Я зтo ВйДeл пo тeлeky. тЫ пoтЯнeшь oДйн йз пpoВoДoВ. kakoй пpoВoД? Я нe знaЮ, Дpyжйщe.
+ROK3_13	y мeнЯ нeт cekpeтa. Вйллй, ckaжй Чтo-нйБyДь. Я БyДy йгpaть нa Бac В aДy.
+ROK3_14	тoммй, Дpyжйщe, eДь БЫcтpee, пapeнь. Вce ДoлжнЫ Чтo-тo Дeлaть. зй, yмнйk!
+ROK3_15	"Вce ДoлжнЫ Чтo-тo Дeлaть", Чтo зтo зa БpeД, Я ВйДeл kлaccнЫx ДeВoЧek. okaй, kpyтoй, Дeлaй Чтo-тo.
+ROK3_16	пocлyшaй, Я йгpaЮ нa мyзЫkaльнoм йнcтpyмeнтe. Я нйЧeгo нe знaЮ o БoмБe. Вйллй мoжeт тoльko тЯнyть Бyмшaйн Чepeз coлoмйнky.
+ROK3_17	Дa, Я cлЫxaл, Чтo тЫ пpeycпeл В зтoм Дeлe. зй, Я нйЧeгo нe cooБpaжaл тoй нoЧьЮ, тЫ жe знaeшь!
+ROK3_18	пepeДaй Вйллй coлoмйнky. coлoмйнky?!?! зтo - тypйcтйЧeckйй aВтoБyc лaВ фйcтa!
+ROK3_19	тak гДe мнe ВзЯть coлoмйнky, знaeшь, o Чeм Я? kakoй пpoВoД, тoммй? зeлeнЫй. тyт нeт зeлeнoгo.
+ROK3_2	лyЧшe cДeлaй eгo пoтoлщe В cлeДyЮщйй paз. тoммй, пoмeнЯй тoнaльнocть.
+ROK3_20	йлй, зтoт зeлeнЫй. тЫ ВйДйшь зДecь зeлeнЫй пpoВoД?
+ROK3_21	нeт, нeтy. пo kapтe пaДaeт cмepть! Вce ВЫглЯДЯт зeлeнЫмй! мнe нaДo БЫлo зaгpyжaть тeБЯ пoБoльшe В лyЧшйe Вpeмeнa.
+ROK3_22	пpocлaВлeннЫй йckaтeль. kaпйтaлйcт. Я тeБЯ ВЫДepжйВaл Дoлгo. зaтkнйcь. тЫ, Дepьмo.
+ROK3_23	БoльшaЯ kaпpйзнaЯ ДeВoЧka. Дa. зaтkнйcь й тЯнй пpoВoД. kakoй пpoВoД? Вoт зтoт..
+ROK3_24	нeт! пapeнь, мЫ В пopЯДke. мЫ нe пoДopВaлйcь, Дpyжйщe.
+ROK3_25	тoммй, Дpyг, kлaccнЫй. pok-н-poлл. нeт лй y нac тaЧkй тyДa пoexaть?
+ROK3_26	pзkeт? coВpaщeнйe пokлoннй ? лaВ фйcт!
+ROK3_27	тЫ Дoпйл тy БyтЫлky?
+ROK3_3	Я нйЧeгo нe пoнймaЮ, ecлй мoЯ гoлoВa нe пoД kaйфoм. o, Чтo зтo? зй тoммй, пocтaВь зтy kacceтy.
+ROK3_4	лaВ фйcт. тВoe ВpeмЯ зaгpЯзнeнйЯ зфйpa пpoшлo. Я Дaм тeБe шaнc, ЧтoБЫ cтaть ДpyзьЯмй.
+ROK3_5	a ceйЧac Я ДaЮ тeБe шaнc, ЧтoБЫ yмepeть. cнйзь ckopocть й тВoй лймyзйн ВзopВeтcЯ, Вмecтe c тВoeй Бoльшoй Вoлocaтoй зaДнй eй!
+ROK3_6	тoммй, Дpyг, тЫ cпac БaнДy! Я ycтaл oт зтoгo. Дepжй нoгy нa пeДaлй!!
+ROK3_62	мЫ Дyмaлй пokaзaть тeБe нaш xpaм poka -
+ROK3_63	пpoЧyВcтВyй нeйcтoВcтВo лaВ фйcтa!
+ROK3_64	пocлyшaй ceБЯ, Дpyжйщe. зтa kacceтa йз пaпьe-мaшe й гoфpЫ.
+ROK3_65	зй, peБЯтa, зтo - xpaм, a мЫ - жpe Ы!
+ROK3_66	зй, xopoшo, ecлй peБЯтa лЮБЯт cВoйx жpe oВ oБpeзaннЫмй й глyxймй,
+ROK3_67	тo Я нe cпopЮ?
+ROK3_68	Вoт, Чepт, лeнтy oпЯть зaжeВaлo.
+ROK3_69	пo зтoй  eнe мЫ нe cмoжeм йгpaть В жйВyЮ.
+ROK3_7	нaм нaДo нaйтй БoмБy! мЫ, Чтo, БyДeм eзДйть Вecь Дeнь? зй, y нac тyт пoлнo ВЫпйВkй..
+ROK3_70	Дepьмo! мoй kйшkй...
+ROK3_71	мЫ yлaДйм c зтйм - cпacйБo cнoВa, тoммй, знaeшь, o Чeм Я, kpacaВЧйk, пoka!
+ROK3_73	Джeзз пocтaВйл зaпйcь,
+ROK3_8	a БoмБa нe мoжeт БЫть В мoтope? нaм нaДo ocтaнoВйтьcЯ, ЧтoБЫ нaйтй ee. мЫ Вce пoгйБнeм! Я нaпьЮcь!
+ROK3_9	зй, Дpyг, зДecь oЧepeДь. В пйВнoм Ящйke нeт oтВeтa! yБйpaйcЯ!

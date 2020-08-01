@@ -1,43 +1,43 @@
-COK4_1	tomm, gaª paªopa cgeky..
-COK4_12	oh oc«gy!
-COK4_13	¥ept c hm. hag gaªa ockopee!
-COK4_14	t© ¥toto xo¥e¦¨?!
-COK4_15	c c p©o!
-COK4_16	e¦¨ ªto! e¦¨!
-COK4_19	e§e poem!
-COK4_20	ha pctah ctpek!
-COK4_24	xopo¦ ©ctpe. t©  pagy yhatk.
-COK4_25	xopo¦o, cco.
-COK4_26	o¬hc¨, tomm.
-COK4_27	ok, mp. ªhc ªhc gªhc.
-COK4_28	~g~gaa  ¬xty epeg gpym ogkam!
-COK4_3	kakoo ¥epta m© egem c ªagahem g¬ heo?
-COK4_31	~g~g k y¥¦e ogke!
-COK4_32	~r~megehho!
-COK4_33	~r~t© yh¥to ogky!
-COK4_34	~g~yog ªt ogk!
-COK4_35	ªgopo¨e ogk:
-COK4_4	¥em o¨¦e ce¥ac hay¥mc¬, tem meh¨¦e pgetc¬ y¥t¨ otom  opoge!
-COK4_5	«« to xapaktep. kak yp©©.
-COK4_A	©tokh! actka!
-COK4_B	geae¦¨ ªto g¬ meh¬?
-COK4_C	¥to t© cee gymae¦¨, kycok gep¨ma ª actk? aaax!
-COK4_D	kpt ce¬!
-COK4_E	ect moe «moe kho ª¨ yppo, oho ympet!
-COK4_F	¥to e§e ¬ moy?
-COK4_G	gaa he ªacop¬t¨.
-COK4_H	¥to?
-COK4_I	¥ept - he aho, ¬ ky« coth« gpyx.
-COK4_J	hy tomm,
-COK4_K	kag© mec¬  haemhk ©et   e ct  ctat ¬xty.
-COK4_L	oh pogaet co tpahcopt.
-COK4_M	mhe hago ©ctpy« ogky
-COK4_N	 paªe octa¨h©e,
-COK4_O	 phec mhe c«ga tpahcopt, ok!?
-COK4_P	gyma«, t© co¨ªye¦¨ ahea-xpahte¬.
-COK4_Q	oªo¨ ¦¨ mhe ©t¨ tyt.
-COK4_R	ce¥ac moe¦¨ oc¥tat¨ mhe 'oghokx  toct©x',
-COK4_S	ho oghag© ¬ cacy co« ªagh y,
-COK4_T	 t© o eye¦¨ meh¬!
-COK4_U	mah¨¬k.
+COK4_1	тoмми, Диaз paзopВaл cДeлky..
+COK4_12	oни пoВcЮДy!
+COK4_13	Чepт c ними. нaиДи Диaзa пockopee!
+COK4_14	тЫ Чтoтo xoЧeшь?!
+COK4_15	cпи c pЫБoи!
+COK4_16	eшь зтo! eшь!
+COK4_19	eщe пpoБлeм!
+COK4_20	нa пpиcтaни cтpeлkи!
+COK4_24	xopoшии ВЫcтpeл. тЫ и ВпpaВДy лyнaтиk.
+COK4_25	xopoшo, cпcиБo.
+COK4_26	oглЯниcь, тoмми.
+COK4_27	ok, мp. лзнc Взнc Дзнc.
+COK4_28	~Д~ДaВaи В Яxтy пepeД Дpyгими лoДkaми!
+COK4_3	kakoгo Чepтa мЫ eДeм c зaДaниeм ДлЯ нeгo?
+COK4_31	~Д~иДи k лyЧшeи лoДke!
+COK4_32	~r~мeДлeннo!
+COK4_33	~r~тЫ yниЧтoжил лoДky!
+COK4_34	~Д~yВoДи зти лoДkи!
+COK4_35	зДopoВьe лoДkи:
+COK4_4	Чeм Бoльшe ceиЧac нayЧимcЯ, тeм мeньшe пpиДeтcЯ yЧить пoтoм В гopoДe!
+COK4_5	лЮБлЮ тВoи xapakтep. kak ypЫБЫ.
+COK4_A	ВЫтoлkни! плacтиka!
+COK4_B	Дeлaeшь зтo ДлЯ мeнЯ?
+COK4_C	Чтo тЫ ceБe Дyмaeшь, kycok Дepьмa из плacтиkи? aaax!
+COK4_D	Вkpити ceБЯ!
+COK4_E	ecт мoe лЮБимoe kинo зль Бyppo, oнo yмpeт!
+COK4_F	Чтo eщe Я мoгy?
+COK4_G	ДaВaи нe зacopЯть.
+COK4_H	Чтo?
+COK4_I	Чepт - нe Вaжнo, Я kyплЮ coтнЮ Дpyгиx.
+COK4_J	нy тoмми,
+COK4_K	kaжДЫи мecЯ  нaeмниk плЫВeт В Ви e cити и cтaВит Яxтy.
+COK4_L	oн пpoДaeт cВoи тpaнcпopт.
+COK4_M	мнe нaДo БЫcтpyЮ лoДky
+COK4_N	и paзБeи ocтaльнЫe,
+COK4_O	и пpинecи мнe cЮДa тpaнcпopт, ok!?
+COK4_P	ДyмaЮ, тЫ иcпoльзyeшь aнгeлa-xpaнитeлЯ.
+COK4_Q	пoзВoль лишь мнe БЫть тyт.
+COK4_R	ceиЧac мoжeшь пocЧитaть мнe 'oДинokиx и тoлcтЫx',
+COK4_S	нo oДнaжДЫ Я cпacy cВoЮ зaДни y,
+COK4_T	и тЫ пo eлyeшь мeнЯ!
+COK4_U	мaньЯk.
 COK4_V	xaxaxaxa!

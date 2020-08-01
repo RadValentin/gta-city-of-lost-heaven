@@ -1,34 +1,34 @@
-HOTR_01	~g~ohka gtc¬ 12 kpyo. ©p©¦h©e to¨ko ep©e tp mecta.
-HOTR_02	~g~ec ma¦ha paªatc¬, to ac gcka py«t.
-HOTR_03	~g~koga ma¦ha opegeha, ee moho o¥ht¨ ha t ctoe.
-HOTR_04	~g~tak moho ©exat¨ co ctagoha.
-HOTR_05	ma¦ha:
-HOTR_06	kpy:
-HOTR_07	hooe y¥¦ee pem¬: ~1~:0~1~
-HOTR_08	pem¬: ~1~:~1~
-HOTR_09	mecto:
-HOTR_10	pem¬ ohk:
-HOTR_11	hooe y¥¦ee pem¬: ~1~.~1~ cekyhg
-HOTR_12	~r~a¦a ma¦ha yh¥toeha!
-HOTR_13	~r~© popa ohky!
-HOTR_14	~r~© gcka poah©!
-HOTR_15	pem¬: ~1~:~1~
-HOTR_16	pem¬: ~1~:0~1~
-HOTR_17	y¥¦ee pem¬: ~1~:~1~
-HOTR_18	y¥¦ee pem¬: ~1~:0~1~
-HOTR_19	y¥¦ee pem¬: het
-HOTR_20	hooe y¥¦ee pem¬: ~1~:~1~
-HOTR_21	hooe y¥¦ee pem¬: ~1~:0~1~
-HOTR_22	y¥¦ peªy¨tat: het
-HOTR_23	y¥¦ peªy¨tat: 1
-HOTR_24	y¥¦ peªy¨tat: 2
-HOTR_25	y¥¦ peªy¨tat: 3
-HOTR_26	y¥¦ peªy¨tat: ~1~
-HOTR_27	y¥¦ee pem¬ kpya: ~1~.~1~ cekyhg
-HOTR_28	y¥¦ee pem¬ kpya: ~1~.0~1~ cekyhg
+HOTR_01	~Д~гoнka ДлитcЯ 12 kpyгoВ. ВЫигpЫшнЫe тoльko пepВЫe тpи мecтa.
+HOTR_02	~Д~ecли мaшинa paзВaлитcЯ, тo Вac ДиckВaлифи иpyЮт.
+HOTR_03	~Д~koгДa мaшинa пoВpeжДeнa, ee мoжнo пoЧинить нa пит cтoпe.
+HOTR_04	~Д~тak мoжнo ВЫexaть co cтaДиoнa.
+HOTR_05	мaшинa:
+HOTR_06	kpyги:
+HOTR_07	нoВoe лyЧшee ВpeмЯ: ~1~:0~1~
+HOTR_08	ВpeмЯ: ~1~:~1~
+HOTR_09	мecтo:
+HOTR_10	ВpeмЯ гoнkи:
+HOTR_11	нoВoe лyЧшee ВpeмЯ: ~1~.~1~ cekyнД
+HOTR_12	~r~Вaшa мaшинa yниЧтoжeнa!
+HOTR_13	~r~ВЫ пpoигpaли гoнky!
+HOTR_14	~r~ВЫ ДиckВaлифи иpoВaнЫ!
+HOTR_15	ВpeмЯ: ~1~:~1~
+HOTR_16	ВpeмЯ: ~1~:0~1~
+HOTR_17	лyЧшee ВpeмЯ: ~1~:~1~
+HOTR_18	лyЧшee ВpeмЯ: ~1~:0~1~
+HOTR_19	лyЧшee ВpeмЯ: нeт
+HOTR_20	нoВoe лyЧшee ВpeмЯ: ~1~:~1~
+HOTR_21	нoВoe лyЧшee ВpeмЯ: ~1~:0~1~
+HOTR_22	лyЧшии peзyльтaт: нeт
+HOTR_23	лyЧшии peзyльтaт: 1
+HOTR_24	лyЧшии peзyльтaт: 2
+HOTR_25	лyЧшии peзyльтaт: 3
+HOTR_26	лyЧшии peзyльтaт: ~1~
+HOTR_27	лyЧшee ВpeмЯ kpyгa: ~1~.~1~ cekyнД
+HOTR_28	лyЧшee ВpeмЯ kpyгa: ~1~.0~1~ cekyнД
 HOTR_29	$~1~
-HOTR_30	1-e mecto
-HOTR_31	2-e mecto
-HOTR_32	3-e mecto
-HOTR_33	y¥¦ee pem¬ kpya: het
-HOTR_34	hooe y¥¦ee pem¬ kpya: ~1~.0~1~ cekyhg
+HOTR_30	1-e мecтo
+HOTR_31	2-e мecтo
+HOTR_32	3-e мecтo
+HOTR_33	лyЧшee ВpeмЯ kpyгa: нeт
+HOTR_34	нoВoe лyЧшee ВpeмЯ kpyгa: ~1~.0~1~ cekyнД

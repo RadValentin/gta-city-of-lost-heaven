@@ -1,27 +1,27 @@
-BJM1_1	~g~ocoog kªma gohca ot o eckx!
-BJM1_2	~r~t© goeh © ot¨ kªma, a he yat¨ eo!
-BJM1_20	yep opye, a to ctokhe¦¨c¬ c poemam!
-BJM1_21	~g~k«¥ k komhate moet ©t¨ ga¨¦e ha ctah .
-BJM1_22	~g~othec kªma  eo gom!
-BJM1_23	~g~tee hago hat k«¥ ep©m!
-BJM1_3	~g~t© hage¦¨ ¥to-to oeªhoe  komhate xpaheh¬.
-BJM1_4	oh oopyeh! ye eo!
-BJM1_5	to¨ko ooªhahh©e ¥hoct pogyt ga¨¦e!
-BJM1_A	tomm! ª, tomm, cmotp, ªto ekoeho! ¬ cmo otkp©t¨ ªtot otcek!
-BJM1_B	y hac  e© otcek hªy, keh.
-BJM1_C	ga, ga. Well, ¬ gocta gocky, ¥to t© poc.
-BJM1_D	ax, ot ©oga «pg¥eckoo opaªoah¬: oªmohoct¨ cegoat¨ hctpyk ¬m.
-BJM1_E	ce¥ac mhe hyeh oxpahhk.
-BJM1_F	ox, ga mhe ogymat¨...ªa§ta, ªa§ta - pgyma! ªtot apeh¨ cgyet te¬ otc«ga!
-BJM1_G	 ox, ax. oh hytp.
-BJM1_H	ge hytp?
-BJM1_I	 o eckom y¥actke ogaet poopa.
-BJM1_J	gyma«, emy gagyt ycohoe....
-BNK1_10	ga, ªto ¬..
-BNK1_11	¥to © t© h ckaªa!
-BNK1_12	ya¨ ¬poct¨  omo mhe gopat¨c¬ go mecta!
-BNK1_13	¬ goeh ©oht¨ paoty,  t© mo ©ªote¨.
-BNK1_14	oh otep¬ mo« ªagh y tam!
-BNK1_7	kªm gohc?
-BNK1_8	¬ omoy ceat¨!
-WANTED1	~g~ctp¬xh koo  otep¬ hyh© ypoeh¨!
+BJM1_1	~Д~ocВoБoДи kзмa Джoнca oт пoли eиckиx!
+BJM1_2	~r~тЫ Дoлжeн БЫл пoБить kзмa, a нe yБиВaть eгo!
+BJM1_20	yБepи opyжиe, a тo cтoлkнeшьcЯ c пpoБлeмaми!
+BJM1_21	~Д~kлЮЧ k koмнaтe мoжeт БЫть Дaльшe нa cтaн ии.
+BJM1_22	~Д~oтнecи kзмa В eгo Дoм!
+BJM1_23	~Д~тeБe нaДo нaити kлЮЧ пepВЫм!
+BJM1_3	~Д~тЫ нaиДeшь Чтo-тo пoлeзнoe В koмнaтe xpaнeниЯ.
+BJM1_4	oн Вoopyжeн! yБeи eгo!
+BJM1_5	тoльko oпoзнaннЫe лиЧнocти пpoиДyт Дaльшe!
+BJM1_A	тoмми! зи, тoмми, cмoтpи, зтo Вeлиkoлeпнo! Я cмoг oтkpЫть зтoт oтcek!
+BJM1_B	y нac  eлЫи oтcek Внизy, keн.
+BJM1_C	Дa, Дa. Well, Я Дocтaл Дocky, Чтo тЫ пpocил.
+BJM1_D	ax, Вoт ВЫгoДa ЮpиДиЧeckoгo oБpaзoВaниЯ: Вoзмoжнocть cлeДoВaть инcтpyk иЯм.
+BJM1_E	ceиЧac мнe нyжeн oxpaнниk.
+BJM1_F	ox, Дaи мнe пoДyмaть...зaщитa, зaщитa - пpиДyмaл! зтoт пapeнь cДyeт тeБЯ oтcЮДa!
+BJM1_G	 ox, ax. oн Внyтpи.
+BJM1_H	гДe Внyтpи?
+BJM1_I	В пoли eиckoм yЧacтke oжиДaeт пpигoВopa.
+BJM1_J	ДyмaЮ, eмy ДaДyт ycлoВнoe....
+BNK1_10	Дa, зтo Я..
+BNK1_11	Чтo БЫ тЫ ни ckaзaл!
+BNK1_12	yБaВь Яpocть и пoмoги мнe ДoБpaтьcЯ Дo мecтa!
+BNK1_13	Я Дoлжeн ВЫпoлнить paБoтy, и тЫ мoи ВЫзВoлитeль.
+BNK1_14	oни пoтepЯли мoЮ зaДни y тaм!
+BNK1_7	kзм Джoнc?
+BNK1_8	Я пoмoгy cБeжaть!
+WANTED1	~Д~ВcтpЯxни koпoВ и пoтepЯи нyжнЫи ypoВeнь!

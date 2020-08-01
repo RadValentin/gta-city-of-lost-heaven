@@ -1,13 +1,13 @@
-GETBIKE	~g~y te¬ ~1~ cekyhg ha to, ¥to© ephyt¨c¬ k moto ky.
-KICK1_1	~g~ªaep¦te ce kak moho ©ctpee.
-KICK1_2	~r~© he yce ephyt¨c¬  moto ky!
-KICK1_6	~g~xopo¦a¬ paota!
-KICK1_7	~r~© paª moto k!
-KICK1_8	~g~cagc¨ ha ak!
-KICK1_T	pemeh po¦o:
-KICKTM	~b~pem¬: ~1~:~1~
-KICKTM2	~b~pem¬: ~1~:0~1~
-KICK_10	~g~co¨ªyte cah¥ec, ¥to© ªaep¦t¨ map¦pyt  pogte ¥epeª ce to¥k.
-KICK_11	~g~¥to© ªakoh¥t¨ mcc«, ctah¨te ha ~q~poªoom~g~ mapkepe.
-KICK_12	~r~© cgea ªto!
-KICK_13	~r~c¦kom goo!
+GETBIKE	~Д~y тeБЯ ~1~ cekyнД нa тo, ЧтoБЫ ВepнyтьcЯ k мoтo иkлy.
+KICK1_1	~Д~зaВepшитe Вce kak мoжнo БЫcтpee.
+KICK1_2	~r~ВЫ нe ycпeли ВepнyтьcЯ В мoтo иkлy!
+KICK1_6	~Д~xopoшaЯ paБoтa!
+KICK1_7	~r~ВЫ paзБили мoтo иkл!
+KICK1_8	~Д~caДиcь нa Бaиk!
+KICK1_T	Вpeмeни пpoшлo:
+KICKTM	~b~ВpeмЯ: ~1~:~1~
+KICKTM2	~b~ВpeмЯ: ~1~:0~1~
+KICK_10	~Д~иcпoльзyитe caнЧec, ЧтoБЫ зaВepшить мapшpyт и пpoиДитe Чepeз Вce тoЧkи.
+KICK_11	~Д~ЧтoБЫ зakoнЧить миccиЮ, cтaньтe нa ~q~poзoВoм~Д~ мapkepe.
+KICK_12	~r~ВЫ cДeлaли зтo!
+KICK_13	~r~cлишkoм Дoлгo!

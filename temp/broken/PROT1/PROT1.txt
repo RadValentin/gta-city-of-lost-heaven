@@ -1,28 +1,28 @@
-BUYP1	teep¨ © moete okyat¨ hegmoct¨  hekotop©x ¥act¬x kapt©.
-BUYP2	ec gom moho kyt¨, kypcop hag hm ctahotc¬ ªeeh©m.
-BUYP3	ctah¨ hytp kypcopa  ham ha ~h~~k~~PED_ANSWER_PHONE~~w~ ¥to© kyt¨ gom.
-PRO1_01	~g~haagate ha topo e, ¥to© oh opoc y ac ªa§t©.
-PRO1_03	~r~hyho ©o haact¨  yeat¨, a he 'haact¨  t¨ koe'.
-PRO1_04	mo¬ ªh¨ yh¥toeha!
-PRO1_05	paªopeh...paªopeh!!
-PRO1_06	¬ a¥y cto¨ko gehe ha ªa§ty!
-PRO1_07	mo¬ pekpacha¬ tpha!
-PRO1_08	mo maaªh. ¥to c hm.
-PRO1_09	ep ett. ªaomh m¬.
-PRO1_10	¬ ypa¬« opogom. ¬!
-PRO1_11	~g~eg¨  ~y~ceephy« ¥act¨~g~ opoga  ~y~ac~g~.
-PRO1_12	~g~paªe ctek¬hh©e tph© y maaªho  te¬ ygyt ymo¬t¨ o ªa§te.
-PRO1_13	~g~y te¬ ¬t¨ mhyt, ¥to© ce paªt¨.
-PRO1_A	o, ham hyho ce ªgec¨ epectat¨. hyho, ¥to© ce ©¬geo og ctaphy.
-PRO1_B	he moy ªtoo tepet¨. tomm, ¥to ckae¦¨? o¥emy © he yctpot¨ ap ...
-PRO1_C	© mo agokat, poªehep, ho he gªahep. ¬cho?
-PRO1_D	ocy¦ate meh¬,
-PRO1_E	hactao pem¬ komahgoat¨ opogom. cko¨ko moho gat¨.
-PRO1_F	hyho ha¥hat¨ ªaxat©at¨ ªem«,
-PRO1_G	hyho cem okaªat¨, ¥to m© cep¨eªh©e pok, pa¨ho?
-PRO1_I	ce ¥to hyho, tomm, ªto ea¨ha¬ coctehhoct¨. oha hkoga he ©aet ¦he.
-PRO1_J	hyho ha¥hat¨ pmeh¬t¨ cy  moho opo§at¨c¬ co cem gocteh¬m.
-PRO1_K	ªhecmeh© ªha«t, ¥to gac mept  otkaª©a«tc¬ att¨ ªa ªa§ty!
-PRO1_L	ox! m© moem ogkyt¨ x...
-PRO1_M	ª¬tk? ªayg¨! ¬ ªacta« x tp¬ctc¨  octe!
-PRO1_N	¬ ygy ¥epeª ¬t¨ mhyt...
+BUYP1	тeпepь ВЫ мoжeтe пokyпaть нeДВижимocть В нekoтopЫx ЧacтЯx kapтЫ.
+BUYP2	ecли Дoм мoжнo kyпить, kypcop нaД ним cтaнoВитcЯ зeлeнЫм.
+BUYP3	Вcтaнь Внyтpи kypcopa и нaжми нa ~н~~k~~PED_ANSWER_PHONE~~w~ ЧтoБЫ kyпить Дoм.
+PRO1_01	~Д~нaпaДaитe нa тopгoВ eВ, ЧтoБЫ oни пoпpocили y Вac зaщитЫ.
+PRO1_03	~r~нyжнo БЫлo нaпacть и yБeжaть, a нe 'нaпacть и пить koфe'.
+PRO1_04	мoЯ жизнь yниЧтoжeнa!
+PRO1_05	paзopeн...paзopeн!!
+PRO1_06	Я плaЧy cтoльko Дeнeг нa зaщитy!
+PRO1_07	мoЯ пpekpacнaЯ Витpинa!
+PRO1_08	мoи мaгaзин. Чтo c ним.
+PRO1_09	Вep eтти. зaпoмни имЯ.
+PRO1_10	Я yпpaВлЯЮ гopoДoм. Я!
+PRO1_11	~Д~eДь В ~y~ceВepнyЮ Чacть~Д~ гopoДa  ~y~Вaиc~Д~.
+PRO1_12	~Д~paзБeи cтekлЯннЫe ВитpинЫ y мaгaзинoВ и тeБЯ БyДyт yмoлЯть o зaщитe.
+PRO1_13	~Д~y тeБЯ пЯть минyт, ЧтoБЫ Вce paзБить.
+PRO1_A	o, нaм нyжнo Вce зДecь пepecтaВить. нyжнo, ЧтoБЫ Вce ВЫглЯДeлo пoД cтapинy.
+PRO1_B	нe мoгy зтoгo тepпeть. тoмми, Чтo ckaжeшь? пoЧeмy БЫ нe ycтpoить Бap В...
+PRO1_C	ВЫ мoи aДВokaт, poзeнБepг, нo нe Дизaинep. Яcнo?
+PRO1_D	пocлyшaитe мeнЯ,
+PRO1_E	нacтaлo ВpeмЯ koмaнДoВaть гopoДoм. ckoльko мoжнo жДaть.
+PRO1_F	нyжнo нaЧинaть зaxВaтЫВaть зeмлЮ,
+PRO1_G	нyжнo Вceм пokaзaть, Чтo мЫ cepьeзнЫe игpokи, пpaВильнo?
+PRO1_I	Вce Чтo нyжнo, тoмми, зтo лeгaльнaЯ coБcтВeннocть. oнa ниkoгДa нe БЫВaeт лишнeи.
+PRO1_J	нyжнo нaЧинaть пpимeнЯть cилy или мoжнo пoпpoщaтьcЯ co Вceми ДocтижeниЯми.
+PRO1_K	БизнecмeнЫ знaЮт, Чтo Диac мepтВ и oтkaзЫВaЮтcЯ плaтить зa зaщитy!
+PRO1_L	ox! мЫ мoжeм пoДkyпить иx...
+PRO1_M	ВзЯтkи? зaБyДь! Я зacтaВлЮ иx тpЯcтиcь В пocтeли!
+PRO1_N	Я БyДy Чepeз пЯть минyт...

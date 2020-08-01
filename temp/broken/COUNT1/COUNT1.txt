@@ -1,34 +1,34 @@
-CM1_1	~g~gte k ¥aptep epth ogke  goke.
-CM1_2	~g~y o epa ect¨ hopma ¬, ¥to tpeyetc¬.
-CM1_2A	ocmotp ha ty y!
-CM1_2B	ge¥ohka, ªto to¬ otep¬hha¬ ¥act¨!
-CM1_2C	co mho ce oke, a kak to ge¦k?
-CM1_2D	¥to t© ªhae¦¨ o oggeke?
-CM1_2E	¬  op¬gke, o, a kak t©?
-CM1_2F	g c«ga!
-CM1_2G	xopo¦o! xopo¦o! t© o¥eh¨ ªah¬t© ¥eoek.
-CM1_2H	ce, ¥to ªha« o xtp©x pe¬tax  - tpaga c actham.
-CM1_2I	y hx cygoctpote¨ha¬ komah¬ he o peke,
-CM1_2J	occ goeh © ªhat¨, koga choa pgyt acth©!
-CM1_2K	caco, o.
-CM1_2L	ga ¥to c too, mah¨¬k!
-CM1_2M	ga mhe e§e ©k, ©ctpo!
-CM1_3	~g~te¬ yªha!
-CM1_5	~g~g  ctpet¨ kehta oa  kye may!
-CM1_6	~g~oy¥ hy haªag  pht opkc!
-CM1_A	ep¥ett? © ky ctapy« e¥athy« paoty?
-CM1_B	ga, mo paothk paotaet tam.
-CM1_C	¬ © c hm  eo topoe, ho...y meh¬ mhoo ªhe.
-CM1_D	© xote pogat¨ ctapoe oopygoahe, paªpy¦ eo?
-CM1_E	¬ gyma«, hago ¥to-to e¥atat¨ - aªety, ypha...
-CM1_F	ox, cohh, ¬ epea«. ¬ p©k e¥atat¨ geh¨. ªto he coho.
-CM1_G	t© ªhae¦¨, ¬ gea ªto ogam.
-CM1_H	paga?
-CM1_I	ga. ho ham hyho teep¨ e§e hooo matepaa.
-CM1_J	kohe¥ho! chgkat oggeok haxogtc¬  opge.
-CM1_K	chgkat?
-CM1_L	ga. o cyxam ªto ce, ¥to ¬ c©¦a.
-CM1_M	y meh¬ ect¨ myk, ¥to  mhoo ªhaet...
-CM1_N	¬ otpa¥y e¥ep c hm, ©¥§a¬ mexahªm©...
-CNT1_1	kto t©? yyx! a! he   o! he o  o!
-CNT1_2	Ok, ¬ ckay! ckay!
+CM1_1	~Д~иДитe k Чapтep лиБepтин лoДke В Дoke.
+CM1_2	~Д~y oфи epa ecть инфopмa иЯ, Чтo тpeБyeтcЯ.
+CM1_2A	пocмoтpи нa тyпи y!
+CM1_2B	ДeВЧoнka, зтo тВoЯ пoтepЯннaЯ Чacть!
+CM1_2C	co мнoи Вce okeи, a kak тВoи Дeлишkи?
+CM1_2D	Чтo тЫ знaeшь o пoДДeлke?
+CM1_2E	Я В пopЯДke, пoл, a kak тЫ?
+CM1_2F	иДи cЮДa!
+CM1_2G	xopoшo! xopoшo! тЫ oЧeнь зaнЯтЫи ЧeлoВek.
+CM1_2H	Вce, Чтo знaЮ oБ xитpЫx peБЯтax  - тpиaДa c плacтинaми.
+CM1_2I	y ниx cyДocтpoитeльнaЯ koмпaниЯ нижe пo peke,
+CM1_2J	Бocc Дoлжeн БЫ знaть, koгДa cнoВa пpиДyт плacтинЫ!
+CM1_2K	cпacиБo, пoл.
+CM1_2L	Дa Чтo c тoБoи, мaньЯk!
+CM1_2M	Дaи мнe eщe ВЫпиВkи, БЫcтpo!
+CM1_3	~Д~тeБЯ yзнaли!
+CM1_5	~Д~иДи и Вcтpeть keнтa пoлa В kлyБe мaлиБy!
+CM1_6	~Д~пoлyЧи инфy нaзaД В пpинт Вopkc!
+CM1_A	ВepЧeтти? ВЫ kyпили cтapyЮ пeЧaтнyЮ paБoтy?
+CM1_B	Дa, мoи paБoтниk paБoтaeт тaм.
+CM1_C	Я БЫл c ним В eгo тopгoВлe, нo...y мeнЯ мнoгo жизнeи.
+CM1_D	ВЫ xoтeли пpoДaть cтapoe oБopyДoВaниe, paзpyшиВ eгo?
+CM1_E	Я ДyмaЮ, нaДo Чтo-тo пeЧaтaть - гaзeтy, жypнaл...
+CM1_F	ox, coнни, Я пepeжиВaЮ. Я пpиВЫk пeЧaтaть Дeньги. зтo нe cлoжнo.
+CM1_G	тЫ знaeшь, Я Дeлaл зтo гoДaми.
+CM1_H	пpaВДa?
+CM1_I	Дa. нo нaм нyжнo тeпepь eщe нoВoгo мaтepиaлa.
+CM1_J	koнeЧнo! cинДиkaт пoДДeлok нaxoДитcЯ В флopиДe.
+CM1_K	cинДиkaт?
+CM1_L	Дa. пo cлyxaм зтo Вce, Чтo Я cлЫшaл.
+CM1_M	y мeнЯ ecть мyжиk, Чтo  мнoгo знaeт...
+CM1_N	Я пoтpaЧy ВeЧep c ним, ВЫЧищaЯ мexaнизмЫ...
+CNT1_1	kтo тЫ? фyyx! aиии! нe В ли o! нe Вo ли o!
+CNT1_2	Ok, Я ckaжy! ckaжy!

@@ -1,15 +1,15 @@
-ASM3_11	pem¬:
-ASM3_12	~g~©op opy¬ yget p¬gom c am, ec © ygete  ªtom hygat¨c¬. y ac ~h~9 mhyt~g~, ¥to© yt¨ cex ¥eho py©.
-ASM3_13	~g~mak ph paotaet  pekame  a¦htohe.
-ASM3_14	~g~gk tahhep paotaet  oxpahe DBP  oy¦eh gpa.
-ASM3_15	~g~mapkyc xammohg  pahko kaptep haxog¬tc¬ oªe «ephoo maaªha  ac-to¥ke.
-ASM3_16	~g~hk koh yte¦ectyet oepe¨em a¦htoha.
-ASM3_17	~g~¥ap gcoh et  a¦htohe.
-ASM3_18	~g~he pac¬ c¦kom ªko k  e ha¥e oh ªace¥et te¬!
-ASM3_19	~g~oh gt ac! oª¨mte eo!
-ASM3_20	~g~oh ac yge! poep¨te, ¥to© ª¬t¨ oox!
-ASM3_21	~r~© he y cex ¥eho py© opem¬!
-ASM3_22	~g~he ogxogte ªko k  e¬m, a to oh yªha«t ac!
-ASM3_C	epoecka¬ pya xo¥et opat¨ ahk   e ct. mo haemhk octapa«tc¬ ªtoo he goyctt¨.
-ASM3_D	kag© ¥eh py© meet pkp©te   e ct. hekotop©e pcya«t, gpye ha gohoct¬x.
-ASM3_E	ce  e  x oªmohoe haxogehe yªha«tc¬ o teeohy.
+ASM3_11	ВpeмЯ:
+ASM3_12	~Д~ВЫБop opyжиЯ БyДeт pЯДoм c Вaми, ecли ВЫ БyДeтe В зтoм нyжДaтьcЯ. y Вac ~н~9 минyт~Д~, ЧтoБЫ yБить Вcex ЧлeнoВ гpyппЫ.
+ASM3_13	~Д~мaиk гpиффин paБoтaeт В pekлaмe В Вaшингтoнe.
+ASM3_14	~Д~Диk тaннep paБoтaeт В oxpaнe DBP В oyшeн ДpaиВ.
+ASM3_15	~Д~мapkyc xaммoнД и фpaнko kapтep нaxoДЯтcЯ Вoзлe ЮВeлиpнoгo мaгaзинa В Вaиc-тoЧke.
+ASM3_16	~Д~ниk koнг пyтeшecтВyeт пoБepeжьeм Вaшингтoнa.
+ASM3_17	~Д~Чapли Дилcoн жиВeт В Вaшингтoнe.
+ASM3_18	~Д~нe пpиБлижaиcЯ cлишkoм Близko k  eли инaЧe oн зaceЧeт тeБЯ!
+ASM3_19	~Д~oн ВиДит Вac! Вoзьмитe eгo!
+ASM3_20	~Д~oни Вac yВиДeли! пpoВepьтe, ЧтoБЫ ВзЯть oБoиx!
+ASM3_21	~r~ВЫ нe yБили Вcex ЧлeнoВ гpyппЫ ВoВpeмЯ!
+ASM3_22	~Д~нe пoДxoДитe Близko k  eлЯм, a тo oни yзнaЮт Вac!
+ASM3_C	eВpoпeиckaЯ гpyппa xoЧeт oгpaБить Бaнk В Ви e cити. мoи нaeмниkи пocтapaЮтcЯ зтoгo нe Дoпycтить.
+ASM3_D	kaжДЫи Члeн гpyппЫ имeeт пpиkpЫтиe В Ви e cити. нekoтopЫe пpиcлyжиВaЮт, Дpyгиe нa ДoлжнocтЯx.
+ASM3_E	Вce  eли и иx Вoзмoжнoe нaxoжДeниe yзнaЮтcЯ пo тeлeфoнy.

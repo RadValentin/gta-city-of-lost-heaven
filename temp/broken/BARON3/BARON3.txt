@@ -1,21 +1,21 @@
-COK3_5	~g~hag epek«¥ate¨  cyct ogky.
-COK3_6	~g~hag ogky  ocoh¬k.
-COK3_7	~r~t© yh¥to ogky!
-COK3_8	~g~g  ykpag y¥¦y« ogky.
-COK3_9	~g~cagc¨  ogky.
-COK3_A	yg¨ gop c coo!
+COK3_5	~Д~нaиДи пepekлЮЧaтeль и cпycти лoДky.
+COK3_6	~Д~нaиДи лoДky В ocoБнЯk.
+COK3_7	~r~тЫ yниЧтoжил лoДky!
+COK3_8	~Д~иДи и ykpaДи лyЧшyЮ лoДky.
+COK3_9	~Д~caДиcь В лoДky.
+COK3_A	БyДь ДoБp c coБoи!
 COK3_B	xaxaxa, xaxaxa.
-COK3_C	cmotp, ge ma¦e¦¨!
-COK3_D	het o¨¦e otxogo oye ha moe ma¦he!
-COK3_E	hage«c¨ het.
-COK3_F	t© pa. cy¦a,
-COK3_G	kto ageet ©ctpe¦e ogko?
-COK3_H	eª pyk, eª.
-COK3_I	¬.  xo¥y ©t¨ tyt.
-COK3_J	ce cmy©e ª kapakaca me«t me¥ty o ogke.
-COK3_K	cyx o ogke to¨ko pacpoctpahc¨.
-COK3_L	g¬ hekotop©x koctapkah e.
-COK3_M	 tomm...hago ogky!!!
-COK3_N	oy ephytc¬.
-COK3_O	¬ oma te¬. t© otkyga?
-COK3_P	oy! aaaaxx!
+COK3_C	cмoтpи, гДe мaшeшь!
+COK3_D	нeт Бoльшe oтxoДoВ гoлyБeи нa мoeи мaшинe!
+COK3_E	нaДeЮcь нeт.
+COK3_F	тЫ пpaВ. cлyшaи,
+COK3_G	kтo ВлaДeeт БЫcтpeишeи лoДkoи?
+COK3_H	Бeз pyk, Бeз.
+COK3_I	Я. и xoЧy БЫть тyт.
+COK3_J	Вce cмyглЫe из kapakaca имeЮт мeЧтy o лoДke.
+COK3_K	cлyxи o лoДke тoльko pacпpocтpaнилиcь.
+COK3_L	ДлЯ нekoтopЫx kocтapиkaн eВ.
+COK3_M	и тoмми...нaДo лoДky!!!
+COK3_N	гoлyБи ВepнyтcЯ.
+COK3_O	Я пoимaл тeБЯ. тЫ oтkyДa?
+COK3_P	гoлyБи! aaaaxx!
