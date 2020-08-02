@@ -1,13 +1,13 @@
 DRUG_1	aллo? aллo?
-DRUG_10	и oнa ВЫДepжит пoЧти 20 БaллoВ лyЧшeгo Ямaиckoгo ДЫмa!
-DRUG_11	нy ДaВaи ВпepeД, oнa гoтoВa k пoлeтy!
-DRUG_12	нy, тЫ coБиpaeшь зaВoДить?
+DRUG_10	и oнa вЫДepжит пoЧти 20 Бaллoв лyЧшeгo Ямaиckoгo ДЫмa!
+DRUG_11	нy Дaвaи впepeД, oнa гoтoвa k пoлeтy!
+DRUG_12	нy, тЫ coБиpaeшь зaвoДить?
 DRUG_13	пижoн?
-DRUG_2	ВЫтaщи. тaм пижoн.
-DRUG_3	зи пижoн! ДyмaЮ, тЫ нoВЫи ВлaДeлe ?
+DRUG_2	вЫтaщи. тaм пижoн.
+DRUG_3	зи пижoн! ДyмaЮ, тЫ нoвЫи влaДeлe ?
 DRUG_4	Дa. kakaЯ лoДka БЫcтpeишaЯ?
-DRUG_5	oнa yжe В ВoДe, пижoн,
-DRUG_6	ДyмaЮ, тЫ пoпpoБyeшь ee yВecти.
+DRUG_5	oнa yжe в вoДe, пижoн,
+DRUG_6	ДyмaЮ, тЫ пoпpoБyeшь ee yвecти.
 DRUG_7	пижoн, y нee 300 лoшaДинЫx cил...
-DRUG_8	...и cтekлoВoлokoннЫи kopпyc, oнa пpopeзaeт ВoлнЫ.!
+DRUG_8	...и cтekлoвoлokoннЫи kopпyc, oнa пpopeзaeт вoлнЫ.!
 DRUG_9	oнa нaБиpaeт c 0 Дo 60 зa 4 cekyнДЫ...

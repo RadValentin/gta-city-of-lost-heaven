@@ -1,18 +1,18 @@
-BM3_1	~Д~мecтнaЯ гpyппa В митЧ aнгeл Бaиkepe. Вepни ee!
-BM3_2	~r~Вepни Бaиk, a нe yниЧтoжaи eгo!
-BM3_3	~Д~Вepни Бaиk нa cтoЯнky!
+BM3_1	~Д~мecтнaЯ гpyппa в митЧ aнгeл Бaиkepe. вepни ee!
+BM3_2	~r~вepни Бaиk, a нe yниЧтoжaи eгo!
+BM3_3	~Д~вepни Бaиk нa cтoЯнky!
 BM3_4	~Д~caДиcь нa Бaиk!
-BM3_6	~Д~oни пpoДЫpЯВлeнЫ пepeД aмyни иeи В Дayнтayнe.
+BM3_6	~Д~oни пpoДЫpЯвлeнЫ пepeД aмyни иeи в Дayнтayнe.
 BM3_7	~Д~нyжeн БЫcтpЫи Бaиk, ЧтoБ ДoБpaтьcЯ нa kpЫшy.
-BM3_8	~Д~иcпoльзyи Бaиk, ЧтoБ пpЫгнyть c зтиx лecтни  нa kpЫшy В Дaльнeи Чacти Дopoги.
+BM3_8	~Д~иcпoльзyи Бaиk, ЧтoБ пpЫгнyть c зтиx лecтни  нa kpЫшy в Дaльнeи Чacти Дopoги.
 BM3_9	~Д~пoлyЧи митЧa aнгeлa и yxoДи oттyДa!
-BM3_A	пpиВeт, митЧ.
-BM3_B	зтo жe 'зaДни a' ВepЧeтти.
+BM3_A	пpивeт, митЧ.
+BM3_B	зтo жe 'зaДни a' вepЧeтти.
 BM3_C	пocмoтpим, kak xopoшo тЫ ДepeшьcЯ зa ceБЯ.
-BM3_D	мecтнЫи Вop oшиБcЯ, oБokpaВ мeнЯ...
-BM3_E	Вoзмoжнo, БлaгoДapЯ мexaнизмy или eщe Чeмy-тo.
+BM3_D	мecтнЫи вop oшиБcЯ, oБokpaв мeнЯ...
+BM3_E	вoзмoжнo, БлaгoДapЯ мexaнизмy или eщe Чeмy-тo.
 BM3_F	Я и мoи пapни нayЧaт иx xopoшим мaнepaм.
-BM3_G	Вce paВнo.
+BM3_G	вce paвнo.
 BM3_H	нaДo пoДyмaть - зтo мoжeт cДeлaть тeБe xopoшee имЯ.
-BM3_I	тЫ Вepнeшь мoи Бaиk, ckaжи, Чтo пoл пoлyЧил Бeзoпacнocть.
+BM3_I	тЫ вepнeшь мoи Бaиk, ckaжи, Чтo пoл пoлyЧил Бeзoпacнocть.
 INTRUDE	~Д~тeБЯ yзнaли!

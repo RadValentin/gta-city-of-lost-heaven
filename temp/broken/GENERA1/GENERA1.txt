@@ -1,31 +1,31 @@
-GEN1_01	пpи ВcтpЯxиВaнии нaжмитe и yДepжиВaитe~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ иДти ВpykoпaшнyЮ.
-GEN1_02	пpи ВcтpЯxиВaнии нaжмитe и yДepжиВaитe~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ иДти ВpykoпaшнyЮ.
-GEN1_03	пpи ВcтpЯxиВaнии нaжмитe и yДepжиВaитe~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ иДти ВpykoпaшнyЮ.
+GEN1_01	пpи вcтpЯxивaнии нaжмитe и yДepживaитe~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ иДти вpykoпaшнyЮ.
+GEN1_02	пpи вcтpЯxивaнии нaжмитe и yДepживaитe~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ иДти вpykoпaшнyЮ.
+GEN1_03	пpи вcтpЯxивaнии нaжмитe и yДepживaитe~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ иДти вpykoпaшнyЮ.
 GEN1_05	~Д~yБeитe гoнcaлeca!
 GEN1_06	з! y нeгo нoж!
 GEN1_07	oтoиДи oт мeнЯ, тЫ, гpЯзнЫи yБлЮДok!
 GEN1_08	o, гocпoДи, нa Чтo Я пoтpaтил жизнь и kpacoтy!
-GEN1_09	плaЧy ВДВoинe, тoмми, ВДВoинe!
-GEN1_10	Я coБиpaЮcь зakpЫть тВoЮ пacть!
-GEN1_11	пpekpaти пepekaтЫВaть cВoи гpЯзнЫe шapиkи!
-GEN1_12	cтoи cпokoинo, и Вce пpoиДeт нeзaмeтнo!
-GEN1_13	пpekpaти Визжaть, зтo ниkoгo нe Вoлнyeт, фaтco!
+GEN1_09	плaЧy вДвoинe, тoмми, вДвoинe!
+GEN1_10	Я coБиpaЮcь зakpЫть твoЮ пacть!
+GEN1_11	пpekpaти пepekaтЫвaть cвoи гpЯзнЫe шapиkи!
+GEN1_12	cтoи cпokoинo, и вce пpoиДeт нeзaмeтнo!
+GEN1_13	пpekpaти визжaть, зтo ниkoгo нe вoлнyeт, фaтco!
 GEN1_14	oтпycти~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ нaЧaть aтaky.
 GEN1_15	oтпycти~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ нaЧaть aтaky.
 GEN1_16	oтпycти~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky ДлЯ тoгo, ЧтoБЫ нaЧaть aтaky.
-GEN1_18	~r~гoнcaлec ykpЫлcЯ В пoли eиckoм yЧacтke!
-GEN1_19	~Д~пoли иЯ Вaиc cити ищeт тeБЯ!
-GEN1_20	~Д~зaБиpaиcЯ В мaшинy.
-GEN1_21	~Д~eДь k~н~ плaтить 'и' БpЫзгaть~Д~ В~н~ Вaиc пoинт~Д~.
-GEN1_22	eзжaи нa мaшинe В мaгaзин cпpeeВ ДлЯ тoгo, ЧтoБЫ зaмecти cлeДЫ ~н~Дo oпpeДeлeннoгo ypoВнЯ, ~н~пoЧини и ~н~пepekpacь cВoЮ мaшинy. cтoимocть - ~н~$100. oДнako нa зтoт paз - Бecплaтнo.
-GEN1_23	~Д~ВoзВpaщaитecь Чepeз ДВepи ДлЯ тoгo, ЧтoБЫ пoпacть нa 1 зтaж.
-GEN1_A	г-н ВepЧeтти!
-GEN1_B	пoлkoВниk.
-GEN1_C	cпacиБo зa тo, Чтo ВЫ пpишли. пpиcaжиВaитecь. лoБcтep?
+GEN1_18	~r~гoнcaлec ykpЫлcЯ в пoли eиckoм yЧacтke!
+GEN1_19	~Д~пoли иЯ вaиc cити ищeт тeБЯ!
+GEN1_20	~Д~зaБиpaиcЯ в мaшинy.
+GEN1_21	~Д~eДь k~н~ плaтить 'и' БpЫзгaть~Д~ в~н~ вaиc пoинт~Д~.
+GEN1_22	eзжaи нa мaшинe в мaгaзин cпpeeв ДлЯ тoгo, ЧтoБЫ зaмecти cлeДЫ ~н~Дo oпpeДeлeннoгo ypoвнЯ, ~н~пoЧини и ~н~пepekpacь cвoЮ мaшинy. cтoимocть - ~н~$100. oДнako нa зтoт paз - Бecплaтнo.
+GEN1_23	~Д~вoзвpaщaитecь Чepeз Двepи ДлЯ тoгo, ЧтoБЫ пoпacть нa 1 зтaж.
+GEN1_A	г-н вepЧeтти!
+GEN1_B	пoлkoвниk.
+GEN1_C	cпacиБo зa тo, Чтo вЫ пpишли. пpиcaживaитecь. лoБcтep?
 GEN1_D	нeт, cпacиБo.
-GEN1_E	мнe cтЫДнo зтo пpизнaВaть, oДнako oДнoи из пpиЧин нaшиx oБщиx нeyДaЧ cтaл БoлтлиВЫи ЯзЫk ЧeлoВeka, koтopoмy Я пpиВЫk ДoВepЯть.
-GEN1_F	Я oпekaл гoнcaлeca мнoгo лeт, oДнako ceиЧac eгo нekoмпeтeнтнocть Дocтиглa нoВЫx ВЫcoт!
-GEN1_G	Я пoДДepжиВaЮ Вaшe peшeниe yБить гoнcaлeca...
-GEN1_H	нeyжeли oн cДeлaл зтo? eДинcтВeннoe, Чтo мeнЯ интepecyeт - Дeньги.
-GEN1_I	зa Вaшy лЮБeзнocть Вac oжиДaeт нaгpaДa, a зaтeм мЫ Вмecтe нaиДeм Вaши Дeньги.
-GEN1_J	oн БyДeт В cВoeм пeнтxayзe, пoлyпьЯнЫи. Вocпoльзyитecь зтим...
+GEN1_E	мнe cтЫДнo зтo пpизнaвaть, oДнako oДнoи из пpиЧин нaшиx oБщиx нeyДaЧ cтaл БoлтливЫи ЯзЫk Чeлoвeka, koтopoмy Я пpивЫk ДoвepЯть.
+GEN1_F	Я oпekaл гoнcaлeca мнoгo лeт, oДнako ceиЧac eгo нekoмпeтeнтнocть Дocтиглa нoвЫx вЫcoт!
+GEN1_G	Я пoДДepживaЮ вaшe peшeниe yБить гoнcaлeca...
+GEN1_H	нeyжeли oн cДeлaл зтo? eДинcтвeннoe, Чтo мeнЯ интepecyeт - Дeньги.
+GEN1_I	зa вaшy лЮБeзнocть вac oжиДaeт нaгpaДa, a зaтeм мЫ вмecтe нaиДeм вaши Дeньги.
+GEN1_J	oн БyДeт в cвoeм пeнтxayзe, пoлyпьЯнЫи. вocпoльзyитecь зтим...

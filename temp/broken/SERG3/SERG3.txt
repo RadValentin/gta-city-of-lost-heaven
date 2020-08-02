@@ -1,51 +1,51 @@
-TEX3_1	~Д~пycть Вepтoлeт RC cБpocйт БoмБЫ нa ЧeтЫpe пyнkтa, пpeДнaзнaЧeннЫx ДлЯ paзpyшeнйЯ нa cтpoйke.
+TEX3_1	~Д~пycть вepтoлeт RC cБpocйт БoмБЫ нa ЧeтЫpe пyнkтa, пpeДнaзнaЧeннЫx ДлЯ paзpyшeнйЯ нa cтpoйke.
 TEX3_10	~Д~cБpocь БoмБЫ нa  eль.
-TEX3_11	 eлй cлeВa:
-TEX3_12	~Д~БoмБa пoпaлa! тoльko тpй  eлй ocтaлocь! ВoзВpaщaйcЯ й Вoзьмй eщe БoмБy.
-TEX3_13	~Д~БoмБa пoпaлa! тoльko ДВe  eлй ocтaлocь! ВoзВpaщaйcЯ й Вoзьмй eщe БoмБy.
-TEX3_14	~Д~БoмБa пoпaлa! тoльko oДнa  eль ocтaлacь! ВoзВpaщaйcЯ й Вoзьмй eщe БoмБy.
-TEX3_15	~r~ВзpЫВнoй xpoнoмeтp зaпyщeн! ~Д~тЫ Дoлжeн cБpocйть ~w~4 БoмБЫ ~Д~зa ocтaВшeecЯ ВpeмЯ!
-TEX3_16	~Д~пoпacть В ~w~тoпфaн ~Д~Вaгoн Вoзлe зДaнйЯ ДлЯ paзpyшeнйЯ.
-TEX3_17	~r~ВpeмЯ ВЫшлo!
-TEX3_18	~r~тВoй Вepтoлeт RC yнйЧтoжeн!
-TEX3_19	~r~тЫ cБpocйл cВoЮ БoмБy В ВoДy! зтo жe - нe pЫБaлka!
-TEX3_2	~Д~тЫ Дoлжeн cБpocйть пo БoмБe нa kaжДyЮ  eль. мoжeшь Бpocaть БoмБЫ В лЮБoм пopЯДke.
-TEX3_20	~r~Вepтoлeт RC пoЧтй Внe ДocЯгaeмocтй!
-TEX3_21	~r~Вepтoлeт RC нaxoДйтcЯ Внe ДocЯгaeмocтй!
-TEX3_22	нaжaтйe ~н~~k~~VEHICLE_ACCELERATE~ ~w~kнoпkй yВeлйЧйВaeт ckopocть нecyщeгo Вйнтa, й Вepтoлeт ~н~нaБйpaeт ВЫcoтy.
-TEX3_23	нaжaть ~н~~k~~VEHICLE_TURRETUP~~w~ й ~н~~k~~VEHICLE_TURRETDOWN~~w~ kнoпkй ДлЯ тoгo, ЧтoБЫ нakлoнйть Вepтoлeт В нaпpaВлeнйй мaнeВpa.
-TEX3_24	нaжaть ~н~~k~~VEHICLE_LOOKLEFT~ ~w~kнoпky, ЧтoБЫ Вpaщaть Вepтoлeт пpoтйВ ЧacoВoй cтpeлkй.
-TEX3_25	нaжaть ~н~~k~~VEHICLE_LOOKRIGHT~ ~w~kнoпky, ЧтoБЫ Вpaщaть Вepтoлeт пo ЧacoВoй cтpeлke.
-TEX3_26	нaжaтйe ~н~~k~~VEHICLE_BRAKE~ ~w~kнoпkй ~w~yмeньшaeт ckopocть нecyщeгo Вйнтa, й Вepтoлeт ~н~ cнйжaeтcЯ.
-TEX3_27	~Д~ eнтpaльнaЯ лecтнй a пoзВoлЯeт ДoБpaтьcЯ Дo Вcex зтaжeй зДaнйЯ.
-TEX3_28	ЧтoБЫ ~н~ВзЯть БoмБy~w~, пpocтo пoмecтйть Вepтoлeт RC pЯДoм c нeй. зa oДйн paз Вepтoлeт мoжeт yнecтй oДнy БoмБy.
+TEX3_11	 eлй cлeвa:
+TEX3_12	~Д~БoмБa пoпaлa! тoльko тpй  eлй ocтaлocь! вoзвpaщaйcЯ й вoзьмй eщe БoмБy.
+TEX3_13	~Д~БoмБa пoпaлa! тoльko Двe  eлй ocтaлocь! вoзвpaщaйcЯ й вoзьмй eщe БoмБy.
+TEX3_14	~Д~БoмБa пoпaлa! тoльko oДнa  eль ocтaлacь! вoзвpaщaйcЯ й вoзьмй eщe БoмБy.
+TEX3_15	~r~взpЫвнoй xpoнoмeтp зaпyщeн! ~Д~тЫ Дoлжeн cБpocйть ~w~4 БoмБЫ ~Д~зa ocтaвшeecЯ вpeмЯ!
+TEX3_16	~Д~пoпacть в ~w~тoпфaн ~Д~вaгoн вoзлe зДaнйЯ ДлЯ paзpyшeнйЯ.
+TEX3_17	~r~вpeмЯ вЫшлo!
+TEX3_18	~r~твoй вepтoлeт RC yнйЧтoжeн!
+TEX3_19	~r~тЫ cБpocйл cвoЮ БoмБy в вoДy! зтo жe - нe pЫБaлka!
+TEX3_2	~Д~тЫ Дoлжeн cБpocйть пo БoмБe нa kaжДyЮ  eль. мoжeшь Бpocaть БoмБЫ в лЮБoм пopЯДke.
+TEX3_20	~r~вepтoлeт RC пoЧтй внe ДocЯгaeмocтй!
+TEX3_21	~r~вepтoлeт RC нaxoДйтcЯ внe ДocЯгaeмocтй!
+TEX3_22	нaжaтйe ~н~~k~~VEHICLE_ACCELERATE~ ~w~kнoпkй yвeлйЧйвaeт ckopocть нecyщeгo вйнтa, й вepтoлeт ~н~нaБйpaeт вЫcoтy.
+TEX3_23	нaжaть ~н~~k~~VEHICLE_TURRETUP~~w~ й ~н~~k~~VEHICLE_TURRETDOWN~~w~ kнoпkй ДлЯ тoгo, ЧтoБЫ нakлoнйть вepтoлeт в нaпpaвлeнйй мaнeвpa.
+TEX3_24	нaжaть ~н~~k~~VEHICLE_LOOKLEFT~ ~w~kнoпky, ЧтoБЫ вpaщaть вepтoлeт пpoтйв Чacoвoй cтpeлkй.
+TEX3_25	нaжaть ~н~~k~~VEHICLE_LOOKRIGHT~ ~w~kнoпky, ЧтoБЫ вpaщaть вepтoлeт пo Чacoвoй cтpeлke.
+TEX3_26	нaжaтйe ~н~~k~~VEHICLE_BRAKE~ ~w~kнoпkй ~w~yмeньшaeт ckopocть нecyщeгo вйнтa, й вepтoлeт ~н~ cнйжaeтcЯ.
+TEX3_27	~Д~ eнтpaльнaЯ лecтнй a пoзвoлЯeт ДoБpaтьcЯ Дo вcex зтaжeй зДaнйЯ.
+TEX3_28	ЧтoБЫ ~н~взЯть БoмБy~w~, пpocтo пoмecтйть вepтoлeт RC pЯДoм c нeй. зa oДйн paз вepтoлeт мoжeт yнecтй oДнy БoмБy.
 TEX3_29	ЧтoБЫ cБpocйть БoмБy, нaжaть~н~ ~k~~PED_FIREWEAPON~ ~w~kнoпky.
-TEX3_3	~Д~нaпpaВйть Вepтoлeт RC нa БoмБy, ЧтoБЫ ee ВзЯть. зa oДйн paз oн мoжeт yнecтй oДнy БoмБy..
-TEX3_30	~Д~ЧтoБЫ ВзЯть БoмБy, пpocтo пoмecтйть Вepтoлeт RC pЯДoм c нeй. зa oДйн paз Вepтoлeт мoжeт yнecтй oДнy БoмБy.
-TEX3_31	~r~тЫ yнйЧтoжйл тoпфaн Вaгoн, В koтopoм нaxoДЯтcЯ БoмБЫ й Вepтoлeт RC!
-TEX3_32	тЫ мoжeшь ~н~cмoтpeть cзaДй~w~, oДнoВpeмeннo нaжaВ ~н~~k~~VEHICLE_LOOKLEFT~~w~ й ~н~~k~~VEHICLE_LOOKRIGHT~~w~ kнoпkй.
-TEX3_33	koгДa тЫ Вoзьмeшь БoмБy, тo paДap пokaжeт pacпoлoжeнйe cooтВeтcтВyЮщeй  eлй ДлЯ Вepтoлeтa RC.
-TEX3_34	пoДнймaЮщййcЯ ~н~ykaзaтeльнЫй тpeyгoльнйk ~w~пokaзЫВaeт, Чтo  eль нaxoДйтcЯ ~н~нaД ~w~Вepтoлeтoм RC.
-TEX3_35	oпyckaЮщййcЯ ~н~ykaзaтeльнЫй тpeyгoльнйk ~w~пokaзЫВaeт, Чтo  eль нaxoДйтcЯ ~н~пoД ~w~Вepтoлeтoм RC.
-TEX3_36	~н~kВaДpaтнЫй cлeД ~w~пokaзЫВaeт, Чтo  eль нaxoДйтcЯ нa ~н~тoм жe ypoВнe ~w~Чтo й Вepтoлeт RC
-TEX3_37	нaжaтйe ~н~нaзaД нa aнaлoг pyЧkй ~w~yмeньшaeт ckopocть нecyщeгo Вйнтa, й зacтaВлЯeт Вepтoлeт ~н~ cнйжaтьcЯ.
-TEX3_38	нaжaтйe ~н~~k~~VEHICLE_ACCELERATE~ ~w~kнoпkй yВeлйЧйВaeт ckopocть нecyщeгo Вйнтa, й Вepтoлeт ~н~нaБйpaeт ВЫcoтy.
+TEX3_3	~Д~нaпpaвйть вepтoлeт RC нa БoмБy, ЧтoБЫ ee взЯть. зa oДйн paз oн мoжeт yнecтй oДнy БoмБy..
+TEX3_30	~Д~ЧтoБЫ взЯть БoмБy, пpocтo пoмecтйть вepтoлeт RC pЯДoм c нeй. зa oДйн paз вepтoлeт мoжeт yнecтй oДнy БoмБy.
+TEX3_31	~r~тЫ yнйЧтoжйл тoпфaн вaгoн, в koтopoм нaxoДЯтcЯ БoмБЫ й вepтoлeт RC!
+TEX3_32	тЫ мoжeшь ~н~cмoтpeть cзaДй~w~, oДнoвpeмeннo нaжaв ~н~~k~~VEHICLE_LOOKLEFT~~w~ й ~н~~k~~VEHICLE_LOOKRIGHT~~w~ kнoпkй.
+TEX3_33	koгДa тЫ вoзьмeшь БoмБy, тo paДap пokaжeт pacпoлoжeнйe cooтвeтcтвyЮщeй  eлй ДлЯ вepтoлeтa RC.
+TEX3_34	пoДнймaЮщййcЯ ~н~ykaзaтeльнЫй тpeyгoльнйk ~w~пokaзЫвaeт, Чтo  eль нaxoДйтcЯ ~н~нaД ~w~вepтoлeтoм RC.
+TEX3_35	oпyckaЮщййcЯ ~н~ykaзaтeльнЫй тpeyгoльнйk ~w~пokaзЫвaeт, Чтo  eль нaxoДйтcЯ ~н~пoД ~w~вepтoлeтoм RC.
+TEX3_36	~н~kвaДpaтнЫй cлeД ~w~пokaзЫвaeт, Чтo  eль нaxoДйтcЯ нa ~н~тoм жe ypoвнe ~w~Чтo й вepтoлeт RC
+TEX3_37	нaжaтйe ~н~нaзaД нa aнaлoг pyЧkй ~w~yмeньшaeт ckopocть нecyщeгo вйнтa, й зacтaвлЯeт вepтoлeт ~н~ cнйжaтьcЯ.
+TEX3_38	нaжaтйe ~н~~k~~VEHICLE_ACCELERATE~ ~w~kнoпkй yвeлйЧйвaeт ckopocть нecyщeгo вйнтa, й вepтoлeт ~н~нaБйpaeт вЫcoтy.
 TEX3_39	~Д~ЧтoБЫ cБpocйть БoмБy, нaжaть ~н~~k~~VEHICLE_HANDBRAKE~ ~Д~kнoпky.
 TEX3_4	~Д~ЧтoБЫ cБpocйть БoмБy, нaжaть~н~ ~k~~PED_FIREWEAPON~ ~Д~kнoпky.
 TEX3_40	ЧтoБЫ cБpocйть БoмБy, нaжaть ~н~~k~~VEHICLE_HANDBRAKE~ ~w~kнoпky.
-TEX3_5	~Д~ecлй тЫ пoлoжйл БoмБy нeyДaЧнo, тo ee мoжнo пoДнЯть й пoпpoБoВaть oпЯть.
-TEX3_6	~Д~ecлй тЫ пoДнЯл БoмБy В пepВЫй paз, тo ВkлЮЧaeтcЯ ВзpЫВнoй xpoнoмeтp.
-TEX3_7	~Д~тoгДa тeБe нaДo yлoжйть ocтaВшйecЯ БoмБЫ зa 7 мйнyт!
-TEX3_8	~Д~тЫ нe пoпaл В  eль! пoДнймй БoмБy й пoпpoБyй cнoВa!
+TEX3_5	~Д~ecлй тЫ пoлoжйл БoмБy нeyДaЧнo, тo ee мoжнo пoДнЯть й пoпpoБoвaть oпЯть.
+TEX3_6	~Д~ecлй тЫ пoДнЯл БoмБy в пepвЫй paз, тo вkлЮЧaeтcЯ взpЫвнoй xpoнoмeтp.
+TEX3_7	~Д~тoгДa тeБe нaДo yлoжйть ocтaвшйecЯ БoмБЫ зa 7 мйнyт!
+TEX3_8	~Д~тЫ нe пoпaл в  eль! пoДнймй БoмБy й пoпpoБyй cнoвa!
 TEX3_A	a тeпepь cмoтpй cЮДa, cЫнok. y мeнЯ пpoБлeмa й Я пoлaгaЮ, тЫ мoг БЫ мнe пoмoЧь.
 TEX3_B	Я - нe cтpoйтeль.
-TEX3_C	нeт, Я Бoльшe Дyмaл o тВoйx paзpyшaЮщйx cпocoБнocтЯx.
-TEX3_D	тeпepь Вoт зтo, зтo - зaплaнйpoВaннaЯ cтpoйka, a зтo,
-TEX3_E	зтo - xoзЯйcтВo, koтopoe мЫ йckaлй.
-TEX3_F	тЫ xoЧeшь ckaзaть, Чтo зтoт нoВЫй oфйcнЫй  eнтp y нac нa пyтй.
-TEX3_G	тЫ БЫcтpo cxВaтЫВaeшь.
-TEX3_H	тeпepь Я нaпpaВлЯЮcь зa пpeДeлЫ гopoДa нa мйнyтy
+TEX3_C	нeт, Я Бoльшe Дyмaл o твoйx paзpyшaЮщйx cпocoБнocтЯx.
+TEX3_D	тeпepь вoт зтo, зтo - зaплaнйpoвaннaЯ cтpoйka, a зтo,
+TEX3_E	зтo - xoзЯйcтвo, koтopoe мЫ йckaлй.
+TEX3_F	тЫ xoЧeшь ckaзaть, Чтo зтoт нoвЫй oфйcнЫй  eнтp y нac нa пyтй.
+TEX3_G	тЫ БЫcтpo cxвaтЫвaeшь.
+TEX3_H	тeпepь Я нaпpaвлЯЮcь зa пpeДeлЫ гopoДa нa мйнyтy
 TEX3_I	й ecлй y зтoгo oфйcнoгo  eнтpa БyДyт cтpeмйтeльнЫe й нeпpeoДoлймЫe cтpykтypнЫe пpoБлeмЫ, тo Я..
-TEX3_J	kak мЫcлЯщйй пo-гpaжДaнckй ЧeлoВek, тЫ БЫ Дoлжeн БЫл ВмeшaтьcЯ й
-TEX3_K	cпacтй pekoнcтpyk йЮ Вaжнoй Чacтй гopoДa?
-TEX3_L	гДe БЫ мнe ВзЯть пoБoльшe тakйx peБЯт?
+TEX3_J	kak мЫcлЯщйй пo-гpaжДaнckй Чeлoвek, тЫ БЫ Дoлжeн БЫл вмeшaтьcЯ й
+TEX3_K	cпacтй pekoнcтpyk йЮ вaжнoй Чacтй гopoДa?
+TEX3_L	гДe БЫ мнe взЯть пoБoльшe тakйx peБЯт?

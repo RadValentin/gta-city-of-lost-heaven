@@ -1,72 +1,72 @@
-GUN_2A	пpижмитe ~н~~k~~PED_LOCK_TARGET~ ~w~ЧтoБЫ ВkлЮЧить ~н~aВтo-пpи eл~w~, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ ~н~ВЫcтpeлить!
-GUN_2C	пpижмитe ~н~~k~~PED_LOCK_TARGET~ ~w~ЧтoБЫ ВkлЮЧить ~н~aВтo-пpи eл~w~, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ ~н~ВЫcтpeлить!
-GUN_2D	пpижмитe ~н~~k~~PED_LOCK_TARGET~ ~w~ЧтoБЫ ВkлЮЧить ~н~aВтo-пpи eл~w~, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ ~н~ВЫcтpeлить!
+GUN_2A	пpижмитe ~н~~k~~PED_LOCK_TARGET~ ~w~ЧтoБЫ вkлЮЧить ~н~aвтo-пpи eл~w~, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ ~н~вЫcтpeлить!
+GUN_2C	пpижмитe ~н~~k~~PED_LOCK_TARGET~ ~w~ЧтoБЫ вkлЮЧить ~н~aвтo-пpи eл~w~, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ ~н~вЫcтpeлить!
+GUN_2D	пpижмитe ~н~~k~~PED_LOCK_TARGET~ ~w~ЧтoБЫ вkлЮЧить ~н~aвтo-пpи eл~w~, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ ~н~вЫcтpeлить!
 HELP17	нaжми нa ~н~~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ нaпacть нa шeфa.
 HELP18	нaжми нa~н~ ~k~~PED_FIREWEAPON~ ~w~ЧтoБЫ нaпacть нa шeфa.
-LAW2B_A	тЫ oтkyДa тyт пoЯВилcЯ?
+LAW2B_A	тЫ oтkyДa тyт пoЯвилcЯ?
 LAW2B_B	Я oxoтилcЯ нa тakyЮ птaшky, kak тЫ, мнoгo лeт...
 LAW2B_C	keнт пoль, Дpyжищe. Дa, Я зДecь xoзЯин.
 LAW2B_D	Я ищy oДнoгo aнглииckoгo пapнЯ...
-LAW2B_E	Я пpocтo ВЫЯcнЯЮ koe-Чтo, пoнимaeшь?
-LAW2B_F	Я пoзaБoЧycь o тeБe. Чтo зaxoЧeшь, Я тeБe Дocтaнy, ДeВyшky.
+LAW2B_E	Я пpocтo вЫЯcнЯЮ koe-Чтo, пoнимaeшь?
+LAW2B_F	Я пoзaБoЧycь o тeБe. Чтo зaxoЧeшь, Я тeБe Дocтaнy, Дeвyшky.
 LAW2B_G	нe БecпokoиcЯ oБ зтoм.
 LAW2B_H	yиДи, милaЯ.
 LAW2B_I	oи oи oи oи oи!
 LAW2B_J	тЫ keнт пoль? Я Дpyг poзeнБepгa...
 LAW2B_K	poзeнБepг...poзeнБepг...o, зтoт cyмacшeДшии гoнщиk зa ckopЫми!
-LAW2B_L	зтoт пapeнь мoг БЫ зaщищaть нeВиннЫx Дo гpoБa!
-LAW2B_M	Дaи-ka нaм eщe ВЫпить, Дpyг.
+LAW2B_L	зтoт пapeнь мoг БЫ зaщищaть нeвиннЫx Дo гpoБa!
+LAW2B_M	Дaи-ka нaм eщe вЫпить, Дpyг.
 LAW2B_N	зтo пpocтo cмeшнo.
-LAW2B_O	cлyшaи мeнЯ, y мeнЯ нe xВaтaeт ДВaД aти kлЮЧeи и kyЧи Дeнeг...
+LAW2B_O	cлyшaи мeнЯ, y мeнЯ нe xвaтaeт ДвaД aти kлЮЧeи и kyЧи Дeнeг...
 LAW2B_P	нapkoтиkи, пapeнь? зтo гpЯзнoe Дeлo.
 LAW2B_Q	Чтo тЫ oБ зтoм знaeшь?
 LAW2B_R	oи oи! Я exaл k
-LAW2B_S	k kakoмy-тo pecтopaннoмy шeфy, koтopЫи зaпpaВлЯeт kyxнeи В oтeлe нa oyшн ДpaиВ.
-LAW2B_T	oн В пocлeДнee ВpeмЯ oЧeнь ДoВoлeн coБoи. мoжeт, cьeзДишь и пpoВepишь eгo...?!
-LAW2B_U	oБЯзaтeльнo - и Я БyДy зa тoБoи пpиcмaтpиВaть.
-LAW2B_V	Дa, зтo пpaВильнo. пpoДoлжaи - иДи oтcЮДa. Я тeБЯ ceиЧac oтcЮДa ВЫшВЫpнy!
-LAW2B_W	Дaи мнe ВЫпить - a kyДa Дeлacь зтa шлЮxa!
-LAW2C_A	Дa, пapeнь, имeннo тak и нaДo. пokoлoти eгo. зтo зacтaВит eгo гoВopить.
+LAW2B_S	k kakoмy-тo pecтopaннoмy шeфy, koтopЫи зaпpaвлЯeт kyxнeи в oтeлe нa oyшн Дpaив.
+LAW2B_T	oн в пocлeДнee вpeмЯ oЧeнь Дoвoлeн coБoи. мoжeт, cьeзДишь и пpoвepишь eгo...?!
+LAW2B_U	oБЯзaтeльнo - и Я БyДy зa тoБoи пpиcмaтpивaть.
+LAW2B_V	Дa, зтo пpaвильнo. пpoДoлжaи - иДи oтcЮДa. Я тeБЯ ceиЧac oтcЮДa вЫшвЫpнy!
+LAW2B_W	Дaи мнe вЫпить - a kyДa Дeлacь зтa шлЮxa!
+LAW2C_A	Дa, пapeнь, имeннo тak и нaДo. пokoлoти eгo. зтo зacтaвит eгo гoвopить.
 LAW2C_B	тЫ тoжe xoЧeшь?
 LAW2C_C	зи, cпokoинo. мнe нyжнo тo жe, Чтo и тeБe, Бpaт.
-LAW2C_D	ax, Вoт kak, и Чтo жe?
-LAW2C_E	тВoи зeлeнЫe - и БeлyЮ лeДи мoeгo Бpaтa. k coжaлeниЮ, тЫ тoльko Чтo зaтkнyл нaшeгo ocнoВнoгo cВиДeтeлЯ.
-LAW2C_F	ВcЯkoe БЫВaeт. иcЧeзни.
-LAW2C_G	зи, зи, yx. coВceм нe нyжнo нa мoeи зaДни e иcпЫтЫВaть oДинokoгo peинДжepa.
-LAW2C_H	Вoт kak Я зтo Вижy - мЫ В нeзнakoмoм гopoДe. нaм нyжнo Дpyг o Дpyгe зaБoтитьcЯ.
-LAW2C_I	co мнoи Вce В пopЯДke, Бpaт...
-LAW2C_J	тЫ yВepeн? Вoт, Вoзьми зтo.
+LAW2C_D	ax, вoт kak, и Чтo жe?
+LAW2C_E	твoи зeлeнЫe - и БeлyЮ лeДи мoeгo Бpaтa. k coжaлeниЮ, тЫ тoльko Чтo зaтkнyл нaшeгo ocнoвнoгo cвиДeтeлЯ.
+LAW2C_F	вcЯkoe БЫвaeт. иcЧeзни.
+LAW2C_G	зи, зи, yx. coвceм нe нyжнo нa мoeи зaДни e иcпЫтЫвaть oДинokoгo peинДжepa.
+LAW2C_H	вoт kak Я зтo вижy - мЫ в нeзнakoмoм гopoДe. нaм нyжнo Дpyг o Дpyгe зaБoтитьcЯ.
+LAW2C_I	co мнoи вce в пopЯДke, Бpaт...
+LAW2C_J	тЫ yвepeн? вoт, вoзьми зтo.
 LAW2C_K	cлeДyи зa мнoи!
-LAW2_1	зи, тЫ нa Чтo ycтaВилcЯ?
-LAW2_10	~Д~eДeм oБpaтнo В oтeль.
-LAW2_11	~Д~Вoзьми y нeгo зтoгo coтoВЫи.
-LAW2_12	ВзЯл! тeпepь тЫ мoжeшь зВoнить пo мoБильнoмy.
+LAW2_1	зи, тЫ нa Чтo ycтaвилcЯ?
+LAW2_10	~Д~eДeм oБpaтнo в oтeль.
+LAW2_11	~Д~вoзьми y нeгo зтoгo coтoвЫи.
+LAW2_12	взЯл! тeпepь тЫ мoжeшь звoнить пo мoБильнoмy.
 LAW2_13	~Д~тЫ Бpocил лзнca! нaиДи eгo!
-LAW2_14	нyжнo oтcЮДa ВЫБиpaтьcЯ!
-LAW2_15	~Д~иДитe В aммy-нa иЮ.
-LAW2_16	oДнa Вeщь, koтopyЮ нyжнo ycВoить oБ зтoм гopoДe. имeи пyшky.
-LAW2_17	ДaВaи, БлижaишaЯ opyжeинaЯ лaВka зa ДВa kВapтaлa oтcЮДa.
-LAW2_18	тoмми, Вceм ВpeмЯ oт Вpeмeни нyжнa мaлeньkaЯ пyшka.
+LAW2_14	нyжнo oтcЮДa вЫБиpaтьcЯ!
+LAW2_15	~Д~иДитe в aммy-нa иЮ.
+LAW2_16	oДнa вeщь, koтopyЮ нyжнo ycвoить oБ зтoм гopoДe. имeи пyшky.
+LAW2_17	Дaвaи, БлижaишaЯ opyжeинaЯ лaвka зa Двa kвapтaлa oтcЮДa.
+LAW2_18	тoмми, вceм вpeмЯ oт вpeмeни нyжнa мaлeньkaЯ пyшka.
 LAW2_19	зДecь нaxoДитcЯ cтpип kлyБ пoл пoзи ии. мoжeт, зaeДeшь, kak-ниБyДь.
-LAW2_2	лyЧшe тeБe зaгoВopить..
-LAW2_3	зи, зacтaВь мeнЯ, гaД!
+LAW2_2	лyЧшe тeБe зaгoвopить..
+LAW2_3	зи, зacтaвь мeнЯ, гaД!
 LAW2_4	зтoт пyть!
-LAW2_5	Я Вce жe пocмoтpЮ, Чтo мoжнo oтkoпaть. БyДy зa тoБoи cлeДить, тoмми.
-LAW2_6	~Д~eДьтe В kлyБ мaлиБy и нaиДитe keнтa пoлЯ.
-LAW2_7	~Д~иДитe и нaиДитe шeфa В oyшн ДpaиВ.
-LAW2_A	ax! нaДeЮcь, ВЫ пpиЯтнo пpoВoДитe ВpeмЯ. пoтoмy Чтo Я зДecь пpocтo изВoлнoВaлcЯ зa Вac. Чтo ВЫ yзнaли?
-LAW2_B	Чтo зДecь БaнДитoВ Бoльшe, Чeм В тЮpьмe. нaм нyжнЫ лЮДи c yли Ы...
+LAW2_5	Я вce жe пocмoтpЮ, Чтo мoжнo oтkoпaть. БyДy зa тoБoи cлeДить, тoмми.
+LAW2_6	~Д~eДьтe в kлyБ мaлиБy и нaиДитe keнтa пoлЯ.
+LAW2_7	~Д~иДитe и нaиДитe шeфa в oyшн Дpaив.
+LAW2_A	ax! нaДeЮcь, вЫ пpиЯтнo пpoвoДитe вpeмЯ. пoтoмy Чтo Я зДecь пpocтo извoлнoвaлcЯ зa вac. Чтo вЫ yзнaли?
+LAW2_B	Чтo зДecь БaнДитoв Бoльшe, Чeм в тЮpьмe. нaм нyжнЫ лЮДи c yли Ы...
 LAW2_C	ok, Дaи мнe пoДyмaть, Дaи мнe пoДyмaть -
 LAW2_D	- aи! Я пoнЯл!
 LAW2_E	aгa, ecть тyт oДин kиcлЫи мeлoмaн,
 LAW2_F	пo имeни keнт пoль.
-LAW2_G	В oБщeм, oн cyeт cВoи нoc Вo Вce зaДни Ы В Вaиc cити
+LAW2_G	в oБщeм, oн cyeт cвoи нoc вo вce зaДни Ы в вaиc cити
 LAW2_H	и ecли kтo-лиБo и знaeт, гДe нaити 20 kг kokca,
-LAW2_I	тo тoльko oн. oн ВceгДa тopЧит В мaлиБy.
-LAW2_J	Я пoeДy и нaВeщy eгo.
+LAW2_I	тo тoльko oн. oн вceгДa тopЧит в мaлиБy.
+LAW2_J	Я пoeДy и нaвeщy eгo.
 LAW2_K	тoльko ocтopoжнo.
-LAW3_11	Вcтaньтe В ~q~poзoВoм знaЧke~w~ ЧтoБЫ пocмoтpeть нa opyжиe.
-LAW3_12	ВЫБpaть opyжиe мoжнo kнoпkoи ~н~ВлeВo~w~ или ~н~ВпpaВo~w~ нa ~н~kлaВишe нaпpaВлeниЯ.
-LAW3_13	ecли y Вac ДocтaтoЧнo Дeнeг, мoжeтe kyпить opyжиe kнoпkoи ~н~~k~~PED_SPRINT~ ~w~.
-LAW3_14	ВЫити из мaгaзинa мoжнo kлaВишeи ~н~~k~~VEHICLE_ENTER_EXIT~ ~w~.
+LAW3_11	вcтaньтe в ~q~poзoвoм знaЧke~w~ ЧтoБЫ пocмoтpeть нa opyжиe.
+LAW3_12	вЫБpaть opyжиe мoжнo kнoпkoи ~н~влeвo~w~ или ~н~впpaвo~w~ нa ~н~kлaвишe нaпpaвлeниЯ.
+LAW3_13	ecли y вac ДocтaтoЧнo Дeнeг, мoжeтe kyпить opyжиe kнoпkoи ~н~~k~~PED_SPRINT~ ~w~.
+LAW3_14	вЫити из мaгaзинa мoжнo kлaвишeи ~н~~k~~VEHICLE_ENTER_EXIT~ ~w~.
 LAW3_15	cлeДyитe зa ~н~пиcтoлeтoм~w~ нa paДape, ЧтoБЫ нaити ~н~aммy-нa иЮ.

@@ -1,13 +1,13 @@
-GETBIKE	~Д~y тeБЯ ~1~ cekyнД нa тo, ЧтoБЫ ВepнyтьcЯ k мoтo иkлy.
-KICK1_1	~Д~зaВepшитe Вce kak мoжнo БЫcтpee.
-KICK1_2	~r~ВЫ нe ycпeли ВepнyтьcЯ В мoтo иkлy!
+GETBIKE	~Д~y тeБЯ ~1~ cekyнД нa тo, ЧтoБЫ вepнyтьcЯ k мoтo иkлy.
+KICK1_1	~Д~зaвepшитe вce kak мoжнo БЫcтpee.
+KICK1_2	~r~вЫ нe ycпeли вepнyтьcЯ в мoтo иkлy!
 KICK1_6	~Д~xopoшaЯ paБoтa!
-KICK1_7	~r~ВЫ paзБили мoтo иkл!
+KICK1_7	~r~вЫ paзБили мoтo иkл!
 KICK1_8	~Д~caДиcь нa Бaиk!
-KICK1_T	Вpeмeни пpoшлo:
-KICKTM	~b~ВpeмЯ: ~1~:~1~
-KICKTM2	~b~ВpeмЯ: ~1~:0~1~
-KICK_10	~Д~иcпoльзyитe caнЧec, ЧтoБЫ зaВepшить мapшpyт и пpoиДитe Чepeз Вce тoЧkи.
-KICK_11	~Д~ЧтoБЫ зakoнЧить миccиЮ, cтaньтe нa ~q~poзoВoм~Д~ мapkepe.
-KICK_12	~r~ВЫ cДeлaли зтo!
+KICK1_T	вpeмeни пpoшлo:
+KICKTM	~b~вpeмЯ: ~1~:~1~
+KICKTM2	~b~вpeмЯ: ~1~:0~1~
+KICK_10	~Д~иcпoльзyитe caнЧec, ЧтoБЫ зaвepшить мapшpyт и пpoиДитe Чepeз вce тoЧkи.
+KICK_11	~Д~ЧтoБЫ зakoнЧить миccиЮ, cтaньтe нa ~q~poзoвoм~Д~ мapkepe.
+KICK_12	~r~вЫ cДeлaли зтo!
 KICK_13	~r~cлишkoм Дoлгo!

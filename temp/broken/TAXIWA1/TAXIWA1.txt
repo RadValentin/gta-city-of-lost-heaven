@@ -1,11 +1,11 @@
 OUTTIME	~r~мeДлeннo, Дpyжйщe, cлйшkoм!
-TAX1_1	ok, y нac ecть пepВokлaccнaЯ плaтa зa пpoВoз c ocтpoВa cтapфйш - ecть жeлaЮщйe?
-TAX1_2	Вoт - тoммй, Я зтo Бepy!
+TAX1_1	ok, y нac ecть пepвokлaccнaЯ плaтa зa пpoвoз c ocтpoвa cтapфйш - ecть жeлaЮщйe?
+TAX1_2	вoт - тoммй, Я зтo Бepy!
 TAX1_3	зтo - мoЯ плaтa, нaзaД, зaДнй a!
-TAX1_4	ДaВaй, ДaВaй, нaЧйнaй, БЫcтpo!
-TAX1_5	xopoшo! тoльko нe oБзЫВaйcЯ!
-TAXW1_1	~Д~зaБepй V.I.P. нa ocтpoВe cтapфйш.
-TAXW1_2	~Д~пpйВeзй V.I.P нaзaД! Вoзьмй ДpyгyЮ мaшйнy!
-TAXW1_3	~r~ V.I.P. мepтВ!
+TAX1_4	Дaвaй, Дaвaй, нaЧйнaй, БЫcтpo!
+TAX1_5	xopoшo! тoльko нe oБзЫвaйcЯ!
+TAXW1_1	~Д~зaБepй V.I.P. нa ocтpoвe cтapфйш.
+TAXW1_2	~Д~пpйвeзй V.I.P нaзaД! вoзьмй ДpyгyЮ мaшйнy!
+TAXW1_3	~r~ V.I.P. мepтв!
 TAXW1_4	~r~V.I.P. пoмep!
-TAXW1_6	~Д~oтВeзй V.I.P. В aзpoпopт!
+TAXW1_6	~Д~oтвeзй V.I.P. в aзpoпopт!

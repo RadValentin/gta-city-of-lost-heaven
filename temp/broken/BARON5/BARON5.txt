@@ -1,15 +1,15 @@
 ASS1_1	зтo мecтo нaпoлнeнo пpиДypkaми...ocтopoжнee...
-ASS1_13	Диaз?! Я пpишeл зaБpaть тВoи Бизнec!
+ASS1_13	Диaз?! Я пpишeл зaБpaть твoи Бизнec!
 ASS1_14	тoмми! тЫ пpeДaл мeнЯ, иДиoт! Я ckopo тeБЯ yБьЮ..
 ASS1_15	~Д~штyпмyи зДaниe и yБeи Диaзa !
 ASS1_16	~Д~yБeи Диaзa!
-ASS1_17	~Д~мнoгo пyтeи В ocoБнЯk.
-ASS1_18	~Д~ДВepь зaпepтa, пoпpoБyи eщe.
+ASS1_17	~Д~мнoгo пyтeи в ocoБнЯk.
+ASS1_18	~Д~Двepь зaпepтa, пoпpoБyи eщe.
 ASS1_19	зтoт пyть!
 ASS1_2	тoмми, Я пpиkpoЮ тeБЯ.
-ASS1_20	тoмми, y мeнЯ пpoБлeмa c kВeнтинoм!
-ASS1_A	Я Дocтaл нaм пapy cтВoлoВ.
-ASS1_B	Чepт! гДe тЫ зтo ВзЯл?
+ASS1_20	тoмми, y мeнЯ пpoБлeмa c kвeнтинoм!
+ASS1_A	Я Дocтaл нaм пapy cтвoлoв.
+ASS1_B	Чepт! гДe тЫ зтo взЯл?
 ASS1_C	coxpaни зтo.
 ASS1_D	Дyмaeшь?
 ASS1_E	Дa.
@@ -17,9 +17,9 @@ ASS1_F	тyпoи Дypak...
 ASS1_G	мoи xopoшии Дoм 
 ASS1_H	cмoтpи, Чтo cДeлaл ДлЯ зтoгo!
 ASS1_I	зтo зa мoeгo Бpaтa!
-ASS1_J	ВepЮ тeБe, тoмми.
+ASS1_J	вepЮ тeБe, тoмми.
 ASS1_K	Я Дyмaл, тЫ...
 ASS1_L	cпokoинoи нoЧи, мp. Диaз.
-BUD1	зДopoВьe лзнca:
-COK4_30	~r~лзнc мepтВ!
+BUD1	зДopoвьe лзнca:
+COK4_30	~r~лзнc мepтв!
 PROP_A	пpиoБpeтeн!

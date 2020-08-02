@@ -1,15 +1,15 @@
-ASM3_11	ВpeмЯ:
-ASM3_12	~Д~ВЫБop opyжиЯ БyДeт pЯДoм c Вaми, ecли ВЫ БyДeтe В зтoм нyжДaтьcЯ. y Вac ~н~9 минyт~Д~, ЧтoБЫ yБить Вcex ЧлeнoВ гpyппЫ.
-ASM3_13	~Д~мaиk гpиффин paБoтaeт В pekлaмe В Вaшингтoнe.
-ASM3_14	~Д~Диk тaннep paБoтaeт В oxpaнe DBP В oyшeн ДpaиВ.
-ASM3_15	~Д~мapkyc xaммoнД и фpaнko kapтep нaxoДЯтcЯ Вoзлe ЮВeлиpнoгo мaгaзинa В Вaиc-тoЧke.
-ASM3_16	~Д~ниk koнг пyтeшecтВyeт пoБepeжьeм Вaшингтoнa.
-ASM3_17	~Д~Чapли Дилcoн жиВeт В Вaшингтoнe.
+ASM3_11	вpeмЯ:
+ASM3_12	~Д~вЫБop opyжиЯ БyДeт pЯДoм c вaми, ecли вЫ БyДeтe в зтoм нyжДaтьcЯ. y вac ~н~9 минyт~Д~, ЧтoБЫ yБить вcex Члeнoв гpyппЫ.
+ASM3_13	~Д~мaиk гpиффин paБoтaeт в pekлaмe в вaшингтoнe.
+ASM3_14	~Д~Диk тaннep paБoтaeт в oxpaнe DBP в oyшeн Дpaив.
+ASM3_15	~Д~мapkyc xaммoнД и фpaнko kapтep нaxoДЯтcЯ вoзлe Ювeлиpнoгo мaгaзинa в вaиc-тoЧke.
+ASM3_16	~Д~ниk koнг пyтeшecтвyeт пoБepeжьeм вaшингтoнa.
+ASM3_17	~Д~Чapли Дилcoн живeт в вaшингтoнe.
 ASM3_18	~Д~нe пpиБлижaиcЯ cлишkoм Близko k  eли инaЧe oн зaceЧeт тeБЯ!
-ASM3_19	~Д~oн ВиДит Вac! Вoзьмитe eгo!
-ASM3_20	~Д~oни Вac yВиДeли! пpoВepьтe, ЧтoБЫ ВзЯть oБoиx!
-ASM3_21	~r~ВЫ нe yБили Вcex ЧлeнoВ гpyппЫ ВoВpeмЯ!
-ASM3_22	~Д~нe пoДxoДитe Близko k  eлЯм, a тo oни yзнaЮт Вac!
-ASM3_C	eВpoпeиckaЯ гpyппa xoЧeт oгpaБить Бaнk В Ви e cити. мoи нaeмниkи пocтapaЮтcЯ зтoгo нe Дoпycтить.
-ASM3_D	kaжДЫи Члeн гpyппЫ имeeт пpиkpЫтиe В Ви e cити. нekoтopЫe пpиcлyжиВaЮт, Дpyгиe нa ДoлжнocтЯx.
-ASM3_E	Вce  eли и иx Вoзмoжнoe нaxoжДeниe yзнaЮтcЯ пo тeлeфoнy.
+ASM3_19	~Д~oн виДит вac! вoзьмитe eгo!
+ASM3_20	~Д~oни вac yвиДeли! пpoвepьтe, ЧтoБЫ взЯть oБoиx!
+ASM3_21	~r~вЫ нe yБили вcex Члeнoв гpyппЫ вoвpeмЯ!
+ASM3_22	~Д~нe пoДxoДитe Близko k  eлЯм, a тo oни yзнaЮт вac!
+ASM3_C	eвpoпeиckaЯ гpyппa xoЧeт oгpaБить Бaнk в ви e cити. мoи нaeмниkи пocтapaЮтcЯ зтoгo нe Дoпycтить.
+ASM3_D	kaжДЫи Члeн гpyппЫ имeeт пpиkpЫтиe в ви e cити. нekoтopЫe пpиcлyживaЮт, Дpyгиe нa ДoлжнocтЯx.
+ASM3_E	вce  eли и иx вoзмoжнoe нaxoжДeниe yзнaЮтcЯ пo тeлeфoнy.

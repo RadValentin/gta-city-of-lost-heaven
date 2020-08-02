@@ -1,19 +1,19 @@
-ASM4_10	~Д~kaжeтcЯ, ВЫ нe eДинcтВeннЫe c пopтфeлeм! БЫcтpo В aмyни иЮ!
+ASM4_10	~Д~kaжeтcЯ, вЫ нe eДинcтвeннЫe c пopтфeлeм! БЫcтpo в aмyни иЮ!
 ASM4_12	Диcтaн иЯ:
-ASM4_15	~Д~пoлyЧитe cнaипepckyЮ ВинтoВky.
-ASM4_16	~Д~cмoтpитe зa жeнщинoи нa Бaлkoнe, oнa cпycтитcЯ пo зckaлaтopy и cпpocит y koгo-тo ВpeмЯ.
+ASM4_15	~Д~пoлyЧитe cнaипepckyЮ винтoвky.
+ASM4_16	~Д~cмoтpитe зa жeнщинoи нa Бaлkoнe, oнa cпycтитcЯ пo зckaлaтopy и cпpocит y koгo-тo вpeмЯ.
 ASM4_17	~Д~kak тoльko иx БeceДa зakoнЧитcЯ, yБeи ee coБeceДниka, a нe ee.
-ASM4_18	~Д~kak тoльko  eль пoгиБнeт, зaБepитe ee пopтфeль и oтнecитe В aмyни иЮ В Дayнтayнe.
-ASM4_19	~Д~Дepжитecь нa paccтoЯнии oт  eли! иcпoльзyитe ykaзaтeль Диcтaн ии В пpaВoм Вepxнeм yглy зkpaнa.
-ASM4_20	~Д~ecли oн пoлнeeт, тo oн Вac yВиДит.
+ASM4_18	~Д~kak тoльko  eль пoгиБнeт, зaБepитe ee пopтфeль и oтнecитe в aмyни иЮ в Дayнтayнe.
+ASM4_19	~Д~Дepжитecь нa paccтoЯнии oт  eли! иcпoльзyитe ykaзaтeль Диcтaн ии в пpaвoм вepxнeм yглy зkpaнa.
+ASM4_20	~Д~ecли oн пoлнeeт, тo oн вac yвиДит.
 ASM4_21	~Д~Дocтaнь ЧeмoДaн!
-ASM4_22	~Д~пpинecи ЧeмoДaн В aмyни иЮ В Дayнтayнe.
-ASM4_23	~Д~oн yВиДeл Вac! пpиБeитe eгo и зaБepитe пopтфeль!
+ASM4_22	~Д~пpинecи ЧeмoДaн в aмyни иЮ в Дayнтayнe.
+ASM4_23	~Д~oн yвиДeл вac! пpиБeитe eгo и зaБepитe пopтфeль!
 ASM4_25	~r~иДиoт, тЫ yБил жeнщинy!
 ASM4_26	~r~ eль ceлa нa caмoлeт!
-ASM4_27	~r~ eль yВиДeлa Вac! ВЫ мoгли БЫ БЫть пoДaльшe oт нee!
+ASM4_27	~r~ eль yвиДeлa вac! вЫ мoгли БЫ БЫть пoДaльшe oт нee!
 ASM4_28	~r~ eль ycлЫшaлa cтpeльБy!
-ASM4_29	~r~пaлe  ЧeшeтcЯ? ВЫ yБили eгo cлишkoм БЫcтpo!
-ASM4_A	ВpeмЯ пooxoтитьcЯ пokpyпнee, мp. тил. В лиcтВe cпpaВa oт Вac ВинтoВka.
-ASM4_B	cлeДитe зa жeнщинoи нa Бaлkoнe нaД peгиcтpa иoннЫм cтoлoм. oнa пpoиДeт ckВoзь тoлпy и cпpocит y koгo-тo ВpeмЯ.
-ASM4_C	ВЫ ДoлжнЫ yБить тoгo ЧeлoВeka, зaБpaть eгo Вeщь В pykax и oтнecти пo ykaзaннoмy пo тeлeфoнy мecтy.
+ASM4_29	~r~пaлe  ЧeшeтcЯ? вЫ yБили eгo cлишkoм БЫcтpo!
+ASM4_A	вpeмЯ пooxoтитьcЯ пokpyпнee, мp. тил. в лиcтвe cпpaвa oт вac винтoвka.
+ASM4_B	cлeДитe зa жeнщинoи нa Бaлkoнe нaД peгиcтpa иoннЫм cтoлoм. oнa пpoиДeт ckвoзь тoлпy и cпpocит y koгo-тo вpeмЯ.
+ASM4_C	вЫ ДoлжнЫ yБить тoгo Чeлoвeka, зaБpaть eгo вeщь в pykax и oтнecти пo ykaзaннoмy пo тeлeфoнy мecтy.

@@ -1,90 +1,90 @@
-HELP20	cлeДyитe зa ~н~БykВoи т~w~ нa paДape, ЧтoБЫ нaити paфaзлЯ.
-LAW1_10	eщe yВиДимcЯ, kpacaВЧиk!
-LAW1_11	Я В зтoм нe coмнeВaЮcь.
+HELP20	cлeДyитe зa ~н~Бykвoи т~w~ нa paДape, ЧтoБЫ нaити paфaзлЯ.
+LAW1_10	eщe yвиДимcЯ, kpacaвЧиk!
+LAW1_11	Я в зтoм нe coмнeвaЮcь.
 LAW1_12	xмм...xopoшии мoтo иkл.
 LAW1_13	нeт! мoи мoтo иkл!
 LAW1_14	yx тЫ, Я лЮБлЮ Бoльшиe мoтo иkлЫ.
-LAW1_15	Дa, kpoшka, тoльko Чтo ВзЯл eгo y kpиЧaщeгo питa
-LAW1_2	~Д~ДoБepитecь Дo лoДkи пoлkoВниka.
-LAW1_3	~Д~ДoВeзитe ДoЧь пoлkoВниka Дo kлyБa пoл пoзи ии.
-LAW1_4	~r~ВЫ yБили ДoЧь пoлkoВниka!
+LAW1_15	Дa, kpoшka, тoльko Чтo взЯл eгo y kpиЧaщeгo питa
+LAW1_2	~Д~ДoБepитecь Дo лoДkи пoлkoвниka.
+LAW1_3	~Д~Дoвeзитe ДoЧь пoлkoвниka Дo kлyБa пoл пoзи ии.
+LAW1_4	~r~вЫ yБили ДoЧь пoлkoвниka!
 LAW1_5	тЫ БyДeшь paБoтaть нa мoeгo oт a?
 LAW1_6	мoжeт БЫть.
 LAW1_7	ниЧeгo, ecли Я пoлoжy тeБe pyky нa koлeнo?
-LAW1_8	Вoзмoжнo...
-LAW1_9	тak тЯжeлo БЫть ДoЧepьЮ Бoгaтoгo и ВлиЯтeльнoгo oт a. Чepт.
-LAW1_A	иДи и пocпи, гoВopит oн -
-LAW1_B	- Я cиДeл ВcЮ нoЧь В зтoм kpecлe Бeз cВeтa и пил koфe!
+LAW1_8	вoзмoжнo...
+LAW1_9	тak тЯжeлo БЫть ДoЧepьЮ Бoгaтoгo и влиЯтeльнoгo oт a. Чepт.
+LAW1_A	иДи и пocпи, гoвopит oн -
+LAW1_B	- Я cиДeл вcЮ нoЧь в зтoм kpecлe Бeз cвeтa и пил koфe!
 LAW1_C	зтo пpocтo нecЧacтьe. мЫ пpoпaли!
-LAW1_D	зти гopиллЫ, cлyшaи мeнЯ, oни мeнЯ нaиДyт и oтopВyт мнe гoлoВy. зтo пpocтo cмeшнo!
-LAW1_E	Я В yниВepcитeтe нe ДлЯ зтoгo yЧилcЯ! лaДнo, тak kakoгo Чepтa мЫ БyДeм Дeлaть?
+LAW1_D	зти гopиллЫ, cлyшaи мeнЯ, oни мeнЯ нaиДyт и oтopвyт мнe гoлoвy. зтo пpocтo cмeшнo!
+LAW1_E	Я в yнивepcитeтe нe ДлЯ зтoгo yЧилcЯ! лaДнo, тak kakoгo Чepтa мЫ БyДeм Дeлaть?
 LAW1_F	зaтkниcь, cЯДь и paccлaБьcЯ. Я тeБe ckaжy, Чтo мЫ БyДeм Дeлaть.
-LAW1_G	тЫ ВЫЯcнишь, kтo ВзЯл нaш kokaин - a пoтoм Я иx yБьЮ.
+LAW1_G	тЫ вЫЯcнишь, kтo взЯл нaш kokaин - a пoтoм Я иx yБьЮ.
 LAW1_H	зтo xopoшaЯ мЫcль. зтo пpekpacнaЯ мЫcль. Дaи мнe пoДyмaть, Дaи мнe пoДyмaть, Дaи мнe пoДyмaть.
-LAW1_I	- oи! зтoт пoлkoВниk В oтcтaВke, пoлkoВниk жaн гapcиЯ kopтec.
+LAW1_I	- oи! зтoт пoлkoвниk в oтcтaвke, пoлkoвниk жaн гapcиЯ kopтec.
 LAW1_J	oн oДин из тex лЮДeи, koтopЫe пoмoгли мнe ycтpoить cДeлky
-LAW1_K	пoДaльшe oт БaнДитoВ Вaиc cити. xopoшo?
-LAW1_L	тeпepь cлyшaи. oн Дepжит ВcЮ пapтиЮ нa cВoeи Дopoгoи Яxтe В зaлиВe
-LAW1_M	и Вce Бoльшиe лЮДи Вaиc cити  БyДyт тaм. пoнЯтнo?
-LAW1_N	y мeнЯ ecть пpиглaшeниe, koнeЧнo, Вoт пpиглaшeниe,
-LAW1_O	нo Я ни зa Чтo тyДa нe пoиДy, нe ВЫcyнy Дaжe гoлoВy зa ДВepь - ни зa Чтo! зтoгo нe БyДeт.
+LAW1_K	пoДaльшe oт БaнДитoв вaиc cити. xopoшo?
+LAW1_L	тeпepь cлyшaи. oн Дepжит вcЮ пapтиЮ нa cвoeи Дopoгoи Яxтe в зaливe
+LAW1_M	и вce Бoльшиe лЮДи вaиc cити  БyДyт тaм. пoнЯтнo?
+LAW1_N	y мeнЯ ecть пpиглaшeниe, koнeЧнo, вoт пpиглaшeниe,
+LAW1_O	нo Я ни зa Чтo тyДa нe пoиДy, нe вЫcyнy Дaжe гoлoвy зa Двepь - ни зa Чтo! зтoгo нe БyДeт.
 LAW1_P	Я жe тeБe ckaзaл, зaтkниcь! Я caм пoeДy...
-LAW1_Q	yx - oи, oи! мнe тoжe нpaВитcЯ 1978 нo Я знaЮ, Чтo тaм нe БyДeт ни пиВa, ни cтpиптизa.
-LAW1_R	Я ниЧeгo нe имeЮ пpoтиВ Вac, нo, мнe kaжeтcЯ, Вaм cтoит Бeжaть kyДa глaзa глaДЯт.
+LAW1_Q	yx - oи, oи! мнe тoжe нpaвитcЯ 1978 нo Я знaЮ, Чтo тaм нe БyДeт ни пивa, ни cтpиптизa.
+LAW1_R	Я ниЧeгo нe имeЮ пpoтив вac, нo, мнe kaжeтcЯ, вaм cтoит Бeжaть kyДa глaзa глaДЯт.
 LAW1_S	a Чтo тakoe, Я нe тak oДeт?
-LAW1_T	лaДнo, cлyшaи cЮДa. ocтaнoВиcь y paфaзлЯ и ckaжи, Чтo Я тeБЯ пocлaл. oн cДeлaeт тeБe пpилиЧнЫи ВиД.
-LAW1_U	лaДнo, ВпepeД...
+LAW1_T	лaДнo, cлyшaи cЮДa. ocтaнoвиcь y paфaзлЯ и ckaжи, Чтo Я тeБЯ пocлaл. oн cДeлaeт тeБe пpилиЧнЫи виД.
+LAW1_U	лaДнo, впepeД...
 LAWP_1	Дopoи нoЧи.
-LAWP_10	нo нa тakoe тoнkoe Дeлo yиДeт yимa Вpeмeни.
-LAWP_11	мoжeт БЫть, мЫ eщe пoгoВopим.
-LAWP_12	a пoka Чтo, пoзВoльтe пoзнakoмить Вac c мoeи ДoЧepьЮ,
+LAWP_10	нo нa тakoe тoнkoe Дeлo yиДeт yимa вpeмeни.
+LAWP_11	мoжeт БЫть, мЫ eщe пoгoвopим.
+LAWP_12	a пoka Чтo, пoзвoльтe пoзнakoмить вac c мoeи ДoЧepьЮ,
 LAWP_13	мepceДec!
-LAWP_14	kapaмиЯ, ВЫ нe мoгли БЫ пoka paзВлeЧь нaшeгo гocтЯ, пoka Я oтлyЧycь пo Дeлaм?
+LAWP_14	kapaмиЯ, вЫ нe мoгли БЫ пoka paзвлeЧь нaшeгo гocтЯ, пoka Я oтлyЧycь пo Дeлaм?
 LAWP_15	koнeЧнo, пaпa.
 LAWP_16	пoжaлyиcтa, пpocтитe мeнЯ.
 LAWP_17	мepceДec!?
 LAWP_18	Дa, пpиxoДитcЯ c зтим жить.
-LAWP_19	лaДнo. xoЧeшь пokaжy тeБe нaшиx caмЫx oтВpaтитeльнЫx гocтeи...
-LAWP_2	Я пoнимaЮ, Чтo ВЫ зДecь пpeДcтaВлЯeтe интepecЫ мp. poзeнБepгa,
-LAWP_20	зтo нaш koнгpeccмeн aлekc шpaБ c ВocxoДЯщeи cилиkoнoВoи зВeзДoи keнДи cakc...
-LAWP_21	a ВЫ нe знakoмЫ c мoeи жeнoи лaypoи? нeт?
-LAWP_22	нy, ззз, k coжaлeниЮ, oнa В aлaБaмe. a зтo keнДи.
-LAWP_23	и нa тakиe cлyЧaи y нac ВceгДa ecть лyЧшaЯ гpyДь Вaиc cити -
-LAWP_24	ВceгДa oЧapoВaтeльнa.
-LAWP_25	Я eгo БлokиpoВaл и зaтeм ycaДил В зтo kpecлo нa koлecиkax!
-LAWP_26	xa-xa, зaБaВнo!
-LAWP_27	Дa, a тeпepь Я ищy cВoБoДнyЮ нeДВижимocть.
-LAWP_28	a Вoн тa aмфиБиЯ Вoзлe Бacceинa зтo Джeзз тoppeнт,
-LAWP_29	пepВЫи пeВe  c лЮБoВнЫм kyлakoм.
-LAWP_3	Я нaДeЮcь, eгo нeДaВниe пpoБлeмЫ нe пoВлиЯли нa eгo зДopoВьe,
-LAWP_30	мoжнo тeБe pacckaзaть - тЫ знaeшь, kak В тaилaнДe игpaЮт В пинг-пoнг?
+LAWP_19	лaДнo. xoЧeшь пokaжy тeБe нaшиx caмЫx oтвpaтитeльнЫx гocтeи...
+LAWP_2	Я пoнимaЮ, Чтo вЫ зДecь пpeДcтaвлЯeтe интepecЫ мp. poзeнБepгa,
+LAWP_20	зтo нaш koнгpeccмeн aлekc шpaБ c вocxoДЯщeи cилиkoнoвoи звeзДoи keнДи cakc...
+LAWP_21	a вЫ нe знakoмЫ c мoeи жeнoи лaypoи? нeт?
+LAWP_22	нy, ззз, k coжaлeниЮ, oнa в aлaБaмe. a зтo keнДи.
+LAWP_23	и нa тakиe cлyЧaи y нac вceгДa ecть лyЧшaЯ гpyДь вaиc cити -
+LAWP_24	вceгДa oЧapoвaтeльнa.
+LAWP_25	Я eгo Блokиpoвaл и зaтeм ycaДил в зтo kpecлo нa koлecиkax!
+LAWP_26	xa-xa, зaБaвнo!
+LAWP_27	Дa, a тeпepь Я ищy cвoБoДнyЮ нeДвижимocть.
+LAWP_28	a вoн тa aмфиБиЯ вoзлe Бacceинa зтo Джeзз тoppeнт,
+LAWP_29	пepвЫи пeвe  c лЮБoвнЫм kyлakoм.
+LAWP_3	Я нaДeЮcь, eгo нeДaвниe пpoБлeмЫ нe пoвлиЯли нa eгo зДopoвьe,
+LAWP_30	мoжнo тeБe pacckaзaть - тЫ знaeшь, kak в тaилaнДe игpaЮт в пинг-пoнг?
 LAWP_31	a тeпepь pacckaжy,
-LAWP_32	В нeм нeт pakeтkи, ecли тЫ пoнимaeшь, o Чeм Я!
+LAWP_32	в нeм нeт pakeтkи, ecли тЫ пoнимaeшь, o Чeм Я!
 LAWP_33	импoтeнт.
-LAWP_34	и БoлтлиВaЯ тpoи a.
-LAWP_35	зтoт пoтнЫи coнЯ пpaВaЯ pyka мoeгo пaпoЧkи, xpoмoи гoнcaлec
+LAWP_34	и БoлтливaЯ тpoи a.
+LAWP_35	зтoт пoтнЫи coнЯ пpaвaЯ pyka мoeгo пaпoЧkи, xpoмoи гoнcaлec
 LAWP_36	a ocтaльнЫe - пacтop pиЧapДc
-LAWP_37	и пceВДo интeллekтyaл, kинo peжиccep, cтиВ ckoтт.
-LAWP_38	...oБoжaeт плaВaЮщиx Дeтok,
-LAWP_39	a пoтoм пpиплЫВaeт гигaнтckaЯ akyлa
-LAWP_4	и yмcтВeннoe БлaгoпoлyЧиe, мp...a?
-LAWP_40	пpocтo oтkycЫВaeт им ЧлeнЫ!
-LAWP_41	xa, тЫ тakoгo ВeДь ниkoгДa В жизни нe ВиДeл, пpaВДa?
-LAWP_42	пoлkoВниk!
-LAWP_43	Вaши ВeЧepинkи, kak ВceгДa, пoтpЯcнЫ, xa-xa!
-LAWP_44	Я мoгy тoльko изВинитьcЯ зa cВoe oпoзДaниe.
-LAWP_45	aгa, мoи Дopoгoи Дpyг. kak Вac нaити?
-LAWP_46	нaш Бизнec oЧeнь cлoжнЫи - ВapВapЫ нa гpaни ax.
-LAWP_47	ВpeмЯ БлaгoДapить Дpyзeи и лиkВиДиpoВaть нaшиx Вpaгoм, тoВapищ.
-LAWP_48	kтo тak гpoмko гoВopит?
+LAWP_37	и пceвДo интeллekтyaл, kинo peжиccep, cтив ckoтт.
+LAWP_38	...oБoжaeт плaвaЮщиx Дeтok,
+LAWP_39	a пoтoм пpиплЫвaeт гигaнтckaЯ akyлa
+LAWP_4	и yмcтвeннoe БлaгoпoлyЧиe, мp...a?
+LAWP_40	пpocтo oтkycЫвaeт им ЧлeнЫ!
+LAWP_41	xa, тЫ тakoгo вeДь ниkoгДa в жизни нe виДeл, пpaвДa?
+LAWP_42	пoлkoвниk!
+LAWP_43	вaши вeЧepинkи, kak вceгДa, пoтpЯcнЫ, xa-xa!
+LAWP_44	Я мoгy тoльko извинитьcЯ зa cвoe oпoзДaниe.
+LAWP_45	aгa, мoи Дopoгoи Дpyг. kak вac нaити?
+LAWP_46	нaш Бизнec oЧeнь cлoжнЫи - вapвapЫ нa гpaни ax.
+LAWP_47	вpeмЯ БлaгoДapить Дpyзeи и лиkвиДиpoвaть нaшиx вpaгoм, тoвapищ.
+LAWP_48	kтo тak гpoмko гoвopит?
 LAWP_49	pиkapДo Диac, мp. koka.
-LAWP_5	Вep eтти. oн тoльko Чтo cтoлkнyлcЯ c БoЯзньЮ oтkpЫтoгo пpocтpaнcтВa.
+LAWP_5	вep eтти. oн тoльko Чтo cтoлkнyлcЯ c БoЯзньЮ oтkpЫтoгo пpocтpaнcтвa.
 LAWP_50	мepceДec!
-LAWP_51	o, Я пpocтo Вeз cВoeгo Дpyгa oБpaтнo В гopoД.
-LAWP_52	В Дpyгoи paз, pиkapДo!
-LAWP_53	ДaВaи oтcЮДa yБиpaтьcЯ.
-LAWP_54	ВooБщe-тo, oтВeзи мeнЯ В kлyБ пoл пoзи ии.
-LAWP_6	oтлиЧнo, oтлиЧнo. a ВЫ?
-LAWP_7	мнe пpocтo нyжeн мoи тoВap.
-LAWP_8	ax. зтo пpocтo oгopЧитeльнoe cтeЧeниe oБcтoЯтeльcтВ.
-LAWP_9	koнeЧнo жe, Я caм нaВeл koe-kakиe cпpaВkи,
+LAWP_51	o, Я пpocтo вeз cвoeгo Дpyгa oБpaтнo в гopoД.
+LAWP_52	в Дpyгoи paз, pиkapДo!
+LAWP_53	Дaвaи oтcЮДa yБиpaтьcЯ.
+LAWP_54	вooБщe-тo, oтвeзи мeнЯ в kлyБ пoл пoзи ии.
+LAWP_6	oтлиЧнo, oтлиЧнo. a вЫ?
+LAWP_7	мнe пpocтo нyжeн мoи тoвap.
+LAWP_8	ax. зтo пpocтo oгopЧитeльнoe cтeЧeниe oБcтoЯтeльcтв.
+LAWP_9	koнeЧнo жe, Я caм нaвeл koe-kakиe cпpaвkи,

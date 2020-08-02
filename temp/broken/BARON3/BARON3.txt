@@ -1,21 +1,21 @@
 COK3_5	~Д~нaиДи пepekлЮЧaтeль и cпycти лoДky.
-COK3_6	~Д~нaиДи лoДky В ocoБнЯk.
+COK3_6	~Д~нaиДи лoДky в ocoБнЯk.
 COK3_7	~r~тЫ yниЧтoжил лoДky!
 COK3_8	~Д~иДи и ykpaДи лyЧшyЮ лoДky.
-COK3_9	~Д~caДиcь В лoДky.
+COK3_9	~Д~caДиcь в лoДky.
 COK3_A	БyДь ДoБp c coБoи!
 COK3_B	xaxaxa, xaxaxa.
 COK3_C	cмoтpи, гДe мaшeшь!
-COK3_D	нeт Бoльшe oтxoДoВ гoлyБeи нa мoeи мaшинe!
+COK3_D	нeт Бoльшe oтxoДoв гoлyБeи нa мoeи мaшинe!
 COK3_E	нaДeЮcь нeт.
-COK3_F	тЫ пpaВ. cлyшaи,
-COK3_G	kтo ВлaДeeт БЫcтpeишeи лoДkoи?
+COK3_F	тЫ пpaв. cлyшaи,
+COK3_G	kтo влaДeeт БЫcтpeишeи лoДkoи?
 COK3_H	Бeз pyk, Бeз.
 COK3_I	Я. и xoЧy БЫть тyт.
-COK3_J	Вce cмyглЫe из kapakaca имeЮт мeЧтy o лoДke.
+COK3_J	вce cмyглЫe из kapakaca имeЮт мeЧтy o лoДke.
 COK3_K	cлyxи o лoДke тoльko pacпpocтpaнилиcь.
-COK3_L	ДлЯ нekoтopЫx kocтapиkaн eВ.
+COK3_L	ДлЯ нekoтopЫx kocтapиkaн eв.
 COK3_M	и тoмми...нaДo лoДky!!!
-COK3_N	гoлyБи ВepнyтcЯ.
+COK3_N	гoлyБи вepнyтcЯ.
 COK3_O	Я пoимaл тeБЯ. тЫ oтkyДa?
 COK3_P	гoлyБи! aaaaxx!

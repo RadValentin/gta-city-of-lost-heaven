@@ -1,22 +1,22 @@
 BM2_1	xaocмeтp:
-BM2_2	~Д~тЫ Дoлжeн paзoБpaтьcЯ c xaoc мeтpoм зa ВpeмЯ, Чтo БЫлo ДлЯ нac, тЫ kpyтoи!
-BM2_3	~Д~зВykoВoи инДиkaтop пokaзЫВaeт, Чтo ВЫ Дocтигли Чacти мeтpa, пpoДoлжaитe.
-BM2_4	~r~ВЫ нe Дocтигли xaoc мeтpa ВoВpeмЯ!
-BM2_A	ax, xoЧy cнoВa.
-BM2_B	зи ВepЧeтти.
-BM2_C	caxapok гoВopит, Чтo тЫ yмeeшь oБpaщaтьcЯ c Бaиkoм.
-BM2_D	Дa, ckoльko мнe eщe пpeпЯтcтВии?
+BM2_2	~Д~тЫ Дoлжeн paзoБpaтьcЯ c xaoc мeтpoм зa вpeмЯ, Чтo БЫлo ДлЯ нac, тЫ kpyтoи!
+BM2_3	~Д~звykoвoи инДиkaтop пokaзЫвaeт, Чтo вЫ Дocтигли Чacти мeтpa, пpoДoлжaитe.
+BM2_4	~r~вЫ нe Дocтигли xaoc мeтpa вoвpeмЯ!
+BM2_A	ax, xoЧy cнoвa.
+BM2_B	зи вepЧeтти.
+BM2_C	caxapok гoвopит, Чтo тЫ yмeeшь oБpaщaтьcЯ c Бaиkoм.
+BM2_D	Дa, ckoльko мнe eщe пpeпЯтcтвии?
 BM2_E	Я oЧeнь зaнЯт.
 BM2_F	ecли зтo Дpaka, Чтo пokaжeт зтo.
 BM2_G	cтaнь oДним из нac Бaз ccop. зтo Чacть ceмьи.
-BM2_H	Дa, Я yжe БЫл В ceмьe. тeпepь Я нe paБoтaЮ.
-BM2_I	Дa, тЫ пpaВ, нo зтa ceмьЯ пoзaБoтитcЯ o тeБe.
-BM2_J	мЫ нe пpocим ВЫпoлнЯть гpЯзнyЮ paБoтy 15 лeт пoДpЯД.
+BM2_H	Дa, Я yжe БЫл в ceмьe. тeпepь Я нe paБoтaЮ.
+BM2_I	Дa, тЫ пpaв, нo зтa ceмьЯ пoзaБoтитcЯ o тeБe.
+BM2_J	мЫ нe пpocим вЫпoлнЯть гpЯзнyЮ paБoтy 15 лeт пoДpЯД.
 BM2_K	Дa, знaЮ. Я знaЮ.
 BM2_L	зтo нaиБoльшaЯ ceмьЯ нa пoБepeжьe.
 BM2_M	Чepт, нekoтopЫx из нac пpeДaлa нaшa cтpaнa.
 BM2_N	Я зaпepт нaмoм. cpoЧнo зaнЯт.
 BM2_O	пoЧeмy Я Дoлжeн пpocить тeБЯ o БecпopЯДkax c мyжЧинoи.
-BM2_P	зтo cтpaнa зacлyжиВaeт пинka В зaД, и мЫ зтo cДeлaeм.
-BM2_Q	итak, yxoДи oтcЮДa, Вoзьми Бaиk и пokaжи гopoДy!
+BM2_P	зтo cтpaнa зacлyживaeт пинka в зaД, и мЫ зтo cДeлaeм.
+BM2_Q	итak, yxoДи oтcЮДa, вoзьми Бaиk и пokaжи гopoДy!
 BM2_R	xopoшo, xopoшo.

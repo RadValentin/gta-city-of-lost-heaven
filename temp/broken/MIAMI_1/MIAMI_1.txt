@@ -1,5 +1,5 @@
-GETBIK1	y Вac ~1~ cekyнД, ЧтoБЫ cecть В PCJ 600!
-GETBIK3	~r~Вaм нyжeн PCJ 600 ЧтoБЫ ВЫпoлнить миccиЮ!
-T4X4_1A	~Д~y Вac ~1~ cekyнД, ЧтoБЫ нaБpaть ~y~24~Д~ oЧka. ~Д~мoжнo coБиpaть иx ~y~В лЮБoм пopЯДke.
-T4X4_1B	~y~пpoиДитe Чepeз~Д~ пepВyЮ тoЧky, ЧтoБЫ зaпycтить ~r~тaимep.
+GETBIK1	y вac ~1~ cekyнД, ЧтoБЫ cecть в PCJ 600!
+GETBIK3	~r~вaм нyжeн PCJ 600 ЧтoБЫ вЫпoлнить миccиЮ!
+T4X4_1A	~Д~y вac ~1~ cekyнД, ЧтoБЫ нaБpaть ~y~24~Д~ oЧka. ~Д~мoжнo coБиpaть иx ~y~в лЮБoм пopЯДke.
+T4X4_1B	~y~пpoиДитe Чepeз~Д~ пepвyЮ тoЧky, ЧтoБЫ зaпycтить ~r~тaимep.
 T4X4_1C	~1~ из 24!

@@ -1,32 +1,32 @@
-PIZ1_01	~Д~иДи и ДocтaВь пи  y, тЫ Дoлжeн пoДБpacЫВaть пи  y kлиeнтaм. пpoeзжaи мимo и Бpocaи ee.
-PIZ1_02	~Д~ВЫ paзБpocaли ВcЮ пи  y, Вepнитecь зa ДoБaВkoи.
-PIZ1_05	~Д~y Вac пЯть минyт нa ДocтaВky, пpeжДe Чeм kлиeнтЫ нaЧнyт зВoнить В Дpyгиe пи epии.
+PIZ1_01	~Д~иДи и Дocтaвь пи  y, тЫ Дoлжeн пoДБpacЫвaть пи  y kлиeнтaм. пpoeзжaи мимo и Бpocaи ee.
+PIZ1_02	~Д~вЫ paзБpocaли вcЮ пи  y, вepнитecь зa ДoБaвkoи.
+PIZ1_05	~Д~y вac пЯть минyт нa Дocтaвky, пpeжДe Чeм kлиeнтЫ нaЧнyт звoнить в Дpyгиe пи epии.
 PIZ1_06	нaжми нa~н~ ~k~~TOGGLE_SUBMISSIONS~~w~ ЧтoБЫ oтмeнить миccиЮ.
-PIZ1_07	~r~тЫ yБил kлиeнтa! тЫ yВoлeн.
-PIZ1_08	~r~y тeБЯ ВЫшлo ВpeмЯ. тЫ yВoлeн.
-PIZ1_09	~r~тЫ paзБил мoтo иkл! тЫ yВoлeн.
+PIZ1_07	~r~тЫ yБил kлиeнтa! тЫ yвoлeн.
+PIZ1_08	~r~y тeБЯ вЫшлo вpeмЯ. тЫ yвoлeн.
+PIZ1_09	~r~тЫ paзБил мoтo иkл! тЫ yвoлeн.
 PIZ1_11	зи! caДиcь нa мoтo иkл!
 PIZ1_12	пи  Ы ocтaлocь:
-PIZ1_13	ДocтaВьтe иx  eлЫми и гopЯЧими.
-PIZ1_14	пи  a пзлa ДлЯ Вac.
-PIZ1_15	зи, миcтep, БЫcтpo paзВeзи пи  y.
+PIZ1_13	Дocтaвьтe иx  eлЫми и гopЯЧими.
+PIZ1_14	пи  a пзлa ДлЯ вac.
+PIZ1_15	зи, миcтep, БЫcтpo paзвeзи пи  y.
 PIZ1_16	Чeгo тЫ жДeшь, миcтep? y тeБЯ пoлнo пи  Ы.
-PIZ1_17	Я знaЮ, Чтo тЫ нe xoЧeшь paзнocить пи  y, нo мнe плeВaть.
-PIZ1_18	ДocтaВь Вoт зтo.
-PIZ1_19	зтo нyжнo ДocтaВить.
-PIZ1_20	ДaВaи, миcтep, paзВoзи пи  y или тeБЯ yВoлЯт.
+PIZ1_17	Я знaЮ, Чтo тЫ нe xoЧeшь paзнocить пи  y, нo мнe плeвaть.
+PIZ1_18	Дocтaвь вoт зтo.
+PIZ1_19	зтo нyжнo Дocтaвить.
+PIZ1_20	Дaвaи, миcтep, paзвoзи пи  y или тeБЯ yвoлЯт.
 PIZ1_21	y нac лЮДи yжe зaжДaлиcь.
-PIZ1_22	нy Чeгo тЫ тaм koпoшишьcЯ? нyжнo зтo ДocтaВить!
-PIZ1_23	миcтep, paзВoзи ЧepтoВy пи  y.
-PIZ1_24	зтo нyжнo ДocтaВить.
-PIZ1_25	мyжиk, Вoзьмeшь зтo?
-PIZ1_26	миcтep, БЫcтpo ДocтaВь Вoт зтo.
-PIZ1_27	БЫcтpee, мЫ cпeшим, ДocтaВь Вoт зтo.
-PIZ1_28	cнoВa тЫ? БЫcтpo paзВeзи зтo.
-PIZ1_29	нa зтoт paз Вpeмeни нe тepЯи.
-PIZ1_30	ДaВaи жe, лeниВЫи yБлЮДok, ДocтaВь ВoВpeмЯ .
-PIZ1_31	ниkoгДa нe пoлyЧишь пoВЫшeниЯ, ecли БyДeшь тak paБoтaть.
+PIZ1_22	нy Чeгo тЫ тaм koпoшишьcЯ? нyжнo зтo Дocтaвить!
+PIZ1_23	миcтep, paзвoзи Чepтoвy пи  y.
+PIZ1_24	зтo нyжнo Дocтaвить.
+PIZ1_25	мyжиk, вoзьмeшь зтo?
+PIZ1_26	миcтep, БЫcтpo Дocтaвь вoт зтo.
+PIZ1_27	БЫcтpee, мЫ cпeшим, Дocтaвь вoт зтo.
+PIZ1_28	cнoвa тЫ? БЫcтpo paзвeзи зтo.
+PIZ1_29	нa зтoт paз вpeмeни нe тepЯи.
+PIZ1_30	Дaвaи жe, лeнивЫи yБлЮДok, Дocтaвь вoвpeмЯ .
+PIZ1_31	ниkoгДa нe пoлyЧишь пoвЫшeниЯ, ecли БyДeшь тak paБoтaть.
 PIZ1_32	~r~пи  a cлишkoм гopЯЧa?
-PIZ1_33	~Д~ВoзВpaщaиcЯ В pecтopaн зa Дpyгими зakaзaми.
-PIZ1_34	~Д~пи  a ДocтaВлeнa, Вoт Вaши Дeньги.
-PIZ_WON	миccиЯ okoнЧeнa. Вaшe мakcимaльнoe зДopoВьe Вoзpocлo Дo 150.
+PIZ1_33	~Д~вoзвpaщaиcЯ в pecтopaн зa Дpyгими зakaзaми.
+PIZ1_34	~Д~пи  a Дocтaвлeнa, вoт вaши Дeньги.
+PIZ_WON	миccиЯ okoнЧeнa. вaшe мakcимaльнoe зДopoвьe вoзpocлo Дo 150.

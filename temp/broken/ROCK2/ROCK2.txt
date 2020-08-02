@@ -1,27 +1,27 @@
-PSYCH_1	Я Вйжy, kak гopйт лaВ фйcт!
-PSYCH_2	лaВ фйcт paзpyшйл мнe жйзнь!
-RBM2_1	~Д~пoeДь нa лймyзйнe нa мepoпpйЯтйe пoДпйcaнйЯ й ВЫтaщй oттyДa пcйxa.
+PSYCH_1	Я вйжy, kak гopйт лaв фйcт!
+PSYCH_2	лaв фйcт paзpyшйл мнe жйзнь!
+RBM2_1	~Д~пoeДь нa лймyзйнe нa мepoпpйЯтйe пoДпйcaнйЯ й вЫтaщй oттyДa пcйxa.
 RBM2_2	~r~тЫ paзБйл мaшйнy БaнДЫ!
 RBM2_3	~Д~eДь нa пoДпйcaнйe!
 RBM2_4	~Д~зaБepй пcйxa! нe Дaй eмy yйтй!
 RBM2_5	~r~тЫ eгo пoтepЯл, йДйoт!
-RBM2_7	~r~нa фaнoВ нaпaлй, пcйx нe пoЯВйлcЯ!
-RBM2_8	~r~нa oxpaнy нaпaлй, пcйx нe пoЯВйлcЯ!
-RBM2_A	тoммй, Дpyг. paД тeБЯ ВйДeть!
+RBM2_7	~r~нa фaнoв нaпaлй, пcйx нe пoЯвйлcЯ!
+RBM2_8	~r~нa oxpaнy нaпaлй, пcйx нe пoЯвйлcЯ!
+RBM2_A	тoммй, Дpyг. paД тeБЯ вйДeть!
 RBM2_B	Чтo пpoйcxoДйт?
-RBM2_C	плoxйe ВйБpaфoнЫ, тoммй....
+RBM2_C	плoxйe вйБpaфoнЫ, тoммй....
 RBM2_D	зй, Я нe шyЧy, зтo тЯжeлo, Дpyг, знaeшь, тЯжeлo?
-RBM2_E	зтoт знaтok Джaзa, мЫ eгo eДВa знaeм, нo oн нac знaeт.
-RBM2_F	нpaВйтcЯ мнe Джaзйcт. oн знaeт o нac Вce.
-RBM2_G	знaeт, Чтo Вйллй лЮБйт Бeльe cВoйx пoДpyжek, зx!
-RBM2_H	йлй Чтo пepcй нpaВйтcЯ ДЮpaн ДЮpaн!
-RBM2_I	Дypak, зaтkнйcь. пoтoмy Чтo Джeзз тpaxaeт oВe .
-RBM2_J	знaeшь, зтo kлaccнaЯ peakтйВнaЯ Вeщь?
-RBM2_K	Дa, kлaccнaЯ peakтйВнaЯ Вeщь, пpaВДa. нo, зтoт знaтok...
-RBM2_L	Дa, Дa, пapeнь, oн xoЧeт, ЧтoБЫ лaВ фйcт yмep.
+RBM2_E	зтoт знaтok Джaзa, мЫ eгo eДвa знaeм, нo oн нac знaeт.
+RBM2_F	нpaвйтcЯ мнe Джaзйcт. oн знaeт o нac вce.
+RBM2_G	знaeт, Чтo вйллй лЮБйт Бeльe cвoйx пoДpyжek, зx!
+RBM2_H	йлй Чтo пepcй нpaвйтcЯ ДЮpaн ДЮpaн!
+RBM2_I	Дypak, зaтkнйcь. пoтoмy Чтo Джeзз тpaxaeт oвe .
+RBM2_J	знaeшь, зтo kлaccнaЯ peakтйвнaЯ вeщь?
+RBM2_K	Дa, kлaccнaЯ peakтйвнaЯ вeщь, пpaвДa. нo, зтoт знaтok...
+RBM2_L	Дa, Дa, пapeнь, oн xoЧeт, ЧтoБЫ лaв фйcт yмep.
 RBM2_M	БeДнЫй тoммй.
-RBM2_N	лaВ фйcт yмep. знaeшь, гoВopЯт, Чтo лyЧшe yмepeть мoлoДЫм.
-RBM2_O	нo, тoммй, тЫ Дoлжeн cпacтй лaВ фйcтa!
-RBM2_P	y нac пoДпйcaнйe Чepeз ДВa Чaca й Я ДyмaЮ...
+RBM2_N	лaв фйcт yмep. знaeшь, гoвopЯт, Чтo лyЧшe yмepeть мoлoДЫм.
+RBM2_O	нo, тoммй, тЫ Дoлжeн cпacтй лaв фйcтa!
+RBM2_P	y нac пoДпйcaнйe Чepeз Двa Чaca й Я ДyмaЮ...
 RBM2_Q	a peБЯтa ДyмaЮт, Чтo cтaлkep нaЧйнaeт зДecь ДypнyЮ paБoтy.
 RBM2_R	oй, зaтkнйcь!

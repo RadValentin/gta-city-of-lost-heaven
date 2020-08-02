@@ -1,32 +1,32 @@
-POR4_01	~Д~иДи В ~y~ eнтp~Д~ и ВЫБepи yДoБнoe мecтo ДлЯ cьeмok.
+POR4_01	~Д~иДи в ~y~ eнтp~Д~ и вЫБepи yДoБнoe мecтo ДлЯ cьeмok.
 POR4_02	~Д~нyжeн БyДeт БЫcтpЫи мoтo иkл, ЧтoБЫ пpЫгaть c kpЫши нa kpЫшy. oxpaнa oБЫЧнo eзДит нa ~y~PCJ 600~Д~...
-POR4_03	~Д~Вaм нyжнo БyДeт пoпacть нa kpЫши зДaнии. тaм Дoлжeн БЫть лифт В Вepxниe oфиcЫ...
-POR4_05	~Д~зти лecтни Ы ВeДyт Вokpyг нижнeгo oфиca.
-POR4_06	~Д~Вepнитecь В нижнии oфиc, ecли нyжнo БyДeт пoДнЯтьcЯ нaВepx.
-POR4_07	~Д~Вaм нyжeн БyДeт мoтo иkл, ЧтoБЫ пpЫгaть c oДнoи kpЫши нa ДpyгyЮ.
-POR4_08	~Д~пpoБeитecь Чepeз okнo ДлЯ нaЧaлa. y Вac Вpeмeни Дo 07:00 пoтoм cтaнeт cлишkoм cВeтлo.
-POR4_09	~Д~пиkaпЫ БyДyт пokaзЫВaть Вaм, нa kakyЮ kpЫшy пpЫгaть Дaльшe.
-POR4_10	~r~тeпepь зДecь cтaлo cлишkoм cВeтлo.
-POR4_11	~Д~Вepнитecь нa лecтни y, ЧтoБЫ ДoБpaтьcЯ Дo Вepxниx зтaжeи.
+POR4_03	~Д~вaм нyжнo БyДeт пoпacть нa kpЫши зДaнии. тaм Дoлжeн БЫть лифт в вepxниe oфиcЫ...
+POR4_05	~Д~зти лecтни Ы вeДyт вokpyг нижнeгo oфиca.
+POR4_06	~Д~вepнитecь в нижнии oфиc, ecли нyжнo БyДeт пoДнЯтьcЯ нaвepx.
+POR4_07	~Д~вaм нyжeн БyДeт мoтo иkл, ЧтoБЫ пpЫгaть c oДнoи kpЫши нa ДpyгyЮ.
+POR4_08	~Д~пpoБeитecь Чepeз okнo ДлЯ нaЧaлa. y вac вpeмeни Дo 07:00 пoтoм cтaнeт cлишkoм cвeтлo.
+POR4_09	~Д~пиkaпЫ БyДyт пokaзЫвaть вaм, нa kakyЮ kpЫшy пpЫгaть Дaльшe.
+POR4_10	~r~тeпepь зДecь cтaлo cлишkoм cвeтлo.
+POR4_11	~Д~вepнитecь нa лecтни y, ЧтoБЫ ДoБpaтьcЯ Дo вepxниx зтaжeи.
 POR4_A	пpocти, нo Я пpocтo нe мoгy ceиЧac зтo глoтaть.
-POR4_B	o, нy ДaВaи жe, Дeтka!
-POR4_C	yмoлЯЮ тeБЯ, oн зaВиc, kak koнЧaЮщии kит,
-POR4_D	paзВe тЫ нe ЧyВcтВyeшь cВoЮ poль?!
-POR4_E	нo, cтиВ...
-POR4_F	kak мoи зВeзДнЫи peжиccep?
-POR4_G	o, Бoжe. БитВa мeжДy apтиcтиЧeckoи  eлocтнocтьЮ и
-POR4_H	pитмиЧeckими ДВижeниЯми нe ocлaБeВaeт.
-POR4_I	и пoka тЫ нe cпpocил, Дa, Вce ЧeтЫpe фильмa БyДyт ВЫпyщeнЫ...
-POR4_J	милaЯ, Дepжи, пoжaлyиcтa, aнakoнДy В kaДpe,
+POR4_B	o, нy Дaвaи жe, Дeтka!
+POR4_C	yмoлЯЮ тeБЯ, oн зaвиc, kak koнЧaЮщии kит,
+POR4_D	paзвe тЫ нe Чyвcтвyeшь cвoЮ poль?!
+POR4_E	нo, cтив...
+POR4_F	kak мoи звeзДнЫи peжиccep?
+POR4_G	o, Бoжe. Битвa мeжДy apтиcтиЧeckoи  eлocтнocтьЮ и
+POR4_H	pитмиЧeckими ДвижeниЯми нe ocлaБeвaeт.
+POR4_I	и пoka тЫ нe cпpocил, Дa, вce ЧeтЫpe фильмa БyДyт вЫпyщeнЫ...
+POR4_J	милaЯ, Дepжи, пoжaлyиcтa, aнakoнДy в kaДpe,
 POR4_K	oнa cтoит Бoьшe, Чeм тЫ!
-POR4_L	ox, пpocти, cтиВ.
-POR4_M	Я Дyмaл, Чтo нaм нyжeн нacтoЯщии kackaДep, ЧтoБЫ pekлaмиpoВaть cьeмkи.
-POR4_N	Чтo-тo, Чтo ДeиcтВитeльнo пpoизВeДeт ВпeЧaтлeниe - ecть иДeи?
-POR4_O	нy, В ДpeВниe Вpeмeнa, ycтpaиВaли гaлa-koн epтЫ,
-POR4_P	зВeзДЫ, лимyзинЫ, нoЧнoe нeБo В пpoжekтopax...
-POR4_Q	пpoжekтopa! y мeнЯ пoЯВилacь иДeЯ...
-POR4_R	...Дa, Дa, Дa. нeмнoгo kpacaВи  и лимyзинoВ, пpeмьepa
+POR4_L	ox, пpocти, cтив.
+POR4_M	Я Дyмaл, Чтo нaм нyжeн нacтoЯщии kackaДep, ЧтoБЫ pekлaмиpoвaть cьeмkи.
+POR4_N	Чтo-тo, Чтo Дeиcтвитeльнo пpoизвeДeт впeЧaтлeниe - ecть иДeи?
+POR4_O	нy, в Дpeвниe вpeмeнa, ycтpaивaли гaлa-koн epтЫ,
+POR4_P	звeзДЫ, лимyзинЫ, нoЧнoe нeБo в пpoжekтopax...
+POR4_Q	пpoжekтopa! y мeнЯ пoЯвилacь иДeЯ...
+POR4_R	...Дa, Дa, Дa. нeмнoгo kpacaви  и лимyзинoв, пpeмьepa
 POR4_S	o, Дa, koнeЧнo, мaДaм,
-POR4_T	a eщe пpecca и пoлнo cВeтa...
-POR_AS1	миccиЯ c фильмoм зaВepшeнa
-POR_AS2	~Д~интep глoБaл филмc тeпepь БyДeт пpинocить  пpиБЫль Дo $~1~. нe зaБyДьтe ВoВpeмЯ ee coБиpaть.
+POR4_T	a eщe пpecca и пoлнo cвeтa...
+POR_AS1	миccиЯ c фильмoм зaвepшeнa
+POR_AS2	~Д~интep глoБaл филмc тeпepь БyДeт пpинocить  пpиБЫль Дo $~1~. нe зaБyДьтe вoвpeмЯ ee coБиpaть.

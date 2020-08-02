@@ -1,12 +1,12 @@
-ALEVEL	миccиЯ мeДиka ypoВeнь ~1~
-ATUTOR2	~Д~пepeВoзитe пa иeнтoВ В гocпитaль ocтopoжнo. лЮБoи тoлЧok yмeньшaeт иx шaнcЫ ВЫжить.
-A_CANC	~r~миccиЯ мeДиka copВaнa!
-A_COMP1	миccиЯ мeДиka зaВepшeнa: $~1~
+ALEVEL	миccиЯ мeДиka ypoвeнь ~1~
+ATUTOR2	~Д~пepeвoзитe пa иeнтoв в гocпитaль ocтopoжнo. лЮБoи тoлЧok yмeньшaeт иx шaнcЫ вЫжить.
+A_CANC	~r~миccиЯ мeДиka copвaнa!
+A_COMP1	миccиЯ мeДиka зaвepшeнa: $~1~
 A_COMP2	тЫ ниkoгДa нe ycтaнeшь!
-A_COMP3	миccиЯ мeДиka ВЫпoлнeнa! тЫ нe ycтaeшь Вo ВpeмЯ нee!
+A_COMP3	миccиЯ мeДиka вЫпoлнeнa! тЫ нe ycтaeшь вo вpeмЯ нee!
 A_FAIL1	миccиЯ мeДиka зakoнЧeнa.
-A_FAIL2	~r~Вaши  мaлaЯ нacтoиЧиВocть фaтaльнo ДлЯ пa иeнтa!
-A_FAIL3	~r~пa иeнт мepтВ!!
-A_FULL	~r~ckopaЯ гoтoВa!!
+A_FAIL2	~r~вaши  мaлaЯ нacтoиЧивocть фaтaльнo ДлЯ пa иeнтa!
+A_FAIL3	~r~пa иeнт мepтв!!
+A_FULL	~r~ckopaЯ гoтoвa!!
 A_PASS	cпaceн!
 A_SAVES	лЮДи cпacли: ~1~
