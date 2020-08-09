@@ -1,0 +1,27 @@
+BJM1_1	~Д~ocвoБoДи kзмa Джoнca oт пoли eиckиx!
+BJM1_2	~r~тЫ Дoлжeн БЫл пoБить kзмa, a нe yБивaть eгo!
+BJM1_20	yБepи opyжиe, a тo cтoлkнeшьcЯ c пpoБлeмaми!
+BJM1_21	~Д~kлЮЧ k koмнaтe мoжeт БЫть Дaльшe нa cтaн ии.
+BJM1_22	~Д~oтнecи kзмa в eгo Дoм!
+BJM1_23	~Д~тeБe нaДo нaити kлЮЧ пepвЫм!
+BJM1_3	~Д~тЫ нaиДeшь Чтo-тo пoлeзнoe в koмнaтe xpaнeниЯ.
+BJM1_4	oн вoopyжeн! yБeи eгo!
+BJM1_5	тoльko oпoзнaннЫe лиЧнocти пpoиДyт Дaльшe!
+BJM1_A	тoмми! зи, тoмми, cмoтpи, зтo вeлиkoлeпнo! Я cмoг oтkpЫть зтoт oтcek!
+BJM1_B	y нac  eлЫи oтcek внизy, keн.
+BJM1_C	Дa, Дa. Well, Я Дocтaл Дocky, Чтo тЫ пpocил.
+BJM1_D	ax, вoт вЫгoДa ЮpиДиЧeckoгo oБpaзoвaниЯ: вoзмoжнocть cлeДoвaть инcтpyk иЯм.
+BJM1_E	ceиЧac мнe нyжeн oxpaнниk.
+BJM1_F	ox, Дaи мнe пoДyмaть...зaщитa, зaщитa - пpиДyмaл! зтoт пapeнь cДyeт тeБЯ oтcЮДa!
+BJM1_G	 ox, ax. oн внyтpи.
+BJM1_H	гДe внyтpи?
+BJM1_I	в пoли eиckoм yЧacтke oжиДaeт пpигoвopa.
+BJM1_J	ДyмaЮ, eмy ДaДyт ycлoвнoe....
+BNK1_10	Дa, зтo Я..
+BNK1_11	Чтo БЫ тЫ ни ckaзaл!
+BNK1_12	yБaвь Яpocть и пoмoги мнe ДoБpaтьcЯ Дo мecтa!
+BNK1_13	Я Дoлжeн вЫпoлнить paБoтy, и тЫ мoи вЫзвoлитeль.
+BNK1_14	oни пoтepЯли мoЮ зaДни y тaм!
+BNK1_7	kзм Джoнc?
+BNK1_8	Я пoмoгy cБeжaть!
+WANTED1	~Д~вcтpЯxни koпoв и пoтepЯи нyжнЫи ypoвeнь!

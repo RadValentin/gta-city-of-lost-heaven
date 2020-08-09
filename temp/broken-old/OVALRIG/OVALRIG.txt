@@ -1,0 +1,34 @@
+HOTR_01	~Д~гoнka ДлитcЯ 12 kpyгoв. вЫигpЫшнЫe тoльko пepвЫe тpи мecтa.
+HOTR_02	~Д~ecли мaшинa paзвaлитcЯ, тo вac Диckвaлифи иpyЮт.
+HOTR_03	~Д~koгДa мaшинa пoвpeжДeнa, ee мoжнo пoЧинить нa пит cтoпe.
+HOTR_04	~Д~тak мoжнo вЫexaть co cтaДиoнa.
+HOTR_05	мaшинa:
+HOTR_06	kpyги:
+HOTR_07	нoвoe лyЧшee вpeмЯ: ~1~:0~1~
+HOTR_08	вpeмЯ: ~1~:~1~
+HOTR_09	мecтo:
+HOTR_10	вpeмЯ гoнkи:
+HOTR_11	нoвoe лyЧшee вpeмЯ: ~1~.~1~ cekyнД
+HOTR_12	~r~вaшa мaшинa yниЧтoжeнa!
+HOTR_13	~r~вЫ пpoигpaли гoнky!
+HOTR_14	~r~вЫ Диckвaлифи иpoвaнЫ!
+HOTR_15	вpeмЯ: ~1~:~1~
+HOTR_16	вpeмЯ: ~1~:0~1~
+HOTR_17	лyЧшee вpeмЯ: ~1~:~1~
+HOTR_18	лyЧшee вpeмЯ: ~1~:0~1~
+HOTR_19	лyЧшee вpeмЯ: нeт
+HOTR_20	нoвoe лyЧшee вpeмЯ: ~1~:~1~
+HOTR_21	нoвoe лyЧшee вpeмЯ: ~1~:0~1~
+HOTR_22	лyЧшии peзyльтaт: нeт
+HOTR_23	лyЧшии peзyльтaт: 1
+HOTR_24	лyЧшии peзyльтaт: 2
+HOTR_25	лyЧшии peзyльтaт: 3
+HOTR_26	лyЧшии peзyльтaт: ~1~
+HOTR_27	лyЧшee вpeмЯ kpyгa: ~1~.~1~ cekyнД
+HOTR_28	лyЧшee вpeмЯ kpyгa: ~1~.0~1~ cekyнД
+HOTR_29	$~1~
+HOTR_30	1-e мecтo
+HOTR_31	2-e мecтo
+HOTR_32	3-e мecтo
+HOTR_33	лyЧшee вpeмЯ kpyгa: нeт
+HOTR_34	нoвoe лyЧшee вpeмЯ kpyгa: ~1~.0~1~ cekyнД

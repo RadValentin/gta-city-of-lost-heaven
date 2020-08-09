@@ -1,0 +1,40 @@
+FARE1	~Д~ eль ~w~'kлyБ пoлЮcнoгo pacпoлoжeнйЯ' ~Д~нa Бepeгy okeaнa.
+FARE10	~Д~ eль ~w~'плЯж' ~Д~в вaйc пoйнт.
+FARE11	~Д~ eль ~w~'Бoльнй a' ~Д~нa Бepeгy okeaнa.
+FARE12	~Д~ eль ~w~'Бoльнй a' ~Д~в вaйc пoйнт.
+FARE13	~Д~ eль ~w~'пoлй eйckйй yЧacтok' ~Д~нa плЯжe вaшйнгтoн.
+FARE14	~Д~ eль ~w~'пoлй eйckйй yЧacтok' ~Д~в вaйc пoйнт.
+FARE15	~Д~ eль ~w~'пй  a pecтopaн' ~Д~в вaйc пoйнт.
+FARE2	~Д~ eль ~w~'kлyБ мaлйБy' ~Д~в вaйc пoйнт.
+FARE3	~Д~ eль ~w~'мapйнa' ~Д~нa Бepeгy okeaнa.
+FARE4	~Д~ eль ~w~'aммy-нa йЯ' ~Д~нa Бepeгy okeaнa.
+FARE5	~Д~ eль ~w~'мaгaзйн тexнйkй' ~Д~нa плЯжe вaшйнгтoн.
+FARE6	~Д~ eль ~w~'нopc пoйнт мeгaмapkeт' ~Д~в вaйc пoйнт.
+FARE7	~Д~ eль ~w~'ЮвeлйpнЫй Дoм' ~Д~в вaйc пoйнт.
+FARE8	~Д~ eль ~w~'плЯж' ~Д~нa Бepeгy okeaнa.
+FARE9	~Д~ eль ~w~'плЯж' ~Д~нa плЯжe вaшйнгтoн.
+FARES	плaтa:
+IN_ROW	~1~ pЯДoм Бoнyc! $~1~
+MFARE1	~Д~ eль ~w~'aммy-нa йЯ' ~Д~в  eнтpe гopoДa.
+MFARE2	~Д~ eль ~w~'тepмйнaл' ~Д~в мeжДyнapoДнoм aзpoпopтy зckoБap.
+TAXI1	~Д~йщй oплaтy.
+TAXI3	~r~твoй пaccaжйp yлeтeл в yжace!
+TAXI4	плaтa okoнЧeнa!
+TAXI5	Бoнyc зa ckopocть!!
+TAXI6	вoжДeнйe okoнЧeнo
+TAXI7	~r~твoЯ мaшйнa пoвpeжДeнa, oтДaй в peмoнт.
+TAXIH1	ocтaнoвйcь y вЫДeлeннoгo пepexoДa, пoДБepй пaccaжйpoв й oтвeзй йx k пyнkтy нaзнaЧeнйЯ Дo тoгo, kak вЫйДeт вpeмЯ.
+TSCORE2	$~1~
+WFARE10	~Д~ eль ~w~'Бoльнй a' ~Д~в лйттл гaвaнa.
+WFARE11	~Д~ eль ~w~'cтaДйoн' ~Д~в  eнтpe гopoДa.
+WFARE12	~Д~ eль ~w~'пй  a pecтopaн' ~Д~в лйттл гaйтй.
+WFARE13	~Д~ eль ~w~'пй  a pecтopaн' ~Д~в  eнтpe гopoДa.
+WFARE14	~Д~ eль ~w~'вepфь' ~Д~в вaйcпopтe.
+WFARE15	~Д~ eль ~w~'aптeka' ~Д~в лйттл гaйтй.
+WFARE3	~Д~ eль ~w~'caншaйн aвтo' ~Д~в лйттл гaвaнa.
+WFARE4	~Д~ eль ~w~'kayфмaн kзБc' ~Д~в лйттл гaйтй.
+WFARE5	~Д~ eль ~w~'мaгaзйн тexнйkй' ~Д~в лйттл гaвaнa.
+WFARE6	~Д~ eль ~w~'xayлйн пйтc Бaйkc тopгoвЫй  eнтp ' ~Д~в  eнтpe гopoДa.
+WFARE7	~Д~ eль ~w~'пoлй eйckйй yЧacтok' ~Д~в лйттл гaвaнa.
+WFARE8	~Д~ eль ~w~'пoлй eйckйй yЧacтok' ~Д~в  eнтpe гopoДa.
+WFARE9	~Д~ eль ~w~'Бoльнй a' ~Д~в  eнтpe гopoДa.

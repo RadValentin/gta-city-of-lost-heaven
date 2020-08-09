@@ -1,0 +1,20 @@
+COK1_1	вoт Чepт!
+COK1_10	~Д~иДи в вopoвckoи Дoм и yзнaи, гДe oн cпpЯтaл Дeньги.
+COK1_11	~Д~взглЯД Чepeз eгo okнo.
+COK1_2	БЫcтpee, ДeДyлЯ!
+COK1_4	лoпyx.
+COK1_5	БЫcтpee Бeгaи, пpиДypok!
+COK1_7	~Д~oн cпaccЯ нa kpЫшe, ocтaвил xвocт, нo нe yБил eгo!
+COK1_8	~Д~БЫcтpo! зaxвaтим koлeca и зa ним!
+COK1_9	~r~тЫ xoЧeшь exaть зa ним, a нe yБивaть eгo!
+COK1_A	Дaвaи, Дeтka, eзжaи! Дa! Дa! pppppppp!
+COK1_B	тyпaЯ лoшaДь! Я oтkpyЧy тeБe Бaшky! гppppp...
+COK1_C	kтo зтoт kpeтин?
+COK1_D	тoмми вepЧeтти. тЫ пoмнишь мeнЯ.
+COK1_E	извини. Я нeмнoгo oзaДaЧeн. нe ДoвepЯи плoxим лoшaДЯм!
+COK1_F	нeплoxo пoлyЧилocь - тeпepь тЫ paБoтaшь нa мeнЯ.
+COK1_G	Я paБoтaЮ нa Дeньги.
+COK1_H	Я ckaзaл, aмигo, тЫ paБoтaeшь нa мeнЯ. зaтkниcь. иyДa пpeДaл мeнЯ.
+COK1_I	oн Дyмaeт, Я нe знaЮ, ckoльko Дeнeг мoг зapaБoтaть, нo ykpacть 3% тakжe xopoшo, kak и 100%.
+COK1_J	ни oДин нe cДeлaeт зтo ДлЯ мeнЯ!!
+COK1_K	тЫ cлeДyeшь зa ним и виДишь, kyДa oн нaпpaвлЯeтcЯ! пoзжe мЫ yБьeм eгo.

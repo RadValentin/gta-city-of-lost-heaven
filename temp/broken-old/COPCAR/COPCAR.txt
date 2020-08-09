@@ -1,0 +1,8 @@
+CLEVEL	миccиЯ виДжилaнтe ypoвeнь ~1~
+COPCART	~Д~y тeБЯ ~1~ вoзвpaтить пoли ии тpaнcпopт пepeД okoнЧaниeм миccии.
+C_BREIF	~Д~пoДoзpeвaeтcЯ пocлeДнии в ~a~ зoнe.
+C_CANC	~r~миccиЯ виДжилaнтe copвaнa!
+C_COMP1	ypoвeнь 12 миccии виДжилaнтe пpoиДeн: вaшe нaтeльнoe opyжиe вoзpocлo Дo 150
+C_PASS	yгpoзa ycтpaнeнa: $ ~1~
+C_TIME	~r~вaшe вpeмЯ зakoнниka пpoшлo!
+KILLS	yБитo:

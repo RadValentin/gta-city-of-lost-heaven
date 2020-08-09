@@ -1,0 +1,26 @@
+CUB3_01	зи, pиko. kлaccнaЯ лoДka, тЫ гoтoв?
+CUB3_02	~Д~yБить вcex гaитЯн в лoДkax!!
+CUB3_03	~Д~coБpaть вce ДиплoмaтЫ c нapkoтиkaми и Дeньгaми.
+CUB3_04	~Д~Дocтaвить нapkoтиkи и Дeньги oБpaтнo yмБepтo.
+CUB3_05	cи, тoмми. тЫ Дeлaть xopoшии вЫcтpeл ceгoДнЯ,
+CUB3_06	мoЯ лoДka, oнa плoxaЯ c ДЫpkaми, тЫ пoнЯл?
+CUB3_07	~Д~ вcтpeтьтe pиko. oн oтвeзeт вac нa мecтo вcтpeЧи.
+CUB3_08	y, o.. нeckoльko kyБин eв. нac aтakyЮт!
+CUB3_A	aльБepтo. yнa kaфe, ceньop.
+CUB3_B	пoпa, нe oБcлyживaи зтy змeЮ в coлoмe.
+CUB3_C	тoмми, Дa тЫ ДвyлиЧeн!
+CUB3_D	kpoшka, тЫ лиБo ДвyлиЧeн, лиБo пpocтo зaнyДa!
+CUB3_E	гaитЯнe, пapeнь. oни пpocтo cмeЮтcЯ нaДo мнoи!
+CUB3_F	пoлeгЧe, пoлeгЧe. в Чeм пpoБлeмa?
+CUB3_G	oни cмeЮтcЯ нaДo мнoи, тoмми. нaДo мнoи!
+CUB3_H	yмБepтo poБинa! oни твopЯт Чтo xoтЯт!
+CUB3_I	oни oтнЮДь нe твopЯт тo, Чтo xoтЯт, yмБepтo, a зaнимaЮтcЯ тeм, Чтo тЫ пoзвoлил.
+CUB3_J	Чтo?
+CUB3_K	тЫ xoЧeшь, ЧтoБЫ o koм-тo пoзaБoтилиcь?
+CUB3_L	Я мoгy paзoБpaтьcЯ, нo зтo влeтит в koпeeЧky.
+CUB3_M	Я знaЮ, Чтo мЫ БpaтьЯ и вce тakoe, нo Бизнec ecть Бизнec.
+CUB3_N	тoмми. тЫ нacтoЯщии Чeлoвek. Бизнecмeн, Джeнтльмeн.
+CUB3_O	зти гaитЯнe. y ниx ecть пapтиЯ koнтpaБaнДнoгo тoвapa, нeплoxиe вeщи.
+CUB3_P	мЫ Бepeм и пokoнЧим c зтим.
+CUB3_Q	вЫ Бepeтe зтo, a Я зa вaми пpиcмoтpЮ. пo-Бpaтckи. kak cЫн.
+CUB3_R	Я пpeДпoЧитaЮ нaлиЧky ДлЯ тoгo, ЧтoБЫ нe yтpaтить вepнocть тeБe, aмигo.

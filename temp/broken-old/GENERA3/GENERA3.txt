@@ -1,0 +1,64 @@
+GEN3_1	пpигиБaтьcЯ вce вpeмЯ, пoнЯтнo...
+GEN3_10	тoмми.
+GEN3_11	Дo ckopoи вcтpeЧи, aмигo, нaДeЮcь!
+GEN3_12	Блин. гДe зтoт лзнc?
+GEN3_14	тoмми! мнe нyжнa пoмoщь!
+GEN3_15	нe БecпokoиcЯ, Я тeБЯ пpиkpЫвaЮ!
+GEN3_16	Чиcлo лЮДeи Диaca cokpaщaeтcЯ!
+GEN3_18	~Д~cЮДa иДyт kyБин Ы, Дepжиcь Диaca. cлeДи зa тeм, ЧтoБЫ cДeлka мeжДy лзнcoм и Диacoм cocтoЯлacь.
+GEN3_19	~Д~гaитЯнe! oни copвyт cДeлky! зaщититe Диaca!
+GEN3_2	нeyжeли тeБe нe xoЧeтcЯ зaнЯтьcЯ Чeм-тo Дpyгим, пoмимo мoeгo пpиkpЫтиЯ? пoЧeмy БЫ тeБe ни пpoДoлжить и нe пokaзaть, нa Чтo тЫ cпocoБeн.
+GEN3_20	~Д~пoлkoвниk пpигoтoвил тeБe нeБoльшyЮ oгнeвyЮ пoДДepжky в мнoгoypoвнeвoм пapkингe.
+GEN3_22	зДopoвьe Диaca:
+GEN3_23	~Д~тЫ Бpocил лзнca! нaиДи eгo!
+GEN3_25	~r~лзнc пoгиБ!
+GEN3_28	~Д~вepнитe keиc Диacy.
+GEN3_29	~Д~coБepитe keиc и вepнитe eгo Диacy.
+GEN3_3	Я мoг БЫ зтo cДeлaть. eгo имЯ - лзнc, мeжДy пpoЧим.
+GEN3_30	~r~oн yБeгaeт c Дeньгaми! Диac иcпoльзyeт ДлЯ зтoгo твoи шapиkи!
+GEN3_33	~r~пpoвepь cвoи oгoнь!! пpeДпoлaгaeтcЯ, Чтo тЫ БyДeшь cлeДить зa Диacoм и eгo лЮДьми, нe cтpeлЯЯ!
+GEN3_34	~r~cДeлka нe cocтoитcЯ, ecли вЫ зacтpeлитe kyБин eв!
+GEN3_35	~Д~oн ykpaл Дeньги Диaca!
+GEN3_36	~Д~xвaтaи мoтo иkл, Дoгoни eгo и вepни Дeньги Диaca!
+GEN3_37	~Д~cЮДa иДyт kyБин Ы. пpocлeДи зa тeм, ЧтoБЫ cДeлka мeжДy Диacoм и лзнcoм cocтoЯлacь.
+GEN3_38	~r~Диaз мepтв! вЫ нe cмoгли зaщитить eгo!
+GEN3_39	~Д~зaими вЫгoДнyЮ пoзи иЮ нaвepxy.
+GEN3_40	ЧтoБЫ ~н~вЫcтpeлить впepeД ~w~c ~н~мoтo иkлa ~w~нaжми ~н~~k~~PED_FIREWEAPON~ ~w~kнoпky.
+GEN3_41	ЧтoБЫ ~н~вЫcтpeлить впepeД ~w~c ~н~мoтo иkлa ~w~нaжми ~н~~k~~PED_FIREWEAPON~ ~w~kнoпky.
+GEN3_44	~Д~oтпpaвлЯиcЯ c лзнcoм Дo мecтa вcтpeЧи и пpocлeДи зa Диacoм.
+GEN3_45	oни мoгyт БЫть зДecь в лЮБoи мoмeнт, нaм лyЧшe зaнЯть пoзи иЮ пoвЫгoДнeи.
+GEN3_46	Дeepьмo!
+GEN3_47	тoмми!
+GEN3_48	Блин!
+GEN3_49	зДopoвьe лзнca:
+GEN3_5	тЫ Дoлжeн БЫть нoвЫм opyжиeм kopтeca.
+GEN3_50	~r~вЫ пoтepЯли Дeньги Диaca! в cлeДyЮщии paз пocтapaитecь нe yниЧтoжaть Дeньги!
+GEN3_51	eщe Бoльшe ДoлБaнЫx гaитЯн eв в гpyзoвиke!
+GEN3_52	и зти гaитЯн Ы ДyмaЮт, Чтo cмoгyт cпpaвитьcЯ c pиkapДo Диacoм!?!
+GEN3_53	мoи Дeньги!
+GEN3_54	нy вЫ, ДoлБoeБЫ, нe cтoитe зДecь, Дoгoнитe зтиx гaитЯнckиx мyДakoв!
+GEN3_55	тoмми! Я ocтaнycь зДecь и пpиcмoтpЮ зa Диacoм!
+GEN3_56	~r~Диac пoгиБ, пoпaв в зacaДy! в cлeДyЮщии paз cлeДи зa ним!
+GEN3_57	kpЮгep - зтo штypмoвaЯ винтoвka, koтopaЯ пoзвoлЯeт вpyЧнyЮ  eлитьcЯ в 1 Чeлoвeka.
+GEN3_58	нaжмитe и yДepживaитe~н~ ~k~~PED_LOCK_TARGET~~w~ kнoпky ДлЯ тoгo, ЧтoБЫ ~н~ eлитьcЯ~w~ из винтoвkи.
+GEN3_59	нaжмитe и yДepживaитe~н~ ~k~~PED_LOCK_TARGET~~w~ kнoпky ДлЯ тoгo, ЧтoБЫ ~н~ eлитьcЯ~w~ из винтoвkи.
+GEN3_6	Дo тex пop, пoka нe пoЯвЯтcЯ вЫгoДнЫe пpeДлoжeниЯ.
+GEN3_60	нaжмитe ~н~~k~~PED_FIREWEAPON~~w~ kнoпky ДлЯ тoгo, ЧтoБЫ ~н~cтpeлЯть~w~ из винтoвkи. 
+GEN3_61	нaжмитe ~н~~k~~PED_FIREWEAPON~~w~ kнoпky ДлЯ тoгo, ЧтoБЫ ~н~cтpeлЯть~w~ из винтoвkи. 
+GEN3_62	нaжмитe ~н~~k~~PED_FIREWEAPON~~w~ kнoпky ДлЯ тoгo, ЧтoБЫ ~н~cтpeлЯть~w~ из винтoвkи. 
+GEN3_63	вo вpeмЯ eзДЫ нa ~н~ мoтo иkлe ~w~вЫ тakжe мoжeтe ~н~cтpeлЯть впepeД~w~.
+GEN3_64	ДлЯ тoгo, ЧтoБЫ cтpeлЯть c мoтo иkлa, нaжмитe ~н~~k~~PED_FIREWEAPON~~w~ kнoпky.
+GEN3_65	ДлЯ тoгo, ЧтoБЫ cтpeлЯть c мoтo иkлa, нaжмитe ~н~~k~~PED_FIREWEAPON~~w~ kнoпky.
+GEN3_66	ДлЯ тoгo, ЧтoБЫ cтpeлЯть c мoтo иkлa, нaжмитe ~н~~k~~PED_FIREWEAPON~~w~ kнoпky.
+GEN3_67	y вac Дoлжeн БЫть aвтoмaт ДлЯ cтpeльБЫ c мoтo иkлa.
+GEN3_7	oни мoгyт БЫть зДecь в лЮБoи мoмeнт - нaм cлeДyeт нaити вЫгoДнyЮ пoзи иЮ...
+GEN3_8	ok! Я Бepy Бaлkoн, a тЫ - kpЫшy нaпpoтив.
+GEN3_9	Я жив! пpиДypkи! и зтo вce, Чтo вЫ мoжeтe cДeлaть! kak тeБЯ зoвyт?
+GEN3_A	тoмac, Я paД, Чтo тЫ пpишeл.
+GEN3_B	пpocти, мeнЯ зa тo, Чтo cpaзy пepexoжy k Дeлy.
+GEN3_C	Диaз пpocил мeнЯ пepecмoтpeть нeБoльшoe Дeлoвoe coглaшeниe.
+GEN3_D	БyДeм нaДeЯтьcЯ нa тo, Чтo вce пpoиДeт лyЧшe, Чeм в пpoшлЫи paз?
+GEN3_E	вoт пoзтoмy Я o тeБe и пoДyмaл, мoи Дpyг.
+GEN3_F	Я Бpocил нekoтopyЮ зaщитy нa мнoгoзтaжнЫи aвтoпapk.
+GEN3_G	пoДними зтo, a зaтeм oтпpaвлЯиcЯ пocмoтpeть нa лЮДeи Диaca y мecтa cБopa.
+GEN3_H	гpa иac, aмигo.

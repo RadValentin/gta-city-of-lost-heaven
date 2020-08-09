@@ -1,0 +1,52 @@
+CUB4_02	~Д~БoмБЫ БyДyт ycтaнoвлeнЫ c 45-cekyнДнЫм тaимepoм.
+CUB4_03	~Д~ocтaвaитecь в мaшинe Дo тex пop, пoka вac нe пpипapkyЮт в зДaнии.
+CUB4_04	~r~вЫ пoДнЯли пaниky нa Бaзe, нaм нe ocтaeтcЯ ниЧeгo Дpyгoгo, kpoмe kak вмeшaтьcЯ!
+CUB4_06	~r~вЫ нeДocтaтoЧнo Дaлeko oтьexaли oт БaзЫ, и нaм пpиДeтcЯ пpekpaтить пoДpЫвнyЮ oпepa иЮ!
+CUB4_07	oи, pacтвopитeль пoзaДи, aмигo.
+CUB4_08	пpивeт, aмигoc.
+CUB4_09	Бyзнo. гaитЯнин пyтac. мepтв.
+CUB4_10	вaмoc.
+CUB4_11	Дeиcтвитeльнo вaмoc.
+CUB4_12	зи, нaм нyжнa мaшинa гaитЯнckoи БaнДЫ!
+CUB4_13	Дaвaи-ka нaиДeм нaшиx мyЧaЧoc!
+CUB4_14	cлeДyи зa мoими koмпpaДec.
+CUB4_15	ok, Я иДy...
+CUB4_16	coБиpaЮcь ycтaнoвить БoмБy, пpиkpoи мeнЯ!
+CUB4_17	Бeги!!
+CUB4_18	cимпaтиЧнЫи paиoнЧиk, Чeл...
+CUB4_19	зтo пpocтo мycopниk, Чeл.
+CUB4_20	y мeнЯ БЫлa пpekpacнaЯ жeнщинa... жилa пo coceДcтвy.
+CUB4_21	знaeшь, oни гoтoвЯт зДecь kлaccнyЮ пи  y.
+CUB4_22	вay, пapeнь. тЫ вoДишь пpocтo kak paнeннaЯ cyka!
+CUB4_23	пoтepЯлcЯ, пapeнek?
+CUB4_24	тЫ зaБЫл пeпe, иДи и зaБepи eгo.
+CUB4_26	~Д~зaБepи пeпe, oтпpaвлЯиcЯ нa ceвep k мaлeньkoмy гaити и ykpaДи вyДy-aвтo.
+CUB4_27	~Д~вcтpeтьcЯ c pиko и Дpyгими kyБин aми.
+CUB4_28	~Д~пpиcoeДиниcь k Дpyгим kyБин aм в гaитЯнckoи нapkoлaБopaтopии.
+CUB4_29	~Д~пoБЫвaи вo вcex мecтax c мeтkaми и ycтaнoви тaм БoмБЫ.
+CUB4_30	~Д~пocлe тoгo, kak БyДyт ycтaнoвлeнЫ тpи БoмБЫ, yБиpaиcЯ из лaБopaтopии Дo взpЫвa.
+CUB4_31	~Д~yБиpaиcЯ из лaБopaтopии!!
+CUB4_32	~Д~пpипapkyи мaшинy нa мecтe и yБиpaиcЯ вoн.
+CUB4_A	ДaмoЧkи, знaeтe, Чтo Я coБиpaЮcь cДeлaть?
+CUB4_B	coБиpaЮcь пpиcтpeлить в ceБe гaитЯнинa. a зaтeм?
+CUB4_C	a зaтeм пo-ЧeлoвeЧeckи зaнЯтьcЯ лЮБoвьЮ.
+CUB4_D	знaeшь зтo, Чиka. Чтo-тo вpoДe зтoгo.
+CUB4_E	нeyДaЧниk!
+CUB4_F	Члeн.
+CUB4_G	зи, пapeнь, нe БyДy тpoгaть тeБЯ ДecЯтифyтoвЫм шecтoм!
+CUB4_H	yмБepтo poБинa, eмy нpaвЯтcЯ жeнщинЫ! a нe koзeл в ЮБke!
+CUB4_I	тoмми!! тoмми, Я лЮБлЮ тeБЯ, лЮБлЮ! пoшли!
+CUB4_J	kyДa пoшли? мoжнo Я cнaЧaлa вЫпьЮ koфe?
+CUB4_K	нeт вpeмeни! kpoмe тoгo, Я yжe eгo пил.
+CUB4_L	мЫ coБиpaeмcЯ взЯть c coБoи гaитЯн.
+CUB4_M	тoмми, kak тЫ вoзьмeшь c coБoи змeЮ?
+CUB4_N	ykycишь ee зa зaДни y! xaxaxa!
+CUB4_O	Бoлтaи, Бoлтaи, yмБepтo.
+CUB4_P	тoмми, иДи и Дocтaнь нaм мaлeньkyЮ гaитЯнckyЮ мaшинy.
+CUB4_Q	пocлe тoгo, kak Дocтaнeшь ee, вoзвpaщaиcЯ и зaБepи мoeгo пapнЯ.
+CUB4_R	пeпe, и зaБepи eгo k гaитЯнaм.
+CUB4_S	a зaтeм, eДь k гaитЯнckoмy пepepaБaтЫвaЮщeмy зaвoДy и иcпoльзyи pacтвopитeль в kaЧecтвe взpЫвЧaтkи.
+CUB4_T	Бyм! пoka-пoka!
+CUB4_U	yмБepтo, a Чтo нacЧeт тeБЯ?
+CUB4_V	yyy... Я coБиpaЮcь ocтaтьcЯ зДecь и пpиcмoтpeть зa kaфe вмecтe c пoппa.
+CUB4_W	oн нe Чyвcтвyeт oптимизмa. пoнимaeшь?

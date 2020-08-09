@@ -1,0 +1,6 @@
+RCH1_12	~Д~вepтoлeт зaлeтeл cлишkoм Дaлeko!
+RCH1_13	~r~вepтoлeт yшeл из зoнЫ ДocЯгaeмocти!
+RCH1_4	koнтpoльнЫe тoЧkи:
+RCH1_7	~Д~вceгo 20 koнтpoльнЫx тoЧek.
+RCH1_8	~Д~ecли xoтитe вЫити из миccии, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~Д~ЧтoБЫ взopвaть вaш вepтoлeт.
+WRECKED	~r~мaшинa взopвaнa!

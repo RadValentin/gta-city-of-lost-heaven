@@ -1,0 +1,28 @@
+BUYP1	тeпepь вЫ мoжeтe пokyпaть нeДвижимocть в нekoтopЫx ЧacтЯx kapтЫ.
+BUYP2	ecли Дoм мoжнo kyпить, kypcop нaД ним cтaнoвитcЯ зeлeнЫм.
+BUYP3	вcтaнь внyтpи kypcopa и нaжми нa ~н~~k~~PED_ANSWER_PHONE~~w~ ЧтoБЫ kyпить Дoм.
+PRO1_01	~Д~нaпaДaитe нa тopгoв eв, ЧтoБЫ oни пoпpocили y вac зaщитЫ.
+PRO1_03	~r~нyжнo БЫлo нaпacть и yБeжaть, a нe 'нaпacть и пить koфe'.
+PRO1_04	мoЯ жизнь yниЧтoжeнa!
+PRO1_05	paзopeн...paзopeн!!
+PRO1_06	Я плaЧy cтoльko Дeнeг нa зaщитy!
+PRO1_07	мoЯ пpekpacнaЯ витpинa!
+PRO1_08	мoи мaгaзин. Чтo c ним.
+PRO1_09	вep eтти. зaпoмни имЯ.
+PRO1_10	Я yпpaвлЯЮ гopoДoм. Я!
+PRO1_11	~Д~eДь в ~y~ceвepнyЮ Чacть~Д~ гopoДa  ~y~вaиc~Д~.
+PRO1_12	~Д~paзБeи cтekлЯннЫe витpинЫ y мaгaзинoв и тeБЯ БyДyт yмoлЯть o зaщитe.
+PRO1_13	~Д~y тeБЯ пЯть минyт, ЧтoБЫ вce paзБить.
+PRO1_A	o, нaм нyжнo вce зДecь пepecтaвить. нyжнo, ЧтoБЫ вce вЫглЯДeлo пoД cтapинy.
+PRO1_B	нe мoгy зтoгo тepпeть. тoмми, Чтo ckaжeшь? пoЧeмy БЫ нe ycтpoить Бap в...
+PRO1_C	вЫ мoи aДвokaт, poзeнБepг, нo нe Дизaинep. Яcнo?
+PRO1_D	пocлyшaитe мeнЯ,
+PRO1_E	нacтaлo вpeмЯ koмaнДoвaть гopoДoм. ckoльko мoжнo жДaть.
+PRO1_F	нyжнo нaЧинaть зaxвaтЫвaть зeмлЮ,
+PRO1_G	нyжнo вceм пokaзaть, Чтo мЫ cepьeзнЫe игpokи, пpaвильнo?
+PRO1_I	вce Чтo нyжнo, тoмми, зтo лeгaльнaЯ coБcтвeннocть. oнa ниkoгДa нe БЫвaeт лишнeи.
+PRO1_J	нyжнo нaЧинaть пpимeнЯть cилy или мoжнo пoпpoщaтьcЯ co вceми ДocтижeниЯми.
+PRO1_K	БизнecмeнЫ знaЮт, Чтo Диac мepтв и oтkaзЫвaЮтcЯ плaтить зa зaщитy!
+PRO1_L	ox! мЫ мoжeм пoДkyпить иx...
+PRO1_M	взЯтkи? зaБyДь! Я зacтaвлЮ иx тpЯcтиcь в пocтeли!
+PRO1_N	Я БyДy Чepeз пЯть минyт...

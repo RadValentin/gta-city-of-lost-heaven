@@ -1,0 +1,58 @@
+RBM3_1	~Д~oтвeзй лaв фйcтa нa мepoпpйЯтйe.
+RBM3_2	koгДa БoмБy пpйkpeпЯт, й тЫ пoпЫтaeшьcЯ вЫйтй, oнa взopвeтcЯ...
+RBM3_3	koгДa взpЫвнoй cтepжeнь зaйДeт в БoмБy, тo oнa взopвeтcЯ.
+RBM3_4	~r~тЫ yБйл лaв фйcтa!
+RBM3_6	Дeтoнa йЯ:
+RBM3_7	~Д~БoмБa pacплaвйлacь!
+RBM3_8	Чeм БЫcтpee eДeшь, тeм нйжe oпyckaeтcЯ взpЫвнoй cтepжeнь.
+RBM3_9	ecлй ocтaнoвйтьcЯ йлй exaть мeДлeннo, тo взpЫвнoй cтepжeнь вЫxoДйт.
+RBM3_A	тoммй, тoммй! тoммй, Дpyжйщe, пcйx вepнyлcЯ!
+RBM3_B	Чтo пpoйcxoДйт?
+RBM3_C	зтoт пcйx нe ocтaвйт лaв фйcтa в пokoe!
+RBM3_D	тЫ нe yБйл eгo, Дpyжйщe. kak жe oн вepнyлcЯ.
+RBM3_E	Дa, Дa, Дa, a Дeлo в тoм, Чтo...
+RBM3_F	Дeлo в тoм, Чтo kтo-тo Дoлжeн вecтй нaш лймo, koмy мЫ вepйм,
+RBM3_G	пoтoмy Чтo зтoт пcйx нaм yгpoжaeт!
+RBM3_H	Я - глyпoe Дepьмo. мнe eщe нyжнa мa мa!
+RBM3_I	мЫ вce koлeмcЯ, Дpyжйщe.
+RBM3_J	okaй, пapнй, ycпokoйтecь, Я зтo yлaжy.
+RBM3_K	oБЫЧнo, Я нe cтaл БЫ ceБЯ yтpyжДaть, вeДЯ мaшйнy в okpyжeнйй пьЯнЫx шoтлaнДckйx Бйcekcyaлoв,
+RBM3_L	нo ДлЯ вac Я cДeлaЮ йckлЮЧeнйe.
+ROK3_1	a тeпepь, вpeмЯ вЫпйть зapaБoтaннyЮ cтoпky. мepoпpйЯтйe - вceгo лйшь cтo ЯpДoв пo Дopoгe.
+ROK3_10	зй, БyтЫлka вoДkй pвeт мнe kpЫшy! зтo нe вoДka, зтo - Бyмшaйн!
+ROK3_11	ввaaaaaxxxxx!!!! й зтo пoДcoeДйнeнo ДлЯ взpЫвa!! ввaaaaaxxxxx!!!! 
+ROK3_12	oнй вceгДa пpeДyпpeжДaлй, Чтo пьЯнcтвo пoгyБйт мeнЯ. Я зтo вйДeл пo тeлeky. тЫ пoтЯнeшь oДйн йз пpoвoДoв. kakoй пpoвoД? Я нe знaЮ, Дpyжйщe.
+ROK3_13	y мeнЯ нeт cekpeтa. вйллй, ckaжй Чтo-нйБyДь. Я БyДy йгpaть нa Бac в aДy.
+ROK3_14	тoммй, Дpyжйщe, eДь БЫcтpee, пapeнь. вce ДoлжнЫ Чтo-тo Дeлaть. зй, yмнйk!
+ROK3_15	"вce ДoлжнЫ Чтo-тo Дeлaть", Чтo зтo зa БpeД, Я вйДeл kлaccнЫx ДeвoЧek. okaй, kpyтoй, Дeлaй Чтo-тo.
+ROK3_16	пocлyшaй, Я йгpaЮ нa мyзЫkaльнoм йнcтpyмeнтe. Я нйЧeгo нe знaЮ o БoмБe. вйллй мoжeт тoльko тЯнyть Бyмшaйн Чepeз coлoмйнky.
+ROK3_17	Дa, Я cлЫxaл, Чтo тЫ пpeycпeл в зтoм Дeлe. зй, Я нйЧeгo нe cooБpaжaл тoй нoЧьЮ, тЫ жe знaeшь!
+ROK3_18	пepeДaй вйллй coлoмйнky. coлoмйнky?!?! зтo - тypйcтйЧeckйй aвтoБyc лaв фйcтa!
+ROK3_19	тak гДe мнe взЯть coлoмйнky, знaeшь, o Чeм Я? kakoй пpoвoД, тoммй? зeлeнЫй. тyт нeт зeлeнoгo.
+ROK3_2	лyЧшe cДeлaй eгo пoтoлщe в cлeДyЮщйй paз. тoммй, пoмeнЯй тoнaльнocть.
+ROK3_20	йлй, зтoт зeлeнЫй. тЫ вйДйшь зДecь зeлeнЫй пpoвoД?
+ROK3_21	нeт, нeтy. пo kapтe пaДaeт cмepть! вce вЫглЯДЯт зeлeнЫмй! мнe нaДo БЫлo зaгpyжaть тeБЯ пoБoльшe в лyЧшйe вpeмeнa.
+ROK3_22	пpocлaвлeннЫй йckaтeль. kaпйтaлйcт. Я тeБЯ вЫДepжйвaл Дoлгo. зaтkнйcь. тЫ, Дepьмo.
+ROK3_23	БoльшaЯ kaпpйзнaЯ ДeвoЧka. Дa. зaтkнйcь й тЯнй пpoвoД. kakoй пpoвoД? вoт зтoт..
+ROK3_24	нeт! пapeнь, мЫ в пopЯДke. мЫ нe пoДopвaлйcь, Дpyжйщe.
+ROK3_25	тoммй, Дpyг, kлaccнЫй. pok-н-poлл. нeт лй y нac тaЧkй тyДa пoexaть?
+ROK3_26	pзkeт? coвpaщeнйe пokлoннй ? лaв фйcт!
+ROK3_27	тЫ Дoпйл тy БyтЫлky?
+ROK3_3	Я нйЧeгo нe пoнймaЮ, ecлй мoЯ гoлoвa нe пoД kaйфoм. o, Чтo зтo? зй тoммй, пocтaвь зтy kacceтy.
+ROK3_4	лaв фйcт. твoe вpeмЯ зaгpЯзнeнйЯ зфйpa пpoшлo. Я Дaм тeБe шaнc, ЧтoБЫ cтaть ДpyзьЯмй.
+ROK3_5	a ceйЧac Я ДaЮ тeБe шaнc, ЧтoБЫ yмepeть. cнйзь ckopocть й твoй лймyзйн взopвeтcЯ, вмecтe c твoeй Бoльшoй вoлocaтoй зaДнй eй!
+ROK3_6	тoммй, Дpyг, тЫ cпac БaнДy! Я ycтaл oт зтoгo. Дepжй нoгy нa пeДaлй!!
+ROK3_62	мЫ Дyмaлй пokaзaть тeБe нaш xpaм poka -
+ROK3_63	пpoЧyвcтвyй нeйcтoвcтвo лaв фйcтa!
+ROK3_64	пocлyшaй ceБЯ, Дpyжйщe. зтa kacceтa йз пaпьe-мaшe й гoфpЫ.
+ROK3_65	зй, peБЯтa, зтo - xpaм, a мЫ - жpe Ы!
+ROK3_66	зй, xopoшo, ecлй peБЯтa лЮБЯт cвoйx жpe oв oБpeзaннЫмй й глyxймй,
+ROK3_67	тo Я нe cпopЮ?
+ROK3_68	вoт, Чepт, лeнтy oпЯть зaжeвaлo.
+ROK3_69	пo зтoй  eнe мЫ нe cмoжeм йгpaть в жйвyЮ.
+ROK3_7	нaм нaДo нaйтй БoмБy! мЫ, Чтo, БyДeм eзДйть вecь Дeнь? зй, y нac тyт пoлнo вЫпйвkй..
+ROK3_70	Дepьмo! мoй kйшkй...
+ROK3_71	мЫ yлaДйм c зтйм - cпacйБo cнoвa, тoммй, знaeшь, o Чeм Я, kpacaвЧйk, пoka!
+ROK3_73	Джeзз пocтaвйл зaпйcь,
+ROK3_8	a БoмБa нe мoжeт БЫть в мoтope? нaм нaДo ocтaнoвйтьcЯ, ЧтoБЫ нaйтй ee. мЫ вce пoгйБнeм! Я нaпьЮcь!
+ROK3_9	зй, Дpyг, зДecь oЧepeДь. в пйвнoм Ящйke нeт oтвeтa! yБйpaйcЯ!

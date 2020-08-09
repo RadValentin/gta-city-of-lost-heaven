@@ -1,0 +1,14 @@
+ASM2_1	~Д~мcc. Дoycoн ckopo вЫиДeт из Ювeлиpнoгo мaгaзинa в гpaзнoи тoЧke. yБeи ee. пycть зтo БyДeт Дтп.
+ASM2_10	~Д~koгДa ee мaшинy oxвaтит плaмЯ, cпokoинo yxoДи!
+ASM2_11	пoмoги мнe!
+ASM2_12	kтo-ниБyДь пoмoгитe!
+ASM2_13	Бoг мoи!
+ASM2_2	зДopoвьe:
+ASM2_3	~Д~oн взopвeтcЯ! yxoДим oтcЮДa!
+ASM2_4	~r~вЫ paзБили вДpeБeзги ee мaшинy c нeи внyтpи! oнa мepтвa!
+ASM2_5	~r~oнa yшлa!
+ASM2_6	~r~вЫ БЫли Близko oт мecтa 'aвapии'!
+ASM2_7	~r~зтo вЫглЫДит kak cлyЧaинoe cтoлkнoвeниe! пocтapaитecь ceиЧac yБpaть ee c Дopoги!
+ASM2_8	~Д~вЫ ДoлжнЫ вЫcтaвить cмepть мcc. Дoycoн kak Дтп. нe иcпoльзyитe opyжиЯ.
+ASM2_9	~Д~вaм нyжнo пapy koлec ДлЯ зaДaниЯ!
+ASM2_A	мoи koмплимeнтЫ c xopoшeи paБoтoи, мp. тил. мoи kлиeнт пoльщeн.

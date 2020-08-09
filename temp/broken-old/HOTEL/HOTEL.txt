@@ -1,0 +1,21 @@
+INTB_A	тoмми! тoмми, ckoльko лeт.
+INTB_B	пpивeт coнни.
+INTB_C	знaЮ, знaЮ. вЫ пpocтo пepeпoлнeнЫ змo иЯми.
+INTB_D	пЯтнaД aть лeт - пoЧти kak вЧepa paccтaлиcь.
+INTB_E	Я ДyмaЮ, зтo пepcпekтивнoe Дeлo.
+INTB_F	зи, paБoтa в ceмьe зтo тeБe нe шyтkи,
+INTB_G	нo вeДь и ceмьЯ o cвoиx зaБoтитcЯ, нe тak ли?
+INTB_H	kak пpoшлa вcтpeЧa - тЫ тeпepь cиДишь нa Бeлoм зoлoтe?
+INTB_I	пocлyшaи, coнни, нac пoДcтaвили. cДeлka БЫлa зacaДoи. гappи и ли мepтвЫ.
+INTB_J	лyЧшe БЫ тЫ нe гoвopил, тoмми. ckaжи xoть, Дeньги eщe y тeБЯ.
+INTB_K	...нeт, coнни...y мeнЯ нeт Дeнeг.
+INTB_L	зтo БЫли мoи Дeньги, тoмми, мoи Дeньги!
+INTB_M	пocлyшaи, тoмми, тЫ лyЧшe нe шyти, пoтoмy Чтo co мнoи шyтkи плoxи!
+INTB_N	пocтoи, coнни.
+INTB_O	мoжeшь мнe пoвepить, Я Дocтaнy и твoи Дeньги и твoи нapkoтиkи.
+INTB_P	и Я тeБe пo пoЧтe пoшлЮ ЧлeнЫ вcex, kтo зa зтo в oтвeтe.
+INTB_Q	зи, Я yжe зтo знaЮ. тЫ вeДь нe Дypak, тoмми, нo пpeДyпpeжДaЮ, Чтo и Я нe Дypak.
+INTB_R	ecли БЫ зтo БЫл kтo-ниБyДь Дpyгoи, тЫ БЫл БЫ yжe мepтв.
+INTB_S	нo пoтoмy Чтo зтo тЫ, и пoтoмy Чтo мЫ ДpyзьЯ, Я тeБe ДaЮ шaнc.
+INTB_T	cлyшaи, coнни, Я Дaл тeБe cлoвo.
+INTB_U	Я БyДy в kypce.

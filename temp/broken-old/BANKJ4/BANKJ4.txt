@@ -1,0 +1,80 @@
+ASSET_A	coвepшeнo oгpaБлeниe Бaнka!
+ASSET_B	~Д~kлyБ мaлиБy Дoлжeн тeпepь oтДaвaть $~1~ в Дeнь. coБиpaи Дeньги peгyлЯpнo!
+BK4_12A	Чepт! зтo флaнг 9000!
+BK4_12B	нyжнЫ ЧacЫ ДлЯ взлoмa,
+BK4_12C	или 5 минyт, ecли тЫ нaиДeшь мeнeДжepa.
+BK4_14A	фил, вeщи eщe пpиЯтнЫe?
+BK4_19A	y нac лимит вpeмeни,
+BK4_19B	тЫ Дoлжeн БЫcтpee Дeлaть!
+BK4_20A	ДьЯвoл, Я мoгy oБoити вpeмЯ,
+BK4_20B	зaтeм нaДo твoи koД, и мЫ гepoи!
+BK4_23A	Дaи мнe 5 минyт!
+BK4_24A	Я пpoвepЮ филa, ceиЧac пpиДy.
+BK4_24B	Я гoвopил ниЧeгo нe тpoгaть!
+BK4_31A	тoмми! пoгpeБ oтkpЫт!
+BK4_34A	ok, y нac ecть зaпac Дo yДapa. Дaвaи yБиpaтьcЯ oтcЮДa!
+BK4_34B	ok, ecли xoЧeшь! y тeБЯ БyДeт пocлeДнии шaнc!
+BK4_35A	oни штypмyЮт мecтo!
+BK4_35B	в ykpЫтиe!
+BM_DEAD	~r~тeБe нyжeн живoи мeнeДжep Бaнka!!
+BNK422A	kзм, ckoльko?
+BNK4_1	Я yпpaвлЯЮ.
+BNK4_10	вилko, poДжep вac!
+BNK4_11	вxoДи, kзм, в пoгpeБ...
+BNK4_13	Я нaиДy, гДe oн oтлeживaeтcЯ.
+BNK4_15	yвepeн. вce oЧeнь cпokoинo.
+BNK4_16	тЫ - тЫ иДeшь co мнoи!
+BNK4_17	ok! Ok! нe cтpeлЯи!
+BNK4_18	Я ckaзaл нe ДвигaтьcЯ!
+BNK4_2	xopoшo. зaлoжниk. жДи, пoka Я pacckaжy гpyппe oБ зтoм.
+BNK4_21	cтoи тyт. ДвинeшьcЯ - yмpeшь.
+BNK4_25	koмaнДa SWAT БyДeт зДecь в лЮБyЮ минyтy!
+BNK4_27	мнe нaДo нeмнoгo пoмoЧь, тoмми!
+BNK4_28	ви e cити S.W.A.T! вЫ пoлнocтьЮ okpyжeнЫ!
+BNK4_29	okpyжeнЫ? xa xa xa xa!
+BNK4_30	oни cмeЮтcЯ, пoгaнЫe нeДoнockи!
+BNK4_3A	cлeДи зa koлecoм, тoмми!
+BNK4_3B	тoмми, xилapи Дepжит cлишkoм мнoгo koмнaт!
+BNK4_3C	Я нeт!
+BNK4_3D	Я тoжe!
+BNK4_3E	зи, зaтkнитecь Двoe, или мoжeтe вЫити и гyлЯть.
+BNK4_3F	Дa - xилapи.
+BNK4_3I	paДи Бoгa, фил, ocтaнoви kpyтить зтy вeщь!
+BNK4_3J	Дa, y тeБЯ ecть kтo-тo cмoтpЯщии!
+BNK4_3M	мaшинa cлaмaнa. cлoмaнa!
+BNK4_3O	тЫ  eплЯeшьcЯ зa иллЮзиЮ cтaБильнocти.
+BNK4_3P	Чтo?
+BNK4_3Q	тЫ Дyмaeшь, вce вeщи koнЧaЮтcЯ.
+BNK4_3R	мoлoДocть, лЮБoвь, пи  a,
+BNK4_3S	вce пpoxoДит и koнЧaeтcЯ, нaДo зтo пoнимaть.
+BNK4_3T	тЫ пpaв. cпacиБo, kзм.
+BNK4_3U	нe зa Чтo.
+BNK4_3V	тoмми, Чeгo мЫ ocтaнoвилиcь?
+BNK4_4A	~w~eзжaи вokpyг Блoka, ok?
+BNK4_5	~w~okeи, тoмми, okeи.
+BNK4_6	~w~зтo oгpaБлeниe!
+BNK4_7	~w~вceм cтoЯть!
+BNK4_8	~w~вceм cтaть пpoтив тoи cтeнЫ!
+BNK4_9	фил, Дepжи тyт вce!
+BNK4_94	~w~okeи. лeгko и пo-нaшeмy плaнy.
+BNK4_A	~w~kak виДитe, ДжeнтльмeнЫ, зтo БyДeт caмЫм лeгkим Дeлoм в нaшeи жизни.
+BNK4_B	~w~тoмми, cepьeзнo, тЫ Дoлжeн peшить c зakoнoм.
+BNK4_C	~w~kakoгo Чepтa тЫ kypишь, мyжиk? зтo нe пo плaнy!
+BNK4_D	~w~нy, koмy нyжeн пpocтoи плaн?
+BNK4_E	~w~вoзьми koммyнизм, вoт БЫл пpocтoи плaн. oн нe aДл poccии вЫгoД, xe?
+BNK4_F	~w~ycпokoиcЯ, лaДнo? c тakoи koмaнДoи нe Дoлжнo БЫть ниkakиx пpoБлeм.
+BNK4_G	~w~мЫ пoлyЧили kзмa. фил? мЫ ДoлжнЫ xpaнить вce в тaинe, и xилapи yпpaвлЯeт мaшинoи вo Двope.
+BNK4_H	~w~yx, Дa-Дa, тЫ нe зaБЫл koe-koгo? kтo пoмoг тeБe нe ocтaтьcЯ в гopoДe? kтo ...
+BNK4_I	~w~keн... keн, зтo пpaвДa. keн зДecь, oн oтмЫвaeт Дeньги ДлЯ нac и Дepжит нaпитkи в xoлoДe.
+BNK4_J	~w~Я eн пoимy, Чтo мнe нaДo БЫлo зДecь Дeлaть.
+BNK4_K	~w~cмoтpи. paзвe тЫ нe виДeл ниkoгДa kинo?
+BNK4_L	~w~мЫ зaшли в Бaнk, пoлoжили opyжиe, и ocтaвили oЧeнь Бoгaтoгo Чeлoвeka.
+C_DEAD	~r~kзм мepтв!!
+C_HIND	~r~kзм ocтaлcЯ cзaДи!
+GETCAR	~Д~caДиcь в мaшинy ДлЯ зaвepшeниЯ Дeлa!
+H_DEAD	~r~xилapи мepтв!!
+H_HIND	~r~xилapи БЫл пokинyт!
+IDIOT	~r~тoЧнo, тoльko и мeЧтaл oДeтьcЯ, kak лyнaтиk, и пpивлeЧь внимaниe, иДиoт!
+P_DEAD	~r~фил мepтв!!
+P_HIND	~r~мЫ пoтepЯли филa!
+TRASHED	~r~вЫ paзБили мaшинy!!

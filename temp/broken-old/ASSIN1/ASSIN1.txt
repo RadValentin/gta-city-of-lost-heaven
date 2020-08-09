@@ -1,0 +1,5 @@
+ASM1_5	~r~вaшa  eль зaвepшилa cвoЮ Дocтaвky!
+ASM1_6	Дocтaвok ocтaлocь:
+ASM1_7	~Д~kapл пиpcoн, Дocтaвщиk пи  Ы. yБeитe eгo Дo тoгo, kak oн Дocтaвит тoвap.
+ASM1_A	мp. тил, вaшa пoмoщь в иckopeнeнии тoи ДepeвeнщинЫ нeo eнимa ДлЯ Бизнeca. y мeнЯ ecть eщe paБoтa вaм c пpимeнeниeм 'pyk'.
+ASM1_D	мp. тил, вaшa пoмoщь в иckopeнeнии тoи ДepeвeнщинЫ нeo eнимa ДлЯ Бизнeca.
