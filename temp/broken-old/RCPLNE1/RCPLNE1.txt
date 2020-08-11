@@ -1,5 +1,0 @@
-RCPL1_4	~Д~зaвepшитe тpaccy c 3 вepтoлeтaми
-RCPL1_5	~Д~пpoлeтитe Чepeз koнтpoльнЫe тoЧkи, paзБpocaннЫe пo гopoДy.
-RCPL1_6	~Д~ ecли xoтитe вЫити из миccии, нaжмитe нa ~н~~k~~PED_FIREWEAPON~ ~Д~ЧтoБЫ взopвaть caмoлeт.
-RCPL1_8	~Д~вaш caмoлeт вЫшeл из зoнЫ ДocЯгaeмocти!
-RCPL1_9	~r~caмoлeт вЫшeл из зoнЫ ДocЯгaeмocти!

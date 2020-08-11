@@ -1,4 +1,0 @@
-TAX2_1	вЫзoвй вce мaшйнЫ, мЫ тepЯeм в oплaтe пo вceмy гopoДy. Чтo c вaмй, peБЯтa?
-TAX2_2	VC kзБc пpoДoлжaЮт oБxoДйть нac. y нйx oЧeнь мнoгo мaшйн - мЫ нe мoжeм koнkypйpoвaть!
-TAX2_3	мp. вepЧeттй, пoйДйтe тyДa пoДcлyшaть, ЧтoБЫ вЫвecтй мaшйнЫ VC keБc йз cтpoЯ, a тo мЫ oБaнkpoтймcЯ!
-TAXW2_1	~Д~yнйЧтoжйть 3 тakcй coпepнйka!

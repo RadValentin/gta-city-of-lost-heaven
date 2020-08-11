@@ -1,0 +1,2454 @@
+ACCURA	to¥hoct¨
+ADMIRAL	agmpa
+AMBULAN	ckopa¬
+AMBUL_M	'megk'
+AMMU	ªag hytp¨ amyh , ¥to© kyt¨ opye.
+AMMUHLP	ec tee otpeyetc¬ opye, ocet ~h~amyh «~w~. cegy ªa ~h~¬thom opy¬~w~ ha pagape. 
+ANGEL	ahe
+ANSWER	ham khoky ~h~~k~~PED_ANSWER_PHONE~~w~, ¥to© otett¨ c cotooo teeoha. 
+APACHE	oxothk goctaeh ha ocago¥hy« o§agky ha okeahckom ¬e.
+APR	ap
+ARMOUR	hate¨ha¬ poh¬
+ASM	t©  he  yce
+ASM1_1	 ~h~~k~~PED_SPRINT~  ~w~- call LoveFist.  ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~   ~w~-call Paulie.  ~h~~k~~VEHICLE_ENTER_EXIT~  ~w~-  call Phill. ~h~~k~~PED_DUCK~  ~w~   - call Biker. ~h~~k~~PED_ANSWER_PHONE~ ~w~-  exit
+ASM1_2	bikers
+ASM1_3	haitians
+ASM1_4	doping
+ASM1_B	you win! $~1~
+ASM1_C	disqualification for doping
+ASM3_1	tie up
+ASM3_10	 ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~- kick . if around winch of the enemy   ~h~~k~~PED_ANSWER_PHONE~ - ~w~kick on winch.
+ASM3_2	Paulie
+ASM3_3	~r~Paulie is dead
+ASM3_4	whole:
+ASM3_5	collected:
+ASM3_6	~g~to phone call press ~w~~k~~PED_ANSWER_PHONE~  ~g~for two seconds
+ASM3_7	press ~h~~k~~PED_CYCLE_TARGET_LEFT~ ~w~- for next  car. press  ~h~~k~~PED_SPRINT~  ~w~and you got the car. ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~- exit
+ASM3_8	~g~dispose of cops
+ASM3_9	~h~~k~~PED_CYCLE_TARGET_LEFT~ ~w~- choose player. ~h~~k~~VEHICLE_ACCELERATE~  ~w~- choose car. ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~- exit.
+ASM3_A	And here every time like this
+ASM3_B	tekct o¨¦e he hyeh
+ASM4_1	~r~go get checkpoints
+ASM4_11	~r~- some nut has robbed bank. Get the money and bring  me
+ASM4_13	press ~h~~k~~VEHICLE_ENTER_EXIT
+ASM4_14	~r~my guys has stuck in bank - adown, where seif. There packed cops. get money and bring me
+ASM4_2	ten stems around you and you not armed... i give you a chance
+ASM4_24	distance:
+ASM4_3	kill him
+ASM4_4	register race
+ASM4_5	choose car
+ASM4_6	~g~phec ¥emogah  amyh «  gayhtayhe.
+ASM4_7	~r~t© y eh§hy, got!
+ASM4_8	~r~ e¨ c©¦aa ©ctpe© ª toeo opy¬! cgeka otmeheha!
+ASM4_9	~r~ e¨ cea ha camoet!
+ASM_1	the man who betrade you - lance, he not die. has verged to haitians and disturbs me to lead buisiness in town. go to paulie.
+ASM_2	good. shall watch as you shooting. go to vinchenzo
+ASM_3	now remained to check you on speed. you find lovefist on mototrack.
+ASM_4	tom, put your weapon away. haitians will give my money back. go on their base
+ASM_5	saliri knew that you is good goods. he searched who pay more.
+ASS1_10	show the best time. i go with you
+ASS1_11	get the gun and kill 10 suckers
+ASS1_12	tom, quickly. just dont fire
+ASS1_3	bring me home
+ASS1_4	now you in team
+ASS1_5	tom, its a duck. salieri has sold you to lance. be on roof for two minutes.
+ASS1_6	salieri in airport
+ASS1_7	lance on ship
+ASS1_8	get checkpoints
+ASS1_9	kill the drugdillers
+ASSET_C	ªaxat o oª¦oh ªaep¦eh!
+ASSET_D	~g~ky o oª¦oh tepep¨ yget phoct¨ goxoga $~1~  geh¨. ªapa co geh¨ pey¬pho!
+ASS_1	the hookers dont want pay. kill them
+ATUTOR	ham ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~khoky g¬ too, ¥to© k«¥t¨  ©k«¥t¨ mcc megko.
+ATUTOR3	 ham ~h~~k~~TOGGLE_SUBMISSIONS~ khoky~w~ g¬ too, ¥to© k«¥t¨  ©k«¥t¨ mcc megko.
+AUG	ay
+AVERY	ytepgt¨ mcc 
+A_PORT	ªckoap htephe¦h
+A_TIME	+~1~ cekyhga
+BAGGAGE	epehoc¥k aaa
+BANK	mcc c ahkam
+BANK1	money :
+BANK2	dillers :
+BANK3	for this hooker: $~1~
+BANKBUY	may ckyo: $~1~
+BANKINT	ª¨ ahko kopyto pahge
+BANK_1	in 2 minutes the cops, fbi and military must hunt on you. afterwards you must go to airport
+BANK_2	go to airport
+BANK_3	dispose of cops
+BANK_4	get your share
+BANK_C	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ may ªa $~1~
+BANK_L	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ may ªa $~1~
+BANK_NO	t© he moe¦¨ ce¥ac popect may, oªpa§ac¬ oªe.
+BANK_T	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ may ªa $~1~
+BANSHEE	ah¦
+BARRCKS	apak o
+BASEBAT	eco¨ha¬ ta
+BEACH1	okeahck ¬
+BEACH2	a¦htoh ¥
+BEACH3	ac oht
+BENSON	ehcoh
+BFINJC	 h¨ek ¬
+BIKE	mcc c ahgam akepo
+BIKE1	mcc¬ c akepam 1
+BIKE2	mcc¬ c akepam 2
+BIKE3	mcc¬ c akepam 3
+BIKE_1	ca koec ª cta
+BIKE_2	tycy¬c¨ c mykom
+BIKE_3	xo tag
+BJM2_21	~g~opaª kak moho o¨¦e  ee, oka ect¨ opyee.
+BJM3_1	~g~hag ©ctpy« ma¦he  ¦ypy k ha¥a¨ho heke.
+BK4_40A	¬ gam emy ©xog!
+BLISTAC	cta komakt
+BLODRNG	ygph
+BLOODRA	gpahgyet ygph
+BLOODRB	gpahgyet ygph
+BMXFAIL	~r~t© he goc¬ hooo pekopga!
+BMXRAIN	~g~oxoe gog¨...
+BMXREW1	~g~kag© paª t© pe©¦ae¦¨ peg©gy§ pekopg ha ga kpya
+BMXREW2	~g~o¨¦a¬ ~y~hapaga ~g~yget pcygeha!
+BMX_1	'c©tahe p¬ª¨«'
+BMX_2	'tectoa¬ gopoka'
+BMX_HOW	~g~cgea ga kpya o p¬ªho gopoe, ~y~poeªa¬ ¥epeª ~g~ ~y~kohtpo¨h©e to¥k ~g~!
+BMX_REC	~g~ho© pekopg yctahoeh:~1~ !!
+BNK1_1	t© he pek hmahe oehh©x
+BNK1_2	t© he ye o «  aªpoopt
+BNK1_3	hmahe o  k tee choc¨
+BNK1_4	test for speed
+BNK1_5	collect checkpoints
+BNK1_6	to buy  ~r~nitro ~w~press  ~h~~k~~VEHICLE_HORN~ .
+BNK2_6	no more ~r~nitro
+BNK3_2	~r~nitro~w~: ~h~~1~
+BNK450A	~h~~k~~TOGGLE_SUBMISSIONS~ ~w~- nitro.
+BNK450B	5000$  for   ~r~nitro ~w~.
+BNK4_26	~r~nitro~w~: ~h~~1~
+BNK4_2A	maximum of speed :  $~1~
+BNK4_32	press ~h~~k~~PED_ANSWER_PHONE
+BNK4_36	~g~armor - ~r~100~g~. health - ~r~100.
+BNK4_37	to fly press  ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~. bombs -   ~h~~k~~PED_FIREWEAPON
+BNK4_38	ho© pekopg : ~h~0~1~:~1~
+BNK4_3G	hegaeko ot teeoha,  kyctax, ctot  mahha  c  pyom. otoh  ee ha caky.
+BNK4_3H	py opegeh.
+BNK4_3K	t© he yce opem¬
+BNK4_3L	ho© pekopg : ~h~0~1~:0~1~
+BNK4_3N	pekopg tpacc© : ~h~0~1~:0~1~
+BNK4_42	pekopg tpacc© : ~h~0~1~:~1~
+BNK4_43	t© he o pekopg
+BNK4_44	you must be in plane
+BNK4_45	get the airplane and throw bombs to drugdillers
+BNK4_46	job 1 - ~h~~k~~PED_SPRINT~ ~w~. job 2 - ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~. job 3 - ~h~~k~~PED_LOOKBEHIND~ ~w~.
+BNK4_47	you need car
+BNK4_48	tomm, xo¥e¦¨ coo§ehe?
+BNK4_49	hy, pet, mepcegec! ga, ¬ hemhoo hap¬eh...
+BNK4_51	kak o mhe hopmaeh.
+BNK_39	¥ept! ge xap?
+BOATBUY	ogo¥ha¬ popeteha: $~1~
+BOATYAR	ogo¥ha¬
+BOAT_A2	ªaep¦eho popetehe ogo¥ho
+BOAT_AS	~g~ogo¥ha¬ teep¨ yget gaat¨ goxog go $~1~. yegc¨, ¥to octo¬hho eo ªapae¦¨.
+BOAT_C	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ ogo¥ho ªa $~1~
+BOAT_L	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ ogo¥ho ªa $~1~
+BOAT_N	kohtpo¨ha¬ to¥ka ¥ap
+BOAT_NO	t© he moe¦¨ popect ogo¥hy«, oªpa§ac¬ oªe.
+BOAT_P	~g~coep oka go too, kak ©get pem¬.
+BOAT_T	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ ogo¥ho ªa $~1~
+BOA_EXP	ogk yh¥toeh©
+BOBCAT	okat
+BOLLOX	ham ~h~~k~~VEHICLE_HANDBRAKE~ ~w~khoky ¥to© cpoct¨ omy. ham ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~khoky g¬ otmeh©.
+BONUS	~g~ohyc $~1~
+BOXVILL	okc
+BRIBE1	t© to¨ko ¥to ª¬ otky ot m , ªto ymeh¨¦t to ypoeh¨ poª©cka ha oghy ªeªgy.
+BRID_CL	pegypegehe o ¦topme: ce moct© k o¨¦o ªeme ªakp©t©.
+BRID_OP	¦topmooe pegypegehe ªakoh¥oc¨, ce moct© k o¨¦o ªeme otkp©t©.
+BSTSTU	y¥¦ heªah© tp«k
+BUD_1	ctp¬cka
+BUD_2	ap pa
+BUD_3	ªem¬ o 
+BUL_FIR	©ctpe¬hh©e y
+BUL_HIT	oa¦e y
+BURRITO	ypto
+BUS	atoyc
+BUSTED	y!
+BUYGARG	~g~t© tak e moe¦¨ xpaht¨ ato  ªtom apae.
+BUYGARS	~g~t© tak e moe¦¨ xpaht¨ ato  ªtx apaax.
+BUYSAVE	~g~teep¨ t© moe¦¨ coxpaht¨ tyt py, koga t© he  mcc.
+CABBIE	kª
+CADDY	kªgg
+CAP_1	kª copate¨
+CARBUY	©ctao¥h© ªa ma¦h popeteh: $~1~
+CARSOFF	ma¦h© ©k«¥eh©.
+CARS_ON	ma¦h© k«¥eh©.
+CAR_1	ckopa¬
+CAR_AS1	popetehe ©ctao¥hoo ªaa ma¦h ªaep¦eho
+CAR_AS2	~g~cohe¥h©e ma¦h© teep¨ ygyt gaat¨ p©¨ go $~1~. yegc¨, ¥to ªapae¦¨ ee pey¬pho.
+CAR_C	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ ©ctao¥hoo ªaa ato ªa $~1~
+CAR_EXP	gopoh©e ato yh¥toeh©
+CAR_L	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ ©ctao¥hoo ªaa ato ªa $~1~
+CAR_NO	t© he moe¦¨ kyt¨ ©ctao¥h© ªa ato ce¥ac, oªpa§ac¬ oªe.
+CAR_T	ham ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ ©ctao¥hoo ªaa ato ªa $~1~
+CDERROR	o¦ka p ¥teh Grand Theft Auto: Vice City DVD
+CHAINSA	ehªoa
+CHASE	©c¦ee hmahe
+CHASE1	pohoppoat¨
+CHASE10	mecthoe teegehe oce§ehe
+CHASE11	ya ceogh¬ ctpah a 12
+CHASE12	ya ceogh¬ ctpah a 4
+CHASE13	kapthka  ya ceogh¬
+CHASE14	ha oha¨hoe t 4 ytpa
+CHASE15	ha oha¨hoe t hooct
+CHASE16	ha oha¨hoe t oce§ehe
+CHASE17	megyhapogh©e hooct
+CHASE18	ha oha¨h© kpªc
+CHASE19	htepha oha¨h© kpªc
+CHASE2	hygho
+CHASE20	mpooe co©te
+CHASE21	pogopka eehg
+CHASE3	he¬cho htepech©
+CHASE4	mectha¬ aªeta ctpah a 7
+CHASE5	epa¬ ctpah a mectho aªet©
+CHASE6	opo¥h© kyp¨ep ctpah a 2
+CHASE7	 opo¥h© kyp¨ep epa¬ ctpah a
+CHASE8	mecthoe t 3 ytpa
+CHASE9	mecthoe t hooct
+CHEAT1	xtpoct¨ k«¥eha
+CHEAT2	opyeha¬ xtpoct¨
+CHEAT3	xtpoct¨ ªgopo¨¬
+CHEAT4	xtpoct¨ poh
+CHEAT5	xtpoct¨ ypoh¬ poª©cka
+CHEAT6	xtpoct¨ gehe
+CHEAT7	xtpoct¨ oog©
+CHEATOF	pem xtpocte ©k«¥eh
+CHEATON	pem xtpocte k«¥eh
+CHEETAH	eepg
+CHERRYP	¦heoe mopoehoe
+CHSE	ooh¬
+CINCAM	khematopa¥ecka¬ kamepa
+CLEVER	m¬cho toop
+CLOHELP	¥cta¬ ogega!!
+CLOTH1	chap¬ehe g¬ cyape goctaeho paaª« ha okeahck ¬.
+CLOTH10	ahkockoe chap¬ehe goctaeho  ky may  ac ohte.
+CLOTH2	y¥hoe chap¬ehe goctaeho  ye§a.
+CLOTH3	ce ogega goctaeha  tyeg a  hopt oht mo.
+CLOTH4	chap¬ehe g¬ kahtp kya goctaeho  o¨ ky   hkc.
+CLOTH5	aahckoe chap¬ehe goctaeho  t aaha ctptep  t aahe.
+CLOTH6	m eckoe chap¬ehe goctaeho m eckoe ypaehe  a¦htoh ¥.
+CLOTH7	pemehhoe chap¬ehe goctaeho  a¦  hopt oht mo.
+CLOTH8	chap¬ehe mctepa epcett goctaeho  opothk  mahet© ha okeahckom ¬e. 
+CLOTH9	copth© koct«m goctaeh  gokcopt  gayhtayhe.
+CLT_HL2	koga cop ogeg© yget ªakoh¥eh, ogha  ge ªeªgo¥k ypoh¬ poª©cka poagyt.
+CNT2_1	ye eo.
+CNT2_2	goctah¨ t©!
+CNT2_3	ªa§t kyp¨epa!
+CNTBUY1	ct ehaha¬ apka popeteha: $~1~
+CNT_1	otka¥ka oo
+CNT_2	goctah¨ kyp¨epa
+COACH	tpehep
+COASTG	epeoa¬ oxpaha
+COASTMA	epeoo oxpahhk maepk
+COK1_3	hage«c¨ t© yage¦¨  comae¦¨ ¦e«!
+COK1_6	meh¬ to¦ht ot ªtx pkoo.
+COK2_10	t© yepeh ¥to ctpe¨a y¥¦e otoh.
+COK2_11	caco. t© hacto¬§ ma.
+COK2_12	¬ ªha«, tomm.
+COK2_18	t© kpyt c kehh ohªom
+COK2_19	¥ept, ¬ «« ªty ªac¨
+COK2_26	~r~t© y ahca!
+COK2_7	g¦¨ tex pe¬t? octapac¬ ypat¨ ekx!
+COK3_1	he ctpe¬, ¥yak!
+COK3_2	¥to takoe?
+COK3_3	oh ªapaet ogky. ogap¨.
+COK3_4	ha omo§¨! kto-to kpaget ogky, myk!
+COK4_10	oh gpoa!  pkopmka g¬ p©.
+COK4_11	m© ªto cgea! octa¨h©e ogk he ©c¦eo kacca.
+COK4_17	oh ctaho¬tc¬ eªhageh©m!
+COK4_18	mo ¥epto© ho pomok! m© yxogm  ogy!
+COK4_2	ga.
+COK4_21	paetc¬ moct!
+COK4_22	©eª¨te, oha ce¥ac ªopetc¬!
+COK4_23	xopo¦a¬ ctpe¨a.
+COK4_29	~r~t© y ahca!
+COK4_6	t© ªhae¦¨ kyga m© hapa¬emc¬?
+COK4_7	m© otep¬c¨?
+COK4_8	y hac copehoahe!
+COK4_9	yepte x!
+COK4_9A	p¦o pem¬ g¬ tah e ahca ahca!
+COK4_W	yxxx! ªto ocegh ª hx.
+COK4_X	¬ copa«c¨ ogh¬t¨ ee.
+COK4_Y	mhe kaetc¬ y hac o¬c¨ ho©e gpyª¨¬.
+COKE	mcc¬ kokaho© apoh
+COK_1	ooh¬
+COK_2	hom eh '86
+COK_3	cama¬ ©ctpa¬ ogka
+COK_4	pac©  otpehoct¨
+COL2_6	cto¬t¨, mepact¥ecka¬ amepkahcka¬ ch¨¬!
+COL2_6B	ªto ect¨ coctehhoct¨ pate¨cta pah .
+COL2_6C	' p cee!
+COL2_9	t© amepkahck got! oh pe te¬ c«ga!
+COL3_A	tomac ¬ o¥eh¨  eh« to pxog
+COL3_B	ªhte, ho epegy p¬mo k gey,
+COL3_C	gaª poc meh¬ epecmotpet¨ heo¨¦oe geooe coa¦ehe.
+COL3_D	ygem hage¬t¨c¬, ¥to poget y¥¦e, ¥em  po¦© paª.
+COL3_E	ot oªtomy ¬ o tee  ogyma, mo gpy.
+COL3_F	¬ poc hekotopy« ªa§ty ha mhooªtah© atoapk.
+COL3_G	ogep  ªatem g ha«ga ªa «g¨m gaªa ha ©cagke.
+COL4_10	o¦ oegm oh¥ko.
+COL4_16	cªp! gy§a¬c¬ ma¦ha cªp!
+COL4_2	he ªha« cªp!
+COL4_25	ªay§eho camoyh¥toehe ma¦h©!
+COL4_5	cªp, ga cªp!
+COL5_17	o mo o, y hx ect¨ eptoet!
+COL5_18	ctpe¬te o eptoety!
+COL5_19	tomm, ©hec ªtot eptoet!
+COL5_20	oh choa paetc¬! ªp©ate eptoet!
+COL5_21	¬h¨te ha paªmep© ªtoo eptoeta!
+COL5_22	ot oh choa peaetc¬!
+COL5_5	ympte pah yªcke ch¨!
+COL5_6	mepcegec, ªta ge¥ohka ctahet moe cmept¨«.
+COL5_8	¥epto tapakah!
+COL_1	og© opocehok
+COL_2	mo ©cko¥
+COL_3	oxpahhk ahe©
+COL_4	cªp, ga cªp!
+COL_5	cem e¥¨ ha gock!
+COMET	kometa
+COM_ZON	ac ct o¨¦a¬ ªem¬
+COP_M	'gahte'
+COP_M2	'otp¬g ac'
+COP_M3	'kop¥he© pom'
+COUNT	mcc a¨cka 
+COUNT1	mcc¬ a¨cka  1
+COUNT2	mcc¬ a¨cka  2
+CO_ALL	t© oy¥ cex. ot koe-¥to e§e...
+CO_ONE	cp¬tahha¬ okaa ~1~ ª ~1~
+CRD001A	gpektop ctyg
+CRD001B	ahgp« cem
+CRD002A	gpektop o paªpaotke
+CRD013A	pmah capap
+CRD013B	gemc opa
+CRD013C	goh xam
+CRD018A	paªpaotka epcohae
+CRD019A	tokc coaph
+CRD019B	aah gegcoh
+CRD022A	ahmatop©
+CRD022B	gyhkah ¦gc
+CRD022C	ac pag
+CRD023A	gooh opme
+CRD023B	aah gyhkah
+CRD024A	ah© paªpaot¥k ma¦h
+CRD031A	cteh myxoahg
+CRD031B	aahg ctahgh
+CRD031C	kªme g. gk
+CRD031D	paªpaotka pak
+CRD031E	ct«apt etp
+CRD032A	popammct©
+CRD037A	aah kªme
+CRD037B	mapk xehoh
+CRD037C	ahgpe magaªk
+CRD041A	aygo hhep©
+CRD041B	aygo
+CRD042A	y moptoh
+CRD056A	gopg ¨¬mcoh
+CRD056B	mat gohc
+CRD056C	po xapop
+CRD056D	tom ttakep
+CRD057A	texh¥ecka¬ oggepka
+CRD060A	ocha¬ oggepka
+CRD060B	km yphe
+CRD060C	kacc oep
+CRD071A	gpektop apaht ka¥ecta
+CRD072A	ge poca
+CRD084A	gahe¨ ehªh
+CRD084B	gakeh appoc
+CRD084C	hh p
+CRD084D	paªpaotka ook
+CRD084E	cteeh c
+CRD086A	ªotoeho agamom tegmahom
+CRD088A	agam tegmah
+CRD088B	geg y
+CRD088C	gepp yha
+CRD088D	ct«apt etp
+CRD088E	mak kapheae
+CRD088F	pe ay
+CRD088G	ytaa xaa¦
+CRD092A	go xoe
+CRD092B	mapk ephahgeª
+CRD098A	ªªaet cattepat
+CRD098B	gam¨ ea
+CRD098C	mak xoh
+CRD110A	haop taahto: gem kh, cah makayco
+CRD111A	ogepka epcohae
+CRD134A	kam gohc - pe cmc
+CRD134B	cxo - xahtep ath
+CRD134C	eg c mopoehh©m - geh ehhapo
+CRD134D	etpo - goh ªypxeeh
+CRD134E	ohªaec - op yo
+CRD134F	gah - hag kohcap
+CRD134G	gk - etep makke
+CRD134H	mak ty a  opho ¥yak - poept  xpa
+CRD134I	epc - pacce opmah
+CRD136A	texh¥eck gpektop aekc xoptoh
+CRD137A	gpektop hag kohcap
+CRD138A	poªogcto gem kh
+CRD138B	pehog ceah
+CRD140A	ah epp
+CRD140B	gohotah ce
+CRD140C	¥ap¨ª takep
+CRD140D	ªgg mappepo
+CRD140E	¨¬m makko
+CRD140F	op yo
+CRD140G	poept gekcoh
+CRD140H	tapa pªgk
+CRD140I	gehep ameteªe
+CRD140J	kpc a¥eapa
+CRD140K	a opgyoag
+CRD140L	kaxem y
+CRD141A	c ehap  geha xaycapa, mapka ephahgeªa, gah teh  haga kohcap
+CRD141B	c omo§¨« gepem oa, ahca ¨¬mca,  gehh gemcoh
+CRD142A	geh xaycep  gemc oppa
+CRD218A	xehª xehh
+CRD218B	ct«apt pocc
+CRD229A	toh-map¬ komhat©
+CRD229B	ooca  poªogcto - ge eph
+CRD251A	oªepo
+CRD252A	o
+CRD344A	aygo ªac¨ ha ggta aptc ctygoc,
+CRD345A	chxpohh© ªyk, hk  pago aªoy, ghh© octpo.
+CREAM	pacpoctpahehe
+CRED001	pokctap hopt
+CRED002	pog«cep
+CRED003	ec ehªc
+CRED004	xygoectehh© gpektop
+CRED005	aapoh apyt
+CRED006	texh¥eck gpektop
+CRED007	o epme
+CRED008	agam oohep
+CRED009	paªpaotka mcc
+CRED010	agp« gytx
+CRED011	kpe ¦a
+CRED012	¨¬m mac
+CRED013	kpc pote
+CRED014	c ehap
+CRED015	gemc opa
+CRED016	o¨ kypock
+CRED017	gªh xaycep
+CRED018	ah© paªpaot¥k epcohae
+CRED019	¬h makk«
+CRED020	ah© ahmatop
+CRED021	aekc xoptoh
+CRED022	 mohtomep
+CRED023	paªpaotka ma¦h
+CRED024	o¨ kypock
+CRED025	paªpaotka kapt©
+CRED026	agam ko¥peh
+CRED027	hk teop
+CRED028	ap makagam
+CRED029	kepah a
+CRED030	acgap yg
+CRED031	ahgp« cyca
+CRED032	ah© popammct
+CRED033	aekcahgp poep
+CRED034	pam ¨¬mcoh
+CRED035	ªpªh ¥ah
+CRED036	gepek ªh
+CRED037	opgoh omah
+CRED038	ah© myª©ka¨h© pog«cep
+CRED039	kpª kohhep 
+CRED040	ct«apt pocc
+CRED041	ah© aygo hehep
+CRED042	aah okep
+CRED043	aygo popammct
+CRED044	pamohg a¦ep
+CRED045	tect mehegep
+CRED046	kpª apathot
+CRED047	ah© kohtpoep ka¥ecta
+CRED048	he kopett
+CRED049	keh oh
+CRED050	kohtpo¨ ka¥ecta
+CRED051	geg eggoec
+CRED052	geg atcoh
+CRED053	ap kapk
+CRED054	pocc cappoy
+CRED055	gemc aah
+CRED056	he mek
+CRED057	aa texh¥ecko oggepk
+CRED058	opªh po
+CRED059	kpcth ¥amepc
+CRED060	pokctap h¨«-opk
+CRED061	cohte¨h© pog«cep
+CRED062	cªm xaycep
+CRED063	pog«cep
+CRED064	gªh xaycep
+CRED065	 e-peªgeht poªogcta
+CRED066	gem kh
+CRED067	egy§ texhoo¥eck pegctate¨
+CRED068	ap g. opmah
+CRED069	acccteht pog«cepa
+CRED070	gepem o
+CRED071	myª©ka¨h© kohtpo¨
+CRED072	tep gohoah
+CRED073	komahga paªpaot¥ko
+CRED074	tep gohoah
+CRED075	gehep ko
+CRED076	gehep poc
+CRED077	opa atepcoh
+CRED078	ge kactahega
+CRED079	gepohmo appepa
+CRED080	kap cetep
+CRED081	gyh kak
+CRED082	pa¬h yg
+CRED083	pehog ceahhe
+CRED084	p¥apg kp«ep
+CRED085	ªoha hocta¨ 80 kehta aya
+CRED086	c ehap gªha xaycepa
+CRED087	WWW.KENTPAUL.COM  WWW.VICECITY.COM
+CRED088	coªgate
+CRED089	mehegep© o kohtpo« ka¥ecta
+CRED090	kpª apathot
+CRED091	ah© ahatk
+CRED092	agam gegcoh
+CRED093	poo ahatk
+CRED094	p¥apg x¨«
+CRED095	komahga tectepo pokctap
+CRED096	ahc ¨¬mc
+CRED097	go ph
+CRED098	pa¬h ahhep
+CRED099	 kamhc
+CRED100	c«et
+CRED101	gemc opa
+CRED102	gªh xaycep
+CRED103	agam tegmah
+CRED104	o¨ ¬tc
+CRED105	gehep poc
+CRED106	opa atepcoh
+CRED107	©peªahh©e c eh©
+CRED108	c ehap gªha xaycepa  gemca opaa
+CRED109	aygo gpektop gªh xaycap  hag kohcap
+CRED110	poªogcto gem kh
+CRED111	cocta
+CRED112	tomm epcett - pª otta
+CRED113	keh poªehep - ¨¬h ¥thep
+CRED114	cohh ope - tom caªmop
+CRED115	ct ckot - gehc xoep
+CRED116	ªªp kaphtoh - apt peho¨gc
+CRED117	pkapgo gaª - yª aªmah
+CRED118	ahc ahc -  mak tomac
+CRED119	koohe ¬h kopteª - poept ga
+CRED120	ymepto poha - gehh tpeo
+CRED121	 kªccg - ap yce
+CRED122	mt¥ ekep -  maopc
+CRED123	mepcegec kopteª - apyªa ak
+CRED124	keht o¨ - gehh g¨ep
+CRED125	geªª topeht - keh makkg
+CRED126	kohtpoep takc - geopa xapp
+CRED127	kªhg cakc - gehha gemcoh
+CRED128	ge cmt - oypehc teop
+CRED129	yht oet - op keom xappc
+CRED130	octa§k - apmahgo pecko
+CRED131	kyyap - ah epp
+CRED132	xap - ¥ap¨ª takep
+CRED133	kohpeccmeh aekc ¦pa - kpc ykac
+CRED134	ctapk ke - gopg gcehªo
+CRED135	ªaxat geh
+CRED136	ahma ¬
+CRED137	og pykoogctom
+CRED138	poªegeho
+CRED139	ªacaho ha epcekt ctygoc, pykh
+CRED140	aktep© ªaxata geh¬
+CRED141	y¥acthk gaoo
+CRED142	c ehap
+CRED143	gpektop gªh xaycep, kpe kohhep, mapk ephahgeª,  aah okep
+CRED144	poªogcto pehog ceahh
+CRED145	y¥acthk
+CRED146	agam gegcoh,agam otkhc« aexahgpo k. payh, aekc ahtoh cokac, aekc apca,
+CRED147	ªc cat mah, ªcoh  xpa, ªm cama, ªm ca mah« ahgpea gea, ahtoh att,
+CRED148	ahtoh p¨epa, ¬h ¦amc, ah epp, pett coho, pe matta, pa¬h aheh,
+CRED149	pok ogep, kªp epth, ¥apª amept, kpc gat, kpc paªehepep,
+CRED150	kpctoep poga, kpctoep kappo, cht¬ ph, gamapac oec, gªh ,
+CRED151	gªh ¦hagep, gªh toama, geg gh ¥atg, m., geg xapcoh, gªg ,
+CRED152	gepa kohª, gepa ¥ah-ec, gemetpa kokoac, gehc pocago,
+CRED153	geh ehett, geh htepottom, gopc y, gyac xapccoh, gyhkah koytc,
+CRED154	g« a¬, egh aeahega, ªªaet xoe, ªªaet catepat, ªpk ha,
+CRED155	ªcteah kap«c, . oht, ytaa xa¬c, ehe xph, epa¨g kocpoy,
+CRED156	epapg yha, gah teh, pe kapy¥¥, peop kepokc, peop ¦aªep,
+CRED157	xeg tomk, g. poªet, gam¨ ea, gecoh gohc, ge poca, gehhep gemccoh,
+CRED158	gepem taept, geccka pagep, goªe ph, goªe xoe, kªt gyk¥,
+CRED159	ko o'h, keh xokhc, agah gemc, ahc ¨¬mc, opa ac,
+CRED160	opa atepcoh,  kammhc, et ¬ . ¬h, hcga kehheg, ca optª,
+CRED161	opha opgah, y¥o amahgo, mapko ephahgeª, mapko tahaka, mapoh mªt¨«c,
+CRED162	mªp teh, macako¦ m y¬ma, mat¨« ¥yh, makc octag, makc ogaho,
+CRED163	mecca a¨apeª, mak ma, mak potctah, me¨ ga, mak egepah,
+CRED164	hata¨¬ gecka¨ªo, ha memepc, hkoac mao, hoe¨ cagep, hopept mopah,
+CRED165	oca¨g ph, m., etep makke, etep ae¨, pectoh caapece, paae¨ ohªaec,
+CRED166	pahg gohcoh, pe koh e oh, p¥apg kpoep, po tac, poept gekcoh,
+CRED167	poept ¦yep, pocc a. makhtap, pacce opmah, pyt haheª, ca¨agop cyaªo,
+CRED168	cªm at, cahtoª ohªaec, ckot cmt, cemyp pamah, cemah paymah,
+CRED169	cteah teh, ct kheªe¥, ct poept, cmko ¬cyga, cycah «c,
+CRED170	c¬ koa oc, tomoko m¬ªak, tpoh, epge xae, aec mohgecp, ªeho ehegep,
+CRED171	gªg, eggoc, kpcth ¥amec, app kapk, he kopet, km yphe, he mak,
+CRED172	kªcc oep, oppahe po, geg atcoh, keh oh,  moptoh
+CRED175	agam gegcoh
+CRED176	ahc ¨¬mc
+CRED177	he makkep
+CRED178	opa atepcoh
+CRED179	pe koh e oh
+CRED180	¥apec xepo¨g
+CRED181	ahgp« pha¨g
+CRED182	gemc mak
+CRED183	etep cy o
+CRED184	aekc ogyo
+CRED185	goh kypmah
+CRED186	kehge ttmah
+CRED187	cª cyaªo
+CRED188	epk mateo
+CRED189	kpc gate
+CRED190	ea mtoh
+CRED191	gappeh ªotock
+CRED192	ph¬ cmt
+CRED193	keh kacch
+CRED194	gecoh ¦emop
+CRED195	ke khcea
+CRED196	mo ctkhe
+CRED197	ctahtoh cap¨eaht
+CRED198	opa a¦
+CRED199	mapk apohe
+CRED200	goahha ca
+CRED201	ªªaet xoe
+CRED202	aha xepkyec
+CRED203	¦p pk
+CRED204	ka¦oha gc
+CRED205	go m. ¨e
+CRED206	goh gehegetto
+CRED207	hehc ª
+CRED208	paah kpoy
+CRED209	gehep ko
+CRED210	am ypk
+CRED211	cpg pec
+CRED212	ahta t cmohc
+CRED213	a paªe
+CRED214	 keche
+CRED215	ako ypkept
+CRED216	capa ce
+CRED217	pago ctah   myª©ka
+CRED218	myª©ka¨ha¬ kohcy¨ta ¬
+CRED219	koopghatop myª©ka¨hoo copoogeh¬
+CRED220	tep gohoah
+CRED221	poªegeho g¬ pokctapc emc
+CRED222	geh xaycep  aªoy
+CRED223	 poªegeho g¬ pokctapc hopt
+CRED224	kpª kohhep 
+CRED225	aah okep
+CRED226	aªoy
+CRED227	DJ ahtep  pegctaehe
+CRED228	c ehap geha xaycepa  aªoy
+CRED229	moh¬ m
+CRED230	ce a¨h©e aogaphoct
+CRED231	tomm motoa,
+CRED232	m¦e¨ ªhtoh,
+CRED233	ct aphet,
+CRED234	¥ak ekehctah,
+CRED235	pta epatop
+CRED236	mapth  kªp oah
+CRED237	cahgpa xattoh
+CRED238	kpcth gegcoh
+CRED239	aah, peg  yt
+CRED240	 t
+CRED241	koh goha¨g
+CRED242	kepp ctayg
+CRED243	aah makpeop
+CRED244	kpc moptoh
+CRED245	ªm¨ ycce
+CRED246	em a
+CRED247	keh ap¥a¨g
+CRED248	mopah kepp
+CRED249	kªtx okep
+CRED250	co ap
+CRED251	ateph¬
+CRED252	kae hoocte
+CRED253	pacxog© ha geo
+CRED254	ckytep opha
+CRED255	apet myph
+CRED256	goohte¨h© tpyg
+CRED257	toh optep
+CRED258	kpe myp
+CRED259	chxpohªa ¬ c eh
+CRED260	kocpoy xo mc
+CRED261	pog«cep - oeh axet¥et
+CRED262	ctap¦ ahmatop - goh typhep
+CRED263	ahmatop©  - p¥apg gpamm
+CRED264	ge payh
+CRED265	map tomac
+CRED266	pa¦aht ate
+CRED267	aygo kohcy¨taht
+CRED268	pk ege g¬ emcoyhg tg.
+CRED269	oggepka gtc
+CRED270	teg aept g¬ gtc
+CRED271	kpc peep g¬ gtc
+CRED272	gecoh eg g¬ c ee
+CRED273	ccegoah¬  ahaª
+CRED274	pok
+CRED275	DJ: aªoy  po camoo ce¬
+CRED276	ooca opaªo-go ke
+CRED277	poªogcto opaªo-gohotah xahct
+CRED278	oha 103
+CRED279	DJ: agam ep©-gem kehg
+CRED280	ooca opaªo-geh ch
+CRED281	poªogcto opaªo-gohotah xahct
+CRED282	apa 105
+CRED283	DJ: oep 'y a gam' ckt-gyyc gacoh
+CRED284	ooca myckx opaªo-eg makmahh
+CRED285	ooca ehckx opaªo-¦ah cmt
+CRED286	poªogcto opaªo- cteh kt¥eh
+CRED287	ªmo  98.3
+CRED288	DJ: ephahgo- pªhk ¥aeª
+CRED289	ooca opaªo-geh ch
+CRED290	poªogcto opaªo-gohotah xahct
+CRED291	pago ªcahtoªa
+CRED292	DJ: ee-toh ¥pogc
+CRED293	gk ct¨
+CRED294	DJ: mctep magk  po camoo ce¬
+CRED295	ooca opaªo-pehk c¨ectpo
+CRED296	poªogcto opaªo-aªoy
+CRED297	k¥at
+CRED298	c ehap geha xaycepa  aªoy
+CRED299	poªegeho  otpegaktpoaho aªoy
+CRED300	DJ ªm ¦ekehxyªeh -ha eep
+CRED301	gec topeht-keh makkg
+CRED302	mªhg -koh kopett
+CRED303	m¦e¨ kapaagc-map epgcoh
+CRED304	mp.ªoo-kap goyh
+CRED305	etcemah-hh toh 
+CRED306	kog maho-goh maykep
+CRED307	-ge cmt-opehc teop
+CRED308	top-pahk aa
+CRED309	ªoh¬§e ha pago
+CRED310	kyªh ªg, go¦ kapk, gecoh ypmectep, xyah aep, eh oep, c¨«ªah ¨«c, ah teh, tom myppe, mak eppahte ct., ªmmahyª¨ o¨g¦teh, gah xaycep, hk mahgeoc, epp kocpo, mak aepmo, opk¥o, ket poagac
+CRED311	¨«c, ah teh, tom myppe, mak eppahte ct., ªmmahyª¨ o¨g¦teh
+CRED312	gah xaycep, hk mahgeoc, epp kocpo, mak aepmo, opk¥o,
+CRED313	ket poagac
+CRED314	VCPR
+CRED315	c ehap geha xaycepa  aªoy
+CRED316	pog«cep aªoy
+CRED317	mopc ¥aec- ªhtoh pogpec
+CRED318	gohatah poygep- atpk oceh
+CRED319	m¦e¨ mohtahyc-ke ect
+CRED320	aeht aekc ¦pa- kpc ykac
+CRED321	kaym kpe¦o- ¦oh mogka
+CRED322	goh . xkop- ª-ge ahceh
+CRED323	pactop p¥apgª- gªc ph
+CRED324	¬h payh- moph cmah
+CRED325	app ctapk- pehag ceeh
+CRED326	gehh yc kpa- mªp epgcoh
+CRED327	kohctahthoc cmt- kohctahthoc.kom
+CRED328	gepem poapg-tep c¨ectpo
+CRED329	pagopekama
+CRED330	c ehap geha xaycepa  aªoy
+CRED331	pog«cep aªoy
+CRED332	atop goohte¨h©x gho kpe kohhep
+CRED333	ooca  pekame:
+CRED334	agam gªgcoh, aekc ªhtoh, ªc catªmah, am cama, ket gyk¥,
+CRED335	apah pohk, ap gohc, eh kpe¥, paah tomac, pok ogep, kpc
+CRED336	eppahte, kpe kohhep, ge pah, gªg ph, gopc y, gyac
+CRED337	xappcoh, ªg makmahh, pahk ¥aec, pahk aa, eh xph, pe
+CRED338	¦eªep, xahtep ath, gemc eppahte, ge eph, ge poªa, go ke,
+CRED339	goh mokep, go¦ kapk, gy¬ emcc, keh ctpe, km yphe, ahc
+CRED340	¨¬mc, aypa atepcoh, aªoy, ªa otª, opha gopgah, «c¨eh gohc,
+CRED341	moph cmah, mak eppahte m., t acth, tep c¨ectpo, pa
+CRED342	kpoa, pªhg gohcoh, p¥apg kp«ep, poh p, ¦e mep, cka, t-ge aapg
+CRED344	hk, tpek 9 ctygo, hk,
+CRED345	egghtoh my¨tmega, oc-ahgeec,
+CRED346	caco akce« ªpkcohy  oh  ª ggta aptc, o« ackeªy ª tpek 9 ctygo, gohy oyehy  gohy xaccepy ª chk cayhg
+CRED347	mapk og
+CRED348	tm etc
+CRED349	kt payh
+CRED350	ªhg mecoh
+CRED351	 gh
+CRED352	 aekcahgep
+CRED353	mªtt x¨«tt
+CRED354	geh pec
+CRED355	ªhtoh kapo
+CRED356	gohatah ctoyhª
+CRED357	mak ªkeph
+CRED358	tm maka
+CRED359	 gohcoh
+CRED360	xehgpk eccep
+CRED361	ackya¨ ctak¥ott
+CRED362	ªhpke ephahgeª
+CRED363	o¨ epc
+CRED364	mak ªhem
+CRED365	po gahkh
+CRED366	¥ap kho¥
+CRED367	keh xocoh
+CRED368	gm kp
+CRED369	goh makkapg
+CRED370	gªg mypgok
+CRED371	kpc payh
+CRED372	o¨ ph
+CRED373	ka mh
+CRED374	keh «h
+CRED375	ªpk koc
+CRED376	pªhg ek
+CRED377	pªhgoh m
+CRED378	pahgoh eho
+CRED379	mak maho
+CRED380	aete¬ cmohcoh
+CRED381	goh gehceh
+CRIMRA	kpmha. peth:
+CR_1	kpah he oghmet ªty ma¦hy.
+CTUTOR	hamte ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~ g¬ k«¥eh¬  ©k«¥eh¬ mcc gahte.
+CTUTOR2	hamte ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~ g¬ k«¥eh¬  ©k«¥eh¬ mcc gahte.
+CUB2_10	~r~am heoxogmo yt¨ at¬h, a he kyh e.
+CUBAN	kyhck epmec
+CUBAN1	kyhcka¬ mcc¬ 1
+CUBAN2	kyhcka¬ mcc¬ 2
+CUBAN3	kyhcka¬ mcc¬ 3
+CUBAN4	kyhcka¬ mcc¬ 4
+CUBANM	mcc kyhcko ahg©
+CUBJET	kyhck Jetmax
+CUB_1	tp«k ha ogke
+CUB_2	y¦e¥hoe m¬co
+CUB_3	mopcka¬ cxatka
+CUB_4	tpo¬hck ¦amah
+CUNTY	hoa¬ ogega goctaeha  omect¨e epcett!
+CVT_ERR	y ac hegoctato¥ho mecta ha gcke. ocoogte mecto ha ectkom gcke epeg pogoehem. hamte ESC g¬ otmeh©.
+CVT_MSG	peopaªoahe tekctyp  otma¨h© opmat g¬ geokapt©
+C_ESCP	~r~ogoªpeaem© ckp©c¬!
+C_FAIL	kohe  mcc gahte!
+C_KILLS	yto pectyhko: ~1~
+C_VIGIL	ohyc gahte!!
+DAMAGE	ma¦ha
+DAYPLC	eegheh©e pacxog© o 
+DAYSPS	ghe ªa po
+DBINST	goho eªymh© tp«k
+DBPINS	gea¨h© goho eªymh© tp«k
+DEAD	kohe !
+DEC	gek
+DED_CRI	pkoh¥eho ahgto
+DEFDT	--:---:---- --:--:--
+DELUXO	ge«kco
+DESPERA	gecepago
+DINGHY	¬k
+DIRTRNG	pyhtoka
+DISTBIK	pogeho ha moto ke (m¨)
+DISTBIM	pogeho ha moto ke (m)
+DISTBOA	pogeho ha ogke (m¨)
+DISTBOM	pogeho ha ogke (m)
+DISTGOL	pogeho ha o¨-kapte (m¨)
+DISTGOM	pogeho ha o¨-kapte (m)
+DISTHEL	gha epeeto ha eptoete (m¨)
+DISTHEM	gha epeeto ha eptoete (m)
+DOCKS	acopt
+DODO	gogo
+DODO_FT	© poete ~1~ cekyhg!
+DTOWN	 ehtp
+ENFORCR	hopcep
+ESPERAN	ªcepahto
+EXIT_1	hamte ~h~~k~~PED_SPRINT~ ~w~g¬ ©xoga.
+FAGGIO	ao
+FBICAR	p a¦htoh
+FBIRANC	p pah¥ep
+FEA_2SP	2 ghamka
+FEA_3DH	ªyk. oopygo.
+FEA_4SP	oee 2 ghamko
+FEA_ADP	atoopegeehe
+FEA_CHA	cmeha ©xoghoo chaa ha ctepeo. ogogte...
+FEA_CHD	hmahe! © epexogte ot ctepeo k gtc. oaycta, ogogte...
+FEA_CTD	hmahe! ªta yhk ¬ tpeyet comectmoo c gtc oopygoah¬. pogoat¨?
+FEA_DSM	hmahe! ªta coxpahehha¬ pa co¨ªyet gtc. g¬ ªtoo tpeyetc¬ comectmoe c gtc oopygoahe. oaycta, ©epte, xotte  © co¨ªoat¨ gtc  ctepeo.
+FEA_DTS	gtc
+FEA_EAR	hay¦hk
+FEA_FM0	gk ct¨
+FEA_FM1	moh¬ m
+FEA_FM2	k¥at
+FEA_FM3	apa 105
+FEA_FM4	pok
+FEA_FM5	VCPR
+FEA_FM6	ªcahtoco
+FEA_FM7	ªmo  98.3
+FEA_FM8	oha 103
+FEA_MP3	pop. mp3
+FEA_MPB	og¨em pomkoct mp3
+FEA_MUS	pomk. myª©k
+FEA_NAH	het ªyk. oopygo.
+FEA_NM3	he hageho ao mp3
+FEA_NON	pago ©k.
+FEA_OUT	©xog
+FEA_RSS	pagoctah ¬
+FEA_SFX	pomk. ªekto
+FEA_SPK	kohypa ¬ ghamko
+FEA_ST	ctepeo
+FEB	e
+FEC_ABR	aª, topmoª  ªagh xog
+FEC_ACC	aª
+FEC_ACL	ega¨ aªa
+FEC_ANS	gecte
+FEC_ATT	ataka  ooh¨ ª opy¬
+FEC_BAC	haªag
+FEC_BRA	topmoª  haªag
+FEC_BRK	topmoª ma¦h©
+FEC_BSP	BSPACE
+FEC_CAM	pem© kamep©
+FEC_CAW	opye ma¦h©
+FEC_CCF	kohypa ¬
+FEC_CCM	 ehtppoat¨ kamepy ªa pokom.
+FEC_CDP	opah ypaeh¬
+FEC_CEN	 ehtp. kamep©
+FEC_CF1	apaht 1
+FEC_CF2	apaht 2
+FEC_CF3	apaht 3
+FEC_CF4	apaht 4
+FEC_CLE	pokpytka opy¬ eo
+FEC_CLK	CAPSLOCK
+FEC_CMM	o©¥hoe ypaehe
+FEC_CMP	kom.: ª¬g +
+FEC_CMR	cmeha kamep©
+FEC_CMS	cmeha pema kamep© g¬ cex ctya .
+FEC_CR3	pcect¨ (khoka 3)
+FEC_CRD	cmeha pagoctah 
+FEC_CRI	pokpytka opy¬ pao
+FEC_CRO	pcect¨
+FEC_CSU	hactpoka ypaeh¬
+FEC_CWL	pokpytka opy¬ eo
+FEC_CWR	pokpytka opy¬ pao
+FEC_DBG	meh« otagk
+FEC_DLF	o¦ka ygaeh¬.
+FEC_DLL	DEL
+FEC_DOT	NUM .
+FEC_DWA	hª
+FEC_EEX	xog+©xog
+FEC_END	END
+FEC_ENT	xog/©xog ª ma¦h©
+FEC_ENV	xog  ma¦hy
+FEC_ERI	o¦ka! ogho  oee gect he p¬ªaho h k ogho ª ka¦  khook. oaycta, poep¨te ce gect¬
+FEC_ETR	ENT
+FEC_EXV	xog  ©xog ª ma¦h©
+FEC_FIR	ooh¨
+FEC_FNC	F~1~
+FEC_FOR	epeg
+FEC_FPC	kamepa ot epoo  a
+FEC_FPO	opye ot 1-o  a
+FEC_FPR	ypaehe g¬ epoo  a
+FEC_FWS	NUM /
+FEC_HAB	py¥hk
+FEC_HBR	py¥ho topmoª ma¦h©
+FEC_HME	HOME
+FEC_HND	py¥hk
+FEC_HO3	cha (khoka 3)
+FEC_HOR	cha
+FEC_HRN	cha
+FEC_IBT	-
+FEC_ILU	hept. ª¬g ot 1-o  a
+FEC_INC	 ma¦he
+FEC_IRT	INS
+FEC_IVH	hept. m©¦¨ opªohta¨ho:
+FEC_IVV	hept. m©¦¨ eptka¨ho
+FEC_JBO	go. ~1~
+FEC_JMP	p©ok
+FEC_JOY	goctk
+FEC_JUM	p©ok
+FEC_LAL	ALT
+FEC_LB	ª¬g haªag
+FEC_LB1	ª¬g
+FEC_LB2	haªag
+FEC_LB3	ª¬g haªag
+FEC_LB4	ª¬g haªag (khoka 3)
+FEC_LBA	ª¬g haªag
+FEC_LBC	ª¬g eo  ª¬g pao mecte
+FEC_LBH	ª¬g haªag
+FEC_LCT	CTRL
+FEC_LDN	1-oe  o ª¬g hª
+FEC_LDU	ª¬g hª
+FEC_LEF	eo
+FEC_LFA	eo
+FEC_LKL	epoe  o ª¬g eo
+FEC_LKT	kca ¬  e
+FEC_LL	ª¬g eo
+FEC_LLF	ª¬g ª ma¦h© eo
+FEC_LOF	ª¬g epeg
+FEC_LOL	ª¬g eo
+FEC_LOR	ª¬g pao
+FEC_LR	ª¬g pao
+FEC_LRG	ª¬g pao ª ma¦h©
+FEC_LRT	epoe  o ª¬g pao
+FEC_LSF	SHIFT
+FEC_LUD	ª¬g epx
+FEC_LUN	yce¦ho ªapyeho. a opegeh, ygate.
+FEC_LUP	1-oe  o, ª¬g epx
+FEC_LWD	WIN
+FEC_MIN	NUM -
+FEC_MOU	hactpok m©¦
+FEC_MOV	gehe
+FEC_MSH	¥yctte¨hoct¨ m©¦
+FEC_MSL	LMB
+FEC_MSM	MMB
+FEC_MSR	RMB
+FEC_MWB	koecko hª
+FEC_MWF	koecko epx
+FEC_MXO	MXB1
+FEC_MXT	MXB2
+FEC_NA	hg
+FEC_NLK	NUMLOCK
+FEC_NMN	NUM~1~
+FEC_NTR	cegy«§a¬  e¨
+FEC_NUM	NUM
+FEC_NUS	he co¨ª.
+FEC_NWE	ceg. opye
+FEC_OJS	ha gecte paªpe¦eha ¦¨ ogha khoka goctka
+FEC_OKK	ok.
+FEC_OMS	paªpe¦eha ¦¨ ogha khoka m©¦
+FEC_ONF	e¦kom
+FEC_ORR	
+FEC_PAD	ahe¨
+FEC_PAS	ayªa
+FEC_PAU	ayªa
+FEC_PED	ypaehe e¦kom
+FEC_PFR	©ctpet¨
+FEC_PGD	PGDN
+FEC_PGU	PGUP
+FEC_PJP	p©ok
+FEC_PLB	ª¬g haªag.
+FEC_PLS	NUM +
+FEC_PSB	topmoª
+FEC_PSH	e¦ ©ctpe
+FEC_PSP	e¦ p©ok
+FEC_PTL	ªaxat  e mecte c pokpytka opye eo.
+FEC_PTR	ªaxat  e mecte c pokpytka opye pao.
+FEC_PTT	peg©gy§a¬  e¨
+FEC_PWE	peg©gy§ee opye
+FEC_PWF	gt epeg
+FEC_PWL	gt eo
+FEC_PWR	gt pao
+FEC_PWT	gt k kamepe
+FEC_QUE	???
+FEC_R3	(khoka 3)
+FEC_RAD	pago
+FEC_RAL	ALT
+FEC_RCT	CTRL
+FEC_RED	ªmeht¨ ypaehe
+FEC_RFA	pao
+FEC_RIG	pao
+FEC_RS3	pokpytka pagoctah  (khoka 3)
+FEC_RSC	pagoctah 
+FEC_RSF	SHIFT
+FEC_RTN	RET
+FEC_RUN	e
+FEC_RWD	WIN
+FEC_SFT	SHIFT
+FEC_SLK	SCROLL LOCK
+FEC_SM3	mh-mcc¬ (khoka 3)
+FEC_SMS	geh ykaªate¨ m©¦
+FEC_SMT	mh-mcc¬
+FEC_SPC	p
+FEC_SPN	p©ok
+FEC_STR	NUM STAR
+FEC_SUB	mh-mcc¬
+FEC_SVU	yce¦ho coxpaheho.
+FEC_SZI	otka - pehe
+FEC_SZO	otka - otgaehe
+FEC_TAB	TAB
+FEC_TAR	 e¨
+FEC_TDO	©k«¥t¨ kamepy otagk
+FEC_TFD	type¨ + hakoht¨c¬
+FEC_TFL	ª¬g eo+type¨ 
+FEC_TFR	ª¬g pao+type¨ 
+FEC_TFU	type¨ + epx
+FEC_TGD	epek«¥. ahe¨/otagka
+FEC_TLF	cegy«§a¬  e¨ eo
+FEC_TRG	cegy«§a¬  e¨ pao
+FEC_TSM	epek. mh-mcc
+FEC_TSS	ªaxat ªkpaha
+FEC_TUC	ypaehe type¨«
+FEC_TWO	paªpe¦eh© ¦¨ ge ka¦
+FEC_UJS	to¨ko ¦¨ ogha khoka goctka.
+FEC_UMS	to¨ko ¦¨ ogha khoka m©¦.
+FEC_UNB	coogh©
+FEC_UPA	epx
+FEC_VEH	ypaehe  ma¦he
+FEC_VES	ypaehe ma¦ho
+FEC_VIB	pa ¬
+FEC_WAR	pegypeg.
+FEC_WPN	©ctpet¨
+FEC_WRC	WINCLICK
+FEC_ZIN	ye¥t¨
+FEC_ZOT	ymeh¨¦t¨
+FEDL_WR	ygaehe coxpahehho p©. ogogte...
+FEDS_TB	haªag
+FED_BRI	¬pkoct¨
+FED_DBG	otagka meh«
+FED_DFL	CTheScripts::DbgFlag
+FED_DLS	k«¥eh o¨¦o e© cet
+FED_DSR	oto¥h©e ªapoc© otagk
+FED_HUD	htepec
+FED_PAH	ahaª
+FED_POS	paªpe¦ehe ªkpaha
+FED_RDB	to¨ko metk 
+FED_RDM	kapta  metk
+FED_RDR	pem pagapa
+FED_RES	paªpe¦ehe ªkpaha
+FED_RID	epeªap. IDE
+FED_RIP	epeªap. IPL
+FED_SCP	gbShowCollisionPolys
+FED_SCR	Show Car Road Grups
+FED_SCZ	okaª. hect. ªoh©
+FED_SPR	okaª. py© tpotyapo
+FED_SUB	cyttp©
+FED_TRA	gopok
+FED_WIS	¦pok ªkpah
+FEH_AUD	aygo
+FEH_BRI	peª«me
+FEH_CON	ypaehe
+FEH_DIS	gce
+FEH_LAN	¬ª©k
+FEH_LOA	ªapyªka
+FEH_MAP	kapta
+FEH_MPH	m©¦¨, kypcop - gehe; PGUP, PGDN, koecko - mac¦ta, L - eehga
+FEH_NA	o ¬ hegoctyha
+FEH_SGA	ha¥ao hoo p©
+FEH_SSA	kypcop - gehe; S - coxpaht¨  a
+FEH_STA	ctatct.
+FEH_VMP	oªop kapt©
+FEI_BAC	haªag
+FEI_BTD	; = > < -
+FEI_BTR	> < -
+FEI_BTT	" khoka -
+FEI_BTU	; = -
+FEI_BTX	/ khoka -
+FEI_HOL	ygep.
+FEI_NA	h\g
+FEI_NAV	haa ¬
+FEI_R1B	khoka 1 \ 2 -
+FEI_RES	pogot¨
+FEI_SCR	pokpytka
+FEI_SEL	©op
+FEI_STA	khoka ctapt -
+FEI_STO	cto
+FEI_ZOO	mac¦ta
+FELD_WR	ªapyªka p©. ogogte...
+FEL_ENG	ahck
+FEL_FRE	pah yª.
+FEL_GER	heme k
+FEL_ITA	ta¨¬hck
+FEL_SPA	cahck
+FEM_FRM	mt kagpo
+FEM_LOD	gctah ¬
+FEM_MM	. meh«
+FEM_NO	het
+FEM_OFF	©k
+FEM_OK	ok
+FEM_ON	k
+FEM_RET	otop
+FEM_SL1	coxpaheh¬ 1 he meetc¬
+FEM_SL2	coxpaheh¬ 2 he meetc¬
+FEM_SL3	coxpaheh¬ 3 he meetc¬
+FEM_SL4	coxpaheh¬ 4 he meetc¬
+FEM_SL5	coxpaheh¬ 5 he meetc¬
+FEM_SL6	coxpaheh¬ 6 he meetc¬
+FEM_SL7	coxpaheh¬ 7 he meetc¬
+FEM_SL8	coxpaheh¬ 8 he meetc¬
+FEM_STE	ctepeo
+FEM_VSC	chx. kagpo
+FEM_YES	ga
+FEN_STA	ctapt p©
+FEO_AUD	hactpoka ªyka
+FEO_CON	hactpoka ypaeh¬
+FEO_DIS	hactpoka ªkpaha
+FEO_LAN	©op ¬ª©ka
+FEO_PLA	hactpok poka
+FEP_BRI	peª«me
+FEP_OPT	o 
+FEP_QUI	©xog ª p©
+FEP_RES	pogot¨
+FEP_STA	ctatct.
+FEP_STG	ctapt p©
+FEQ_SRE	© yepeh©, ¥to xotte ©t? ec¨ poo po ecc c ocegheo coxpaheh¬ yget ytep¬h. ga?
+FEQ_SRW	© yepeh©, ¥to xotte ©t ª p©?
+FESTDCM	poexaho ha ma¦he (m)
+FESTDFM	pogeho e¦kom (m)
+FEST_BB	cxatka h-h:
+FEST_CC	yto pectyhko  mcc gahte
+FEST_DC	poexaho ha ma¦he (m¨)
+FEST_DF	pogeho e¦kom (m¨)
+FEST_FE	ceo oty¦eho oapo
+FEST_GC	paªto ma¦h ahgto:
+FEST_H0	o¨¦hcto otmetok
+FEST_H1	yh¥toehe gao
+FEST_H2	peªh¬ ma
+FEST_H3	oheh¬  kaªho
+FEST_H4	texomo§¨
+FEST_HA	ha©c¦ ypoeh¨ mcc e¨g¦epa
+FEST_HV	ha©c¦ ypoeh¨ mcc gahte
+FEST_LS	caceho «ge  ckopo omo§
+FEST_MP	pogeho mcc
+FEST_OO	ª
+FEST_RP	c©¦ek ¬poct
+FESZ_CA	otmeha
+FESZ_LS	yce¦ho ªapyeho.
+FESZ_QC	pogot¨, epeªac©a¬ ªto cop¥ehhoe coxpahehe?
+FESZ_QD	pogot¨, yga¬¬ ªty coxpahehhy« py?
+FESZ_QL	ec¨ teky§ he coxpahehh© poo po ecc yget otep¬h. pogot¨ ªapyªky?
+FESZ_QO	pogot¨, epeªac©a¬ ªto coxpahehe?
+FESZ_QR	© to¥ho xotte ha¥at¨ hoy« py? ce he coxpahehh©e gahh©e ygyt otep¬h©. ga?
+FESZ_QZ	© yepeh©, ¥to xotte coxpaht¨ ªty py?
+FESZ_WR	coxpahehe teky§ p©. ogogte...
+FES_CAN	otmeha
+FES_CHE	hmahe! © aktpoah ogh  oee ¥to. ªto moet o¬t¨ ha coxpahehhy« py. pekomehgyetc¬ he coxpah¬t¨ ªty py.
+FES_CMI	ocegh¬¬ pogehha¬
+FES_CMP	he coxpaheho! opoyte e§e.
+FES_CSA	©epte ckh ª ccka chªy:
+FES_DAT	gata
+FES_DEE	o¦ka ygaeh¬! opoyte e§e.
+FES_DEL	ygat¨ py
+FES_DSC	yce¦ho ygaeho. ©epte ok g¬ pogoeh¬.
+FES_FMS	yce¦ho otopmatpoaho. ok - pogot¨.
+FES_LCG	ªapyªt¨ py  pogot¨ pat¨?
+FES_LOA	ªapyªt¨
+FES_NGA	ho. pa
+FES_SCG	coxpaht¨ teky§y« py?
+FES_SET	c. ckh
+FES_SKN	haª. ckha
+FES_SSC	yce¦ho coxpaheho. ok - pogot¨.
+FET_APP	pmeht¨
+FET_CAC	gecte
+FET_CCR	 ma¦he
+FET_CFT	e¦kom
+FET_CIG	BACKSPACE - o¥ctka; km, RETURN - ªmehehe
+FET_CTI	kacc¥. ypaehe
+FET_CTL	hactpoka ypaeh¬
+FET_DAM	gham. akyct¥ecke moge
+FET_DEF	ephyt¨ o ymo¥ah«
+FET_DSN	Default Player Skin.bmp
+FET_EIG	g¬ ªtoo he¨ª¬ opeget¨ ypaehe
+FET_HRD	choa hactpok o ymo¥ah«
+FET_LG	ªapyªt¨
+FET_MIG	eo, pao, koecko g¬ hactpok
+FET_MST	pyeoe ypaehe m©¦¨«
+FET_OPT	o 
+FET_PAU	meh« ayª©
+FET_PS	hactpoka ckho
+FET_QG	©xog ª p©
+FET_RIG	©epte hooe ypaehe g¬ gect¬
+FET_RSC	het oopygoah¬ - oªpa§eh© ha¥a¨h©e hactpok
+FET_RSO	choa ha¥a¨h©e hactpok
+FET_SG	coxpaht¨
+FET_STI	ctahgapt. ypaehe
+FET_STS	ctatctka: 'STATS.HTML' + 'STATS.TXT'
+FE_MLG	eehga kapt©
+FINKILL	tak, aph, yt¨ eo!
+FIN_1	gepte gpyªe p¬gom...
+FIN_10	cohh? cohh! ¬ gy ªa too!
+FIN_11A	t© ªapa y meh¬ ¬thag at¨ et, cohh...
+FIN_11B	a teep¨ p¦e ¥ac pacat©!
+FIN_12A	t© tak h¥eo  he ohmae¦¨, a?!
+FIN_12B	t© mo, tomm.
+FIN_12C	te ¬thag at¨ et phagea mhe!
+FIN_13	epte eo, pe¬ta, oh cega tyo coopaa.
+FIN_1A	g c«ga, t©, epoomh© kycok gep¨ma!
+FIN_1B	teep¨ tee kohe , ataky«§  chy ypog!
+FIN_1C	ªto ocegh tahe  g¬ ahca ahca!
+FIN_2B	ªto t© tak gymae¦¨!
+FIN_2C	¬ ckaªa, ¥to mhe  ¦koe ªtoo xato!
+FIN_3	hekomy pkp©t¨ to« ªagh y, ga, tomm?
+FIN_4	teep¨ t© ctop¬, tomm, ctop¬
+FIN_5	he ty t© ctopohy ©pa, ahc...
+FIN_6	cohh ce¥ac y cea c mom geh¨am...
+FIN_B6	y ac hegoctato¥ho gehe g¬ ha¥aa ªto mcc.
+FIRELVL	oapha¬ mcc¬ ypoeh¨ ~1~
+FIRETRK	oapha¬
+FIRE_M	'oaphk'
+FIRST	~b~1©
+FLATBED	eªoptoo
+FOURTH	~b~4©
+FREEWAY	atoctpaga
+FST_LFR	hamehee «ma¬ pagoctah ¬
+FST_MFR	cama¬ «ma¬ pagoctah ¬
+FTUTOR	hamte ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~ g¬ k«¥eh¬  ©k«¥eh¬ mcc oaphka.
+FTUTOR2	hamte ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~ g¬ k«¥eh¬  ©k«¥eh¬ mcc oaphka.
+GANGBUR	ahga yppto
+GA_1	oo! he kacac¬ e§e go takoo op¬¥eo!
+GA_10	heoxo. ot to $~1~
+GA_11	y heo ye ect¨ ªt koeca. ªt emy he hyh©!
+GA_12	oma k.
+GA_13	poeccoha¨ha¬ goctaka. pogte ec¨ ccok,  ac ogaet ohyc.
+GA_14	ce ma¦h©. heoxo! a ot e§e koe-¥to.
+GA_15	hage«c¨, ho©  et ohpac¬.
+GA_16	epekpacka  goaky.
+GA_19	hac he htepecyet gahha¬ moge¨.
+GA_1A	oªpa§atec¨, koga yget pem¬...
+GA_2	ho© gate¨  okpacka. o ecke he yªha«t ac!
+GA_20	y hac ªtx ye o¨¦e, ¥em hago. poct, p¬te¨, he ©get.
+GA_21	o¨¦e  ªtom apae ma¦h he omectt¨c¬.
+GA_3	xa¬a ªakoh¥ac¨. $100 ªa okpacky!
+GA_4	om© g¬ ato, kaga¬ $500
+GA_5	a¦a ma¦ha ye ocha§eha omo.
+GA_6	papkyte, k«¥te, hama¬ ~h~~k~~PED_FIREWEAPON~ ~w~ yhocte ottyga ho!
+GA_6B	papkyte, k«¥te, hama¬ ~h~~k~~PED_FIREWEAPON~ ~w~ yhocte ottyga ho!
+GA_7	k«¥te p omo§ ~h~~k~~PED_FIREWEAPON~ ~w~. oma cpaotaet oce ªaycka gate¬.
+GA_7B	k«¥te p omo§ ~h~~k~~PED_FIREWEAPON~ ~w~. oma cpaotaet oce ªaycka gate¬.
+GA_8	g¬ akta  om© co¨ªyte getohatop.
+GEN3_13	ga ¥to c too, p¬te¨?! ªapac¬ ha kp©¦y c ©xogom o gop, oka oh he o¬c¨!
+GEN3_17	gep¨mo! ©tae¦¨c¬ yt¨ meh¬?!
+GEN3_21	~g~y heo geh¨ gaªa! gooh eo  eph x opatho!
+GEN3_24	~r~gaª mept! © he cmo ªa§tt¨ eo!
+GEN3_26	~r~© y gaªa!
+GEN3_27	~r~© y teoxpahtee gaªa!
+GEN3_31	~g~teep¨ heoxogmo ha«gat¨ ªa gaªom.
+GEN3_32	~g~hagte mecto c xopo¦m oªopom ha kp©¦e ªgah¬, kotopoe hapot ahca.
+GEN3_4	tomm epcett. epeg...
+GENERAL	mcc okohka
+GLENDAL	ehge
+GMSAVE	coxpaht¨
+GNG_WST	pkoh¥eho ahgto
+GOAWAY1	~g~oªpa§atec¨, koga ªakoh¥te mcc at¬hcko ahg©.
+GOAWAY2	~g~oªpa§atec¨, koga ªakoh¥te mcc akepcko ahg©.
+GOLFC	cto©e c¬ª
+GOODBOY	$50 ohyc xopo¦. pagahh!
+GREENWO	ªeeh© ec
+GREET	petct¬ ot...
+GRENADE	pahat©
+GUN_H1	hamte~h~ ~k~~PED_SPRINT~ ~w~g¬ okyk. hamte~h~ ~k~~VEHICLE_ENTER_EXIT~ ~w~g¬ ©xoga.
+G_COST	 eha: $~1~
+HAIT	mcc at¬hcko ahg©
+HAIT1	at¬hcka¬ mcc¬ 1
+HAIT2	at¬hcka¬ mcc¬ 2
+HAIT3	at¬hcka¬ mcc¬ 3
+HAITI	maoe at
+HAM1_5	o¨¦e he hyho
+HAM3_6	~g~co¨ªyte octaehhy« mho« chaepcky« htoky.
+HAMMER	moot
+HAT_1	ohk tay
+HAT_2	om© po¥¨!
+HAT_3	p¬ªhoe ªahe
+HAVANA	maa¬ aaha
+HEAL_A	a¦e ~h~ªgopo¨e~w~ ©geeho opahe©m  etom  epxhem paom yy ªkpaha.
+HEAL_B	koga ac ~h~'pkoh¥'~w~ © oªpa§aetec¨ k a¦e o¨h e.
+HEAL_C	© otep¬ete ce coe opye, a goktopa ªaepyt hekotopoe ko¥ecto a¦x gehe.
+HEAL_E	© ygete haxogt¨ apaht© e¥eh¬  camoªa§t© o mepe poxogeh¬ p©.
+HELI	eptoet
+HELIODD	ppaotok ha eptoete
+HELI_1	otmetka eptoeta   ehtpe
+HELI_1A	poep¨te co ha©k c opo¨em, ygte, kak ©ctpo cmoete pot ªty tpaccy.
+HELI_1B	tpacca pogeha! $ ~1~
+HELI_2	eptoetha¬ otmetka oy¦h-¥
+HELI_3	eptoetha¬ otmetka ac-oht
+HELI_4	eptoetha¬ otmetka maoe at
+HELI_F1	~r~eptoetha¬ mcc¬ otmeheha!
+HELP1	octahotec¨   ehtpe ~q~poªooo mapkepa.
+HELP10	ªtot etoh okaª©aet, ¥to ac paª©ckaet o ¬.
+HELP11	¥em o¨¦e etoho, tem c¨hee ac paª©cka«t.
+HELP12	gte k  ehtpy ~q~poªoo otmetk~w~ g¬ ªaycka mcc.
+HELP13	hoga am moyt ohagot¨c¬ he okaªahh©e ha pagape yt.
+HELP14	¥to© hat oc agokata, cegyte ªa ~h~ma«§m ~w~ ha pagape
+HELP15	epega¬c¨ e¦kom, hamte ~h~~k~~PED_LOOKBEHIND~ ~w~¥to© ~h~o¬hyt¨c¬~w~.
+HELP16	pogte ¥epeª epegh«« gep¨ octh © ~h~okeahck g~w~ ¥to© ot  ªgahe.
+HELP19	gte k ~q~poªoo otmetke ~w~g¬ pogoeh¬.
+HELP21	hamte ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~¥to© ot  ©t ª ma¦h©.
+HELP22	gatec¨ k ªeehomy gomy ha pagape.
+HELP24	teep¨ moete oy¥at¨ paoty y okohka.
+HELP25	teep¨ moete oy¥at¨ paoty y aep kapphtoh.
+HELP26	hamte ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~¥to© ot  ©t ª ma¦h©.
+HELP27	hamte ~h~~k~~VEHICLE_TURRETUP~~w~ mecte c ~h~~k~~VEHICLE_TURRETDOWN~~w~ ¥to© epeme§at¨ co ec ha moto ke.
+HELP28	hamte ~h~~k~~VEHICLE_TURRETUP~~w~ mecte c ~h~~k~~VEHICLE_TURRETDOWN~~w~ ¥to© epeme§at¨ co ec ha moto ke.
+HELP29	megy mcc¬m © moete ocett¨ maaªh ogeg©.
+HELP2A2	hamte ~h~~k~~PED_SPRINT~~w~ koga ete ~h~cpht
+HELP2_A	hamte ~h~~k~~PED_SPRINT~~w~ koga ete ~h~cpht
+HELP3	© moete eat¨ cpht ¦¨ kopotkoe pem¬, oka he yctahete.
+HELP30	p okyke ogeg© ypoeh¨ hmah¬ k am o  agaet go ho¬.
+HELP31	g¬ og¨eªga cha¥aa ¬h¨te eo  pao, co¨ªy¬ ~h~~k~~VEHICLE_LOOKLEFT~~w~  ~h~~k~~VEHICLE_LOOKRIGHT~.
+HELP32	ªatem ctpe¬te, co¨ªy¬ ~h~~k~~PED_FIREWEAPON~ ~w~.
+HELP33	ªatem ctpe¬te, co¨ªy¬ ~h~~k~~PED_FIREWEAPON~ ~w~.
+HELP34	g¬ ©oheh¬ og¨eªga y ac goeh ©t¨ atomat.
+HELP35	hamte ~h~~k~~GO_LEFT~~w~ mecte c ~h~~k~~GO_RIGHT~~w~ g¬ ypaeh¬ ma¦ho.
+HELP36	hamte ~h~~k~~GO_LEFT~~w~ mecte c ~h~~k~~GO_RIGHT~~w~ g¬ ypaeh¬ ma¦ho.
+HELP37	ec © he xotte xogt¨  ma¦hy, ox§a¬ ¥e-o atomo¨, hamte khoky ~h~~k~~PED_SPRINT~ ~w~.
+HELP42	cegyte ªa ~q~poªo©m ªha¥kom~w~ go octh ©.
+HELP43	~g~teep¨ k octh e ~h~okeahck g~g~ ha oy¦h-gpa
+HELP44	ctah¨te y ~q~poªoo otmetk.
+HELP45	hamte khoky ~h~~k~~PED_DUCK~~w~ ¥to© pcect¨. ªto ye¥t to¥hoct¨ ygepaemoo  pykax opy¬.
+HELP46	meetc¬ ocem¨ paª¥h©x to opy¬.
+HELP47	oghopemehho © moete met¨ p cee o oghomy ª kagoo ga - ogh ctoet, ogh gpook.
+HELP4_A	hamte khoky ~h~~k~~VEHICLE_ACCELERATE~ ~w~g¬ yckopeh¬.
+HELP4_D	hamte pa© ahaoo© p©¥a g¬ ~h~yckopeh¬.
+HELP50	hamte ~h~~k~~PED_ANSWER_PHONE~~w~ ¥to© yctahot¨ kamepy oªag ce¬.
+HELP51	hamte ~h~~k~~PED_ANSWER_PHONE~~w~ ¥to© yctahot¨ kamepy oªag ce¬.
+HELP52	hamte ~h~~k~~PED_ANSWER_PHONE~~w~ ¥to© yctahot¨ kamepy oªag ce¬.
+HELP53	hamte khoky ~h~~k~~PED_CYCLE_WEAPON_LEFT~~w~  khoky ~h~~k~~PED_CYCLE_WEAPON_RIGHT~~w~ g¬ pokpytk ceo me«§eoc¬ opy¬.
+HELP54	~w~ eha: $~1~ ~r~ky ªto, a¦e teky§ee opye yget ªameheho.
+HELP55	hamte ~h~~k~~PED_FIREWEAPON~~w~ ¥to© atakoat¨ ¦e-oapa.
+HELP56	hamte ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~~w~ g¬ cmeh© pemo kamep©.
+HELP57	hamte ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~~w~ g¬ cmeh© pemo kamep©.
+HELP58	p p eah © moete haat¨ khoky ~h~~k~~PED_CYCLE_TARGET_LEFT~  ~k~~PED_CYCLE_TARGET_RIGHT~ ~w~g¬ pokpy¥ah¬  ee.
+HELP59	p p eah © moete haat¨ khoky ~h~~k~~PED_CYCLE_TARGET_LEFT~  ~k~~PED_CYCLE_TARGET_RIGHT~ ~w~g¬ pokpy¥ah¬  ee.
+HELP5_A	hamte khoky ~h~~k~~VEHICLE_BRAKE~ ~w~g¬ topmoeh¬  ªagheo xoga, ec ma¦ha ctot.
+HELP5_D	ot¬hte pa© ahaoo© p©¥a g¬ topmoeh¬  ªagheo xoga, ec ma¦ha ctot.
+HELP60	ec hamete khoky ~w~~k~~PED_SPRINT~ ~w~p ox§eh atomo¬, © he ygete xogt¨  ma¦hy.
+HELP61	eckohe¥hoe ¥co atpoho  gohoe ªgopo¨e ha cex ma¦hax.
+HELP6_A	hamte khoky ~h~ ~k~~VEHICLE_HANDBRAKE~ ~w~g¬ k«¥eh¬ ~h~py¥hka ma¦h©.
+HELP6_C	hamte ~h~~k~~VEHICLE_HANDBRAKE~ ~w~g¬ k«¥eh¬ py¥hka ma¦h©.
+HELP6_D	hamte khoky ~h~ ~k~~VEHICLE_HANDBRAKE~ ~w~g¬ k«¥eh¬ ~h~py¥hka ma¦h©.
+HELP7_A	hamte  ygepate khoky~h~ ~k~~PED_LOCK_TARGET~ ~w~g¬ ~h~haegeh¬~w~ chaep. htok.
+HELP7_D	hamte  ygepate ~h~ ~k~~PED_LOCK_TARGET~ ~w~g¬ ~h~haegeh¬ ~w~chaep. htok.
+HELP8_A	hamte khoky~h~ ~k~~PED_SNIPER_ZOOM_IN~ ~w~g¬ ~h~ye¥eh¬ ~w~otk htok ~h~ ~k~~PED_SNIPER_ZOOM_OUT~ ~w~g¬ ~h~ymeh¨¦eh¬ ~w~.
+HELP8_B	hamte khoky~h~ ~k~~PED_SNIPER_ZOOM_IN~ ~w~g¬ ~h~ye¥eh¬ ~w~otk htok ~h~ ~k~~PED_SNIPER_ZOOM_OUT~ ~w~g¬ ~h~ymeh¨¦eh¬ ~w~.
+HELP9_A	hamte khoky~h~ ~k~~PED_FIREWEAPON~ ~w~¥to© ~h~ctpe¬t¨~w~ ª htok.
+HELP9_B	hamte khoky~h~ ~k~~PED_FIREWEAPON~ ~w~¥to© ~h~ctpe¬t¨~w~ ª htok.
+HELP9_C	hamte khoky~h~ ~k~~PED_FIREWEAPON~ ~w~¥to© ~h~ctpe¬t¨~w~ ª htok.
+HEL_DST	yh¥toeho camoeto  eptoeto
+HERMES	epmec
+HEY	~g~he hyho epoctoat¨, geptec¨ mecte!
+HJSTAT	paccto¬he: ~1~.~1~m ©cota: ~1~.~1~m epeop.: ~1~ pa§ehe: ~1~_
+HJSTATF	paccto¬he: ~1~ft ©cota: ~1~ft epeop: ~1~ pa§ehe: ~1~_
+HJSTATW	paccto¬he: ~1~.~1~m ©cota: ~1~.~1~m epeop: ~1~ pa§ehe: ~1~_ peocxogha¬ ocagka!
+HJSTAWF	paccto¬he: ~1~ft ©cota: ~1~ft epeop: ~1~ pa§ehe: ~1~_ peocxogha¬ ocagka!
+HJ_DIS	ohyc ªa goho eªymh© tp«k: $~1~
+HJ_IS	ohyc ªa eªymh© tp«k: $~1~
+HJ_PDIS	ohyc ªa gea. goho eªymh© tp«k: $~1~
+HJ_PIS	ohyc ªa gea. eªymh© tp«k: $~1~
+HJ_PQIS	ohyc ªa gea. ¥etepho eªymh© tp«k: $~1~
+HJ_PTIS	ohyc ªa gea. tpoho eªymh© tp«k: $~1~
+HJ_QIS	ohyc ªa ¥etepho eªymh© tp«k: $~1~
+HJ_TIS	ohyc ªa tpoho eªymh© tp«k: $~1~
+HLPSN_A	chaepcka¬ htoka oªo¬et ye¥at¨ mac¦ta  to¥ho ctpe¬t¨ o  e¬m ªgaeka.
+HLPSN_B	hamte  ygepate khoky~h~ ~k~~PED_LOCK_TARGET~ ~w~g¬ ~h~haegeh¬~w~ chaep. htok.
+HLPSN_C	hamte  ygepate khoky~h~ ~k~~PED_LOCK_TARGET~ ~w~g¬ ~h~haegeh¬~w~ chaep. htok.
+HLPSN_D	hamte khoky ~h~~k~~PED_SNIPER_ZOOM_IN~~w~ ~w~g¬ ~h~ye¥eh¬ ~w~mac¦taa otk ~h~ ~k~~PED_SNIPER_ZOOM_OUT~ ~w~g¬ ~h~ymeh¨¦eh¬ ~w~mac¦taa.
+HLPSN_E	hamte ~h~~k~~PED_FIREWEAPON~~w~ ~w~g¬ ~h~ctpe¨©~w~ ª chaepcko htok.
+HLPSN_F	hamte ~h~~k~~PED_FIREWEAPON~~w~ ~w~g¬ ~h~ctpe¨©~w~ ª chaepcko htok.
+HLPSN_G	hamte ~h~~k~~PED_FIREWEAPON~~w~ g¬ ~h~ctpe¨©~w~ ª chaepcko htok.
+HORN	~g~ochat¨.
+HORN1	hamte khoky ~h~~k~~VEHICLE_HORN~ ~w~¥to© gat¨ ~h~cha.
+HORN2	hamte khoky ~h~~k~~VEHICLE_HORN~ ~w~¥to© gat¨ ~h~cha
+HORN3	hamte khoky ~h~~k~~VEHICLE_HORN~ ~w~¥to© gat¨ ~h~cha
+HOTEL	okeahck g
+HOTRINA	oh§k xotph
+HOTRINB	oh§k xotph
+HOTRING	oh§k xotph
+HOTRNG	xotph
+HUNTER	oxothk
+HYCOBUY	kyeho xmah kohgo: $~1~
+HYCO_C	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~¥to© popect xmah kohgo ªa $~1~
+HYCO_L	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~¥to© popect xmah kohgo ªa $~1~
+HYCO_T	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~¥to© popect xmah kohgo ªa $~1~
+ICC1_O	¥to c am cy¥oc¨??
+ICEBUY	popeteha apka mopoehhoo: $~1~
+ICE_1	pacpoctpahehe
+ICE_C	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~g¬ popeteh¬ apk mopoehhoo ªa $~1~
+ICE_L	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~g¬ popeteh¬ apk mopoehhoo ªa $~1~
+ICE_NO	ce¥ac © he moete kyt¨ apky mopoehhoo, opoyte ooªe.
+ICE_T	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~g¬ popeteh¬ apk mopoehhoo ªa $~1~
+IDAHO	agaxo
+IMPORT1	©gte hapyy  ogogte co« ma¦hy.
+IND_ZON	¬ opoga opoka
+INFERNS	agck
+INGRAM	mak
+INSTUN	eªymh© tp«k
+INTB_1	~g~gatec¨  oc agokata.
+INT_B	ctap© gpy
+IN_VEH	~g~ª! oªpa§atec¨  ma¦hy!
+ITBEG	 camom ha¥ae...
+JAN	¬h
+JOB_1	ha gopoe
+JOB_2	pkoh¥t¨ ehy
+JOB_3	ato g
+JOB_4	©exat¨  ephyt¨c¬
+JOB_5	coog. koh ©
+JUL	«
+JUN	«h
+JUNKY	caka
+KATANA	kataha
+KAUFCAB	takc kaymah
+KAUFMAN	takc kaymah
+KENT	mcc kehta o¬
+KENT1	mcc¬ kehta o¬ 1
+KENT_1	ha kaªh¨
+KGS_EXP	co¨ªoaho ªp©¥atk.
+KICK	kkctapt
+KICK1_3	~g~ko¥ecto ©xogo ª ma¦h©: ~1~
+KICK1_4	~g~¦tpahoe pem¬: ~1~ cekyhg
+KICK1_9	otmetk:
+KNIFE	ho
+LANCE_1	hy e, hago eªgt¨ ohmate¨hee!
+LANCE_2	ª, gaa ooctopohee!
+LANCE_3	ª, kyga ªto t© copac¬?
+LANCE_4	 ¥to ªto t© geae¦¨?
+LANDSTK	ehgctakep
+LASER	.308 chaep
+LAW	mcc agokata
+LAW1_1	~g~goyg¨te cee hoy« ogegy ª maaªha paaª¬.
+LAW4_10	oata¬ gpek ¬ cocet!
+LAW4_11	 o!  o!  o!  o!
+LAW4_12	a ¬ peo« ¬!
+LAW4_15	e§e gehe!
+LAW4_6	ce¥¨ pykoogcto!
+LAW4_7	yt¨ occo!
+LAW4_8	 o,  o,  o,  o.
+LAW4_9	e§e ©xogh©x, meh¨¦e paot©!
+LAW_1	e¥ephka
+LAW_1A	law_1a
+LAW_1B	law_1b
+LAW_2	gpaka  epeyke
+LAW_2A	law_2a
+LAW_2B	law_2b
+LAW_3	he pc¬h©x
+LAW_4	m¬te
+LEGAL	~g~yctpahte kpmha¨hy« ypoªy!
+LG_01	oª ¬ poka
+LG_02	aep kapphtoh
+LG_03	akep kohtakt
+LG_04	okohk koptec
+LG_05	pkapgo gaª
+LG_06	keht o¨
+LG_07	agokat
+LG_08	 kaccg
+LG_09	ogo¥ha¬
+LG_10	ky may
+LG_11	kyh ©
+LG_12	khoctyg¬
+LG_13	amyh ¬
+LG_14	at¬he
+LG_15	ªaac oopygoah¬
+LG_16	cogha¬ pma
+LG_17	mopoehhoe
+LG_18	takc kaymah
+LG_19	kyak «
+LG_20	topa¬
+LG_21	coctehhoct¨
+LG_22	at  kpac¨
+LG_23	maaªh ogeg©
+LG_24	ocoh¬k tomm
+LG_25	teeoh
+LG_26	pagoctah ¬ gk ct¨
+LG_27	pagoctah ¬ ª¦ m
+LG_28	pagoctah ¬ k¥at
+LG_29	pagoctah ¬ xopagka 105
+LG_30	pagoctah ¬ pok
+LG_31	pagoctah ¬ VCPR
+LG_32	pagoctah ¬ ªcahtoco
+LG_33	pagoctah ¬ ªmo ¬ 98.3
+LG_34	pagoctah ¬ oha 103
+LG_35	yhkt haªha¥eh¬
+LG_36	coh. gop
+LG_37	ctp-ky
+LG_38	 e¨
+LINERUN	ahpahhep
+LNKVBUY	kyeha kaptpa hkc ¨«: $~1~
+LNKV_C	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~¥to© popect kaptpy hkc ¨« ªa $~1~
+LNKV_L	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~¥to© popect kaptpy hkc ¨« ªa $~1~
+LNKV_T	hamte khoky ~h~~k~~PED_ANSWER_PHONE~ ~w~¥to© popect kaptpy hkc ¨« ªa $~1~
+LOADCAR	ªapyªka ma¦h©... (hamte 1 g¬ otmeh©)
+LOADCOL	ªapyªka...
+LOVEFIS	kyak «
+M4	M4
+MACHETE	ma¥ete
+MAFIACR	kpecep ma
+MAFCA	m ~k~~GO_LEFT~ ~h~ ~w~g¬ pokpytk.  ~h~~k~~VEHICLE_ENTER_EXIT~      ~w~g¬ ©xoga. m ~h~~k~~PED_SPRINT~  ~w~  ma¦ha to¬.
+MALIBU	ky may
+MALL1	mo hopc-oht
+MANANA	mahaha
+MANSION	ocoh¬k gaªa
+MAP_LEG	eehga kapt©
+MAP_YAH	© ªgec¨
+MAR	map
+MARQUIS	mapkª
+MAVERIC	maepk
+MAY	ma
+MERC_26	©ctpee, ©ctpee, ©ctpee!
+MERC_27	octopohee, tomm, ¬  po¦om mec¬ e hoc pa¬.
+MERC_28	tomm, ooctopohee.
+MERC_29	tomm, omegehhee.
+MERC_30	tomm, oaycta, he meh¬ hyho yat¨.
+MERC_31	tomm, ma©¦, he ya meh¬!
+MERC_32	tomm, ¬ pag, ¥to t© yha ªty ma¦hy!
+MERC_40	©o tak eceo.
+MERC_43	agoc, ahe.
+MERC_44	a t© pogoa paotat¨, ce ¬cho?
+MERC_45	¥ao, kpaca¥k.
+MERC_5	hy  ma¦ha, m-p epcett.
+MESA	meca pahge
+MM_1	'eª topmoªo'
+MOB12_A	ª, tomm, ªto aep! ocy¦a,  gahh© momeht y meh¬ ge o opo,
+MOB12_B	a oghoo moeo pegctate¬ heoxogmo copoogt¨ ª etop kª.
+MOB12_C	meh¬ htepecyet ªem¬  tom hapaeh, oªtomy oc©a« koo-to yy¥¦t¨ yco¬.
+MOB12_D	he okae¦¨ mhe ycyy  he copoog¦¨ eo tyga, a?
+MOB12_E	ga, eª opoco, aep. ge mhe hyho ogopat¨ eo?
+MOB12_F	oh kak paª ªakah¥aet hekotop©e gea ha ctpoo§agke. ¬ ckaªa emy, ¥to© oh ga tam.
+MOB12_G	het poem. go ctpe¥, aep.
+MOB13_A	epcett? epcett!! ¥ept te¬ oep, omoa e mhe!
+MOB13_B	m-p moat? kak cemeha¬ ªh¨?
+MOB13_C	g t© k ¥epty, ¥epty, c©¦¦¨ meh¬?!
+MOB13_D	ga, p¬tho ©o ootat¨...
+MOB13_E	ctote! ctote, epcett - tomm, moho ªat¨ ac tomm?
+MOB13_F	m© eg¨ oa ªhecmeha, epho? xopo¦y« cgeky cpaªy ot¥¦¨ ot oxo, ga?
+MOB13_G	y meh¬ het pemeh ha paªoop©, e k gey.
+MOB13_H	geh¨. o¬t¨ ªt ¥epto© geh¨.
+MOB13_I	¬ choa ea ª t«p¨m©, ho poget cocem mao pemeh,  oh ©ceg¬t meh¬ - oh gyma«t, ¥to ªto pa!
+MOB13_J	¬ y teeoh-atomata ge-to  ªto ªa©to oom oh«¥e g©pe.
+MOB13_K	©ta§ meh¬ otc«ga, oka oh choa he gopac¨ go meh¬......o o-e...
+MOB13_L	xm, ¬ ygy ªah¬t cegy«§e -
+MOB13_M	het! he hyho tak co mho, me e cepg e! hkomy he¨ª¬ octyat¨ ot tak, tak he¨ª¬.
+MOB13_N	¬ ye cto« ha koeh¬x, tomm,  p¬ª, ymo¬¬ te¬, oaycta...
+MOB13_O	gyma«, ¬ mo © pocko¥t¨ tam, ocmotpm, ªame¥y  ¬ te¬...
+MOB13_P	o, oe, oh pa«tc¬. pag cyca xpcta, ckopee, ckopee!
+MOB15_A	tomm, gpy§e, ªto o¨ª, ª keht
+MOB15_B	apo¥ka ogxog¬§x to ohoct¨« ccaha tom mehem, oh tam  may.
+MOB15_C	o ¥em ªto t© oop¦¨, a?
+MOB15_D	t©. t¥k. t© ªhae¦¨. gey¦k. cageh¨ke, he gyma, ¥to m hyh© ¦¨ geh¨.
+MOB15_E	tee hyho poept¨ x.
+MOB16_A	tomm, ªto o¨, que pasa amigo?
+MOB16_B	¥eo tee, o¨? mhe he hyha oggeahha¬ pmehha¬ ogega.
+MOB16_C	kak cme¦ho, gpy§e, ho t© ªhae¦¨, ¥to y meh¬ aehk het.
+MOB16_D	he, ¬ ªoh« ¦¨ yªhat¨, oy¥y  ¬ po¨  oghom ª tox ¨mo,
+MOB16_E	 ah ¬ ¥em to¨ko he ªahmac¬, gpy§e.
+MOB16_F	o mhe ¬poct oo¨¦e, ¥em  tee, c©hok.
+MOB16_G	o¨, caco ªa pegoehe, ygy omht¨ o hem.
+MOB16_H	cep¨eªho, omh oo mhe oce ceo, ¥to ¬ cgea g¬ te¬.
+MOB16_I	ot mehho o ªtom ¬  ©ta«c¨ ªa©t¨.
+MOB19_A	tomm , ªto k. keht o¨. ha y ax xog¬t cyx, ¥to te¬ xot¬t pkoh¥t¨.
+MOB19_B	packpo aªa, c©hok.  ªaomh, ¬ tee o ªtom h¥eo he oop.
+MOB21_A	tomm, tomac, ªto koptec. ¥to cy¥oc¨?
+MOB21_B	ªto htepecho. kak gea, gpyok?
+MOB21_C	tomm, ªgec¨ - cega op¨a. ªh ªa oxy« c¬ª¨, y hac o¬t¨ ©a o©tka epeopota.
+MOB21_D	«g - ªto cam© tpygh© momeht.
+MOB21_E	oka m© epe tp peo«   ¥et©pe epeopota oce moeo oªpa§eh¬ ª ac ct.
+MOB21_F	k c¥act¨«, kag© paª meh¬ o©¦a.
+MOB21_G	¬ xote cpoct¨ te¬ o mepcegec.
+MOB21_H	tak, ¥to c he?
+MOB21_I	o, tomm, tomm. ga, ¬ c©¦a o ªtx ctop¬x, ce ªto - ¬ gae he ªha«, ¥to  ogymat¨.
+MOB21_J	haephoe, ce ctapa«tc¬ oget¨ meh¬.
+MOB21_K	haephoe, oha gymaet, ¥to moet geat¨ ce, ¥to xo¥et, tomm, ªto - paga?
+MOB21_L	hy, cka mhe, tomm, ªto - paga?
+MOB21_M	¥to - paga?
+MOB21_N	ce ªt ctop, ¥to ¬ c©¦a. oha copaetc¬ ctat¨ «pctom?
+MOB21_O	o, tomm, kako oªop, oªop. t© e ªhae¦¨, ¥to koptec© - aopogh© pog.
+MOB21_P	m© © hkoga he oªo ha¦e go¥ep ctat¨ «pctom. cka mhe, ¥to ªto he tak. ¬ gyma«, ¬ he cmoy cmpt¨c¬ c ªtm.
+MOB21_Q	okohk, moy te¬ ªaept¨, ¥to mepcegec hkoga he yget «pctom. he ecokoc¬ o ªtom.
+MOB21_R	o, caco, tomm. tomm, caco. oªop © © he©hocm. oha eg¨ - eg, a he haxeh a, t© e ªhae¦¨.
+MOB21_S	¬ ªha«, okohk.
+MOB21_T	 «om cy¥ae, tomm, ªh meh¬, p© ho© mhctp hytpehhx ge.
+MOB21_U	koga=to ¬ y eo ot a o pem¬ epeopota, tak ¥to hago ©t¨ e©m. ªgpacty, amo.
+MOB22_A	tomm, t© geae¦¨ ycex, gpyok.
+MOB22_B	caco, koptec. a kak c mom geom?
+MOB22_C	tomm, ¬ paota« eª ycta ot toeo meh g¬ too, ¥to© m© cmo paªopat¨c¬ c ogo o¨«  xtpoct¨«,
+MOB22_D	ga« tee coo, ho ce e,
+MOB22_E	pm ckpehh«« aogaphoct¨ moeo hapoga ªa co tpyg ot ha¦eo meh.
+MOB45_A	tomm, ooopm o gee.
+MOB45_B	 ¥em geo, ahc?
+MOB45_C	a, ªto t©, gpyok, mhe kaetc¬, ¥to t© omah©ae¦¨ meh¬.
+MOB45_D	oee too, t© octa meh¬  ªatpyghte¨hoe ooehe epeg aph¬m. ¬ he otep«.
+MOB45_E	ahce, ªto cocem he tak. t© geae¦¨ o¦ky.
+MOB45_F	tomm, ¬ - he ma¨¥k ha oey¦kax.  - he to kyp¨ep.
+MOB45_G	ahc, he heph¥a,  y hac he yget poem. ¬ epea«, ho t© cega moe¦¨ oot¨c¬ ha meh¬.
+MOB45_H	tomm, ¬ ce cgea g¬ te¬, a t© gep¦¨ meh¬ ªa gypaka. he gea ªtoo.
+MOB45_I	ahc, ¬ he ctahy te¬ pokhat¨  ªocot¨ ªa cho.
+MOB45_J	cokoho. ªto  tak he eko, a tyt t© e§e eªe¦¨ co com ªmo ¬m.
+MOB45_K	goep¨c¬ mhe. t©, ¥to, he c©¦¦¨ meh¬?
+MOB45_L	¬ cy¦a« te¬, tomm, ho he moy o¨¦e ªtoo ©hoct¨.
+MOB45_M	ahc, he yg¨ takm. ¬ pegypega« te¬.
+MOB45_N	t© cy¦ae¦¨? pacca¨c¬, oª¨m hecko¨ko ghe otycka. ga? ¬ oªoh« tee.
+MOB46_A	ga, tomm! ªto ahc.
+MOB46_B	ga-a?
+MOB46_C	o, pag te¬ c©¦at¨, ahc. gaa, gpy, yg¨ kpyt©m, yg kpyt©m.
+MOB46_D	¬ hemhoo ªah¬t. ¥to t© xote?
+MOB46_E	h¥eo. to¨ko ooopt¨. cy¦a, tomm, kak t© ha ªto cmotp¦¨.
+MOB46_F	t©  ¬, het poem. t© ohmae¦¨, o ¥em ¬?
+MOB46_G	ham hago ªto cgeat¨, ,  pothom cy¥ae, ham he cgopoat¨, ahc.
+MOB46_H	m© c¦kom gaeko ªa¦. oghako, caco ªa ªohok. ¬ epeªoh« tee.
+MOB52_A	ª, eo, mhe kaetc¬, ¬ ha¦e okyate¬ ha to toap.
+MOB52_B	oªoh emy, gpy§e, gooopc¨ o gee, hy, oh¬?
+MOB52_C	t© ce¥ac ge?
+MOB52_D	t©  op¬gke, eo? t© kako-to ctpahh©.
+MOB52_E	cka mhe, ge t© haxog¦¨c¬.
+MOB52_F	kakoo ¥epta, kto ªto? oªo eo, gpy§e!
+MOB52_G	eo ha mhyty ©¦e, ¬ eo ogmeh¬«.
+MOB52_H	o¦e t©, apeh¨!
+MOB54_A	o-o, tomm!
+MOB54_B	pet, mepcegec, kak t©?
+MOB54_C	y meh¬ hoa¬ kaptpa  ac oht
+MOB54_D	- ogyma, moet, t© kak-hyg¨ ªa¬he¦¨.
+MOB54_E	c ygoo¨ctem. c¬yc¨ c too oªe.
+MOB55_A	tomm, ªto - ¬.
+MOB55_B	pet, mepcegec.
+MOB55_C	tomm, ¬ tak ycta, hy, koga e m© paªe¥emc¬?
+MOB55_D	¥to ªto ªha¥t?
+MOB55_E	ga, ¬ ªha«, ¥to t© o¥eh¨ ªah¬t op¨o, yctam  koppy e,
+MOB55_F	ho ¬ to¨ko xo¥y opaªe¥¨c¬. oªtomy he ªayg¨ oo mhe, t© c©¦¦¨?
+MOB56_A	tomm, c©¦a, ¥to t© y pkapgo gaca.
+MOB56_B	 eo gome © cy¥ah© oap.
+MOB56_C	gyma«, ¥to  akpoo pya¦ke oh cope gota.
+MOB56_D	tomm, ¬ too opyc¨. ¬ cega ªha, ¥to t© - my¥ha.
+MOB56_E	t©, ¬tho ha ¦tahhe, ¬ opyc¨, ¥to y meh¬ ect¨ tako gpy.
+MOB56_F	het, ¬ ªha«, ¥to t© yge¦¨ ªah¬t ªaxatom ªtoo opoga,
+MOB56_G	ho, he ªayg¨ oo mhe, c©¦¦¨?
+MOB57_A	ªto - mepcegec. ¬ te¬ o¨¦e he ««, tomm.
+MOB57_B	o¨¦e he ««. ¥ectho. otomy ¥to t© ye he «¦¨ mepcegec.
+MOB57_C	oha g¬ te¬ ye he eg. t© hoppye¦¨ meh¬,  ¬ hehay te¬.
+MOB57_D	¬ xo¥y, ¥to© t© ce¥ac e ko mhe pexa!
+MOB58_A	tomm.
+MOB58_B	pet, mepcegec.
+MOB58_C	hy, pet, mctep kpyto. ¬ ha te¬ cepyc¨, tomm.
+MOB58_D	hkoga he ªacta¬ meh¬ o§at¨c¬ c geªª toppeht.
+MOB58_E	oh - aok. ce pem¬ to¨ko  a¥etc¬ o coe coa¥ohke,
+MOB58_F	kotopa¬ ymepa, koga emy ©o 7 et,  ¥to mamo¥ka hkoga eo he «a.
+MOB58_G	, tomm. oh e hoct goma apk  ¥k.
+MOB58_H	he gooeh too!
+MOB59_A	o-o, tomm, ªto- mepcegec.
+MOB59_B	¬ to¨ko xotea ckaªat¨, ¥to mhe tak ohpac¬ ªtot cepa.
+MOB59_C	ec y te¬ yget e§e ¥to-to  ªtom poge, cka mhe.
+MOB59_D	¬ gectte¨ho tak gyma«. ¬ cega xotea ©t¨ aktpco.
+MOB59_E	¬ ye goctato¥ho paªpa«c¨  gpamatyp.
+MOB59_F	ªto tak c¥ep©a«§e! caco. caco. ckopo ygmc¬. agoc.
+MOB_01A	pet, ctapha! ªto - o¨. ymeh¬ ect¨ koe-¥to g¬ te¬, ho ¬ ckay tee o ªtom ¥ho.
+MOB_01B	¬ tyt hemhoo otg©xa«,  kye may.
+MOB_01C	c¥ta, ¥to t© mhe yge¦¨ goeh oce ªtoo, coh e moe. ygmc¬ oªe.
+MOB_02A	-y-y-x, pet! ª, tomm? tomm!
+MOB_02B	y hac poc¦ecte  pht yopkc. tee y¥¦e tyga oexat¨  poept¨.
+MOB_02C	¥to-to poge ªaapy¦k. pocto hepaªepxa. ¬ tyga egy.
+MOB_03A	mp. ep¥ett? y meh¬ tyt ymaohka,  kotopo ooptc¬,
+MOB_03B	¥to © ª¬ ha ce¬ ce go g ato.
+MOB_03C	oce c¥eªhoeh¬ g y meh¬ he ©o ©opa,
+MOB_03D	 teep¨ © ote¥aete ªa ªto hehagehoe hahcooe ooehe.
+MOB_03E	go tex op, oka he yagte ce c¥eta,
+MOB_03F	am pgetc¬ octepeat¨c¬ ©xogt¨ ha y © ac ct.
+MOB_04A	kak oae¦¨, gpy§e? ªto - choa aoo.
+MOB_04B	ocy¦a, tomm, ¬ ªa© ckaªat¨, ¥to ham ohagotc¬ goohte¨ha¬ omo§¨ ha koh epte. ¥to-to poge oxpah©.
+MOB_04C	ahga akepo o ae c mt¥em akepom yget xopo¦e pekamo. pok-h-po, ª.
+MOB_04D	oªaot¨c¬ o ªtom,  ¬ tee gam hemhoo mecta ha c ehe g¬ ©ctyeh¬, xopo¦o?
+MOB_05A	ª, ªto mt¥. t© octy xopo¦o, tomm, ¥to ephy opatho co« gey¦ky.
+MOB_05B	cka keht oy, ¥to y heo yget oxpaha ha koh epte.
+MOB_05C	ga« tee coo ha ªto.
+MOB_05D	a teep¨ hkyga he eª¨.
+MOB_06A	tomm, ªtot okohk oop o tee, gopoo.
+MOB_06B	¬ ogyma, ¥to tee hago ogh¬t¨ hactpoehe. tak tety¦ka  ©ehok potoa tee y¨oh, ga?
+MOB_06C	pxog ko mhe ha oeg, xopo¦o tomm?
+MOB_08A	ª, tomm, ¬ ogyma, ¥to tee hyeh geoo coet.
+MOB_08B	koga t© haag¦¨ geo, t© goeh ªacko¥t¨  ªapat¨ co« hege¨hy« aty.
+MOB_08C	yct¨ aph gyma«t, ¥to oh o¨ªy«tc¬ ªtm mectom,  oh octapa«tc¬ ymeh¨¦t¨ p©¨ - xopo¦o?
+MOB_08D	ª, ¬ cam ªha«, kak ypa¬t¨ geam, keh, xopo¦o?
+MOB_08E	ga, ga. ¬ ªha«, t© ªhae¦¨. ¬ xote,
+MOB_08F	¬ xote to¨ko ckaªat¨, ¥to ¬ ªha«, ¥to t© ªhae¦¨, ¥to ¬ ªha«.
+MOB_08G	¬ ªha«, ¥to t© - ªkcept, ª!
+MOB_08H	kak © tam h ©o, keh,...
+MOB_09A	ª, eo! ect¨ g¬ te¬ paota!
+MOB_09B	ªto - he eo.
+MOB_09C	ª, ec eo yªhaet, ¥to t© ª¬ tpyky, oh y¨et te¬!
+MOB_09D	a, moet, eo ye mept. moet, ¬ y eo  otet ha eo ªohok - kak tee tako poko?
+MOB_09E	t© y eo? y te¬ o¨¦a¬ y¦ka - xo¥e¦¨ ha meh¬ paotat¨?!
+MOB_09F	ªag  kae moeo ot a  tt aaha  m© ooopm c aªy ha aª.
+MOB_10A	tomm! ocy¦a, cgea mhe ogoehe.
+MOB_10B	ct! hy, kak gyt c¨emk!
+MOB_10C	xopo¦o, xopo¦o. ª-ª, ¬, ham hago ch¬t¨ c ehy ooh, ho ham he oªo¬et «get.
+MOB_10D	¬ octa koeca  opoge. t© ªhae¦¨, ¥to geat¨.
+MOB_10E	xopo¦o, ct, ¬ o§y. c¬yc¨ c too oªe.
+MOB_11A	pet, c©hok, ogyma, ¥to hago tee oªoht¨  gat¨ ogh coet.
+MOB_11B	e, aep. ¥to te¬ tpeot?
+MOB_11C	 ªtom opoge mhoo oªmohocte, ec © ohmaete ¥to ¬ me« gy, © meh¬ oh¬?
+MOB_11D	¬ pacc¥t©a« tak...
+MOB_11E	c¸ ¥to ¬ oop« - gepte a¦ aªa otkp©t©m  © hagete ªame¥ate¨hy« oªmohoct¨ ªapaotat¨. ¬ hagy ac, ... oªe.
+MOB_11F	oªe, aep.
+MOB_14A	ª tam, tomm, © copaetec¨ meh¬ otmet¨, omo§hk.
+MOB_14B	maeh¨ka¬ t¥ka ckaªaa mhe, ¥to opogckoe ogpaªgeehe omoh'a meet geoªt  oghom, goctato¥ho o¨¦om, ahkockom y¥pegeh,
+MOB_14C	tam xpah¬tc¬ ce ª¬tk, oy¥ehh©e m ªa ªt og©,
+MOB_14D	p¬mo kak ehcohh© ohg ctap©x epgyho.
+MOB_14E	kohe¥ho, ªta hopma ¬ goha omo¥¨ am goctat¨ xot¬ © ¥act¨ ªtx gehe,
+MOB_14F	¬ gyma«, © ¥yctyete, ¥to © goh© mhe koe ¥to?
+MOB_14G	¬ ygy omht¨ ªto, caco keht.
+MOB_14H	¬ o. ¬ ot kehta, okoo ohgoha, t© prat.
+MOB_14I	mo¬ poh a¨ha¬ ahcka¬ eopa¬, he to ¥to © gymaete.
+MOB_16A	tomm, ªto o¨, que pasa amigo?
+MOB_16B	¥to © xotte o? mhe he hyha ogepahha¬ ogega.
+MOB_16C	o¥eh¨ cme¦ho, omo§hk, © eg¨ ªhaete, ¥to ¬ he pkaca«c¨ k comahhomy eeªy. xa, ¬ ªoh«, ¥to© yªhat¨ oy¥y  ¬ po¨  a¦em ¦oy.
+MOB_16D	tam,  ah, ¬ gea mhoo cheo matepaa, omo§hk. o mhe o¨¦e opoxy, c©hok
+MOB_16E	o¨, caco ªa pegoehe, ygy omht¨ o hem.
+MOB_16F	cep¨eªho, omh oo mhe oce ceo, ¥to ¬ cgea g¬ te¬.
+MOB_16G	ot mehho o ªtom ¬  ©ta«c¨ ªa©t¨.
+MOB_17A	tomm epcett, kak pogaetec¨, mctep o¨¦a¬ ¦¦ka? ¬ c©¦a mhoo cyxo o ac, ot koe kakx poko  opoge, a teep¨...
+MOB_17B	o, © ¨¬h©.
+MOB_17C	xa, t© ya¬ kp©ca, ¬ he ¨¬h. ¬ to¨ko me« apy  hecko¨ko p¬th©x meo¥e, ¬ he ca ky¥y ghe, © e ªhaete.
+MOB_17D	 «om cy¥ae, he gaate mhe h¥eo. ¬ he oyx. kto pcmatpaet ªa am  ªtom? kto? ¬. ot kto.
+MOB_17F	paga?
+MOB_17G	he hyho mhe h¥eo. he hago! ¬ pegcta ac «g¬m. ¬ okaªa am yt, gocta mhoo hopma  g¬ ac,  ªto a¦a aogaphoct¨.
+MOB_17H	© hoppyete meh¬. t© he xo¥e¦¨ yctt¨ meh¬ , oce ceo, ¥to ¬ g¬ te¬ cgea! kto ¬ o-toemy? oyx  ¥to-to ogohoe?
+MOB_17I	o, ycokoc¬. ¬ © ªah¬t, he yg¨ gotom.
+MOB_17J	¬ he kako to got. ªto to ¥to oh mhe ckaªa. © cpa¦aete o poemax c©ha, otomy ¥to xotte oact¨ tyga!
+MOB_17K	tomm, omo§hk. oaycta. t© © moe o¨¦o hagego! oaycta, he cmec¬ hago mho!
+MOB_17L	o, oc, oaycta.
+MOB_18A	tomm, ªto ayo, kak t© tam? oke omo§hk,  «om cy¥ae, ¬ goeh oect¨ tpyky.
+MOB_18B	o ocog, mo c©h, t© he oep¦¨ c kako ka¥ectehho meg¨« ¬ ctokhyc¬.
+MOB_18C	y¥h© xogok  kak tam te¬, cyctc¨  maeh¨ky« aahhy, omo§hk.
+MOB_18D	ee m¬ poge © mepcegec.
+MOB_18E	o o, omo§hk. poep¨-ka ªty t¥ky.
+MOB_18F	¬ y¥¦. ckaem, ¬ © y¥¦e cex ª tex koo oha gea.
+MOB_18G	gep co ahah oga¨¦e ot hee. ygmc¬.
+MOB_20A	oke tomm, ªto o. meh¬ ªect, ¥to © o¥eh¨ oxo ce¬ e.
+MOB_20B	komy to he ohpac¨ a¦ gect¬, p¬te¨, o ªtom ye ce ªha«t.
+MOB_20C	agho, otom he oop ¥to ¬ he pegypega. xacta«tc¬ to¨ko pgypk.
+MOB_20D	tak  ha¥e, ¬ c©¦a ªa a¦y ooy haªha¥eha hapaga,  mhoe me¥ta«t poomt¨ am ooy,
+MOB_20E	tak ¥to ceg ªa coo  he ªa©a meh¬, omo§hk.
+MOB_24A	xoa, ªto mctep epcett?
+MOB_24B	ga.
+MOB_24C	ªto kopteª. ©  moe pye.
+MOB_24D	ga. ¬ omh«.
+MOB_24E	mctep epcett, kaka¬ hep¬thoct¨ cy¥ac¨ y a¦e opahªa .
+MOB_24F	¬ ªha«.
+MOB_24G	¬ xo¥y, ¥to © ªha, ¬  mo «g, cgeaem ce ¥to© gokoat¨c¬ go cyt.
+MOB_24H	ec © xotte kohgeh a¨hoo paªoopa, © moete hat meh¬  ogke? xopo¦o? p¬thoo am gh¬, ceh¨op.
+MOB_25A	tomm, tomac ªto - kopteª. cmotp, pah yª© gea«t ceoªmoh©e agoct ¥to© gocagt¨ mhe.
+MOB_25B	pok¬t©e  emep©. oh otpat coth et ha okpag©ahe egh©x ctpah  oce ªtoo oh haª©a«t meh¬ opom!
+MOB_25C	ckopo mhe ohagot¨c¬ to¬ omo§¨, amo.
+MOB_25D	oaycta otopoc¨, tomm, t© mhe hyeh, cmoe¦¨ mhe omo¥¨? ¬ hehay k¬t©x pah yªo.
+MOB_26A	ao, tomm?
+MOB_26B	ga-a?
+MOB_26C	ªto ekep. ¬ to¨ko xote ckaªa ¥to a¦e ¦oy ©o otp¬ca«§e, mhe o¥eh¨ ohpaoc¨.
+MOB_26D	¬  mo pe¬ta aogap¬t te¬,  omh,
+MOB_26E	t© ªacy ha¦e yaehe. xopo¦eo gh¬. pogoa ctapat¨c¬ c©hok.
+MOB_29A	ªgpacte, ªto mctep tomm epcett?
+MOB_29B	aa.
+MOB_29C	xopo¦o, ¬ c©¦a, © tot ¥eoek, kotop© ªa mp ot apaªto.
+MOB_29D	oªmoho...
+MOB_29E	xopo¦o, ¬ ªha« hacto¬§x apaªto. at¬he - eªge.
+MOB_29F	meh¬ ªoyt ymepto poha  ¬ xote © ctpettc¬ c am  kae poha, o©ctpee,
+MOB_29G	'p¥ha - hehacth©e at¬he ªa¦ c¦kom gaeko.
+MOB_29H	tect
+MOB_30A	tomm, ªto ymepto poha
+MOB_30B	ª, kak kae?
+MOB_30C	o, ªame¥ate¨ho. peocxogho. tomm, cyep pocto. hkako h, tomm, to¨ko hacto¬§e my¥h©  kpac©e eh§h©!
+MOB_30D	 «om cy¥ae, ¬ xote ckaªat¨ tee, ¬  e, g¬ hac, t© kyah.
+MOB_30E	© gokaªa, ¥to © goctoh© ¥eoek. © oy¥ o¨¦o kogohc.
+MOB_30F	hy, caco ymepto. hekto ckaªa mhe, ¥to koga ¬ okhy t«p¨my. © ygete heogaeky.
+MOB_33A	tomm, ªto , teep¨ ©k«¥ ªto gep¨mo  cy¦a meh¬, c©¦¦¨?
+MOB_33B	xopo¦o. ¬ ¥ycty«  cee cy, oha p©aet,  ¬ ªagac¬ cee opocom, pegcta¦¨  t© cee ªyk ©ctpea.
+MOB_33C	cep¨eªho, tomm, ec t© «¦¨ ©t¨,  okypt¨ tpaky, ªt ¥yak cgea«t ª te¬ ¥eoeka.
+MOB_33D	he comhea«c¨ ¥to cgea«t, gae p tom ¥to ¬ ce ha ogh aª. ¬ ygy gat¨ ac.
+MOB_34A	tomm, mhe gectte¨ho ©o p¬tho paotat¨ c too. he tak ye  mhoo eceoo, p¬te¨.
+MOB_34B	ª, ec tee ¥to-to ohagot¨c¬, ªo meh¬, c©¦¦¨?
+MOB_34C	¬ cega omh« tex, c kem cy,
+MOB_34D	, ¬ yepeh, ¬ omoy tee ©pat¨c¬, c©¦¦¨?
+MOB_35A	tomm, paha ªaaet xopo¦o. ¦ytka  tom ¥to,
+MOB_35B	¬ phma y¥acte  ¦ect epectpekax  ©xog ottyga eª  apah©, a teep¨ ªto!
+MOB_35C	ogh oopyehh© . oghako, ¬ moy ctpe¬t¨  gpyo pyko tok ¥to tee he ªactat¨ meh¬ eªopyh©m ,  c©¦¦¨.
+MOB_35D	yep cehtmehta¨hoe gep¨mo, c©hok,  ky mhe ©k, c©¦¦¨?!!!
+MOB_36A	tomm, ªto , ¬ xo¥y oaogapt¨ ac, caco, ¥to pkp© chy c©ha,
+MOB_36B	pok¬t© ¥ap, oh cega oggaet ac  ªacage,
+MOB_36C	tak  ha¥e paha ªaaet xopo¦o  ¬ o¨¦e he ygy hkoo omah©at¨ hac¥et coe hegeecocohoct.
+MOB_40A	ª, tomm, ªto cohh. ge t© tak ªaope?
+MOB_40B	ªto he cohe¥h© ªaap.
+MOB_40C	xopo¦o, © he oy¥te mo geh¨,  ¬ cpa¦a« ce¬,
+MOB_40D	¥to t© geae¦¨? tak ot, cka mhe, tomm, ¥to t© geae¦¨?
+MOB_40E	mhe hyh© geh¨, cohh. he ohytec¨
+MOB_40F	¬ ohy«c¨, tomm, ªto - mo ct¨,
+MOB_40G	otomy ¥to, kaetc¬, ªto poema oªhkaet ª-ªa hehageh©x «ge.
+MOB_40H	he yg¨ kgao, tomm, oaycta
+MOB_40I	cgea ham gom ycyy. tak, ¬ gy a¦ otet.
+MOB_41A	tomm, omh¦¨ meh¬?
+MOB_41B	pet cohh.
+MOB_41C	ce xopo¦o, cohh. m© ctap©e gpyª¨¬,
+MOB_41D	t© hkoga he ca mhe, hkoga he ªoh. t© he xo¥e¦¨ o¨¦e co mho gpyt¨?
+MOB_41E	¬ © ªah¬t ah©m e§am. a t© he omoa mhe, cohh.
+MOB_41F	tak ot  ¥em mo¬ o¦ka? hy agho, ¬ c©¦a ¥to t© © ªah¬t.
+MOB_41G	ya hapkoapoho. ªah¬t  o§em ©.
+MOB_41H	he ªa©a po hac tomm, 'otomy ¥to, oe§a«, ¬ - he ªaygy.
+MOB_42A	tomm.
+MOB_42B	cohh.
+MOB_42C	o¥egho, ¥to am hep¬tho ©cy¦at¨ paª¥h©e poem©, tak ¥to ¬ opoy« e§e paª.
+MOB_42D	ge ªt gypa ke geh¨, ge peahha¬ gyp¨,  ge ¥ept ogep mo ah a¦x gect?
+MOB_42E	t© geae¦¨ ª meh¬ gota, tomm,  mhe, o¥emy to, he cme¦ho.
+MOB_43A	tomm, tomm, tomm, ¬ oop c cohh o teeohy, agho, t© co mho?.
+MOB_43B	¬ h¥eo he ªha« o tee, ho y meh¬ ect¨ koe-¥to o ¥eoeke ypoa¦em yt¨ mo« cem¨«
+MOB_43C	kotop© ¥ept ogep meh¬ yaet. ¥to t© copae¦¨c¬ geat¨?
+MOB_43D	keh, ycokoc¬.
+MOB_43E	¬ cokoeh, cokoeh kak ¥eoek, kotop© otc¬ ªa co« ªh¨!
+MOB_43F	pekpat ©t¨ gotom  oª¨m ce¬  pyk.
+MOB_43G	hkto he oª¨met hac. ygmc¬ oªe.
+MOB_43H	¬ cokoeh. paªe ¬ he cokoeh? c©¦¦¨, ¥to geaet pa«§a¬c¬ cmept¨ c mom oocom.
+MOB_47A	tomm, ahc, y hac o¨¦e poem©. cyckatec¨ ko mhe. ckopee.
+MOB_62A	tomm, ªto pkapgo gaª, ¬ xo¥y oaogapt¨ te¬ ªa to, ¥to pcmatpa ªa mom ¥eoekom.
+MOB_62B	¬ yªhaa o kopteªe, oh ckaªa, ¥to c am moho o§at¨c¬, o¥emy © am ko mhe he og¨exat¨.
+MOB_62C	mhe hyeh tako kak ©. ce ¥to y meh¬ ect¨ ce¥ac - oahk,
+MOB_62D	oahk eªge, o. ¬ cgea« te¬ o hacto¬§emy oat©m.
+MOB_63A	tomm, ªto ªphect. ªphect ke.
+MOB_63B	kak t© tam?
+MOB_63C	ce oke. mhe hyha ao¥ka g¬ xog¨©, a mhe ckopo goeh choa paotat¨.
+MOB_63D	xopo¦o.
+MOB_63E	¬ c©xa po ahca. kako to heo¨¦o yko, a?
+MOB_63F	aa.
+MOB_63G	hkoga he goep¬ «g¬m gy§m o y e  coctehho ame. ot ¥to ¬ ckay. ªto xopo¦o, ¥to t© y eo. ¬ hage«c¨, emy ©o o¨ho.
+MOB_63H	gyma« ©o. ¬ paga he gyma ¥to oh © tako ot...
+MOB_63I	tomm, g¬ yhoo cymac¦eg¦eo © goo¨ho hah©. ¬ ckopo ephyc¨,  pacckay am hecko¨ko e§e po ªh¨.
+MOB_63J	p¦o toe pem¬ ephect. ªaot¨c¬ o cee.
+MOB_66A	tomm, tomm, ªa¥em t© ephyc¬?
+MOB_66B	ckaªat¨, ¥to m© o¨¦e he xotm ac get¨.
+MOB_67A	tomm, ¬ gyma« © goh© gt, c©¦te?
+MOB_67B	© he hpatec¨ at¬ham.
+MOB_68A	tomm, c©hok, y meh¬ g¬ te¬ c«ppª.
+MOB_68B	¬  ctyg c xygohkam
+MOB_68C	o¥emy t© he ªaat ªa ªt?
+MOB_68D	t© ªhae¦¨,  ªtom ect¨ cm©c, yo? ygmc¬ oªe.
+MOB_70A	tomm, ªto ¬, koohe kopteª. cmotp ceh¨op, ¬ gyma« © tot ¥eoek, kotop© geaet c¸ pa¨ho. tak ¥to oaycta, omote mhe.
+MOB_70B	© hagete meh¬  ogke.
+MOB_72A	tomm, ªto ¬, ahc,  gep pot ªakp©t©m, 'ce¥ac he pem¬ oopt¨.
+MOB_72B	mhe ha¥xat¨ ha to, ¥to © oopte. c ¥eo ªto? am ha meh¬ haeat¨, ga?
+MOB_72C	hyho oy¥¦e cegt¨ ªa mho. gaate ¥ecthy« go«. ohmaete...
+MOB_72D	tomm... o, cy¦a, ¥e, ¬ ªh¬«c¨. ªto to¨ko...
+MOB_72E	«g okpote¨cty«t mhe c« ªh¨, o§a¬c¨ co mho kak c peehkom.
+MOB_72F	mo pat gea ªto. oaycta, he geate ªtoo.
+MOB_72G	mhe hago gt.
+MOB_73A	tomm, ªto ct.
+MOB_73B	e, ct.
+MOB_73C	 pagy eh. © ¥ygo! ¬ ¥ygo! oh «¬t hac. m© epe¦em kh pekopgo, gpy.
+MOB_73D	a ot  ha¦a hapaga. hakohe  to,  ¬ moy peªt moeo ay gomo  ckaªat¨ emy ¥to oh ªatkhyc¬.
+MOB_73E	gaaa, ªto kpyto, ct.
+MOB_73F	kpyto? ¬ o¥eh¨ kpyto, ¥yak. cyep kpyto. cyep kpyto. oh hkoga he ep  meh¬. hkoga he gyma, ¥to ¬ peccep,  teep¨ - ¬ cgea ªto.
+MOB_73G	¬ cam© y¥¦ gpektop ophopa¥eckoo ¨ma, mo gpy. mhe p¬tho, ¥to ¬ ctpet ac.
+MOB_73H	caco ct.
+MOB_73I	¬ «« te¬, getka. he ªmeh¬ mhe, c©¦¦¨.
+MOB_73J	¬ c©¦y te¬. go cgah¨¬ ct.
+MOB_95	hagte takcooh.
+MOB_95A	hagte takcooh  maeh¨ko aahhe.
+MOB_96	hagte takcooh.
+MOB_96A	hagte takcooh oªe tepmhaa aªpoopta.
+MOB_97	hagte takcooh.
+MOB_98	hagte takcooh.
+MOB_98A	hagte takcooh   e oht.
+MOB_99	hagte takcooh.
+MOB_99A	hagte takcooh p¬gom c aee  a¦htohe.
+MONTAX	ha¥h©e oy¥ehh©e  takc
+MOONBM	yhh© y¥
+MP5	MP
+MULE	my
+MXCARD	makc. eªymh© cka¥ok. (ft)
+MXCARDM	makc. eªymh© cka¥ok. (m)
+MXCARJ	makc. eªymh© cka¥ok  ©coty (ft)
+MXCARJM	makc. eªymh© cka¥ok  ©coty (m)
+MXFLIP	makc. eªymh© cka¥ok c epeopotom
+MXJUMP	makc. eªymh© cka¥ok c pa§ehem
+M_FAIL	mission failed
+M_PASS	mission pessed! $~1~
+NBMNBUY	ª¨ cahko kaªo kyeha: $~1~
+NBMN_C	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky ¥to© kyt¨ cahok kaªa g¬ $~1~
+NBMN_L	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky ¥to© kyt¨ cahok kaªa g¬ $~1~
+NBMN_T	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky ¥to© kyt¨ cahok kaªa g¬ $~1~
+NEWCONT	ho© ~h~kohtakth© yhkt ~w~ otkp©c¬ ha epey okeaha!!
+NEW_REC	~g~©paha hoa¬ ªac¨!! ~w~~1~ mhyt ~g~ ~w~~1~ cekyhg.
+NITRO	ce takc teep¨ moyt yckop¬t¨c¬! hamte ha khoky ygka.
+NMISON	o©tka mcc
+NOCD	het gcka. oaycta, cta¨te gck.
+NOMONEY	~g~am hyho o¨¦e gehe!
+NOSTUC	het h oghoo ªakoh¥ehhoo eªymhoo tp«ka
+NOTAXI	~g~am hyho takc kaymaha ¥to aktpoat¨ mcc«.
+NOUNIF	yhka¨h© p©ok ªaep¦eh
+NOV	ho¬p¨
+NO_PCCD	oaycta cta¨te a¦ cD GTA Vice City,  hamte ESC ¥to© otmeht¨
+NUMBER	~1~
+NUMSHV	oce§ehe eªoachoo goma
+OCEANIC	okeahck
+OCHEBUY	kyeh© aaptameht© okeahcko ©cot©: $~1~
+OCHE_C	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky ¥to popect aaptameht© okeahcko ©cot© g¬ $~1~
+OCHE_L	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky ¥to popect aaptameht© okeahcko ©cot© g¬ $~1~
+OCHE_T	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky ¥to popect aaptameht© okeahcko ©cot© g¬ $~1~
+OCT	okt¬p¨
+OPENCD	otkp©ta kapetka. oaycta, ªakpote cgpom.
+OUTFT1	y a
+OUTFT10	tpehpoo¥h© koct«m
+OUTFT11	tpehpoo¥h© koct«m
+OUTFT12	pªhk
+OUTFT13	MC tomm
+OUTFT2	ªah© e¥ep
+OUTFT3	pao¥ komheªoh
+OUTFT4	ªaopogh© ky
+OUTFT5	aaha
+OUTFT6	o eck
+OUTFT7	ªhk goy?
+OUTFT8	cy¥ah© ocette¨
+OUTFT9	ocogh epcett
+PACKER	¦yep
+PAGEB11	ohemet goctaeh  ykp©te.
+PAGEB13	ªgopo¨e goctaeho  ykp©te
+PAGEB14	agpehah goctaeho  ykp©te
+PAGE_00	.
+PAGE_01	Kill ~1~¥eh© ahg©  2 mhytax!
+PAGE_02	Destroy ~1~ tpahcopth©e cpegcta  2 mhytax  !
+PAGE_03	Drive-by and Waste ~1~¥eh© ahg©  2 mhytax!
+PAGE_04	Runover and Kill ~1~ ¥eh© ahg©  2 mhytax!
+PAGE_05	Gun Down ~1~ ¥eh© ahg©  2 mhytax!
+PASDRO	accap© ©cagc¨
+PATRIOT	atpot
+PBOAT_1	hamte ~h~~k~~PED_FIREWEAPON~ ~w~khoka, ¥to© ctpe¬t¨ o opyg¬m cygha.
+PBOAT_2	hamte ~h~~k~~PED_FIREWEAPON~ ~w~khoka, ¥to© ctpe¬t¨ o opyg¬m cygha.
+PCJ600	PCJ 600
+PCRESRT	ha¥ao hoo p©. oaycta gte...
+PEREN	mhooethee pactehe
+PERPIC	hageh cp¬tahh© ceptok
+PER_COM	ªaep¦eho po ehto
+PE_WAST	«g, kotop©x © y
+PE_WSOT	«g, yt©e gpym
+PHIL	mcc a
+PHIL1	mcc¬ a 1
+PHIL2	mcc¬ a 2
+PHIL_1	kohtpaahgct
+PHIL_2	ym¦ah caoh
+PHOENIX	hkc
+PICK1	poheet goctaeh  ote¨ g okeaha!
+PICK10	oxothk teep¨ goctyeh ª apmeckx kaªapm!
+PICK2	.357 goctaeho   ote¨ g okeaha!
+PICK3	 pky¨ha¬ a goctaeha  ote¨ g okeaha!
+PICK4	ohemet goctaeh  ote¨ g okeaha!
+PICK5	.308 chaep goctaeh  ote¨ g okeaha!
+PICK6	mh-y¦ka goctaeha  ote¨ g okeaha!
+PICK7	peaktha¬ yctahoka goctaeha  ote¨ g okeaha!
+PICK8	mopcko opoe teep¨ goctyeh ª ocoh¬ka ha octpoe mopcko ªeªg©!
+PICK9	tahk teep¨ goctyeh ª apmeckx apako!
+PISTOL	ctoet
+PIZ1_A	mcc¬ ma¨¥ka   ©
+PIZZABO	paªhoc¥k   ©
+PLANE_4	co¨ªyte ~h~~k~~VEHICLE_ACCELERATE~~w~ khoka g¬ yckopeh¬, eoo  paoo oopota.
+PLANE_H	co¨ªyte ~h~~k~~VEHICLE_ACCELERATE~~w~ khoka g¬ yckopeh¬, eoo  paoo oopota.
+PL_STAT	cocto¬he poka
+POLICAR	o ¬
+POLMAV	o eck hggyact
+POL_HQ	¦ta VCPD
+PONY	oh
+POR1_03	~r~kehg mepta!
+POR1_19	ª!
+PORN	mcc opho
+PORN1	mcc¬ opho 1
+PORN2	mcc¬ opho 2
+PORN3	mcc¬ opho 3
+PORN4	mcc¬ opho 4
+PORNBUY	khoctyg¬ kya: $~1~
+PORNI	octpo payh
+PORN_1	kamah¬ o epoke
+PORN_2	ggo gogo
+PORN_3	©ctpe ho¥ok mapt©
+PORN_4	G-poektop
+PORN_C	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoka,  ¥to© kyt¨ khoctyg« g¬ $~1~
+PORN_L	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoka,  ¥to© kyt¨ khoctyg« g¬ $~1~
+PORN_NO	© he moete kyt¨ khoctyg« ce¥ac, oªpa§atec¨ oªe.
+PORN_T	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoka,  ¥to© kyt¨ khoctyg« g¬ $~1~
+PQUINS	gea¨h© y¥etepehh© eªymh© tp«k
+PREDATR	x§hk
+PRINST	coep¦ehh© eªymh© okyc
+PRNT_C	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoka, ¥to© kyt¨ e¥ath©e ªgah¬ g¬ $~1~
+PRNT_L	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoka, ¥to© kyt¨ e¥ath©e ªgah¬ g¬ $~1~
+PRNT_NO	ce¥ac he cmoete kyt¨ e¥ath©e ªgah¬, ªaxogte ooªe.
+PRNT_T	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoka, ¥to© kyt¨ e¥ath©e ªgah¬ g¬ $~1~
+PROPOWN	agee  my§ecta
+PROP_1	y ac hegoctato¥ho ha¥h©x g¬ ªto coctehhoct
+PROP_2	© he moete okyat¨ coctehhoct¨ oka ©oh¬ete ªty mcc«
+PROT	mcc ªa§t©
+PRTRST	gea¨h© tpoho eªymh© tp«k
+PU_CF1	hamte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoka, ¥to© ogopat¨ ªto opye. oho ªameht «oe opye too e ta, kotopoe  y  ac ect¨ .
+PU_CF3	hamte ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~khoka, ¥to© ªameht¨ teky§ee opye  ªto §e.
+PU_CF4	hamte ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~khoka, ¥to© ªameht¨ teky§ee opye  ªto §e.
+PU_MONY	y ac hegoctato¥ho gehe.
+PYTHON	.357
+QUINST	y¥etepehh© eªymh© tp«k
+RACE1	~g~3..2..1..gte gte gte!
+RACE2	~g~3
+RACE3	~g~2
+RACE4	~g~1
+RACE5	~g~gte!
+RACEFA	~r~© he cmo ©pat¨ ohky!
+RACES	pem¬:
+RACES17	hooe y¥¦ee pem¬: ~1~:~1~
+RACES18	© oeg: $~1~
+RACES20	hooe y¥¦ee pem¬: ~1~:0~1~
+RACES21	pem¬: ~1~:0~1~
+RACES_4	3
+RACES_5	2
+RACES_6	1
+RACES_7	gte!
+RACES_9	pem¬: ~1~:~1~
+RACETM	~b~pem¬ ohk: ~1~:~1~
+RACETM2	~b~pem¬ ohk: ~1~:0~1~
+RAMPAGE	ohehe!!
+RAMP_A	ce oheh¬ okoh¥eh©!!
+RAMP_F	ohehe otepeo heyga¥y!!
+RAMP_P	ohehe po¦o!!
+RANCHER	epmep
+RANGE	gaaªoh htok
+RATNG1	kpeke(xopo¦o coehh©)? te
+RATNG10	kp©ca
+RATNG11	Leece
+RATNG12	xygohk-yk
+RATNG13	omah§k
+RATNG14	ko¥ecto eyho
+RATNG15	kapmahhk
+RATNG16	xyah
+RATNG17	ogohok
+RATNG18	mo¦ehhk
+RATNG19	heog¬
+RATNG2	h¥em he pme¥ate¨h©
+RATNG20	pectyhk
+RATNG21	ooopeª
+RATNG22	kgaa
+RATNG23	SA poma
+RATNG24	poma
+RATNG25	ªak«¥ehh©
+RATNG26	ªkc-pectyhk
+RATNG27	pectyhk
+RATNG28	ahctep
+RATNG29	ymhk
+RATNG3	hoc¨§k
+RATNG30	ogte¨
+RATNG31	haemh© ca¥
+RATNG32	haemh© y a
+RATNG33	oxothk ªa ooam
+RATNG34	hopcep
+RATNG35	pohh
+RATNG36	ocpeghk
+RATNG37	ahctep
+RATNG38	coo§hk
+RATNG39	m¬chk
+RATNG4	maaªhh© op
+RATNG40	yop§k
+RATNG41	haemh© y a
+RATNG42	kocp
+RATNG43	opo¥h© apeh¨
+RATNG44	paa¬ pyka
+RATNG45	aa¥
+RATNG46	etehaht
+RATNG47	otpoc©
+RATNG48	aa ahg©
+RATNG49	occ
+RATNG5	ahga
+RATNG50	aha¬ ¦¦ka
+RATNG51	goh
+RATNG52	kpecth© ote 
+RATNG53	hehageh©
+RATNG54	ªatpyghehe
+RATNG55	xakep
+RATNG56	mo¦ehhk
+RATNG57	oh© e 
+RATNG6	gee 
+RATNG7	op-kapmahhk
+RATNG8	ketomah?
+RATNG9	gohoc¥k
+RBM1_11	o¨¦e he hyho
+RBM1_3	o¨¦e he hyho
+RBM1_6	~g~oª¨mte mepcegec  ' cok « ' k opkectpy  ctyg« ªykoªac.
+RBM2_6	~g~h¥eo cee! oha eo octahoa!
+RBM3_5	~g~oª¨mte oa ct k mecty ctpe¥.
+RC4	'pymo ohehe'
+RCB1	ma¦ha  apaeha. ham  ~k~~TOGGLE_SUBMISSIONS~  g¬ ©poca pa  ma¦hk . m e§¸ pa g¬ p©a .      
+RCBANDT	RC ahgt
+RCBARON	RC apoh
+RCCANX	~r~RC camoet otmeheh.
+RCH1_1	het heoxogmoct het heoxogmoct het heoxogmoct het heoxogmoct het heoxogmoct
+RCH1_10	~b~o§ee pem¬: ~1~:0~1~
+RCH1_11	RC cy¥ah© y¥acthk 
+RCH1_2	~g~kohtpo¨h©e yhkt© pacce¬h© o cemy aªpoopty.
+RCH1_3	het heoxogmoct het heoxogmoct het heoxogmoct het heoxogmoct het heoxogmoct
+RCH1_5	pem¬:
+RCH1_6	~g~co¨ªyte RC eptoet, ¥to© copat¨ pacce¬hh©e kohtpo¨h©e yhkt©  co ceo aªpoopta..
+RCH1_9	~b~o§ee pem¬: ~1~:~1~
+RCPL1_1	~g~ªakoh¥te  kohtpo¨hy« ohky c 3 gpym RC apoha
+RCPL1_2	~g~© goh© pot  ~o~ ehtp kopoh© ~g~g¬ yce¦hoo poxogeh¬ kohtpo¨hoo yhkta.
+RCPL1_3	~g~teep¨ goeptec¨ go ctaptoo cetk!
+RCPL1_7	RC ohka apoha
+RCR1_3	~g~ec © xotte ªakoh¥t¨ mcc« hamte ~h~~k~~PED_FIREWEAPON~ ~g~khoka, ¥to© ªopat¨ a¦ RC atomo¨.
+RCR1_5	RC ohka ahgta
+RCRAIDE	RC haet¥k
+RCRC1_2	~g~teep¨ goeptec¨ go ctaptoo cetk!
+RCRC1_4	~g~3
+RCRC1_5	~g~2
+RCRC1_6	~g~1
+RCRC1_7	~g~gte!
+RCRC1_8	~g~pem¬ ohk: ~1~ cekyhg
+REEFER	«ha
+REGINA	peha
+RELOAD	~g~© ©pa cocohoct¨ ©ctpo epeªap¬gk!
+REPLAY	otop
+RESTART	ha¥ao hoo p©
+REWARD	hapaga $~1~
+RHINO	pho
+RIO	po
+ROCK	mcc pok-py©
+ROCK3	mcc¬ pok-py© 3
+ROCK_1	«oh© ªkcp
+ROCK_2	y a-cx
+ROCK_3	pekamh© typ
+ROCK_4	kyak «!!
+ROK1_1E	~g~ªto yget ctot¨ o¨¦e ¥em y ac ect¨!
+ROK1_1F	~g~oªpa§atec¨ koga y ac ygyt geh¨.
+ROK1_4	~g~xopo¦o, ¬ gyma« ªto to, ¥em © ygete oce...
+ROK3_72	kyak «!
+ROMERO	kataak pomepo
+RUGER	kp«ep
+RUMPO	pymo
+R_TIME	pem¬ ohk:
+SABRE	cape
+SABRETU	typo cape
+SANCHEZ	cah¥eª
+SANDKIN	ec¥ah© kopo¨
+SAVE1	poyka k kopohe ~h~ªacat¨ py~w~. © he moete ªacat¨ py o pem¬ mcc.
+SAVE2	«oe cpegcto epegeh¬ octaehoe  apae octahetc¬ oce ªac p©.
+SCARF	aaptameht© 3c
+SCREWD	oteptka
+SEAGULL	ctpe¨© o ¥akam ª ykp©t¬
+SEASPAR	mopcko opoe
+SECOND	~b~2nd
+SECURI	cek¨«patop
+SEG3_1	pem¬:
+SEG3_10	~g~© oa o  e! 2 octaoc¨.
+SEG3_11	~g~© oa o  e! to¨ko 1 octaoc¨!
+SEG3_12	~r~© he oa o  e! gte  oª¨mte omy!
+SEG3_13	~g~poc¨te omy  ªohy  e.
+SEG3_14	~r~© c¥epa pem¬  he cmo yh¥tot¨ ªgahe.
+SEG3_15	~r~a¦ Rc pagep © yh¥toeh! kak © teep¨ ygete tpahcoptpoat¨ om©?
+SEG3_2	~g~goeptec¨ go ypoha  kotopom ect¨ RC pagep  om© c pagoªp©ateem.
+SEG3_3	~g~© goh© co¨ªoat¨ RC pagep ¥to© tpahcoptpoat¨ 4 om© k 4  e¬m ha ctpote¨hom y¥actke.
+SEG3_4	~g~t© moe¦¨ copat¨ om©, otpy¬ co gctah ohh© camoet ha hee, g¬ pocka om© mte ~h~~k~~PED_FIREWEAPON~ ~g~khoky.
+SEG3_6	~g~g¬ to¥hoo opaeh¬ ©pahho ªoh©, © goh© cpoct¨ omy, okaªahhy«  ~q~poªoo to¥ko ~w~. © moete poct¨ om©  «om op¬gke.
+SEG3_7	~g~koga © yce¦ho cpocte epy« omy  ªohy opaeh¬, to oget tamep getoha ;  ©ogh© ycet¨ ªa ªto pem¬ cpoct¨ ce om©.
+SEG3_8	~g~ce 4 om© goh© haxogt¨c¬  4 ªohax opaeh¬ g¬ poxogeh¬ mcc  paªpy¦eh¬ ªgah¬.
+SEG3_9	~g~© opaª  e¨! e§e 3  e.
+SENTINL	¥acoo
+SENTXS	¥acoo XS
+SEP	ceht.
+SERG3_5	~g~© moete epeeªt to¨ko oghy omy ªa paª  he moete ogpat¨ yce¦ho yctahoehh©e.
+SET1EN	hactpoka 1. k
+SHOTGN1	py¨e 
+SHOTGN2	S.P.A.S. 12
+SHOTGN3	kopotkoe py¨e
+SHO_RAN	ªoha ga¨hoct ©ctpea
+SKIMMER	ckmmep
+SKUMBUY	oy¥eh opt ckmmepa: $~1~
+SKUM_C	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ oy¥eh¬ opta ckmmepa $~1~
+SKUM_L	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ oy¥eh¬ opta ckmmepa $~1~
+SKUM_T	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ oy¥eh¬ opta ckmmepa $~1~
+SNIPE	py¨e chaepa
+SPAND	©ctp© cahg
+SPARROW	opoe
+SPEED	km/¥
+SPEEDER	xa¥
+SPRAYIN	pac©te
+SQUALO	h§eta
+STALION	epee 
+STARI	octpo ctap¦
+STFT_01	©ctpe¦ee pem¬ ha 'koecax cta'
+STFT_02	©ctpe¦ee pem¬ ha 'ogtee' 
+STFT_03	©ctpee cex ha ko¨ e p¬ª 
+STFT_04	©ctpee cex ha ypa¬em©x ahepax
+STFT_05	©ctpee cex ha ypa¬em©x kapax
+STFT_06	©ctpee cex ha ha ypa¬em©x eptoetax
+STFT_07	©ctpee cex ha '©c¦e ckopoct' 
+STFT_08	©ctpee cex ha 'okeahckom ogeh'
+STFT_09	©ctpee cex ha 'ee c pepagam'
+STFT_10	©ctpee cex ha 'kpyªe cto ' 
+STFT_11	©ctpee cex ha 'type!'
+STFT_12	©ctpee cex ha '©hococt'
+STFT_13	©ctpee cex ha hhe moto ketho kohtp. to¥ke
+STFT_14	©ctpee cex ha kohtp. to¥ke ogh©x moto ko
+STFT_15	©ctpee cex ha moto kethom kohtp. to¥ke
+STFT_16	©ctpee cex ha kohtp. to¥ke maeh¨koe at
+STFT_17	©ctpee cex ha 'PCJ o§agke'
+STFT_18	©ctpee cex ha 'tpae  p¬ª'
+STFT_19	©ctpee cex ha 'tecte tpacc©'
+STFT_20	©ctpee cex ha 'ke eªym e'
+STFT_21	©ctpee cex ha xotphe
+STFT_22	y¥¦ kpy ha xotphe
+STFT_23	y¥¦ee pem¬ ha kohtp. to¥ke ¥ap
+STHC_01	y¥¦ c¥et g¬ ctpeka
+STHC_02	y¥¦a¬ to¥hoct¨ g¬ ctpeka
+STHC_03	¥co ept 
+STHC_04	y¥¦ c¥et g¬ ctpe¨© o et¬§e tapeke
+STHC_05	y¥¦ c¥et xotpha
+STINGER	cthep
+STOCK	~r~eª pyko¬tk
+STPR_1	may
+STPR_10	otgeehe c¬ªe
+STPR_11	ª¨ cyohko kaªa
+STPR_12	1102 a¦htoh-ctpt
+STPR_13	okeahckoe ome§ehe
+STPR_14	opt
+STPR_15	¥eoek kohgo
+STPR_2	topa¬
+STPR_3	khoctyg¬
+STPR_4	apka mopoehoo
+STPR_5	ªa ma¦h
+STPR_6	takc-komah¬
+STPR_7	ogo¥ha¬
+STPR_8	ky gepo
+STPR_9	3321 to¥ka ac
+STRETCH	yghehe
+STRIP	'ky gepo' 
+STRIP_1	~r~he xataet gehe, t© ge¦eka.
+STRPBUY	popeteh ky gepo: $~1~
+STRP_C	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ ctyeh¬  ky gepo ªa $~1~
+STRP_L	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ ctyeh¬  ky gepo ªa $~1~
+STRP_NO	he¨ª¬ kyt¨ ctptª-ky ce¥ac, pxog oªe.
+STRP_T	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ ctyeh¬  ky gepo ªa $~1~
+ST_2WHD	ghha¬ gctah ¬  2 koeca(m)
+ST_2WHE	ghhoe pem¬ g¬ 2 koec (secs)
+ST_ASSI	kohtpakt ha ycto ªak«¥eh 
+ST_AUTO	atoocctahoehe  pecypc©  eto 
+ST_BRK	¥co yt©x 
+ST_DAMA	cocto yh¥toeho
+ST_DRWN	p©h© eg
+ST_FASH	pecypc© caoho
+ST_FAVR	«ma¬ pagoctah ¬
+ST_FAVV	«m© tpahcopt
+ST_FTIM	¥ac© oeta
+ST_GANG	mhma¨h© haop
+ST_GARB	coªgah cop§k mycopa
+ST_GNG1	kyh ©
+ST_GNG2	at¬he
+ST_GNG3	ctptohha
+ST_GNG4	haop gaªa
+ST_GNG5	cekpetha¬ oxpaha
+ST_GNG6	haop akepa
+ST_GNG7	haop ep¥ett
+ST_GNG8	o¨ep©
+ST_HEAD	¥co ©ctpeo  ooy
+ST_ICEC	'mopoehoe' pogaho
+ST_LOAN	oce§aet pocto§ko
+ST_LTBR	o¨¦oe pem¬  ygphe (cekyhg)
+ST_MOVI	kho¦h©e tp«k
+ST_PHOT	oy¥eho otopaom
+ST_PIZZ	goctaka ot   ©
+ST_PR01	et¥k
+ST_PR02	p¬goo aa 
+ST_PR03	o ep-et¥k
+ST_PR04	kapa
+ST_PR05	etehaht
+ST_PR06	cepaht
+ST_PR07	katah
+ST_PR08	¬¥meh
+ST_PR09	kh
+ST_PR10	kpach© apoh
+ST_PR11	yc¨
+ST_PR12	ag«ka
+ST_PR13	¦ythk
+ST_PR14	aph¦ka
+ST_PR15	a¨hct
+ST_PR16	maepk
+ST_PR17	hyc
+ST_PR18	map¦a aa 
+ST_PR19	ac
+ST_PRAN	ypoeh¨ ota
+ST_PROP	¥h© pecypc
+ST_RAN0	y¥ehk
+ST_RAN1	¦typmah
+ST_RAN2	II ot
+ST_RAN3	mag¦
+ST_RAN4	ohopah©
+ST_RAN5	ctap¦
+ST_RAN6	ac
+ST_RAN7	kpach© apoh
+ST_STAR	o§ee ¥co hyh©x ªeªg gocthyto
+ST_STGN	o§ee ¥co hyh©x ªeªg he gocthyto
+ST_STOD	hao¨¦a¬ gctah ¬ octahok (m)
+ST_STOP	hao¨¦ee pem¬ octahok (cek)
+ST_STOR	ymeh¨¦ehh© apceha
+ST_TIME	pem¬ p©
+ST_WEAP	pecypc© opy¬
+ST_WHED	hao¨¦a¬ gctah ¬ koeca (m)
+ST_WHEE	hao¨¦ee pem¬ koeca (cek)
+ST_WSTR	xot¬ © «moe pago
+SUNSHIN	pagoct¨ aytoc
+S_PROMP	koga © he ha mcc, to moete coxpaht¨ coe ooehe koek ohpoahem kaccet ta ~h~.
+T4X4_1	'PCJ o§agka'
+T4X4_3	'cxa¥eh!'
+T4X4_F	~r~© opy¥c¨! t¬eo g¬ ac?!
+TAX2_4	g, tomm.
+TAX2_5	¥ept eo oep.
+TAX2_6	y heo gae het  ehª.
+TAX2_7	k ¥epty ycy mo.
+TAXI	takc
+TAXI2	~r~y te¬ het pemeh!
+TAXIBUY	pma takc popeteha: $~1~
+TAXI_1	V.I.P.
+TAXI_2	gpyeckoe copehoahe
+TAXI_3	kamaeggoh
+TAXI_C	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ ©ªoa takc ªa $~1~
+TAXI_L	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ ©ªoa takc ªa $~1~
+TAXI_M	'takc¦hk'
+TAXI_NO	t© he moe¦¨ kyt¨ komah« takc ce¥ac, pxog oªghee.
+TAXI_T	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ ©ªoa takc ªa $~1~
+TAXSHRT	~g~mecto ogeh¬ moe¦¨ ª¬t¨ ªtot kª kaymaha. oh ctot tee $9.
+TAXW1_5	~g~t© goeh ©t¨  kahe!
+TAXW3_1	~g~g  oma mepcegec.
+TAXWAR	oehh©e mcc takc
+TAX_1	takc kaymah
+TEC9	tek 9
+TEX1_5	~r~oh ypac¬!
+TEX3_9	~g~ªaep omy, hapa ypa¬em© gctah ohho eptoet.
+TEXTXYZ	koopghat© ªacah©  ae...
+TEX_1	¥et©pe eeªa
+TEX_2	ga ta ygapa
+TEX_3	paªpy¦te¨
+THIRD	~b~3-
+TIMER	ªta mcc¬ ha pem¬, hago ªaep¦t¨ ee, oka tamep he goget go hy¬.
+TIR_C	m¬co
+TMANS	mehe ep¥ett
+TM_BUST	pem¬ otep¬ho
+TM_DED	oce§eh¬ octa¬
+TOPFUN	ahat
+TOP_SHO	to-c¥et ctpe¨©  oohe
+TOTDISM	ceo gctah  pogeho(m)
+TOT_DIS	ceo gctah  pogeho(m¬)
+TRASHM	mycop§k
+TRINST	tpg© cymac¦eg¦ tp«k
+TROPIC	tpo¥eck
+TSCORE	goxog©: $~1~
+TTUTOR	mte ~h~~k~~TOGGLE_SUBMISSIONS~ khoky~w~ g¬ k/©k mcc takc.
+TTUTOR2	mte ~h~~k~~TOGGLE_SUBMISSIONS~ khoky~w~ g¬ k/©k mcc takc.
+TYREPOP	ycta¦x p ctoetam
+TYRESLA	ycta¦e opeªah© khkom
+UMBERTO	kae poha
+USJ	yhka¨h© ohyc tp«ka!
+USJ_ALL	ce yhka¨h©e tp«k cgeah©!
+UZI	yª-1
+VCNMAV	VCN pog¬a
+VCPTBUY	3321 to¥ka popeteha: $~1~
+VCPT_C	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ 3321 to¥k ªa $~1~
+VCPT_L	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ 3321 to¥k ªa $~1~
+VCPT_T	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ popeteh¬ 3321 to¥k ªa $~1~
+VICE_C	ªo opog
+VIRGO	gea
+VOODOO	ygy
+WALTON	otoh
+WANT_A	ac ¦¨ apecty«t, ec y ac ect¨ ~h~ hyh© ypoeh¨.
+WANT_B	a¦ ~h~hyh© ypoeh¨ ~w~ pegctaeh p¬gom ªeªg  epxhe pao ¥act ªkpaha.
+WANT_C	ce¥ac y ac ect¨ ~h~hyh© ypoeh¨ ~w~ogh...
+WANT_D	ga...
+WANT_E	tp...
+WANT_F	kak to¨ko a¦ ~h~hyh© ypoeh¨ ~w~ yy¥¦tc¬, to o¬¬tc¬ oee mo§h©e opm© ªakohhoo gaeh¬.
+WANT_G	ec~h~'oaaetec¨'~w~, to ephetec¨  a¦ o eck y¥actok.
+WANT_H	ko© ªaepyt ce a¦e opye  hemhoo gehe ªa ª¬tky.
+WANT_I	«a¬ a¦a mcc¬, ¥to © ©oh¬ete, poatc¬.
+WANT_J	¥em o¨¦e paete, tem o¨¦e hagete yte ymeh¨¦t¨ co ypoeh¨.
+WANT_K	ec ©  ma¦he, ~h~pac©te~w~ goh© ~h~o¥ctt¨ hyh© ypoeh¨.
+WANT_L	a¦ hyh© ypoeh¨ ªac, ec coep¦te pectyehe, oka ªeªg© op¬t, a¦ hyh© ypoeh¨ occtahotc¬.
+WASHBUY	1102 a¦htoh ctpt popeteh: $~1~
+WASHING	a¦htoh
+WASH_C	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ okyk 1102 a¦htoh ctpt ªa $~1~
+WASH_L	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ okyk 1102 a¦htoh ctpt ªa $~1~
+WASH_T	mte ~h~~k~~PED_ANSWER_PHONE~ ~w~khoky g¬ okyk 1102 a¦htoh ctpt ªa $~1~
+WEATHE1	ca oog© cohe¥ha¬
+WEATHE2	ca oog© o¥eh¨ cohe¥ha¬
+WEATHE3	ca oog© ty¥ha¬
+WEATHE4	ca oog© goga¬
+WEATHE5	ca oog© tymahha¬
+WEATHE6	ooga hopma¨ha¬
+WELCOME	gopo oaoat¨
+WHEEL01	goho ohyc gyx koec: $ ~1~ gctah ¬: ~1~.~1~m pem¬: ~1~ cekyhg
+WHEEL02	goho ohyc gyx koec: $ ~1~ gctah ¬: ~1~ yt pem¬: ~1~ cekyhg 
+WHEEL03	ohyc gyx koec: $ ~1~ pem¬: ~1~ cekyhg 
+WHEEL04	ohyc gyx koec: $ ~1~ gctah ¬: ~1~.~1~m
+WHEEL05	ohyc gyx koec: $ ~1~ gctah ¬: ~1~yt
+WHEEL06	koech© ohyc: $ ~1~ gctah ¬: ~1~.~1~m pem¬: ~1~ cekyhg
+WHEEL07	ohyc koech©: $ ~1~ gctah ¬: ~1~ yt pem¬: ~1~ cekyhg 
+WHEEL08	ohyc koech©: $ ~1~ pem¬: ~1~ cekyhg 
+WHEEL09	ohyc koech©: $ ~1~ gctah ¬: ~1~.~1~m
+WHEEL10	ohyc koech©: $ ~1~ gctah ¬: ~1~ yt
+WHEEL11	ohyc octahok: $ ~1~ gctah ¬: ~1~.~1~m pem¬: ~1~ cekyhg
+WHEEL12	ohyc octahok: $ ~1~ gctah ¬: ~1~ yt pem¬: ~1~ cekyhg
+WHEEL13	ohyc octahok: $ ~1~ pem¬: ~1~ cekyhg
+WHEEL14	ohyc octahok: $ ~1~ gctah ¬: ~1~.~1~m
+WHEEL15	ohyc octahok: $ ~1~ gctah ¬: ~1~ yt
+WHOOPEE	mp. y
+WIN_95	pahg-opocto ato VC he get og Windows 95
+WIN_DX	pahg-opocto ato VC tpeyet xot¬ © DirectX 8.1
+WIN_TTL	pahg-opocto ato VC
+WIN_VDM	pahg-opocto ato VC he moet hat goctato¥ho geoam¬t
+WRONGCD	gck c o¦ko. cta¨te pa¨h© gck.
+YANKEE	¬hk
+	
