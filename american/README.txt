@@ -18,16 +18,16 @@ Installation.
 3. Then start a new game.
 
 -------------------------------------------------- ---------------------------------
- - The character is the same - Tom Vercetti.
+ - The character is the same - Tommy Vercetti.
  - No more money accumulation at safe houses.
  - Corrupt FBI, Haitians, Cubans and bikers constantly find out among themselves
     relations.
  - You can save anywhere by holding down "sit down" for a couple of seconds.
- - Tom meets Don Salieri, who runs the LOST HEAVEN district. And further
+ - Tommy meets Don Salieri, who runs the LOST HEAVEN district. And further
     story missions follow, during which new opportunities and
     mission.
  - There will be missions in two phone booths.
- - In the course of the missions, Tom gets the opportunity to call himself on his mobile phone to different
+ - In the course of the missions, Tommy gets the opportunity to call himself on his mobile phone to different
     people who give assignments. (hold down <action> for a couple of seconds)
  - Maximum health - 100%, armor - 100%. But in the hotel "OCEAN VIEW" prostitutes
     charge up to 200% health. And in the LOST HEAVEN area there are ice cream makers who
