@@ -1,0 +1,21 @@
+{
+  "name": "gta-city-of-lost-heaven",
+  "version": "2.0.0",
+  "description": "A Mafia-themed mod for GTA Vice City that adds a new city area, new missions, new game modes and much more :D",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadValentin/gta-city-of-lost-heaven.git"
+  },
+  "keywords": [
+    "mafia",
+    "vice city",
+    "city of lost heaven",
+    "mod"
+  ],
+  "author": "DENISka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadValentin/gta-city-of-lost-heaven/issues"
+  },
+  "homepage": "https://github.com/RadValentin/gta-city-of-lost-heaven#readme"
+}
