@@ -11,8 +11,7 @@
 
 ## Notes
 
-VC Limit Adjuster Settings that work fine for me
-
-- Steaming memory = 75
-- Buildings = 9000
-- Dummys = 4000
+VC Limit Adjuster Settings that work fine for me:
+- Steaming memory - **128**
+- Buildings - **9000**
+- Dummys - **4000**
