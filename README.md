@@ -1,17 +1,53 @@
 # GTA: City of Lost Heaven
 
-## Development Log
+> Mafia themed total conversion mod for GTA:VC
 
-1. **29 Jul 2020** - Managed to find the mod hosted on [libertycity.ru](https://libertycity.ru/files/gta-vice-city/32150-the-city-of-lost-heaven.html). As far as I can tell, this is the same version that I played back in 2005 and the only one to my knowledge. Luckily, I also find a way to unpack the translation files with [GXT Extractor](https://github.com/CookiePLMonster/GXT-Extractor). The command is `python gxt-extract.py mod/american.gxt` but it does require a newer version of Python, I'm using `3.8.5`.
-1. **30 Aug 2020** - Going through the unpacked translations I notice that instead of cyrilic glyps, the text files contain weird junk characters. At first I suspect there's something wrong with either my editor or the extractor but after a few hours of troubleshooting I realize that `GTA: Vice City` did not ship with support for non-EFIGS languages. Now comes the realization that the text files are actually correct, all those weird characters can map to valid ones when the game's running if we provide it an updated `fonts.txd`. And guess what, that file was never included with the mod so it's impossible to tell what maps to what 😢
-1. **31 Aug 2020** - Found another repo where someone went through the same thought process as me: [Vice-City-Russian-1C-GXT](https://github.com/DelmorS/Vice-City-Russian-1C-GXT). Their solution: spend hours with "Find and Replace" going through the whole alphabet, making corrections, praying it will somehow work out in the end. Even for an expert Russian speaker this is a sisyphean task... good thing I don't speak Russian 😂
-1. **1 Aug 2020** - I've assembled my toolset: Google Translate, the official Vice City English translation, the Russian translation with proper characters put together by DelmorS and the Russian translation for the mod with broken characters. I go through the files in parallel replacing characters, checking that words make sense and eventually I'm left with something that resembles a written language.
-1. **1 Aug 2020** - Looking at the files and comparing them to the American translation, it looks like the unique lines of text in this mod are all located in `MAIN.txt`. At 2453 lines of text, this is the largest translation file in the game but on the plus side we're down to 1 text file from 79!
-1. **10 Aug 2020** - I was browsing the [forum thread](https://gtaforums.com/topic/177544-city-of-lost-heaven/) where "City of Lost Heaven" was first released and saw that one of the posters had reuploaded the mod after the original link died. There was no mention of it being in any way different but this reuploaded version had translations from `Feb 2005` (vs `Jan 2005` for the version I had) and they're in English. By using trusty WinMerge to compare the extracted files, I was able to isolate 67 unique lines of text. Looks like it's smooth sailing from here on out 😎
+
+Explore the new Lost Heaven district of Vice City, enjoy a storyline with 13 challenging missions, 23 races, a football minigame and many other new features (see below).
+
+## Gameplay
+
+- **SAVE GAME** 💾 - Save anywhere by doing a slav squat (hold crouch for a couple of senconds)
+- **MAIN MISSION** 🎩 - Go to the map marker in Lost Heaven and gain Don Salieri's favor and the support of the mafia
+- **PHONE MISSIONS** 📱 - After the 3rd story mission you press `TAB` for a couple of seconds to call Lovefist or Paulie and they'll give you different tasks
+- **FOOTBALL** ⚽ - Go to the stadium and try to beat the Haitians in a fair game (no violence, limited sprinting). Press *RET* or *F* to kick the ball high or *TAB* to kick it straight when near the goal post
+- **BIKE RACE** 🏍️ - There's a hidden PCJ motorcycle in Lost Heaven, hop on it to start a race
+- **200 HEALTH** ❤️ - Go to the "Ocean View Hotel" and climb up to your apartment, the ladies will take care of you 😉
+- **HEALTH & ARMOR** 🍦 - On the streets of "Lost Heaven" you'll sometimes find an ice cream van, press `TAB` near it and you'll be good as new
+- **NITRO** 🏎️ - Buy it for $5000 from any `Pay 'n' Spray`
+- **VEHICLES** 🛵 - There are 3 dudes in Lost Heaven that will give you vehicles for free if you approach them
+- **SPEED BONUS** 💸 - Crazy fast = crazy rich
+- **MAYDAY** 🛩️ - The SKIMMER plane can take off from land and drop bombs. You'll find it near Lost Heaven, have fun 😆
+
+## Installation
+
+🚨 The mod is still heavily under construction, expect major issues in the English translation 🚨
+
+- Start with a new and working install of GTA: Vice City
+- Download the repo by clicking `Code > Download ZIP`
+- Unzip the repo to a directory of your choosing
+- Unzip `GTA Mod Installer` and `VC Limit Adjuster` from the `tools/` directory
+- Start `GTA Mod Installer`
+  - Select `Install a Mod (with a script file) to GTA3 or Vice City`
+  - Select `I want to select a folder that contains all fo the mod's files`
+  - Browse to your Vice City install dir
+  - (Optional) Allow mod installer to create a backup
+  - Let the install run
+- Start `VC Limit adjuster`
+  - Open `gta-vc.exe` from your Vice City install dir
+  - Change the values as follows:
+    - Steaming memory - **128**
+    - Buildings - **9000**
+    - Dummys - **4000**
+  - Save
+- Play the game and enjoy!
+
+## Tips
+
+- You can skip cutscene text by pressing the **SPRINT** button
+- The game may crash if you buy NITRO and later try to start a mission
+- Buying NITRO for the dirtbike (Sanchez) before the second mission will prevent further missions from unlocking 
 
 ## Notes
 
-VC Limit Adjuster Settings that work fine for me:
-- Steaming memory - **128**
-- Buildings - **9000**
-- Dummys - **4000**
+`GTA: City of Lost Heaven` was originally released in [2005 by Deniska](https://gtaforums.com/topic/177544-city-of-lost-heaven/). All of the dialog and text in the game were changed to Russian with an English version planned but never fully delivered. The aim of this repo if to create a proper English translation for City of Lost Heaven so that fans in the west can finally enjoy playing it.
