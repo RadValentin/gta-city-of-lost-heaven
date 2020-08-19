@@ -1,6 +1,4 @@
-# GTA: City of Lost Heaven
-
-> Mafia themed total conversion mod for GTA:VC
+# GTA: City of Lost Heaven  [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/RadValentin/gta-city-of-lost-heaven)
 
 Explore the new Lost Heaven district of Vice City, enjoy a storyline with 13 challenging missions, 23 races, a football minigame and many other new features (see below).
 
