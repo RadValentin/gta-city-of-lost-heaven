@@ -2,8 +2,9 @@
 
 > Mafia themed total conversion mod for GTA:VC
 
-
 Explore the new Lost Heaven district of Vice City, enjoy a storyline with 13 challenging missions, 23 races, a football minigame and many other new features (see below).
+
+![City of Lost Heaven](./docs/assets/city-of-lost-heaven-banner.jpg)
 
 ## Gameplay
 
