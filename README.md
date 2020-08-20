@@ -45,7 +45,13 @@ Explore the new Lost Heaven district of Vice City, enjoy a storyline with 13 cha
 
 - You can skip cutscene text by pressing the **SPRINT** button
 - The game may crash if you buy NITRO and later try to start a mission
-- Buying NITRO for the dirtbike (Sanchez) before the second mission will prevent further missions from unlocking 
+- Buying NITRO for the dirtbike (Sanchez) before the second mission will prevent further missions from unlocking
+
+## Development
+
+### Mass build textures with MAGIC.TXD
+
+<img src="./docs/assets/mass-build-textures.jpg" alt="Mass Build Textures" width="512"/>
 
 ## Notes
 
