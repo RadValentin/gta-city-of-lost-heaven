@@ -125,13 +125,13 @@ BNK4_2A	maximum of speed :  $~1~
 BNK4_32	press ~h~~k~~PED_ANSWER_PHONE
 BNK4_36	~g~armor - ~r~100~g~. health - ~r~100.
 BNK4_37	to fly press  ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~. bombs -   ~h~~k~~PED_FIREWEAPON
-BNK4_38	That's the last of them. GO! GO! GO!
-BNK4_3G	Oh crap, now the cops are onto us!
-BNK4_3H	- and we're not even there yet.
+BNK4_38	?
+BNK4_3G	?
+BNK4_3H	?
 BNK4_3K	We'll have to lose the cops first...
-BNK4_3L	нoвЫи pekopД : ~н~0~1~:0~1~
-BNK4_3N	pekopД тpaccЫ : ~н~0~1~:0~1~
-BNK4_42	pekopД тpaccЫ : ~н~0~1~:~1~
+BNK4_3L	?
+BNK4_3N	?
+BNK4_42	?
 BNK4_43	I've got our asses covered, DRIVE!
 BNK4_44	you must be in plane
 BNK4_45	get the airplane and throw bombs to drugdillers
