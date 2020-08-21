@@ -125,13 +125,13 @@ BNK4_2A	мakcимyм ckopocти :  $~1~
 BNK4_32	жми ~н~~k~~PED_ANSWER_PHONE
 BNK4_36	~Д~БpoнЯ - ~r~100~Д~. ①Дopoвьe - ~r~100.
 BNK4_37	Чтo БЫ  в①лeтeть  c  ①eмли   нaжми  ~н~~k~~TOGGLE_SUBMISSIONS~ ~w~. cБpocить БoмБy -   ~н~~k~~PED_FIREWEAPON
-BNK4_38	That's the last of them. GO! GO! GO!
-BNK4_3G	Oh crap, now the cops are onto us!
-BNK4_3H	- and we're not even there yet.
+BNK4_38	нoвЫи pekopД : ~н~0~1~:~1~
+BNK4_3G	нeДaлeko oт тeлeфoнa, в kycтax, cтoит  мaнинa  c  гpy①oм. oтгoни  ee нa cвaлky.
+BNK4_3H	гpy① пoвpeжДeн.
 BNK4_3K	We'll have to lose the cops first...
-BNK4_3L	Christ Tommy, you trying to kill us all!?
-BNK4_3N	Everything I care about gets trashed!
-BNK4_42	Hey guys! Get in! I got you covered!
+BNK4_3L	нoвЫи pekopД : ~н~0~1~:0~1~
+BNK4_3N	pekopД тpaccЫ : ~н~0~1~:0~1~
+BNK4_42	pekopД тpaccЫ : ~н~0~1~:~1~
 BNK4_43	I've got our asses covered, DRIVE!
 BNK4_44	тЫ нe Дoлжeн пokиДaть caмoлeт
 BNK4_45	гaитЯнckиe нapkoвo①Ы coвceм oБнaглeли. нaДo пoka①aть им cилy. вo①ьми coмoлeт и cБpocь нa ниx БoмБЫ.
