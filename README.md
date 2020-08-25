@@ -53,6 +53,10 @@ Explore the new Lost Heaven district of Vice City, enjoy a storyline with 13 cha
 
 <img src="./docs/assets/mass-build-textures.jpg" alt="Mass Build Textures" width="512"/>
 
+## Credits
+
+- Radardisc texture from [Mafia Upgrade Altin](https://gamemodding.com/en/mafia-the-city-of-lost-heaven/others/52534-hd-spidometr-iz-mafia-upgrade-altin.html) mod
+
 ## Notes
 
 `GTA: City of Lost Heaven` was originally released in [2005 by Deniska](https://gtaforums.com/topic/177544-city-of-lost-heaven/). All of the dialog and text in the game were changed to Russian with an English version planned but never fully delivered. The aim of this repo if to create a proper English translation for City of Lost Heaven so that fans in the west can finally enjoy playing it.
