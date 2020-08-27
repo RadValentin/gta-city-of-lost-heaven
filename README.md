@@ -49,9 +49,8 @@ Explore the new Lost Heaven district of Vice City, enjoy a storyline with 13 cha
 
 ## Development
 
-### Mass build textures with MAGIC.TXD
-
-<img src="./docs/assets/mass-build-textures.jpg" alt="Mass Build Textures" width="512"/>
+1. Mass build textures with MAGIC.TXD <br/><img src="./docs/assets/mass-build-textures.jpg" alt="Mass Build Textures" width="512"/>
+1. Assemble the mod files by running `tools\build-american-mod.bat` or `tools\build-russian-mod.bat`
 
 ## Credits
 
