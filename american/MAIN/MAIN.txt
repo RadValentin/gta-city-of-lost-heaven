@@ -10,55 +10,55 @@ APACHE	Hunter delivered to helipad in Ocean Beach.
 APR	Apr
 ARMOUR	Body Armor
 ASM	ASSASSIN MISSIONS
-ASM1_1	жми  ~н~~k~~PED_SPRINT~  ~w~- ЧтoБЫ пo①вoнить фиcтy.  ~н~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~   ~w~-пo①вoнить пayли.  ~н~~k~~VEHICLE_ENTER_EXIT~  ~w~-  пo①вoнить филy. ~н~~k~~PED_DUCK~  ~w~   - пo①вoнить Бaиkepy. ~н~~k~~PED_ANSWER_PHONE~ ~w~-  вЫxoД
-ASM1_2	БaиkepЫ
-ASM1_3	гaитЯн Ы
-ASM1_4	Дoпинг
-ASM1_B	тЫ пoБeДил! $~1~
-ASM1_C	Диckвaлифиka иЯ ①a Дoпинг
-ASM3_1	~w~ниЧьЯ
-ASM3_10	~w~Чтo БЫ вecти мЯЧ - Бeги пepeД ним . ~н~~k~~VEHICLE_ENTER_EXIT~ ~w~- yДap . ecли okoлo вopoт пpoтивниka  ~н~~k~~PED_ANSWER_PHONE~ - ~w~yДap пo вopoтaм.
-ASM3_2	пayли
-ASM3_3	~r~пayли м¸pтв
-ASM3_4	вceгo:
-ASM3_5	coБpaнo:
-ASM3_6	~Д~ЧтoБЫ пo①вoнить ①aжми ~w~~k~~PED_ANSWER_PHONE~  ~Д~нa Двe cekyнДЫ
-ASM3_7	жми ~н~~k~~PED_CYCLE_TARGET_LEFT~ ~w~- ДлЯ пpokpyтkи. ~н~~k~~VEHICLE_ENTER_EXIT~ ~w~- вЫxoД. жми  ~н~~k~~PED_SPRINT~  ~w~и мaшинa твoЯ.
-ASM3_8	~Д~и①БaвьcЯ oт мycopoв
-ASM3_9	~н~~k~~PED_CYCLE_TARGET_LEFT~ ~w~- вЫБop игpoka. ~н~~k~~VEHICLE_ACCELERATE~  ~w~- вЫБop мaшинЫ. ~н~~k~~VEHICLE_ENTER_EXIT~ ~w~- вЫxoД.
-ASM3_A	①axoДи пoЧaщe. пoвeceлимcЯ.
+ASM1_1	 ~h~~k~~PED_SPRINT~  ~w~- call LoveFist.  ~h~~k~~CAMERA_CHANGE_VIEW_ALL_SITUATIONS~   ~w~-call Paulie.  ~h~~k~~VEHICLE_ENTER_EXIT~  ~w~-  call Phill. ~h~~k~~PED_DUCK~  ~w~   - call Biker. ~h~~k~~PED_ANSWER_PHONE~ ~w~-  exit
+ASM1_2	bikers
+ASM1_3	haitians
+ASM1_4	doping
+ASM1_B	you win! $~1~
+ASM1_C	disqualification for doping
+ASM3_1	tie up
+ASM3_10	 ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~- kick . if around winch of the enemy   ~h~~k~~PED_ANSWER_PHONE~ - ~w~kick on winch.
+ASM3_2	Paulie
+ASM3_3	~r~Paulie is dead
+ASM3_4	whole:
+ASM3_5	collected:
+ASM3_6	~g~to phone call press ~w~~k~~PED_ANSWER_PHONE~  ~g~for two seconds
+ASM3_7	press ~h~~k~~PED_CYCLE_TARGET_LEFT~ ~w~- for next  car. press  ~h~~k~~PED_SPRINT~  ~w~and you got the car. ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~- exit
+ASM3_8	~g~dispose of cops
+ASM3_9	~h~~k~~PED_CYCLE_TARGET_LEFT~ ~w~- choose player. ~h~~k~~VEHICLE_ACCELERATE~  ~w~- choose car. ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~- exit.
+ASM3_A	And here every time like this
 ASM3_B	TEXT NO LONGER NEEDED
-ASM4_1	~r~coБepи  ЧekпoинтЫ  в  paиoнe  paньшe  Дpyгиx
-ASM4_11	~r~ - kakoи-тo  пcиx  yгнaл  инkaccaтopckyЮ мaшинy. ①aБepи. пpивe①и  k  мoeмy  Дoмy. Я  oтмoЮ  БaБkи.
-ASM4_13	~w~жми ~н~~k~~VEHICLE_ENTER_EXIT
-ASM4_14	~r~мoи  лЮДи  ①acтpЯли  в  Бaнke -вни①y , гДe  ceиф. тaм  пoлнo  koпoв. Дocтaнь  Дeньги  и  пpивe①и  мнe.
-ASM4_2	~w~вokpyг тeБЯ ДecЯть cтвoлoв, a тЫ Бe① opyжиЯ... Дaм тeБe шaнc.
-ASM4_24	Диcтaн иЯ:
-ASM4_3	~w~yБeитe eгo
-ASM4_4	~w~①apeгиcтpиpyи гoнky
-ASM4_5	~w~вЫБepи мaшинy
+ASM4_1	~r~go get checkpoints
+ASM4_11	~r~- some nut has robbed bank. Get the money and bring  me
+ASM4_13	press ~h~~k~~VEHICLE_ENTER_EXIT
+ASM4_14	~r~my guys has stuck in bank - adown, where seif. There packed cops. get money and bring me
+ASM4_2	ten stems around you and you not armed... i give you a chance
+ASM4_24	distance:
+ASM4_3	kill him
+ASM4_4	register race
+ASM4_5	choose car
 ASM4_6	~g~Take the briefcase to Ammu-Nation in Downtown.
 ASM4_7	~r~You killed the woman, you fool!
 ASM4_8	~r~The target heard you firing your weapon! The deal is off!
 ASM4_9	~r~The target has boarded his flight!
-ASM_1	нигep, koтopЫи тeБЯ пoДcтaвил - лзн , oн нe cДox. пpимkнyл k гaитЯнaм и мeшaeт мнe вecти Би①нec в гopoДe. y нac oБщиe интepecЫ, тoм. ①aиДи k ~r~пayли.
-ASM_2	oтлиЧнo. пocмoтpим, kak тЫ cтpeлЯeшь. пo①вoни ~r~винЧeн①o ~w~и① тeлeфoнa нa ceвepe paиoнa.
-ASM_3	тeпepь ocтaлocь пpoвepить тeБЯ нa ckopocть. нaиДи  ~r~лoвфиcтa.  ~w~oн Чacтo БЫвaeт нa тpeke.
-ASM_4	тoм, вce peшилocь Бe① opyжиЯ. гaитЯн Ы oтДaДyт Дeньги мнe и лзн a тeБe. e①жaи нa иx Бa①y.
-ASM_5	caльepи c caмoгo нaЧaлa ①нaл, Чтo тЫ xopoшии тoвap, тoм. oн пpocтo иckaл тex, kтo Бoльшe ①aплaтит.
-ASS1_10	yлyЧши вpeмЯ тpeka. Я пoeДy c тoБoи.
-ASS1_11	y гaитЯн copeвнoвaниЯ пo мoтoфpиcтaилy. Я ocтaвил ДлЯ тeБЯ пyшky пoД apkoи. yБeи xoтЯ БЫ 10 мep①aв eв. пoтopoпиcь.
-ASS1_12	тoм, БЫcтpee cЮДa. ①Дecь pa①Бopka. тoльko Бe① cтpeльБЫ.
-ASS1_3	тeпepь тЫ мoжeшь пpиe①жaть нa тpek нa лЮБoи тaЧke. a ceиЧac oтвe①и мeнЯ Дoмoé.
-ASS1_4	тeпepь тЫ в koмaнДe, тoм. ①вoни , ecли Чтo...
-ASS1_5	тoм, зтo  пoДcтaвa. caльepи пpoДaл тeБЯ лзн y.Чepe① Двe минyтЫ БyДь нa kpЫшe, Я ①aБepy тeБЯ нa вepтyшke.
-ASS1_6	caльepи пoмЧaл в aзpoпopт. вЫcaжy тeБЯ тaм и пoлeЧy нaиДy лзн a
-ASS1_7	лзн  в пopтy нa kopaБлe. пoтopoпиcь.
-ASS1_8	coБepи ЧekпoинтЫ
-ASS1_9	нaшиx peБЯт вpeмeннo нeт в гopoДe. гaитЯнckиe БapЫги нaглeЮт и ДвигaЮт нapkoтy в paéoнe. Дepжи иx koлиЧecтвo нa koнтpoлe Дo пpиe①Дa нaшиx Бpaтьeв. гaитЯн eв нe Дoлжнo БЫть Бoльшe 10.
+ASM_1	the man who betrade you - lance, he not die. has verged to haitians and disturbs me to lead buisiness in town. go to paulie.
+ASM_2	good. shall watch as you shooting. go to vinchenzo
+ASM_3	now remained to check you on speed. you find lovefist on mototrack.
+ASM_4	tom, put your weapon away. haitians will give my money back. go on their base
+ASM_5	saliri knew that you is good goods. he searched who pay more.
+ASS1_10	show the best time. i go with you
+ASS1_11	get the gun and kill 10 suckers
+ASS1_12	tom, quickly. just dont fire
+ASS1_3	bring me home
+ASS1_4	now you in team
+ASS1_5	tom, its a duck. salieri has sold you to lance. be on roof for two minutes.
+ASS1_6	salieri in airport
+ASS1_7	lance on ship
+ASS1_8	get checkpoints
+ASS1_9	kill the drugdillers
 ASSET_C	POLE POSITION ASSET COMPLETED!
 ASSET_D	~g~The Pole Position Club will now generate revenue up to a maximum of $~1~ per day. Pick up your cash regularly!
-ASS_1	шлЮxи нe xoтЯт  плaтить Дaнь.  мoЧи иx, тoм.
+ASS_1	the hookers dont want pay. kill them
 ATUTOR	Press the ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~button to toggle Paramedic missions on or off.
 ATUTOR3	Press the ~h~~k~~TOGGLE_SUBMISSIONS~ button~w~ to toggle Paramedic missions on or off.
 AUG	Aug
@@ -67,15 +67,15 @@ A_PORT	Escobar International
 A_TIME	+~1~ seconds
 BAGGAGE	Baggage Handler
 BANK	BANKJOB MISSIONS
-BANK1	①apплaтa :
-BANK2	БapЫги :
-BANK3	①a  зтy  шлЮxy: $~1~
+BANK1	money :
+BANK2	dillers :
+BANK3	for this hooker: $~1~
 BANKBUY	The Malibu purchased: $~1~
 BANKINT	El Banco Corrupto Grande
-BANK_1	Чepe① 2 минyтЫ вce внимaниe пoли ии, фБp и вoeннЫx Дoлжнo БЫть пpиkoвaнo k тeБe. пoтoм yвeДи иx ①a coБoи в aзpoпopт. a мЫ cпokoинo пpoвepнeм ①Дecь oДнo Дeлo.
-BANK_2	гoни  в   aзpoпopт
-BANK_3	cБpocь  мycopoв
-BANK_4	①aБepи  cвoЮ  ДoлЮ
+BANK_1	in 2 minutes the cops, fbi and military must hunt on you. afterwards you must go to airport
+BANK_2	go to airport
+BANK_3	dispose of cops
+BANK_4	get your share
 BANK_C	Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase The Malibu for $~1~
 BANK_L	Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase The Malibu for $~1~
 BANK_NO	You cannot buy The Malibu at this time, come back later.
@@ -113,30 +113,30 @@ BMX_REC	~g~New Record Set:~1~ !!
 BNK1_1	Can I help you, sir?
 BNK1_2	There's an imposter!
 BNK1_3	He's gone insane!
-BNK1_4	зтo пpoвepka нa ckopocть. вЫБepи мecтo.
-BNK1_5	coБepи ЧekпoинтЫ и ycтaнoви pekopД вpeмeни.
-BNK1_6	ЧтoБЫ kyпить ~r~a①oт ~w~жми ~н~~k~~VEHICLE_HORN~ .
-BNK2_6	Бoльшe  пЯти  Бaлoнoв ~r~a①oтa ~w~ycтaнoвить  нeль①Я.
-BNK3_2	ocтaлocь Бoлoнoв ~r~a①oтa~w~: ~н~~1~
-BNK450A	~н~~k~~TOGGLE_SUBMISSIONS~ ~w~- akтивиpoвaть a①oт.
-BNK450B	5000$  ДлЯ  ycтaнoвkи  ~r~a①oтa ~w~.
-BNK4_26	Бoлoнoв ~r~a①oтa~w~: ~н~~1~
-BNK4_2A	мakcимyм ckopocти :  $~1~
-BNK4_32	жми ~н~~k~~PED_ANSWER_PHONE
-BNK4_36	~Д~БpoнЯ - ~r~100~Д~. ①Дopoвьe - ~r~100.
-BNK4_37	Чтo БЫ  в①лeтeть  c  ①eмли   нaжми  ~н~~k~~TOGGLE_SUBMISSIONS~ ~w~. cБpocить БoмБy -   ~н~~k~~PED_FIREWEAPON
-BNK4_38	нoвЫи pekopД : ~н~0~1~:~1~
-BNK4_3G	нeДaлeko oт тeлeфoнa, в kycтax, cтoит  мaнинa  c  гpy①oм. oтгoни  ee нa cвaлky.
-BNK4_3H	гpy① пoвpeжДeн.
+BNK1_4	test for speed
+BNK1_5	collect checkpoints
+BNK1_6	to buy  ~r~nitro ~w~press  ~h~~k~~VEHICLE_HORN~ .
+BNK2_6	no more ~r~nitro
+BNK3_2	~r~nitro~w~: ~h~~1~
+BNK450A	~h~~k~~TOGGLE_SUBMISSIONS~ ~w~- nitro.
+BNK450B	5000$  for   ~r~nitro ~w~.
+BNK4_26	~r~nitro~w~: ~h~~1~
+BNK4_2A	maximum of speed :  $~1~
+BNK4_32	press ~h~~k~~PED_ANSWER_PHONE
+BNK4_36	~g~armor - ~r~100~g~. health - ~r~100.
+BNK4_37	to fly press  ~h~~k~~TOGGLE_SUBMISSIONS~ ~w~. bombs -   ~h~~k~~PED_FIREWEAPON
+BNK4_38	?
+BNK4_3G	?
+BNK4_3H	?
 BNK4_3K	We'll have to lose the cops first...
-BNK4_3L	нoвЫи pekopД : ~н~0~1~:0~1~
-BNK4_3N	pekopД тpaccЫ : ~н~0~1~:0~1~
-BNK4_42	pekopД тpaccЫ : ~н~0~1~:~1~
+BNK4_3L	?
+BNK4_3N	?
+BNK4_42	?
 BNK4_43	I've got our asses covered, DRIVE!
-BNK4_44	тЫ нe Дoлжeн пokиДaть caмoлeт
-BNK4_45	гaитЯнckиe нapkoвo①Ы coвceм oБнaглeли. нaДo пoka①aть им cилy. вo①ьми coмoлeт и cБpocь нa ниx БoмБЫ.
-BNK4_46	paБoтa 1 - ~н~~k~~PED_SPRINT~ ~w~. paБoтa 2 - ~н~~k~~VEHICLE_ENTER_EXIT~ ~w~. paБoтa 3 - ~н~~k~~PED_LOOKBEHIND~ ~w~.
-BNK4_47	нaДo мaшинy
+BNK4_44	you must be in plane
+BNK4_45	get the airplane and throw bombs to drugdillers
+BNK4_46	job 1 - ~h~~k~~PED_SPRINT~ ~w~. job 2 - ~h~~k~~VEHICLE_ENTER_EXIT~ ~w~. job 3 - ~h~~k~~PED_LOOKBEHIND~ ~w~.
+BNK4_47	you need car
 BNK4_48	Tommy, would you like a massage?
 BNK4_49	Well, Hi there, Mercedes! Yeah, I'm a little tense...
 BNK4_51	You look fine to me.
@@ -1916,8 +1916,8 @@ MXCARJ	Max. INSANE Jump height (ft)
 MXCARJM	Max. INSANE Jump height (m)
 MXFLIP	Max. INSANE Jump flips
 MXJUMP	Max. INSANE Jump rotation
-M_FAIL	тЫ oБлaжaлcЯ
-M_PASS	вЫ пpoшли зтy миccиЮ! $~1~
+M_FAIL	MISSION FAILED!
+M_PASS	MISSION PASSED! $~1~
 NBMNBUY	El Swanko Casa purchased: $~1~
 NBMN_C	Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
 NBMN_L	Press the ~h~~k~~PED_ANSWER_PHONE~ ~w~button to purchase El Swanko Casa for $~1~
